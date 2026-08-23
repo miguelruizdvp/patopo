@@ -2,11 +2,13 @@
 //
 // Función serverless de Vercel. Recibe una petición del frontend pidiendo
 // preguntas para un test (Miniopo, Tuopo o Superopo) y llama a la API de
-// Claude para generarlas, usando el prompt maestro con sus 3 modos.
+// Google Gemini para generarlas, usando el prompt maestro con sus 3 modos.
 //
 // La clave de API vive SOLO aquí, en el servidor (variable de entorno
-// ANTHROPIC_API_KEY configurada en el panel de Vercel), nunca en el
+// GEMINI_API_KEY configurada en el panel de Vercel), nunca en el
 // código que llega al navegador de la opositora.
+
+const GEMINI_MODEL = 'gemini-2.5-flash'; // buena relación calidad/cuota gratuita
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
@@ -19,35 +21,36 @@ export default async function handler(req, res) {
     return res.status(400).json({ error: 'Faltan parámetros: modo, area, n_preguntas son obligatorios' });
   }
 
-  const apiKey = process.env.ANTHROPIC_API_KEY;
+  const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
-    return res.status(500).json({ error: 'ANTHROPIC_API_KEY no configurada en el servidor' });
+    return res.status(500).json({ error: 'GEMINI_API_KEY no configurada en el servidor' });
   }
 
   const prompt = construirPrompt({ modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar });
 
   try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+
+    const response = await fetch(url, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'x-api-key': apiKey,
-        'anthropic-version': '2023-06-01',
       },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-6',
-        max_tokens: 4000,
-        messages: [{ role: 'user', content: prompt }],
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: {
+          maxOutputTokens: 4000,
+        },
       }),
     });
 
     if (!response.ok) {
       const errText = await response.text();
-      return res.status(502).json({ error: 'Error llamando a la API de Claude', detalle: errText });
+      return res.status(502).json({ error: 'Error llamando a la API de Gemini', detalle: errText });
     }
 
     const data = await response.json();
-    const textoRespuesta = data.content?.[0]?.text || '';
+    const textoRespuesta = data.candidates?.[0]?.content?.parts?.[0]?.text || '';
 
     // El modo 3 (psicotécnico) pide "razona primero, JSON después".
     // Extraemos solo el bloque JSON de la respuesta, esté donde esté.
