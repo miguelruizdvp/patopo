@@ -8,7 +8,7 @@
 // GEMINI_API_KEY configurada en el panel de Vercel), nunca en el
 // código que llega al navegador de la opositora.
 
-const GEMINI_MODEL = 'gemini-2.5-flash'; // buena relación calidad/cuota gratuita
+const GEMINI_MODEL = 'gemini-3-flash-preview'; // confirmado disponible en tu cuenta de Google AI Studio
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
