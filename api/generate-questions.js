@@ -4,18 +4,29 @@
 // preguntas para un test (Miniopo, Tuopo o Superopo) y llama a la API de
 // Google Gemini para generarlas, usando el prompt maestro con sus 3 modos.
 //
+// NOVEDAD: para el modo "generar_nueva" (leyes/ofimática), el contexto ya
+// NO hace falta enviarlo desde el frontend — se carga automáticamente
+// desde content/<area>/<tema_slug>.txt dentro del propio repositorio, a
+// partir del slug de tema que mande el frontend (ej. "tema1", "tema5").
+// Así, subir un tema nuevo es solo añadir su archivo .txt al repo: ningún
+// cambio de código hace falta, y el frontend nunca tiene que cargar el
+// temario completo en memoria.
+//
 // La clave de API vive SOLO aquí, en el servidor (variable de entorno
 // GEMINI_API_KEY configurada en el panel de Vercel), nunca en el
 // código que llega al navegador de la opositora.
 
-const GEMINI_MODEL = 'gemini-3-flash-preview'; // confirmado disponible en tu cuenta de Google AI Studio
+import { readFile } from 'fs/promises';
+import path from 'path';
+
+const GEMINI_MODEL = 'gemini-3-flash-preview';
 
 export default async function handler(req, res) {
   if (req.method !== 'POST') {
     return res.status(405).json({ error: 'Método no permitido' });
   }
 
-  const { modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar } = req.body;
+  const { modo, area, tema, tema_slug, n_preguntas, pregunta_original, pregunta_modelo, evitar } = req.body;
 
   if (!modo || !area || !n_preguntas) {
     return res.status(400).json({ error: 'Faltan parámetros: modo, area, n_preguntas son obligatorios' });
@@ -24,6 +35,18 @@ export default async function handler(req, res) {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey) {
     return res.status(500).json({ error: 'GEMINI_API_KEY no configurada en el servidor' });
+  }
+
+  // Para "generar_nueva" en leyes/ofimática, cargamos el contexto del tema desde disco.
+  let contexto = null;
+  if (modo === 'generar_nueva') {
+    try {
+      contexto = await cargarContextoTema(area, tema_slug);
+    } catch (e) {
+      return res.status(400).json({
+        error: `No se encontró contenido para el tema "${tema_slug}" del área "${area}". Sube primero su archivo de contexto al repositorio (content/${area}/${tema_slug}.txt).`,
+      });
+    }
   }
 
   const prompt = construirPrompt({ modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar });
@@ -78,6 +101,21 @@ export default async function handler(req, res) {
   } catch (err) {
     return res.status(500).json({ error: 'Error inesperado generando preguntas', detalle: String(err) });
   }
+}
+
+/**
+ * Carga el contenido del archivo de contexto de un tema desde el repo.
+ * Convención de rutas: content/<area>/<tema_slug>.txt
+ * Ej.: area="leyes", tema_slug="tema1" -> content/leyes/tema1.txt
+ */
+async function cargarContextoTema(area, temaSlug) {
+  if (!temaSlug) {
+    throw new Error('Falta tema_slug');
+  }
+  const rutaSegura = path.basename(temaSlug); // evita salir del directorio content/
+  const filePath = path.join(process.cwd(), 'content', area, `${rutaSegura}.txt`);
+  const contenido = await readFile(filePath, 'utf-8');
+  return contenido;
 }
 
 function construirPrompt({ modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar }) {
