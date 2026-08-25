@@ -1,0 +1,467 @@
+TEMA 5. EL ACTO ADMINISTRATIVO: CARACTERÍSTICAS GENERALES. REQUISITOS. EFICACIA. ACTOS NULOS Y ANULABLES. LA REVISIÓN DE LOS ACTOS ADMINISTRATIVOS. LOS RECURSOS ADMINISTRATIVOS: CONCEPTO Y CLASES. RESPONSABILIDAD DE LAS AUTORIDADES Y PERSONAL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS.
+
+Referencias legislativas:
+- Constitución española de 1978.
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPA/LPAC).
+- Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP).
+- Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+
+====================================================================
+1. EL ACTO ADMINISTRATIVO: CONCEPTO, CLASES Y ELEMENTOS
+====================================================================
+
+1.1. Concepto y características
+
+GARCÍA DE ENTERRÍA define el acto administrativo como: "declaración de voluntad, de juicio, de conocimiento o de deseo, realizada por la Administración, en ejercicio de una potestad administrativa, distinta de la potestad reglamentaria".
+
+De forma más sencilla, con ENTRENA CUESTA, el acto administrativo puede definirse como: "acto jurídico realizado por la Administración Pública, con arreglo al Derecho Administrativo".
+
+Características del acto administrativo:
+
+a) Para que un acto sea administrativo es necesario que el acto sea jurídico.
+El acto administrativo entraña una declaración intelectual; por tanto, no serán actos administrativos los actos materiales o de pura ejecución de la Administración (ej.: la demolición material de un edificio ruinoso no es acto administrativo, aunque se apoye en uno previo: el acuerdo que lo declaró en ruina). El acto administrativo, como declaración intelectual, puede consistir en una declaración de voluntad (resolución final de un procedimiento), de juicio (actos de fiscalización o intervención financiera), de conocimiento (informe, dictamen, acto de la Administración Consultiva) o de deseo (una propuesta).
+
+b) El acto ha de ser realizado por una Administración Pública.
+Quedan excluidos: los actos políticos del Gobierno; los actos materialmente administrativos de otros órganos públicos no encuadrados en la Administración (Poder Judicial o Legislativo); los actos de los administrados, aunque produzcan efectos jurídicos conforme al Derecho Administrativo.
+La doctrina considera que el acto administrativo es esencialmente unilateral (art. 34 LPA: "Los actos administrativos que dicten las Administraciones Públicas se producirán por el órgano competente..."), lo que lo distingue de los contratos administrativos o convenios, que son fruto de varias voluntades.
+
+c) Para que un acto jurídico de la Administración tenga naturaleza administrativa deberá estar regulado por el Derecho Administrativo.
+Los actos de la Administración sometidos al Derecho Común no son administrativos (son actos privados de la Administración); los sometidos al Derecho Administrativo son los auténticos actos administrativos.
+
+d) El acto ha de proceder de la Administración como consecuencia del ejercicio de una potestad distinta de la potestad reglamentaria.
+
+1.2. Clases de actos administrativos
+
+1.2.1. Por los órganos de los que emana el acto
+- Acto simple: procede de un solo órgano administrativo.
+- Acto complejo: intervienen dos o más órganos administrativos.
+
+1.2.2. Por la extensión de sus efectos a los destinatarios
+- Generales: dirigidos a una pluralidad indeterminada de personas (ej.: resolución de convocatoria de oposiciones).
+- Singulares o especiales: destinados a una o varias personas determinadas o determinables.
+
+1.2.3. Por los efectos jurídicos de su contenido
+- Actos constitutivos: crean, modifican o extinguen relaciones o situaciones jurídicas. Favorables (amplían la esfera jurídica: concesión de licencia, plaza en concurso) o de gravamen (restringen: órdenes, expropiaciones, confiscaciones, sanciones).
+- Actos declarativos: acreditan un hecho o situación jurídica sin incidir sobre su contenido (certificación, notificación).
+
+1.2.4. Por su lugar en el procedimiento administrativo
+- Acto de trámite: no decide el fondo, prepara la decisión final (ej.: providencia para pasar el expediente a otro órgano).
+- Acto definitivo: decide las cuestiones planteadas, pone fin al expediente, se notifica a los interesados (ej.: denegación de licencia urbanística). Contra estos actos caben recursos.
+
+1.2.5. Por la posibilidad de ser recurridos en vía contencioso-administrativa
+- Acto impugnable: pone término a la vía administrativa ("causa estado"); solo cabe recurso ante la Jurisdicción Contencioso-Administrativa.
+  Son impugnables los actos: definitivos; de trámite que decidan directa o indirectamente el fondo del asunto o causen indefensión; en todo caso deben poner término a la vía administrativa.
+  Según el art. 114 LPA, ponen fin a la vía administrativa (entre otros): las resoluciones de recursos de alzada; las resoluciones de procedimientos del art. 112.2; las resoluciones de órganos sin superior jerárquico, salvo ley en contrario; acuerdos, pactos, convenios o contratos finalizadores del procedimiento; la resolución de procedimientos de responsabilidad patrimonial; la resolución de procedimientos complementarios sancionadores del art. 90.4; las demás resoluciones cuando lo establezca una disposición legal o reglamentaria.
+  En el ámbito estatal ponen también fin a la vía administrativa: actos de miembros y órganos del Gobierno; actos de Ministros y Secretarios de Estado en el ejercicio de sus competencias; actos de órganos directivos de nivel Director General o superior en materia de personal; actos de los máximos órganos de dirección de Organismos públicos vinculados al Estado.
+  En la Comunidad de Madrid (art. 53 Ley 1/1983), ponen fin a la vía administrativa las resoluciones: del Presidente; del Gobierno y sus Comisiones Delegadas; de los Consejeros; de autoridades inferiores que resuelvan por delegación de un órgano cuyas resoluciones agoten la vía; de cualquier autoridad cuando lo establezca una disposición legal o reglamentaria.
+- Acto no impugnable: no cabe recurso contencioso-administrativo por existir aún recurso ante la propia Administración. También son no impugnables: los actos firmes, los que reproducen otros definitivos y firmes, y los confirmatorios de acuerdos no recurridos en plazo.
+
+1.2.6. Por la potestad ejercitada al dictarlos
+- Acto reglado: todos sus elementos están predeterminados por el ordenamiento; la Administración actúa automáticamente, sin juicio subjetivo (ej.: jubilación al llegar a la edad prevista).
+- Acto discrecional: algún elemento queda a la libre apreciación de la Administración dentro de los límites de la norma habilitante (ej.: otorgar o no una subvención).
+
+1.2.7. Por el modo de exteriorizarse
+- Acto expreso: manifestación de voluntad expresada normalmente por escrito.
+- Acto presunto: no hay resolución expresa; entra en juego el silencio administrativo.
+
+1.3. Requisitos
+
+Elementos que deben concurrir para la validez del acto administrativo: subjetivo, objetivo, teleológico o final, causal y formal. El subjetivo y el objetivo deben concurrir siempre; los demás dependen de lo que disponga el Derecho positivo en cada caso.
+
+1.3.1. Elemento subjetivo
+
+El acto administrativo solo puede ser producido por una Administración Pública, que actúa a través de órganos. El acto debe ser dictado por el órgano al que el ordenamiento atribuye competencia, y el titular del órgano ha de contar con legitimación y hallarse en situación abstracta de imparcialidad.
+
+A) Órganos de las Administraciones Públicas
+Regulados en el Capítulo II del Título Preliminar (arts. 5 y ss.) de la Ley 40/2015. Sobre los órganos colegiados, la Ley regula: su titularidad corresponde a varias personas físicas, entre las que destaca el Presidente; tendrán un Secretario (miembro del órgano o persona al servicio de la Administración); para la válida constitución se requiere la asistencia (presencial o a distancia) del Presidente y Secretario (o quienes les sustituyan) y de la mitad al menos de sus miembros; no puede deliberarse sobre asuntos no incluidos en el orden del día salvo urgencia declarada por mayoría con todos presentes; los acuerdos se adoptan por mayoría de votos; de cada sesión se levanta acta por el Secretario; quienes voten en contra o se abstengan quedan exentos de responsabilidad; quien acredite interés legítimo puede pedir certificación de los acuerdos.
+
+B) La competencia (arts. 8 a 14 LRJSP)
+La competencia es el conjunto de funciones y potestades que el ordenamiento atribuye a cada órgano. Es irrenunciable y se ejerce por el órgano que la tenga atribuida, salvo delegación o avocación. La titularidad y ejercicio pueden desconcentrarse en órganos jerárquicamente dependientes.
+
+a) Delegación de competencias
+- Cabe delegar el ejercicio de competencias en otros órganos, aunque no sean jerárquicamente dependientes, o en organismos públicos/entidades de derecho público vinculados.
+- No son delegables: asuntos relativos a la Jefatura del Estado, Presidencia del Gobierno, Cortes Generales, Presidencias y Asambleas de CCAA; la adopción de disposiciones de carácter general; la resolución de recursos en órganos que dictaron el acto recurrido; materias reservadas por ley.
+- Las delegaciones y su revocación deben publicarse en el diario oficial correspondiente.
+- Las resoluciones dictadas por delegación indican esta circunstancia y se consideran dictadas por el órgano delegante.
+- Salvo autorización expresa por ley, no pueden delegarse competencias ya ejercidas por delegación.
+- La delegación es revocable en cualquier momento por el órgano que la confirió.
+- La delegación de competencias de órganos colegiados con quórum especial debe respetar dicho quórum.
+- En la AGE, la delegación entre órganos requiere aprobación previa del órgano ministerial o del máximo órgano de dirección del Organismo Público correspondiente.
+
+b) Avocación
+Los órganos superiores pueden avocar el conocimiento de un asunto cuya resolución corresponda ordinariamente o por delegación a órganos dependientes, por razones técnicas, económicas, sociales, jurídicas o territoriales (art. 10 LRJSP). En delegaciones a órganos no jerárquicamente dependientes, solo puede avocar el órgano delegante. Se realiza mediante acuerdo motivado, notificado a los interesados antes o junto con la resolución final. Contra el acuerdo de avocación no cabe recurso (solo impugnable junto con el recurso contra la resolución final).
+
+c) Encomienda de gestión
+Encomendar actividades de carácter material o técnico a otros órganos o Entidades de la misma o distinta Administración, por razones de eficacia o falta de medios técnicos (art. 11 LRJSP). No supone cesión de titularidad de la competencia. Entre distintas Administraciones se formaliza mediante convenio. No puede tener por objeto prestaciones propias de contratos del sector público.
+
+d) Delegación de firma y suplencia
+La delegación de firma no altera la competencia del delegante ni requiere publicación (art. 12 LRJSP); debe constar la circunstancia y la autoridad de procedencia. La suplencia (vacante, ausencia, enfermedad, abstención o recusación) tampoco altera la competencia ni requiere publicación (art. 13 LRJSP); si no hay suplente designado, la ejerce quien designe el órgano inmediato superior.
+
+e) Decisiones sobre competencia
+El órgano que se estime incompetente remitirá las actuaciones al órgano competente, notificándolo a los interesados. Los conflictos de atribuciones solo pueden suscitarse entre órganos de una Administración no relacionados jerárquicamente y sobre asuntos no finalizados (art. 14 LRJSP).
+
+C) Legitimación e imparcialidad del titular del órgano
+El titular ha de contar con legitimación (nombramiento válido y eficaz) y hallarse en situación abstracta de imparcialidad, garantizada mediante el régimen de incompatibilidades y las causas de abstención/recusación.
+
+a) Causas de abstención (art. 23 LRJSP)
+- Interés personal en el asunto; ser administrador de sociedad o entidad interesada; tener cuestión litigiosa pendiente con algún interesado.
+- Vínculo matrimonial o situación de hecho asimilable, y parentesco de consanguinidad dentro del 4º grado o afinidad dentro del 2º, con interesados, administradores de entidades interesadas, o asesores/representantes/mandatarios; también compartir despacho o estar asociado para el asesoramiento, representación o mandato.
+- Amistad íntima o enemistad manifiesta con las personas anteriores.
+- Haber intervenido como perito o testigo en el procedimiento.
+- Tener relación de servicio con persona interesada, o haberle prestado servicios profesionales en los dos últimos años.
+La no abstención cuando proceda da lugar a responsabilidad. La actuación con motivo de abstención no implica necesariamente invalidez del acto.
+
+b) Recusación (art. 24 LRJSP)
+Se plantea por escrito expresando la causa. Al día siguiente el recusado manifiesta a su superior si concurre o no la causa; si concurre, el superior puede acordar su sustitución. Si el recusado niega la causa, el superior resuelve en 3 días. Contra la resolución no cabe recurso (sin perjuicio de alegarla en el recurso contra la resolución final).
+
+1.3.2. Elementos objetivos
+El acto ha de referirse a un objeto posible, lícito y determinado. Su contenido puede consistir en una declaración de voluntad, conocimiento, deseo o juicio.
+
+1.3.3. Elemento final
+Responde a "¿para qué se ha dictado el acto?". Según el art. 103 CE, la Administración sirve con objetividad los intereses generales; todo acto debe tender a la satisfacción del interés público, en caso contrario incurre en "desviación de poder" y es anulable. El art. 70 LJCA define la desviación de poder como "el ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento jurídico".
+
+1.3.4. Elemento causal
+Es el "porqué" del acto: la razón justificadora, la circunstancia que lo justifica. Ejemplo: convocar un concurso para una plaza no vacante adolece de un defecto que acarrea anulabilidad, al faltar el presupuesto (la plaza vacante).
+
+1.3.5. Elemento formal
+Es el medio de exteriorización de la voluntad. Según el art. 36 LPA, los actos se producirán por escrito a través de medios electrónicos, a menos que su naturaleza exija o permita otra forma de expresión y constancia. Los actos expresos pueden ser escritos (forma habitual), orales o incluso mímicos. Cuando la competencia se ejerce de forma verbal, la constancia escrita se efectúa y firma por el titular del órgano inferior o funcionario que la reciba oralmente. Cuando deba dictarse una serie de actos de la misma naturaleza (nombramientos, concesiones, licencias), pueden refundirse en un único acto que especifique las circunstancias de cada interesado.
+
+====================================================================
+2. EFICACIA Y VALIDEZ DE LOS ACTOS ADMINISTRATIVOS: LA NOTIFICACIÓN
+====================================================================
+
+2.1. Eficacia
+
+Según el art. 39.1 LPA, "los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumirán válidos y producirán efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa". Esta presunción de legitimidad:
+- Aparece establecida en la Ley.
+- Es una presunción iuris tantum: el particular debe recurrir frente al acto, que se presume válido.
+
+Regla general: el acto produce efectos de forma inmediata. Excepciones:
+
+Eficacia demorada (art. 39.2), cuando:
+- Lo exija el contenido del acto (condición, término, modo).
+- Sea preceptiva la aprobación superior.
+- El acto deba notificarse o publicarse.
+
+Eficacia retroactiva (art. 39.3), excepcionalmente:
+- Cuando se dicten en sustitución de actos anulados.
+- Cuando produzcan efectos favorables al interesado, si los supuestos de hecho existían ya en la fecha a que se retrotrae la eficacia y no se lesionan derechos o intereses legítimos de terceros.
+Esto es manifestación del art. 9.3 CE (irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales).
+
+2.2. Validez de los actos administrativos
+
+La validez supone la concurrencia de todos los elementos del acto. Su falta arrastra la calificación como nulo o anulable, salvo irregularidad no invalidante. La distinción nulidad/anulabilidad parte de un criterio de "gravedad": la nulidad se produce en los supuestos de transgresión más grave de la legalidad.
+
+Esquema: Acto → Válido (nulidad art. 47 LPA / anulabilidad art. 48 LPA); Eficaz (publicación art. 45 LPA / notificación arts. 40 a 44 LPA).
+
+2.2.1. La nulidad de pleno derecho
+
+A) Nulidad de actos administrativos (art. 47 LPA)
+Son nulos de pleno derecho los actos:
+- Que lesionen derechos y libertades susceptibles de amparo constitucional.
+- Dictados por órgano manifiestamente incompetente por razón de la materia o del territorio.
+- Que tengan un contenido imposible.
+- Constitutivos de infracción penal o dictados como consecuencia de esta.
+- Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas esenciales para la formación de la voluntad de órganos colegiados.
+- Actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos sin los requisitos esenciales para su adquisición.
+- Cualquier otro que se establezca expresamente en disposición de rango legal.
+
+La incompetencia debe ser "manifiesta" (clara y terminante, notoria, evidente y grave); el acto de un órgano jerárquicamente subordinado al competente es meramente anulable y convalidable. La nulidad por infracción de procedimiento exige prescindir "total y absolutamente" del procedimiento legal, no basta con no haber seguido el procedimiento correcto (que sería anulabilidad).
+
+Consecuencias de la nulidad:
+- El acto no produce efectos, como si nunca se hubiera dictado.
+- La ineficacia se produce por sí misma, sin necesidad de declaración judicial; si esta tiene lugar, sus efectos se retrotraen a la fecha del acto.
+- Es susceptible de alegarse por los interesados.
+- El acto nulo no puede convalidarse ni por el transcurso del tiempo ni por voluntad de la Administración.
+
+B) Nulidad de las disposiciones administrativas (reglamentos)
+Son nulas de pleno derecho las disposiciones que:
+- Vulneren la Constitución, las leyes u otras disposiciones de rango superior.
+- Regulen materias reservadas a la Ley.
+- Establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales (art. 47.2 LPA).
+
+2.2.2. La anulabilidad (art. 48 LPA)
+
+"Son anulables los actos de la Administración que incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder" — es residual respecto a la nulidad.
+
+Irregularidades no invalidantes:
+- El defecto de forma solo determina anulabilidad cuando el acto carece de los requisitos formales indispensables para alcanzar su fin, o produce indefensión (art. 48.2).
+- La realización de actuaciones fuera de plazo solo implica anulabilidad cuando lo imponga la naturaleza del término o plazo (art. 48.3).
+
+Consecuencias de la anulabilidad:
+- El acto produce efectos mientras no sea expresamente anulado.
+- Solo afecta a los interesados: solo ellos pueden alegarla o pedir la anulación.
+- El acto anulable puede convalidarse, por transcurso del tiempo (si no se pide su anulación) o por voluntad de la Administración.
+
+2.2.3. El principio de conservación del acto administrativo
+
+Técnicas reguladas en los arts. 49 a 52 LPA (Capítulo III "Nulidad y Anulabilidad"):
+
+A) Transmisibilidad (art. 49): la nulidad o anulabilidad de un acto no implica la de los sucesivos independientes del primero, ni la nulidad/anulabilidad en parte del acto implica la del resto, salvo que la parte viciada sea de tal importancia que sin ella el acto no se hubiera dictado.
+
+B) Conversión (art. 50): "Los actos nulos o anulables que, sin embargo, contengan los elementos constitutivos de otro distinto producirán los efectos de este".
+
+C) Conservación de actos y trámites (art. 51): "El órgano que declare la nulidad o anule las actuaciones dispondrá siempre la conservación de aquellos actos y trámites cuyo contenido se hubiera mantenido igual de no haberse cometido la infracción".
+
+D) Convalidación (art. 52): la Administración puede convalidar actos anulables subsanando sus vicios. El acto de convalidación produce efecto desde su fecha (salvo retroactividad del art. 39.3). Si el vicio es incompetencia no determinante de nulidad, convalida el órgano superior jerárquico. Si el vicio es falta de autorización, convalida el otorgamiento de la misma por el órgano competente.
+
+====================================================================
+3. MOTIVACIÓN, NOTIFICACIÓN Y PUBLICACIÓN
+====================================================================
+
+3.1. Motivación
+
+La motivación es la exteriorización de las razones que llevaron a la Administración a dictar un acto: "la sucinta referencia de hechos y fundamentos de Derecho".
+
+Como norma general en nuestro Derecho, los actos no han de ser motivados (basta que contengan la decisión, art. 88). Deben ser motivados, según el art. 35 LPA (con sucinta referencia de hechos y fundamentos de derecho):
+a) Los que limiten derechos subjetivos o intereses legítimos.
+b) Los que resuelvan procedimientos de revisión de oficio, recursos administrativos y procedimientos de arbitraje, y los que declaren su inadmisión.
+c) Los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.
+d) Los acuerdos de suspensión de actos y la adopción de medidas provisionales (art. 56).
+e) Los acuerdos de tramitación de urgencia, ampliación de plazos y actuaciones complementarias.
+f) Los que rechacen pruebas propuestas por los interesados.
+g) Los que acuerden la terminación del procedimiento por imposibilidad material sobrevenida, o el desistimiento de la Administración en procedimientos de oficio.
+h) Las propuestas de resolución en procedimientos sancionadores, y los actos que resuelvan procedimientos sancionadores o de responsabilidad patrimonial.
+i) Los dictados en ejercicio de potestades discrecionales, o los que deban serlo por disposición legal o reglamentaria.
+
+3.2. Notificación
+
+Objetivos de la notificación:
+- Poner en conocimiento del administrado la voluntad del órgano.
+- Constituir condición para la eficacia de los actos administrativos.
+- Actuar como presupuesto para el cómputo de los plazos de recurso.
+
+3.2.1. Actos que deben ser notificados
+Se notificarán a los interesados cuyos derechos e intereses sean afectados (art. 40.1 LPA).
+
+3.2.2. Plazo y contenido
+Plazo: 10 días desde que el acto se haya dictado. Contenido: texto íntegro de la resolución; si es o no definitivo en vía administrativa; recursos que procedan (vía administrativa y judicial), órgano y plazo para interponerlos.
+
+Las notificaciones sin estos requisitos no producen sus efectos propios (no comienzan a correr los plazos de recurso). Subsanación (art. 40.3): surtirán efecto desde que el interesado realice actuaciones que supongan conocimiento del contenido, o interponga recurso. A efectos de cumplir el plazo máximo de duración del procedimiento (art. 40.4), basta el texto íntegro de la resolución y el intento de notificación acreditado.
+
+3.2.3. Condiciones generales para la práctica de las notificaciones (art. 41)
+Se practicarán preferentemente por medios electrónicos, y siempre que el interesado esté obligado a recibirlas así. Cabe notificación no electrónica: comparecencia espontánea del interesado solicitando notificación personal; cuando sea necesaria la entrega directa por empleado público para asegurar la eficacia.
+Las notificaciones son válidas si permiten constancia de envío/puesta a disposición, recepción/acceso, fechas y horas, contenido íntegro e identidad del remitente y destinatario.
+Nunca se notifican por medios electrónicos: actos acompañados de elementos no convertibles a formato electrónico; los que contengan medios de pago (cheques).
+Procedimientos a solicitud del interesado: notificación por el medio señalado (electrónica si existe obligación de relacionarse así). Procedimientos de oficio: la Administración puede recabar el domicilio del INE/Padrón Municipal.
+Si el interesado rechaza la notificación, se hace constar y se da por efectuado el trámite. Se enviará aviso (sin que su falta invalide la notificación). Si hay notificación por varios cauces, se toma la fecha de la primera producida.
+
+3.2.4. Práctica de las notificaciones en papel (art. 42)
+Deben ponerse también a disposición en la sede electrónica. En el domicilio: si no está presente el interesado, puede hacerse cargo cualquier persona mayor de 14 años identificada. Si nadie se hace cargo, se hace constar y se repite el intento una sola vez, en hora distinta, dentro de los 3 días siguientes (con al menos 3 horas de diferencia entre ambos intentos, y si el primero fue antes de las 15h el segundo debe ser después, y viceversa). Si el segundo intento también resulta infructuoso, se procede como notificación infructuosa (art. 44).
+
+3.2.5. Práctica de las notificaciones por medios electrónicos
+Mediante comparecencia en sede electrónica, dirección electrónica habilitada única, o ambos. Se entienden practicadas en el momento del acceso al contenido. Si es de carácter obligatorio o elegida por el interesado, se entiende rechazada tras 10 días naturales sin acceder. Se entiende cumplida la obligación de notificar en plazo con la puesta a disposición. Los interesados pueden acceder desde el Punto de Acceso General electrónico.
+
+3.2.6. Notificación infructuosa
+Si los interesados son desconocidos, se ignora el lugar de notificación, o intentada esta no se pudo practicar: se notifica por anuncio en el BOE. Facultativamente y previamente, cabe anuncio en el boletín de la CCAA o provincia, tablón de edictos del Ayuntamiento, o Consulado/Sección Consular. Otras formas complementarias no excluyen la obligación de publicar en el BOE.
+
+3.3. Publicación (art. 45 LPA)
+
+Los actos serán objeto de publicación cuando lo establezcan las normas reguladoras del procedimiento o lo aconsejen razones de interés público. En todo caso, serán objeto de publicación (surtiendo efectos de notificación):
+- Cuando el acto tenga por destinatario una pluralidad indeterminada de personas, o la notificación a un solo interesado sea insuficiente (adicional a la individual).
+- Cuando se trate de actos de un procedimiento selectivo o de concurrencia competitiva; la convocatoria debe indicar el medio de las sucesivas publicaciones, careciendo de validez las hechas en lugares distintos.
+
+La publicación debe contener los mismos elementos que la notificación (art. 40.2), y se realiza en el diario oficial correspondiente. Si el órgano aprecia que la notificación por anuncios o la publicación lesiona derechos o intereses legítimos, se limita a publicar una somera indicación del contenido y el lugar donde comparecer.
+
+====================================================================
+4. REVISIÓN DE LOS ACTOS ADMINISTRATIVOS
+====================================================================
+
+La revisión supone la modificación del contenido o efectos de un acto preexistente. Se distingue: revisión de oficio (iniciativa del propio órgano) y revisión rogada (a instancia del interesado, por vía de recurso). Aquí se trata solo la revisión de oficio.
+
+4.1. Revisión de disposiciones y actos nulos (art. 106 LPA)
+
+4.1.1. Revisión de actos nulos
+Las Administraciones, en cualquier momento, de oficio o a solicitud del interesado, y previo dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la CA (en la Comunidad de Madrid, la Comisión Jurídica Asesora), declararán de oficio la nulidad de actos que hayan puesto fin a la vía administrativa o no hayan sido recurridos en plazo, en los supuestos del art. 47.1.
+
+4.1.2. Revisión de disposiciones
+En cualquier momento, de oficio y previo dictamen favorable del Consejo de Estado u órgano equivalente, cabe declarar la nulidad de disposiciones administrativas en los supuestos del art. 47.2.
+
+4.1.3. Inadmisión a trámite
+El órgano competente puede acordar motivadamente la inadmisión a trámite de solicitudes de los interesados, sin dictamen del Consejo de Estado, cuando no se basen en causas del art. 47.1, carezcan manifiestamente de fundamento, o se hubieran desestimado en el fondo solicitudes sustancialmente iguales.
+
+4.1.4. Indemnizaciones, plazo de resolución y efectos
+Al declarar la nulidad se pueden establecer indemnizaciones a los interesados; si es una disposición, subsisten los actos firmes dictados en aplicación de ella. Procedimiento de oficio: plazo de 6 meses desde su inicio sin resolver produce caducidad. Procedimiento a instancia de parte: silencio administrativo desestimatorio.
+
+4.1.5. Competencia para la revisión de disposiciones y actos nulos y anulables (art. 111 LPA)
+Ámbito estatal: el Consejo de Ministros (sus propios actos y los de los Ministros); los Ministros (actos de Secretarios de Estado y órganos directivos no dependientes de Secretaría de Estado); los Secretarios de Estado (actos de órganos directivos dependientes); en Organismos públicos, los órganos de adscripción y los máximos órganos rectores, según corresponda.
+En la Comunidad de Madrid (art. 53.4 Ley 1/1983): el Presidente, el Gobierno y sus Comisiones Delegadas (propios actos); los Consejeros (propios actos y de órganos dependientes, y de los Consejos de Administración de Organismos Autónomos y Entes de Derecho Público salvo que su ley de creación diga otra cosa); los Consejos de Administración de Organismos Autónomos y Entes de Derecho Público (actos de órganos dependientes); los órganos de la Ley General Tributaria (materia tributaria); el Gobierno (revisión de disposiciones de carácter general).
+
+4.2. Declaración de lesividad de actos anulables (art. 107 LPA)
+
+Un acto desfavorable o de gravamen anulable puede ser retirado por la Administración sin más trámite. Pero si el acto favorece al particular, la Administración no puede anularlo por sí misma: debe recurrir ante la Jurisdicción Contencioso-Administrativa, previa declaración de lesividad para el interés público.
+
+4.2.1. Actos afectados
+Las Administraciones pueden impugnar ante el orden contencioso-administrativo los actos favorables para interesados que sean anulables (art. 48), previa declaración de lesividad.
+
+4.2.2. Plazo máximo para comenzar el procedimiento
+No puede adoptarse una vez transcurridos 4 años desde que se dictó el acto. Exige previa audiencia de los interesados. La declaración de lesividad no es susceptible de recurso, aunque puede notificarse a efectos informativos.
+
+4.2.3. Plazo máximo para declarar la lesividad
+Transcurridos 6 meses desde el inicio del procedimiento sin declarar la lesividad, se produce la caducidad.
+
+4.2.4. Competencia para declararla
+AGE/CCAA: el órgano competente en la materia. Administración Local: el Pleno de la Corporación o, en su defecto, el órgano colegiado superior.
+
+4.2.5. Límites de la revisión
+Art. 110 LPA: las facultades de revisión no pueden ejercitarse cuando por prescripción de acciones, por el tiempo transcurrido o por otras circunstancias, su ejercicio resulte contrario a la equidad, la buena fe, el derecho de los particulares o las leyes. Art. 108 LPA: iniciado el procedimiento de revisión de oficio, el órgano competente puede suspender la ejecución del acto si causa perjuicios de imposible o difícil reparación.
+
+====================================================================
+5. REVOCACIÓN DE LOS ACTOS ADMINISTRATIVOS Y RECTIFICACIÓN DE ERRORES
+====================================================================
+
+5.1. Revocación de actos
+
+La revocación es un cambio unilateral de la voluntad de la Administración que extingue un acto anterior, válido, pero cuya subsistencia es contraria a los intereses públicos. Encuentra su límite en la teoría de los derechos adquiridos. Art. 109 LPA: las Administraciones pueden revocar, mientras no haya prescrito, sus actos de gravamen o desfavorables, siempre que la revocación no constituya dispensa o exención no permitida por las leyes, ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.
+
+5.2. Rectificación de errores
+
+Art. 109.2 LPA: las Administraciones pueden rectificar en cualquier momento, de oficio o a instancia de los interesados, los errores materiales, de hecho o aritméticos existentes en sus actos. No implica revocación jurídica: el acto conserva el mismo contenido, solo se corrige la transcripción o el cómputo. No requiere solemnidad ni límite temporal, y puede hacerse de oficio o a instancia del administrado.
+
+====================================================================
+6. LOS RECURSOS ADMINISTRATIVOS: CONCEPTO Y CLASES
+====================================================================
+
+6.1. Objeto
+
+6.1.1. Actos susceptibles de recurso administrativo (art. 112 LPA)
+Contra las resoluciones y los actos de trámite que decidan directa o indirectamente el fondo del asunto, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos, cabe interponer recurso de alzada y potestativo de reposición, fundados en cualquier motivo de nulidad o anulabilidad (arts. 47 y 48).
+La oposición a los restantes actos de trámite se alega para su consideración en la resolución que ponga fin al procedimiento.
+Contra actos firmes en vía administrativa solo procede el recurso extraordinario de revisión, en las circunstancias del art. 125.1 (art. 113).
+Ponen fin a la vía administrativa (art. 114.1): las resoluciones de recursos de alzada; las de procedimientos del art. 112.2; las de órganos sin superior jerárquico salvo ley en contrario; acuerdos/pactos/convenios/contratos finalizadores; resoluciones de responsabilidad patrimonial; resoluciones de procedimientos complementarios sancionadores (art. 90.4); las que establezca disposición legal o reglamentaria. En el ámbito estatal, también: actos de miembros y órganos del Gobierno; actos de Ministros y Secretarios de Estado; actos de órganos directivos de nivel Director General o superior en materia de personal; actos de máximos órganos de dirección de Organismos públicos dependientes de la AGE.
+
+6.1.2. Disposiciones generales y actos administrativos impugnables directamente en sede jurisdiccional (art. 112.3 y 4 LPA)
+Contra las disposiciones administrativas de carácter general no cabe recurso en vía administrativa. Los recursos contra un acto administrativo fundados únicamente en la nulidad de una disposición de carácter general pueden interponerse directamente ante el órgano que dictó dicha disposición. Las reclamaciones económico-administrativas siguen su legislación específica.
+
+6.2. Reglas generales de tramitación de los recursos administrativos
+
+Fases (VILLAR PALASÍ y VILLAR EZCURRA): preparación, interposición, admisión, instrucción y resolución.
+
+6.2.1. Preparación
+Trámite típicamente procesal, poco frecuente en recursos administrativos: poner de manifiesto al interesado las actuaciones del expediente.
+
+6.2.2. Interposición (art. 115.1 LPA)
+El escrito de interposición debe contener: nombre, apellidos e identificación del recurrente; el acto que se recurre y la razón de su impugnación; lugar, fecha, firma, identificación del medio y, en su caso, lugar a efectos de notificaciones; órgano al que se dirige; demás particularidades exigidas por disposiciones específicas.
+El error o ausencia en la calificación del recurso no impide su tramitación si se deduce su verdadero carácter. Los vicios y defectos que hagan anulable un acto no pueden ser alegados por quienes los hubieran causado.
+
+Causas de inadmisión (art. 116 LPA):
+a) Incompetencia del órgano (si es de otra Administración, se remite al competente).
+b) Falta de legitimación del recurrente.
+c) Acto no susceptible de recurso.
+d) Haber transcurrido el plazo de interposición.
+e) Carecer el recurso manifiestamente de fundamento.
+
+6.2.3. Efectos de la interposición del recurso
+Obligatoriedad de resolver (art. 21 LPA). No es delegable la resolución de recursos en órganos que dictaron el acto objeto de recurso (art. 9.2.c LRJSP).
+Regla general: la interposición no suspende la ejecución del acto impugnado. Excepción (art. 117 LPA): el órgano competente, previa ponderación razonada entre el perjuicio al interés público/terceros y el perjuicio al recurrente, puede suspender de oficio o a instancia cuando:
+a) La ejecución pudiera causar perjuicios de imposible o difícil reparación.
+b) La impugnación se funde en causas de nulidad de pleno derecho (art. 47.1).
+La ejecución se entiende suspendida si transcurre 1 mes desde la entrada de la solicitud de suspensión sin resolución expresa. Pueden adoptarse medidas cautelares; si hay perjuicios, la suspensión requiere caución o garantía. La suspensión puede prolongarse tras agotar la vía administrativa si hay medida cautelar en vía contenciosa. Si el recurso afecta a una pluralidad indeterminada de personas, la suspensión debe publicarse en el diario oficial.
+
+6.2.4. Instrucción y ordenación del procedimiento de recurso (art. 118 LPA)
+Trámite de audiencia: cuando haya nuevos hechos o documentos no recogidos en el expediente original, se ponen de manifiesto a los interesados en plazo de 10 a 15 días para alegaciones y pruebas. No se tienen en cuenta hechos/documentos/alegaciones que, pudiendo aportarse en el trámite de alegaciones, no se aportaron. Si hay otros interesados, se les da traslado del recurso. El recurso, los informes y las propuestas no son documentos nuevos a estos efectos.
+
+6.2.5. Resolución del recurso
+
+A) Resolución expresa (art. 119 LPA)
+La resolución estima en todo o en parte, desestima o declara la inadmisión. Si existe vicio de forma que impide resolver el fondo, se ordena la retroacción del procedimiento al momento en que se cometió el vicio (sin perjuicio de la convalidación, art. 52). Terminación también por desistimiento, renuncia o caducidad.
+El órgano decide cuantas cuestiones plantee el procedimiento, alegadas o no (oyendo previamente si no lo fueron), pero la resolución debe ser congruente con las peticiones del recurrente sin agravar su situación inicial (prohibición de la "reformatio in peius").
+
+B) Pluralidad de recursos administrativos (art. 120 LPA)
+Si hay pluralidad de recursos sobre el mismo acto y se ha interpuesto recurso judicial contra la resolución o el acto presunto desestimatorio, el órgano puede suspender el plazo para resolver hasta el pronunciamiento judicial (notificándolo a los interesados, que pueden recurrirlo). La interposición de recurso por un interesado no afecta a los demás procedimientos suspendidos.
+
+C) Resolución por silencio
+Si la Administración no resuelve, se entiende desestimado el recurso (art. 24.1). Excepción: si el recurso de alzada se interpuso contra la desestimación por silencio de una solicitud, se entiende estimado el recurso si no se dicta resolución expresa en plazo (art. 24.1, párrafo 3º).
+
+6.3. Clases de recursos (arts. 121 a 126 LPA)
+
+6.3.1. Recurso de alzada
+
+Concepto: acto del interesado por el que se solicita del órgano superior al que dictó el acto recurrido la modificación total o parcial del mismo. Regulado en arts. 121 y 122.
+
+Objeto: resoluciones y actos de trámite del art. 112.1 (que decidan el fondo, impidan continuar el procedimiento, produzcan indefensión o perjuicio irreparable), siempre que NO pongan fin a la vía administrativa.
+
+Ante quién se recurre: el órgano superior jerárquico del que dictó el acto.
+Ante quién se interpone: ante el órgano que dictó el acto o ante el competente para resolverlo. Si se interpone ante el que dictó el acto, este debe remitirlo al competente en 10 días, con informe y copia completa del expediente.
+
+Plazo para interponer: 1 mes si el acto es expreso (transcurrido, la resolución es firme); si no es expreso, en cualquier momento a partir del día siguiente a que se produzcan los efectos del silencio administrativo.
+
+Plazo para resolver: 3 meses; transcurrido sin resolución, se entiende desestimado (salvo el supuesto del art. 24.1 párrafo 3º).
+
+Contra la resolución de un recurso de alzada no cabe otro recurso administrativo, salvo el extraordinario de revisión (art. 125.1).
+
+6.3.2. Recurso potestativo de reposición
+
+Regulado en arts. 123 y 124. Objeto: actos que pongan fin a la vía administrativa (mismos actos que en alzada, pero cuando el acto agota la vía). Es potestativo: pueden impugnarse directamente en vía contencioso-administrativa. No cabe recurso contencioso-administrativo hasta que se resuelva expresamente o se produzca la desestimación presunta del recurso de reposición.
+
+Ante quién se recurre/interpone: el mismo órgano que dictó el acto.
+
+Plazo para interponer: 1 mes si el acto es expreso (transcurrido, solo cabe recurso contencioso-administrativo, sin perjuicio del extraordinario de revisión); si no es expreso, en cualquier momento a partir del día siguiente al acto presunto.
+
+Plazo para resolver: 1 mes. Contra la resolución no cabe nuevo recurso de reposición.
+
+6.3.3. Recurso extraordinario de revisión
+
+Regulado en arts. 125 y 126. Carácter extraordinario y excepcional; remedio frente a actos firmes de cuya legalidad se duda por datos sobrevenidos. Objeto: actos firmes en vía administrativa.
+
+Causas (art. 125.1):
+a) Error de hecho, que resulte de los propios documentos incorporados al expediente.
+b) Aparición de documentos de valor esencial para la resolución que, aunque posteriores, evidencien el error de la resolución recurrida.
+c) Que en la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme (anterior o posterior).
+d) Que la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible, declarada por sentencia judicial firme.
+
+Ante quién se recurre/interpone: el órgano administrativo que dictó el acto (que es también el competente para resolver).
+
+Plazo para interponer: causa 1ª (error de hecho), 4 años desde la notificación de la resolución impugnada; demás causas, 3 meses desde el conocimiento de los documentos o desde que la sentencia quedó firme.
+
+Plazo para resolver: 3 meses; transcurrido sin resolución expresa, se entiende desestimado, quedando abierta la vía contencioso-administrativa. El órgano puede acordar motivadamente la inadmisión a trámite sin dictamen del Consejo de Estado, si el recurso no se funda en las causas del art. 125.1 o si se desestimaron en el fondo recursos sustancialmente iguales. El órgano debe pronunciarse no solo sobre la procedencia del recurso, sino también, en su caso, sobre el fondo.
+
+Lo establecido no perjudica el derecho de los interesados a formular la solicitud y la instancia de los arts. 106 y 109.2 (revisión de oficio y rectificación de errores).
+
+====================================================================
+7. RESPONSABILIDAD DE LAS AUTORIDADES Y PERSONAL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS
+====================================================================
+
+7.1. Por daños y perjuicios causados a los particulares
+
+Los particulares exigen directamente a la Administración las indemnizaciones por daños y perjuicios causados por autoridades y personal a su servicio. Cuando la Administración haya indemnizado a los lesionados, exigirá de oficio en vía administrativa, a sus autoridades y personal, la responsabilidad por dolo o culpa/negligencia graves, previa instrucción del correspondiente procedimiento (acción de regreso). Se ponderan: el resultado dañoso, el grado de culpabilidad, la responsabilidad profesional del personal y su relación con el resultado dañoso.
+
+La Administración instruye igual procedimiento respecto a daños causados a las autoridades y personal en sus bienes o derechos, cuando concurra dolo o culpa/negligencia graves.
+
+Procedimiento (se sustancia conforme a la LPA, iniciado por acuerdo del órgano competente, notificado a los interesados):
+- Alegaciones: 15 días.
+- Práctica de pruebas: 15 días.
+- Audiencia: 10 días.
+- Propuesta de resolución: 5 días desde la finalización de la audiencia.
+- Resolución: 5 días.
+La resolución declaratoria de responsabilidad pone fin a la vía administrativa. Todo ello sin perjuicio de pasar, si procede, el tanto de culpa a los Tribunales competentes.
+
+7.2. Responsabilidad de Derecho privado (art. 35 LRJSP)
+
+Cuando las Administraciones actúen, directamente o a través de entidad de Derecho privado, en relaciones de esta naturaleza, su responsabilidad se exige conforme a lo dispuesto para la responsabilidad patrimonial de las Administraciones Públicas, incluso si concurre con sujetos de Derecho privado o se exige directamente a la entidad de Derecho privado o a la entidad que cubra su responsabilidad.
+
+7.3. Responsabilidad penal (art. 37 LRJSP)
+
+La responsabilidad penal del personal al servicio de las Administraciones, y la civil derivada del delito, se exige según la legislación correspondiente. Su exigencia no suspende los procedimientos de responsabilidad patrimonial, salvo que la determinación de los hechos en el orden penal sea necesaria para fijar la responsabilidad patrimonial.
+
+====================================================================
+IDEAS CLAVE / RESUMEN
+====================================================================
+
+- Concepto de acto administrativo (ENTRENA CUESTA): "acto jurídico realizado por la Administración Pública, con arreglo al Derecho Administrativo".
+
+- Son impugnables los actos definitivos, y los de trámite que decidan directa o indirectamente sobre el fondo o causen indefensión, siempre que pongan término a la vía administrativa.
+
+- Ponen fin a la vía administrativa (art. 114 LPA): resoluciones de recursos de alzada; resoluciones de procedimientos del art. 112.2; resoluciones de órganos sin superior jerárquico (salvo ley en contrario); acuerdos/pactos/convenios/contratos finalizadores; resolución de procedimientos de responsabilidad patrimonial; resolución de procedimientos complementarios sancionadores (art. 90.4); demás resoluciones cuando lo establezca una disposición legal o reglamentaria.
+
+- La delegación de competencias cabe en órganos no jerárquicamente dependientes o en organismos/entidades vinculados; la avocación permite al órgano superior asumir un asunto de un órgano dependiente; la encomienda de gestión no supone cesión de titularidad de la competencia; la delegación de firma no altera la competencia del delegante y no requiere publicación.
+
+- Recurso de alzada: contra resoluciones y actos de trámite cualificados que NO pongan fin a la vía administrativa, ante el superior jerárquico. Plazo interposición: 1 mes (expreso) / en cualquier momento tras silencio (presunto). Plazo resolución: 3 meses, silencio desestimatorio.
+
+- Recurso potestativo de reposición: contra actos que SÍ ponen fin a la vía administrativa, ante el mismo órgano. Mismo plazo de interposición que alzada. Plazo resolución: 1 mes, silencio desestimatorio.
+
+- Recurso extraordinario de revisión: contra actos firmes en vía administrativa, ante el órgano que los dictó. Causas tasadas: error de hecho (plazo 4 años), documentos de valor esencial, documentos/testimonios falsos declarados por sentencia, delito declarado por sentencia (estas tres últimas: plazo 3 meses). Plazo resolución: 3 meses, silencio desestimatorio.
+
+- Nulidad de pleno derecho (art. 47 LPA): supuestos tasados y graves (lesión de derechos fundamentales, incompetencia manifiesta, contenido imposible, infracción penal, prescindir total y absolutamente del procedimiento, adquisición de derechos sin requisitos esenciales, u otros por ley). No convalidable, imprescriptible.
+
+- Anulabilidad (art. 48 LPA): cláusula residual, cualquier infracción del ordenamiento, incluida la desviación de poder. Convalidable, produce efectos hasta que se anule.
