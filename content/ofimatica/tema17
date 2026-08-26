@@ -1,0 +1,779 @@
+TEMA 17 — PROCESADORES DE TEXTO: WORD
+Principales funciones y utilidades. Creación y estructuración del documento. Gestión, grabación, recuperación e impresión de ficheros. Personalización del entorno de trabajo.
+(Fuente: ADAMS, Ofimática, versión Word 365)
+
+===============================================================
+1. PRIMER CONTACTO CON WORD
+===============================================================
+
+- Word 365 es un procesador de texto, parte de Microsoft 365 (antes Office 365), servicio por suscripción.
+- Versiones comercializadas históricamente: 95, 97, 2000, XP, 2003, 2007, 2010, 2013, 2016, 2019, 2021 y 365 (la última).
+- Word 365 se integra con OneDrive: autoguardado, colaboración en tiempo real (varios usuarios simultáneos) y acceso desde el navegador.
+- Se integra con Teams, SharePoint, Outlook y OneNote.
+- Novedad Word 365: fuente predeterminada Aptos a 11 puntos (sustituye a Calibri 11 pto). Espaciado posterior de párrafo 8 pto. Interlineado múltiple de 1,16.
+- Pantalla de inicio: permite elegir documento nuevo, plantilla, documento reciente o guardado en nube/equipo.
+
+1.1. Barra de acceso rápido
+- Situada arriba a la izquierda. Personalizable desde "Más comandos"; se puede mover de posición.
+- A continuación del título del documento (por defecto "Documento1"), luego caja de búsqueda y cuenta de Office.
+
+1.2. Cintas de opciones
+- Pestañas con herramientas agrupadas en secciones de comandos.
+- Formas de cambiar de cinta: clic con ratón, rueda del ratón tras seleccionar etiqueta, o tecla ALT + letra correspondiente.
+- Cintas habituales: Archivo, Inicio, Insertar, Dibujar, Diseño, Disposición, Referencias, Correspondencia, Revisar, Vista, Ayuda.
+
+ARCHIVO (vista Backstage):
+- Comandos de gestión de documentos: crear, abrir, guardar, imprimir, exportar, compartir, proteger.
+- Incluye Opciones de Word, información de cuenta Microsoft y "Transformar" (documento a página web con Microsoft Sway).
+- Gestión completa de un fichero:
+  1. Crear documento nuevo: Archivo > Nuevo. Atajo CTRL+U.
+  2. Abrir documento existente: Archivo > Abrir. Atajo CTRL+A (vista Backstage) o CTRL+F12 (cuadro de diálogo directo). Muestra 25 recientes por defecto + anclados.
+  3. Guardar y Guardar como: Guardar = CTRL+G (ubicación actual); Guardar como = F12 (nueva copia/ubicación/formato).
+  4. Proteger documento (Archivo > Información > Proteger documento):
+     - Cifrar con contraseña (requiere contraseña para abrir)
+     - Restringir edición (limita cambios de otros usuarios)
+     - Agregar firma digital (autenticidad e integridad)
+     - Marcar como final (documento definitivo, desactiva edición)
+  5. Inspeccionar documento (Archivo > Información > Comprobar problemas > Inspeccionar documento): detecta y elimina datos personales ocultos, comentarios, metadatos, texto oculto.
+  6. Exportar: a PDF o XPS (formatos de distribución que preservan diseño).
+  7. Compartir: correo electrónico, enlace OneDrive/SharePoint, o presentar en línea.
+  8. Cerrar: Archivo > Cerrar, atajo CTRL+F4. Word pregunta si guardar cambios pendientes.
+- Otras opciones de la pestaña Archivo: Nuevo, Abrir, Compartir, Obtener complementos, Información (ver Historial de versiones, propiedades), Guardar/Guardar como, Imprimir, Exportar, Transformar, Cerrar, Cuenta, Comentarios, Opciones.
+
+INICIO:
+- Portapapeles: copiar, cortar, pegar; Portapapeles de Office (hasta 24 elementos); Copiar formato.
+- Fuente: tipo, tamaño, estilo (negrita/cursiva/subrayado), color, espaciado entre caracteres, mayúsculas/minúsculas.
+- Párrafo: alineación, espaciado antes/después, sangría, viñetas/numeración, sombreado, bordes.
+- Estilos: estilos predefinidos de título, subtítulo, cita, etc.
+- Edición: Buscar y reemplazar. Comando Seleccionar despliega: Seleccionar todo (CTRL+E), Seleccionar todo el texto con formato similar, Seleccionar objetos (cambia el cursor para seleccionar imágenes/formas).
+- Voz: dictar y transcribir (NUEVO en 365).
+- Editor (F7): comprueba ortografía, gramática y sugerencias de escritura; basado en IA (NUEVO en 365). También en pestaña Revisar.
+- Complementos.
+
+INSERTAR:
+- Páginas: Portada, Página en blanco, Salto de Página.
+- Tablas: insertar con nº de filas/columnas o dibujar tabla.
+- Ilustraciones: imágenes (4 ubicaciones distintas en Word 365), formas, iconos, modelos 3D, SmartArt, Captura (ventanas abiertas o recorte de pantalla), Gráfico.
+  - Lienzo de dibujo: contenedor de formas/dibujos que se pueden mover y redimensionar conjuntamente (Insertar > Ilustraciones > Formas > Nuevo lienzo de dibujo).
+- Multimedia: contenido/vídeo.
+- Vínculos: hipervínculos, marcadores, referencias cruzadas.
+- Comentarios.
+- Encabezado y pie de página: plantillas predefinidas o propias.
+- Texto: cuadros de texto, WordArt, objetos de texto, Letra capital.
+- Símbolos: Ecuación (Alt+=), Símbolo.
+
+DIBUJAR:
+- Herramientas de dibujo: lápiz, subrayador, rotulador, borrador (pensado para escritura táctil).
+- Plantillas: muestra la regla sobre el documento, se puede girar su ángulo.
+- Editar: formatos de fondo del documento.
+- Convertir: transforma dibujo a mano en forma de Word.
+- Insertar: área para dibujar.
+- Reproducción: reproduce entradas de lápiz.
+
+DISEÑO:
+- Temas: combinaciones de fuentes, colores y efectos predefinidos.
+  1. Colores: esquema de colores del documento.
+  2. Fuentes: conjunto de fuentes para todo el documento.
+  3. Efectos: sombras, reflejos, etc.
+  4. Espaciado entre párrafos: interlineado y espaciado (afecta a todo el documento).
+- Fondo de página:
+  1. Marca de agua.
+  2. Color de página.
+  3. Bordes de página.
+
+DISPOSICIÓN:
+- Grupo Configurar página (cuadro de diálogo Configurar página, también con doble clic sobre la regla): pestañas Márgenes, Papel, Disposición.
+  1. Tamaño: tamaño de papel (por defecto A4: 21x29,7 cm en España).
+  2. Márgenes: superior, inferior, izquierdo, derecho; margen de encuadernación (espacio para encuadernar, ojo con la orientación: al cambiar orientación, los márgenes intercambian medidas — configurar orientación ANTES que márgenes).
+  3. Orientación: vertical / horizontal.
+  4. Columnas.
+  5. Saltos: página, sección, etc.
+  6. Número de líneas.
+  7. Guiones: divide palabras al final de línea si no caben.
+- Grupo Párrafo: Espaciado, Aplicar sangría.
+- Grupo Organizar: Posición, Ajustar texto, Traer adelante/Enviar atrás, Alinear, Agrupar, Girar.
+- Pestaña Disposición del cuadro Configurar página (5 opciones):
+  - Sección: tipos Continuo, Columna nueva, Página Nueva, Página Par, Página Impar.
+  - Encabezados y pies de página: 3 tipos — Pares e impares diferentes / Primera página diferente / Primera diferente y resto pares-impares diferentes.
+  - Alineación vertical: superior, centrada, justificada, abajo.
+  - Numeración de líneas: siempre en el margen izquierdo.
+  - Bordes: acceso también desde Bordes y Sombreados de Inicio.
+
+REFERENCIAS:
+- Tabla de Contenido: automática, requiere títulos con estilo aplicado.
+- Notas al pie y notas finales: notas al pie por encima del pie de página (misma página); notas finales al final del documento.
+- Citas y bibliografía: estilos APA, MLA, Chicago, etc. Insertar cita, gestionar fuentes, generar bibliografía automática.
+- Índice: palabras clave con nº de página.
+- Tabla de autoridades: estados o casos mencionados.
+- Títulos (con referencias cruzadas): asocia títulos a tablas/ilustraciones/ecuaciones para crear índices; referencia cruzada = hipervínculo a otro elemento del documento (encabezados, notas, marcadores, títulos, párrafos numerados); actualizable si el elemento se mueve.
+
+CORRESPONDENCIA:
+- Crear: sobres y etiquetas (Correspondencia > Sobres: dirección destinatario + remite; el remite se puede guardar para futuros sobres desde Opciones de sobre).
+- Iniciar combinación de correspondencia: conecta el documento a una lista de destinatarios (Excel, contactos, etc.).
+- Escribir e insertar campos: campos de combinación (nombre, dirección...).
+- Vista previa de resultados: revisa cómo quedará cada destinatario.
+- Finalizar: genera documentos finales (imprimir o enviar por correo).
+- Ver detalle en apartado 8.7 (Herramientas).
+
+REVISAR:
+- Revisión: Editor (misma función que en Inicio), Ortografía y gramática, Sinónimos, Contar palabras.
+- Voz: Leer en voz alta.
+- Accesibilidad: Comprobar accesibilidad (según pautas web); Modo concentración.
+- Idioma: Traducir, Idioma de escritura.
+- Comentarios.
+- Revisión (panel): mostrar/filtrar revisiones.
+- Seguimiento y Control de cambios.
+- Comparar: compara y combina dos versiones de un documento.
+- Proteger: restringe edición.
+- Ocultar entrada de lápiz.
+
+VISTA:
+- Vistas: Modo de lectura, Diseño de impresión, Diseño web, Esquema, Borrador (ver apartado 1.5).
+- Inmersivo: Concentración (oculta cinta/barra de estado, fondo neutro, se sale con Escape o moviendo el ratón arriba) y Lector inmersivo (ajusta espaciado/tamaño, lectura en voz alta con seguimiento).
+- Movimiento de página: vertical u horizontal.
+- Mostrar: líneas de cuadrícula, regla, panel de navegación.
+  - Panel de navegación: 3 pestañas — Títulos (estructura jerárquica por estilos de título), Páginas (miniaturas), Resultados (coincidencias de búsqueda). Se activa también con CTRL+B.
+- Zoom.
+- Ventana: Dividir (dos paneles del mismo documento), Ventana nueva, Organizar todo.
+- Macros.
+- SharePoint.
+
+AYUDA:
+- 5 comandos: Ayuda (F1, despliega panel), Ponerse en contacto con soporte técnico (mensaje de 250 caracteres), Comentarios, Mostrar aprendizaje, Novedades.
+
+Zona derecha de las cintas (siempre visible): Comentarios, Edición, Compartir.
+
+Cintas contextuales: aparecen automáticamente al seleccionar objetos (imágenes, gráficos, tablas, WordArt...) para modificar diseño/formato.
+Cinta adicional activable: Archivo > Opciones > Personalizar cintas de opciones. La más destacable: Programador (macros, formularios, XML).
+
+Formas de mostrar/ocultar cintas:
+1. Clic derecho sobre comando/pestaña > Personalizar la cinta de opciones / Contraer la cinta de opciones.
+2. Doble clic sobre el nombre de una ficha (alterna cinta visible/oculta); equivale a CTRL+F1.
+3. Botón alterno a la derecha de las cintas (flecha para ocultar, chincheta para anclar); también CTRL+F1.
+
+MICROSOFT COPILOT EN WORD 365:
+- Asistente de IA integrado en Microsoft 365. Botón en la cinta de opciones.
+- Permite: generar texto desde instrucciones en lenguaje natural, resumir documentos largos, reescribir/reformular párrafos (tono/extensión), responder preguntas sobre el contenido, transformar texto en tablas o listas.
+- Requiere suscripción Microsoft 365 Copilot (licencia adicional) y conexión a Internet. No disponible en todas las versiones/planes.
+
+1.3. Regla
+- Regla horizontal y vertical (ayudan a configurar formato de párrafo/documento).
+- No aparecen por defecto: se activan desde Vista > grupo Mostrar.
+- Regla horizontal: escala en cm, refleja ancho del área del documento, ancho de página, márgenes izq/dcho (modificables directamente en ella).
+- Sangrías con la regla: 4 símbolos (3 a la izquierda, 1 a la derecha).
+  - Cuadrado (zona izquierda): sangría izquierda; al moverlo, arrastra también los dos triángulos.
+  - Triángulo superior izquierdo: sangría de primera línea.
+  - Triángulo inferior izquierdo: sangría francesa (resto de líneas menos la primera).
+  - Triángulo derecho: sangría derecha.
+- Tabulaciones: botón selector a la izquierda de la regla + clic en la regla para fijar posición. Tecla de tabulación desplaza 1,25 cm por defecto si no hay marca puesta.
+  - Los tabuladores de la regla son independientes por párrafo; para mantener alineaciones en varios párrafos hay que seleccionarlos todos antes de mover un tabulador.
+  - Relleno de tabulaciones (puntos, guiones, guiones bajos): cuadro de diálogo Tabulaciones (desde Formato de párrafo o doble clic sobre símbolo de tabulación de la regla).
+- Regla vertical: solo aparece en vista Diseño de impresión; configura márgenes superior e inferior.
+
+1.4. Barra de estado
+- Parte inferior de la pantalla; información constante (páginas, idioma, etc. por defecto).
+- Personalizable con clic derecho sobre ella (Personalizar barra de estado): nº página, sección, contar palabras, revisión ortográfica/gramatical, idioma, control de cambios, predicciones de texto, macros, accesibilidad, zoom, etc.
+
+1.5. Vistas de trabajo y de presentación del documento en pantalla
+Cinco vistas accesibles desde ficha Vista o botones de la barra de estado:
+- Diseño de impresión (PREDETERMINADA): documento tal cual se imprimirá, con márgenes, encabezados, pies, imágenes y saltos en su posición exacta. Recomendada para edición/maquetación. Más lenta por paginar constantemente. Movimiento de página vertical o en paralelo.
+- Modo de lectura: oculta cinta de opciones, doble página optimizada para lectura. NO permite editar.
+- Diseño web: como se vería en navegador, sin márgenes de página.
+- Esquema: estructura jerárquica por estilos de título; permite reorganizar arrastrando. Activa la barra de herramientas de esquema.
+- Borrador: solo texto, sin márgenes/imágenes flotantes/encabezados/pies. La más ligera y rápida para editar texto.
+- Vista previa de impresión: NO es vista independiente en Word 365; integrada en Archivo > Imprimir (configuración + previsualización simultánea). No editable desde ahí.
+
+1.6. Los caracteres invisibles
+- Marcas no imprimibles (espacios, saltos de párrafo, tabulaciones...). Se activan con Inicio > sección Párrafo (botón ¶) o CTRL+(.
+- Marca de párrafo (¶): aparece al pulsar Enter/Intro. Se llama RTM (retorno de carro manual). Cuando Word cambia de línea automáticamente = RTA (retorno de carro automático).
+- Salto de línea manual (flecha hacia abajo-izquierda): MAYUS+INTRO; cambia de línea pero NO de párrafo.
+- Salto de página (línea de puntos con etiqueta): página nueva insertada manualmente.
+- Punto centrado (·): espacio en blanco (pulsación de barra espaciadora).
+- Cuadrado negro relleno: párrafo con característica especial de paginación/estilo aplicado.
+- Símbolo especial: representa celdas de tabla.
+- Flecha (→): tabuladores.
+- Ancla: delimitador de objetos (referencia la posición de cada objeto).
+
+===============================================================
+2. ADMINISTRACIÓN DE DOCUMENTOS
+===============================================================
+
+2.1. Guardar la primera vez
+- Archivo > Guardar, botón de la barra de acceso rápido, o CTRL+G.
+- Ubicaciones: OneDrive (accesible desde cualquier lugar), Este PC (Documentos/Escritorio por defecto), Examinar (cualquier ubicación del equipo).
+
+AUTOGUARDADO Y AUTORRECUPERACIÓN (no confundir):
+- Autoguardado (AutoSave): SOLO disponible si el documento está en OneDrive o SharePoint. Interruptor en esquina superior izquierda. Guarda cambios cada pocos segundos sin pulsar CTRL+G. Permite colaboración en tiempo real. Si el documento está en local, NO está disponible.
+- Autorrecuperación: mecanismo independiente; guarda periódicamente copia temporal LOCAL. Finalidad: recuperar trabajo tras cierre inesperado (corte de luz, error). Intervalo configurable en Archivo > Opciones > Guardar (por defecto CADA 10 MINUTOS). Disponible tanto en nube como en local.
+- Tras fallo del sistema: al reabrir Word aparece el Panel de recuperación de documentos con versiones autorrecuperadas.
+
+Extensiones de archivo de Word 365:
+- .docx: extensión predeterminada de Word 365 y versiones recientes.
+- .doc: versiones anteriores a Word 2007 (formato binario).
+- .dotx: plantilla de documentos (sin macros).
+- .dotm: plantilla con macros habilitados.
+- .pdf: Portable Document Format (no nativo de Word, pero exportable).
+- .rtf: Rich Text Format (compatible con muchos procesadores).
+- .txt: texto sin formato.
+- .html: publicación web/navegadores.
+- Caracteres NO permitidos en nombres de archivo: \ / : ? * " < > |
+- Guardar con formato de otro procesador = EXPORTACIÓN de datos (comando Exportar del menú Archivo, a PDF u otros formatos de texto).
+
+2.2. Guardar los cambios
+- Botón Guardar: se guarda en la misma unidad y con el mismo nombre que la primera vez. No aparece ninguna ventana.
+
+2.3. Guardar como
+- Se usa para: guardar con otro nombre (copia), en otra unidad/carpeta (incluido OneDrive), o como otro tipo de archivo.
+- Permite configuración personalizada (opciones generales de seguridad: contraseña de apertura, contraseña de escritura, recomendar solo lectura, proteger documento, seguridad de macros). Estas opciones NO son las mismas que las de la cinta Revisar.
+
+RECUPERACIÓN DE FICHEROS (4 mecanismos):
+1. Autorrecuperación: copia periódica temporal (config. en Archivo > Opciones > Guardar, por defecto 10 min). Panel de recuperación de documentos al reabrir tras cierre inesperado. IMPORTANTE: no sustituye al guardado manual; si el documento se cierra correctamente sin guardar, la copia de autorrecuperación se elimina.
+2. Recuperar documentos no guardados: si se cierra un documento nunca guardado, Word conserva copia temporal limitada. Ruta: Archivo > Información > Administrar documento > Recuperar documentos no guardados.
+3. Historial de versiones: SOLO si el documento está en OneDrive o SharePoint. Ruta: Archivo > Información > Historial de versiones. Permite abrir, comparar y restaurar versiones anteriores.
+4. Administrar documento: Archivo > Información > Administrar documento. Ver todas las versiones autoguardadas, recuperarlas, eliminarlas o compararlas.
+
+2.4. Abrir un documento
+- Comando Abrir del menú Archivo. Se puede buscar en la nube o en el equipo (Este PC / Examinar).
+- Si no se recuerda el tipo de archivo, escoger "Todos los archivos".
+- Abrir un documento creado en OTRO procesador de textos = IMPORTACIÓN de datos.
+
+2.5. Información
+- Archivo > Información: asignar permisos (cifrar con contraseña, restringir edición, restringir acceso por usuario, firma digital).
+- Administrar documento: recuperar versiones anteriores, eliminarlas, compararlas; recuperar archivos no guardados.
+
+2.6. Compartir
+- Compartir con otras personas, correo electrónico, presentar en línea, publicar en blog.
+
+2.7. Cerrar documento
+- CTRL+F4, o Archivo > Cerrar.
+- Si hay cambios sin guardar, Word muestra aviso con opción de guardar (Guardar / No guardar / Cancelar).
+- Cerrar el PROGRAMA: ALT+F4 o aspa de la ventana.
+
+===============================================================
+3. ESCRIBIR Y EDITAR
+===============================================================
+
+3.1. Tipos de edición
+- Inserción y sobreescritura: tecla Insert (configurable en Archivo > Opciones > Avanzadas > Opciones de edición) o botón en barra de estado (activable con clic derecho).
+- Borrado:
+  - Supr: borra carácter a la DERECHA del cursor; CTRL+Supr suprime palabra a la derecha (incl. espacio).
+  - Retroceso: borra carácter a la IZQUIERDA del cursor; CTRL+Retroceso elimina palabra a la izquierda.
+- Acciones:
+  - Deshacer: barra de acceso rápido o CTRL+Z.
+  - Rehacer: barra de acceso rápido o CTRL+Y.
+  - Repetir última acción: F4.
+
+3.2. Desplazamiento del cursor por el documento
+- Punto de inserción: línea vertical parpadeante.
+- Clic: coloca el punto de inserción donde se desee.
+- Flechas del teclado: mueven en la dirección indicada.
+- Inicio / Fin: principio / final de la línea.
+- AvPág / RePág: pantalla de líneas siguiente / anterior.
+- Combinadas con CTRL:
+  - CTRL+Inicio: principio del documento.
+  - CTRL+Fin: final del documento.
+  - CTRL+AvPág: principio de la página siguiente.
+  - CTRL+RePág: principio de la página anterior.
+  - CTRL+→: principio de la palabra siguiente.
+  - CTRL+←: final de la palabra anterior.
+  - CTRL+↑: principio del párrafo anterior.
+  - CTRL+↓: principio del párrafo siguiente.
+
+3.3. Seleccionar texto
+Con teclado:
+- Seleccionar todo: CTRL+E.
+- Desde el cursor al inicio/final del documento: CTRL+MAYUS+INICIO / CTRL+MAYUS+FIN.
+- Selecciones alternas: CTRL.
+- Selecciones contiguas: MAYUS.
+  - Extender selección: F8 (texto/palabra/frase/párrafo/documento); Esc para desactivar.
+- Selecciones verticales o rectangulares: ALT.
+- Seleccionar carácter: MAYUS+flechas de cursor.
+- Seleccionar palabras: CTRL+MAYUS+flechas de cursor.
+- Seleccionar una frase: CTRL+clic en la frase.
+Con ratón sobre el texto:
+- Palabra: doble clic.
+- Párrafo: tres clics.
+Con ratón sobre el área de selección (margen izquierdo del texto):
+- Línea: un clic.
+- Párrafo: doble clic.
+- Todo el documento: tres clics.
+
+3.4. Funciones de edición
+- Tecnologías de intercambio de información en Word:
+  - OLE (objetos vinculados o incrustados): permite copiar/cortar para pegar posteriormente.
+  - DDE (Intercambio Dinámico de Datos): permite, entre otras cosas, la combinación de correspondencia.
+- El portapapeles admite hasta 24 elementos; para sacarlos hay que usar Pegar o Pegado especial.
+
+3.4.1. Copiar
+- Comando Copiar (cinta Inicio) o CTRL+C. El texto no desaparece del origen.
+- Pegar: comando Pegar o CTRL+V. El contenido permanece en el portapapeles mientras no se necesite su espacio o se elimine; se puede volver a pegar sin volver a copiar.
+
+3.4.2. Cortar
+- Comando Cortar (cinta Inicio), CTRL+X, o botón secundario del ratón. El texto desaparece del origen y pasa al portapapeles.
+
+3.4.3. Arrastrar
+- Seleccionar y arrastrar con el botón principal del ratón (sin soltar) = mover texto (como cortar+pegar).
+- Botón secundario del ratón al arrastrar: Word pregunta qué hacer con el texto.
+- Botón principal + tecla CONTROL pulsada al arrastrar: se obtiene una COPIA (como copiar+pegar).
+
+3.4.4. Operaciones de copiado y pegado
+- Copiar y Pegar Formato:
+  - Botón Copiar Formato (cinta Inicio).
+  - Copiar Formato: CTRL+MAYUS+C.
+  - Pegar Formato: CTRL+MAYUS+V.
+  - Copiar y pegar UNA vez: 1 clic al botón Copiar Formato.
+  - Copiar y pegar VARIAS veces sucesivas: doble clic al botón Copiar Formato.
+- Pegados Especiales: acceso vía Portapapeles.
+
+3.4.5. Buscar y reemplazar
+- Dos menús de búsqueda distintos en Word 365:
+  1. Buscar (Inicio): panel lateral izquierdo, búsquedas de texto sencillas y objetos.
+  2. Búsqueda avanzada / Reemplazar: despliega el cuadro de diálogo "Buscar y reemplazar" (pestañas Buscar, Reemplazar, Ir a).
+- Opciones desde búsqueda avanzada y reemplazo:
+  - Buscar y reemplazar texto.
+  - Buscar y reemplazar formato (carácter, párrafo, estilos, idioma, resaltado).
+  - Buscar y quitar texto o formato de caracteres.
+  - Buscar y reemplazar marcas de párrafo, saltos de página y otros elementos (caracteres especiales, tabulaciones).
+- Comodines: hay que marcar su casilla en opciones de búsqueda. Ejemplo: s?l encuentra palabras de 3 caracteres que empiecen por s y terminen en l (? sustituye a un único carácter).
+
+===============================================================
+4. AYUDA
+===============================================================
+- Acceso: consulta en la parte superior de la pantalla, comando ALT+Q, o pestaña Ayuda.
+- 5 comandos en la pestaña Ayuda: Ayuda (F1), Ponerse en contacto con soporte técnico (mensaje de hasta 250 caracteres), Comentarios, Mostrar aprendizaje, Novedades.
+
+===============================================================
+5. FORMATOS
+===============================================================
+Tres categorías: página, carácter y párrafo. Aplicables desde regla/barras de herramientas o desde menús.
+
+5.1. Formato de página
+- Cuadro de diálogo Configurar página: Disposición > icono de grupo (flecha), o doble clic con el ratón sobre la regla. Pestañas: Márgenes, Papel, Disposición.
+- Opción "Aplicar a": se usa cuando se trabaja con secciones.
+
+5.1.1. Papel
+- Tamaño del papel según impresora seleccionada. En España, por defecto DIN A4 (21 cm ancho x 29,7 cm alto).
+- Tamaños no estándar: se pueden dar medidas en Ancho y Alto.
+
+5.1.2. Márgenes
+- Superior, inferior, izquierdo, derecho. Margen de encuadernación: espacio ocupado por la encuadernación.
+- OJO: no basta con agrandar el margen izquierdo si se imprime a doble cara — la encuadernación va a la izquierda en páginas impares y a la derecha en pares (hay que usar el margen de encuadernación).
+- Al modificar la orientación de la página, los márgenes intercambian sus medidas; por eso la orientación debe configurarse ANTES que los márgenes.
+
+5.1.3. Disposición (5 opciones)
+- Sección: tipos Continuo, Columna nueva, Página Nueva, Página Par, Página Impar.
+- Encabezados y pies de página: distancia desde el borde; 3 tipos (pares/impares diferentes, primera página diferente, primera+pares/impares diferentes).
+- Alineación vertical: superior, centrada, justificada, abajo.
+- Numeración de líneas: siempre en el margen izquierdo.
+- Bordes: acceso también desde Bordes y Sombreados (Inicio).
+
+5.2. Formato de fuente
+- Sección Fuente (cinta Inicio) o menú contextual.
+- Fuente: tipo/familia de letra (Times, Arial, Courier, Book Antiqua, Rockwell...).
+- Estilo de fuente: normal/regular, negrita, cursiva, negrita-cursiva (máximo 4 estilos, cada uno guardado como fichero independiente).
+- Tamaño: en puntos (pto); 1 pto = 0,35 mm aprox. Múltiplo de 0,5, de 1 a 1638 puntos.
+- Efectos de Texto: superíndice, subíndice, Tachado, MAYÚSCULAS, Versalitas (mayúsculas de tamaño reducido), etc. Versalitas: Inicio > grupo Fuente > cuadro Fuente (CTRL+M) > pestaña Fuente > casilla Versalitas, o CTRL+MAYUS+L.
+- Solapa "Espacio entre caracteres" del cuadro Fuente:
+  - Escala: incremento/decremento por porcentaje del ancho de caracteres.
+  - Espacio o Kerning: distancia entre letras (expandido separa, comprimido junta).
+  - Posición: elevar o disminuir respecto a la horizontal.
+- OpenType: extensión del formato TrueType, agrega compatibilidad con fuentes PostScript (desarrollado por Microsoft y Adobe).
+- Letra Capital: primera letra de un párrafo con estilo diferente; se inserta desde Insertar > sección Texto; en el área del documento o en el margen.
+
+5.3. Formato de párrafo
+- Un párrafo = texto entre dos marcas de párrafo (cada Enter crea un párrafo nuevo).
+- Menú de formato de párrafo: icono de grupo de la sección Párrafo (Inicio), doble clic en control de sangría de la regla, o menú contextual > Párrafo.
+- Basta con tener el cursor dentro del párrafo (sin seleccionar) para aplicar formato a UN párrafo; para varios, seleccionar al menos parte de cada uno.
+
+5.3.1. Opciones de paginación
+- Control de líneas viudas y huérfanas: impide última línea de párrafo sola arriba de página nueva (viuda) o primera línea sola al final de página (huérfana).
+- Conservar con el siguiente: evita salto de página automático entre el párrafo y el siguiente.
+- Conservar líneas juntas: evita salto de página automático DENTRO de un párrafo.
+- Salto de página anterior: inserta salto de página manual antes del párrafo.
+
+5.3.2. Alineaciones o justificaciones
+- Tipos: izquierda (por defecto), derecha, centrada, justificada.
+- Alineación distribuida: SOLO con combinación de teclas CTRL+MAYUS+J (justifica también la última línea del párrafo).
+
+5.3.3. Sangrías
+- Sangría izquierda: distancia desde margen izquierdo hasta donde empieza el texto.
+- Sangría derecha: distancia desde margen derecho hasta donde termina el texto.
+- Sangría especial:
+  - Sangría francesa: se separan por la izquierda todas las líneas MENOS la primera.
+  - Sangría de primera línea: se separa SOLO la primera línea por la izquierda.
+- Control con la regla: 3 controles a la izquierda, 1 a la derecha (ver apartado 1.3).
+
+5.3.4. Interlineado
+- Espacio entre las líneas de un párrafo. Más utilizados: sencillo, 1,5 líneas, doble.
+
+5.3.5. Espaciado
+- Separación entre un párrafo y el siguiente/anterior (distinto de pulsar varias veces Enter).
+- Anterior: puntos por delante de la primera línea del párrafo.
+- Posterior: puntos por detrás de la última línea del párrafo.
+
+5.3.6. Tabuladores
+- Necesarios para dar dos alineaciones distintas en la misma línea (ej. índice).
+- Tipos de marca de tabulación:
+  - Izquierda: el texto fluye a la derecha del tabulador.
+  - Centrado: el texto se centra respecto al tabulador.
+  - Derecha: el texto fluye a la izquierda del tabulador.
+  - Decimal: alineación respecto a la coma decimal (números).
+  - Barra: inserta línea vertical (no se usa para escribir texto).
+- Tecla de tabulación desplaza 1,25 cm por defecto si no hay marca fijada.
+- Relleno de tabulaciones: cuadro de diálogo Tabulaciones (3 tipos: puntos, guiones, guiones bajos).
+- Los tabuladores de la regla son independientes por párrafo (seleccionar todos los párrafos de una "tabla" antes de mover uno).
+
+5.3.7. Bordes y sombreado
+- Comando Bordes y sombreado (cinta Inicio, sección Párrafo) — aplicable a párrafo, grupo de párrafos, texto o tabla.
+- Cuadro de diálogo: Valor (Ninguno, Cuadro, Sombra, 3D, Personalizado), Estilo de línea, Color, Ancho/grosor.
+- "Aplicar a": texto seleccionado o párrafo (con tablas: también celda o tabla).
+- Sombreados: variación del color de fondo de un párrafo. Pestaña Sombreado: color de relleno o trama (líneas como relleno).
+- Comando de resaltado (pluma con línea de color): resalta el texto seleccionado.
+
+5.4. Viñetas, numeración y esquema numerado
+- Comandos en pestaña Inicio, sección Párrafo.
+
+5.4.1. Viñetas
+- Listas de párrafos SIN ordenar, introducidas por símbolos.
+- "Definir nueva viñeta": configura símbolo, alineación y fuente de la viñeta.
+
+5.4.2. Numeración
+- Listas de párrafos ORDENADAS (cada párrafo con un orden dentro de la lista total).
+- "Definir nueva numeración": estilo del número, formato de número, alineación, fuente.
+
+5.4.3. Esquemas Numerados
+- Lista MULTINIVEL: hasta 9 niveles jerárquicos (viñetas y numeración solo permiten 1 nivel).
+- "Definir nueva lista multinivel": estilo, formato, posición y fuente en cada nivel.
+
+5.5. Tablas
+- Función similar a las tabulaciones pero con más opciones de formato.
+- Permiten: columnas de texto/números, texto en columnas paralelas (traducciones), imágenes junto a textos.
+- Grupo Datos: Ordenar, Repetir filas de título, Convertir en texto, Fórmula (fx).
+
+5.5.1. Creación de tablas
+- Comando Tabla (cinta Insertar): seleccionar nº de celdas en la cuadrícula, o "Insertar tabla..." (cuadro de diálogo: nº columnas, nº filas, Autoajuste: ancho de columna fijo / autoajustar al contenido / autoajustar a la ventana; opción Recordar dimensiones para tablas nuevas).
+- Al posicionar el cursor en una celda o seleccionar celdas, aparecen 2 cintas nuevas: Diseño de tabla y Disposición.
+
+5.5.2. Propiedades de tabla
+- Acceso: cinta Herramientas de tabla > Disposición > Propiedades, o menú contextual.
+- 4 pestañas:
+  - Tabla: alineación, tamaño, comportamiento respecto al texto que rodea.
+  - Fila: alto de fila (individual o todas).
+  - Columna: ancho de columna (individual o todas).
+  - Celda: características principales de celdas seleccionadas (alineación vertical: arriba, centro, abajo).
+
+5.5.3. Formato de tabla
+- Mismas opciones que un párrafo normal, PERO cada celda se comporta como un párrafo independiente (se pueden aplicar distintos estilos a cada celda o incluso a cada párrafo dentro de la celda).
+- Bordes: igual que en párrafos, Formato > Bordes y sombreado.
+
+5.6. Autoformato
+- Archivo > Opciones > Revisión > Opciones de autocorrección.
+- Aplica rápidamente formato: títulos, listas con viñetas/numeradas, bordes, números, símbolos, fracciones.
+- Word también puede:
+  - Dar formato automático a direcciones de Internet/red/correo como hipervínculos.
+  - Aplicar negrita o cursiva a texto entre asteriscos (*) o guiones bajos (_).
+  - Reemplazar dos guiones por un guion largo (—).
+  - Formatear automáticamente el documento mientras se escribe o después (Word analiza el uso de cada párrafo, p.ej. título o lista numerada, y aplica un estilo apropiado).
+
+5.7. Estilos
+
+5.7.1. Personalizar estilos en Word
+- Un estilo = conjunto de formatos de carácter, párrafo, tabla o lista, almacenado con un nombre para reutilizar.
+- Word dispone de estilos integrados en la cinta Inicio, ya configurados; se pueden modificar o crear nuevos.
+
+5.7.2. Modificar un estilo existente
+1. Clic derecho en un estilo de la galería > Modificar.
+2. Realizar cambios de formato en el cuadro "Modificar estilo".
+3. Añadir a la galería de estilos para fácil acceso.
+4. Definir si se aplica solo al documento actual o a todos los documentos nuevos (añadiéndolo a la plantilla).
+
+5.7.3. Crear un nuevo estilo
+1. Ventana de estilos: icono de grupo de la sección Estilos, o CTRL+ALT+MAYUS+S. Botón "Nuevo estilo".
+2. Elegir tipo de estilo y configurarlo.
+
+5.8. Otras utilidades (ficha Insertar)
+- Insertar una ecuación: ALT+= . Ecuaciones comunes predefinidas (área de un círculo, fórmula cuadrática...) o crear propias con la biblioteca de estructuras/símbolos matemáticos.
+- Insertar un símbolo: símbolos no disponibles en teclado (matemáticos, moneda, copyright...).
+- Insertar fecha y hora: como CAMPO (comando "Fecha y hora" de Insertar) para que se actualice automáticamente al abrir el documento, en vez de escribirla manualmente.
+
+===============================================================
+6. GRÁFICOS
+===============================================================
+
+6.1. Categorías
+Dos categorías: imágenes y gráficos.
+
+6.1.1. Imágenes
+- Imágenes de mapa de puntos de bits (Bitmap): compuestas por píxeles; proceden de escáneres, cámaras, Internet. Extensión típica BMP; comprimidas: JPG, GIF, PNG.
+- Imágenes vectoriales o prediseñadas (Clipart): construidas mediante vectores, se agrandan/reducen sin pérdida de calidad. Los dibujos hechos con herramientas de Word también son vectoriales.
+
+6.1.2. Gráficos
+- Dibujos creados con Word: autoformas, líneas, rectángulos, elipses, etc.
+- WordArt: textos que se comportan como imágenes.
+- Gráfico: representaciones de datos de forma ilustrada.
+
+6.2. Cómo crear un gráfico
+Menú Insertar > Ilustraciones. Opciones: Desde archivo (bitmap), Imágenes en línea (vectoriales), Iconos (vectoriales sin copyright), Firmas (dibujadas con herramientas de Word), WordArt, Captura (bitmap), Gráfico (representa datos).
+
+6.2.1. Desde Archivo
+- Ventana similar a "Abrir documento". Selecciona carpeta e inserta.
+- Al insertar una imagen aparece la cinta "Formato de imagen":
+  1. Quitar fondo.
+  2. Correcciones: nitidez, brillo, contraste.
+  3. Color: cambios de colores.
+  4. Efectos artísticos: boceto, pintura, etc.
+  5. Transparencia.
+  6. Comprimir imágenes: reduce tamaño de archivo (pierde calidad).
+  7. Cambiar imagen: sustituye manteniendo tamaño y posición.
+  8. Estilos de imagen: formatos preestablecidos.
+  9. Borde de imagen: color, estilo, grosor.
+  10. Efectos de imagen: reflejo, 3D...
+  11. Diseño de imagen: añadir diagrama convierte a SmartArt.
+  12. Texto alternativo: descripciones para lectores de pantalla (accesibilidad).
+  13. Posición: ubicación del objeto.
+  14. Ajustar texto: comportamiento del texto respecto a la imagen.
+  15. Traer al frente.
+  16. Enviar atrás.
+  17. Panel de selección: seleccionar objetos.
+  18. Alinear: respecto a márgenes, borde de página o entre objetos.
+  19. Agrupar: varias imágenes como un único objeto.
+  20. Girar.
+  21. Recortar: eliminar zona no deseada de la imagen.
+  22. Tamaño.
+- "Formato de la imagen" (panel lateral, botón derecho > Formato de la imagen): Relleno y líneas, Efectos (sombra, reflejo, iluminado, bordes suaves, formato 3D, giro 3D, efectos artísticos), Diseño y propiedades (cuadro de texto), Imagen (correcciones, color, transparencia, recorte).
+
+6.2.2. Imágenes prediseñadas
+- Imágenes en línea: cuadro de diálogo con búsqueda por palabra clave (con tecnología Bing) o clasificación mostrada.
+- Doble clic para insertar. También acceso a OneDrive para seleccionar imagen propia (clic derecho > Insertar).
+
+6.2.3. Formas
+- Figuras ya listas para usar (esquemas, diagramas de flujo, rectas, llamadas).
+- Categorías: 1. Formas básicas, 2. Flechas de bloque, 3. Formas de ecuación, 4. Diagramas de flujo, 5. Cintas y estrellas, 6. Llamadas.
+
+6.2.4. Iconos
+- Imágenes que representan un elemento, idea o sensación a través de símbolos.
+
+6.2.5. Modelos 3D
+- Se pueden insertar imágenes 3D almacenadas en el equipo o de Internet (Remixer 3D).
+
+6.2.6. WordArt
+- Crea títulos/rótulos de forma artística. Elegir modelo de la galería e indicar el texto.
+
+6.2.7. Captura
+- Incorpora instantánea de cualquier ventana no minimizada del escritorio.
+- Permite también recortar imagen de la ventana anterior con la que se trabajaba (Recorte de pantalla).
+
+6.2.8. Gráfico de datos
+- Un gráfico representa un conjunto de datos, rótulos y números.
+- Word usa Excel para generar los gráficos (con Office instalado). Datos desde tabla ya insertada en Word o directamente en la hoja de Excel.
+- Tipos: Columnas, Líneas, Circular, Barras, Áreas, X Y (dispersión), Mapa, Cotizaciones, Superficie, Radial, Rectángulos, Proyección solar, Histograma, Cajas y bigotes, Cascada, Embudo, Combinado.
+- Al insertar un gráfico se despliegan 2 pestañas: Diseño (insertar/eliminar/modificar elementos del gráfico) y Formato (características de formato de cada elemento).
+
+6.2.9. Marca de agua
+- Ubica detrás del texto una imagen, WordArt o texto. Ruta: Diseño > Marca de agua. Apenas perceptible; se usa en documentos que requieren tratamiento especial.
+- Marca de agua personalizada: Sin marca de agua / Marca de agua de imagen (con Escala y Decolorar) / Marca de agua de texto (Idioma, Texto -por defecto "BORRADOR"-, Fuente, Tamaño, Color, Semitransparente, Distribución diagonal u horizontal).
+- Se pueden guardar marcas de agua personalizadas: posicionarse en el encabezado, seleccionar la marca, y desde Diseño > Marca de agua guardarla.
+
+6.2.10. SmartArt
+- Función de dibujo con plantillas: listas, diagramas de procesos, organigramas, gráficos relacionales. Permite crear formas complejas fácilmente.
+- Categorías: Listas, Procesos, Ciclos, Jerarquía, Relación, Matriz, Pirámide, Imagen.
+
+===============================================================
+7. REFERENCIAS
+===============================================================
+Desde la ficha Referencias se crean enlaces y menciones a distintos elementos del documento:
+
+- Tabla de contenido: crea índices a distintos lugares del documento, previamente identificados con un título con estilo aplicado.
+- Notas al pie: dos tipos — notas al pie (por defecto, encima del pie de página en la página donde se crearon) y notas al final (por defecto, al final del documento).
+- Citas y bibliografía: bibliografía = lista de fuentes consultadas/citadas, normalmente al final del documento. Se genera automáticamente según información de fuentes.
+  - Estilo Citas: selecciona el estilo de citación (afecta a citas y bibliografía).
+  - Insertar cita: gestiona fuentes/citaciones en base de datos incorporada o aplicaciones externas.
+  - Bibliografía: inserta lista de referencias basada en fuentes citadas.
+- Índice: agrega palabras clave/términos/temas con nº de página donde aparecen. Se marca la entrada (Marcar entrada); opcionalmente se puede usar un archivo con las palabras a marcar.
+- Tabla de autoridades: tabla de estados o casos mencionados en el documento.
+- Títulos: asocia títulos a tablas/ilustraciones/ecuaciones para crear un índice de los mismos.
+  - Referencia cruzada: hace referencia a un elemento en otra ubicación del documento. Por defecto se inserta como hipervínculo (clic va directo al elemento). Se puede crear a: encabezados, notas al pie, marcadores, títulos y párrafos numerados. Si el elemento referenciado se mueve (se agrega/quita contenido), la referencia cruzada se puede ACTUALIZAR.
+
+===============================================================
+8. HERRAMIENTAS (cinta Revisar)
+===============================================================
+
+NUEVO en Word 365: el Editor permite revisar correcciones y calidad del texto en una sola visual. Panel: Puntuación del Editor (calculada para 100 palabras), Correcciones (Ortografía, Gramática), Refinamientos (Claridad, Concisión, Lenguaje formal, Vocabulario), Conclusiones (Estadísticas del documento).
+
+8.1. Ortografía y gramática
+- Configuración de corrección en tiempo real: Archivo > Opciones > Revisión.
+- Al activar revisión automática, Word desactiva las casillas "Ocultar errores de ortografía" y "Ocultar errores gramaticales".
+- Marcado visual: SUBRAYADO ONDULADO ROJO = errores ortográficos; DOBLE SUBRAYADO AZUL = errores gramaticales.
+- Desde pestaña Revisar > corrección: despliega panel lateral derecho con opciones.
+
+8.2. Sinónimos
+- Tesauro (thesaurus): busca sinónimos y antónimos en panel lateral.
+
+8.3. Contar palabras
+- Estadísticas del documento: nº de páginas, palabras, caracteres, etc. Parte visible en la barra de estado (activable con clic derecho sobre dicha barra).
+
+8.4. Accesibilidad
+- Comprobador de accesibilidad (pestaña Revisar): verifica que el archivo es fácil de leer/editar antes de compartir.
+- Leer en voz alta (también en Revisar): escuchar el documento para corrección, comprensión o aprendizaje.
+- Característica NUEVA "Concentración" (también en Accesibilidad): Word solo muestra el documento.
+
+8.5. Control de cambios
+- Cinta Revisar > sección Seguimiento. Marca las modificaciones cada vez que se revisa un documento.
+- Activar con el comando "Control de cambios". Desde "Mostrar" se seleccionan las marcas necesarias (inserciones, eliminaciones, cambios de formato).
+- Panel de revisiones: muestra en orden los cambios realizados.
+- Opciones predeterminadas del control de cambios: comando en la parte inferior derecha de la sección > opciones avanzadas.
+- Finalizadas las revisiones: aceptar o rechazar cambios (individual o global para todo el documento).
+
+8.6. Proteger documento
+- Cinta Revisar > comando "Restringir edición". Protege un documento evitando modificaciones ante determinadas correcciones:
+  - Restricciones de formato: limitar formatos a determinados estilos.
+  - Restricciones de edición: marcas de revisión / comentarios / rellenando formularios / sin cambios (solo lectura).
+- Se pueden elegir usuarios autorizados o establecer contraseña para evitar desbloqueo por usuarios no autorizados.
+
+8.7. Combinar correspondencia
+- Permite crear cartas personalizadas (Documento principal) y enviarlas a distintos destinatarios de un archivo de datos (Origen de datos).
+- Cinta Correspondencia:
+  1. Iniciar combinación de correspondencia: decide el tipo de documento a crear.
+  2. Seleccionar destinatarios: 3 opciones — Escribir una nueva lista (desde cero, cuadro de diálogo de Word), Usar una lista existente (Excel, Access u otro origen compatible), Elegir de los contactos de Outlook.
+  3. Editar lista de destinatarios: seleccionar los registros a usar.
+  4. Escritura del cuerpo del documento e inserción de campos de la base de datos:
+     - Resaltar campos de combinación: sombrea los campos insertados.
+     - Bloque de direcciones: agrega una dirección.
+     - Línea de saludo: agrega un saludo.
+     - Insertar campo combinado: inserta campos que incrustan los datos de la base en el documento principal.
+     - Vista previa de resultados: cómo quedará la carta actual.
+  5. Finalizar y combinar: crea el documento con todas las cartas resultantes, o envía a imprimir, o envía por correo electrónico.
+
+8.8. Documentos Maestros
+- Solución cuando Word se ralentiza al trabajar con documentos MUY largos y con muchos objetos.
+- Documento maestro = documento que contiene VÍNCULOS a documentos individuales (subdocumentos), de tamaño más ligero, que pueden tratarse independientemente como documentos normales.
+- Las modificaciones en los subdocumentos se reflejan automáticamente en el documento maestro (contiene enlaces, no el contenido).
+- Uso típico: organizar un libro compuesto de varios capítulos.
+- Para trabajar con documentos maestros hay que estar en la vista Esquema (pestaña Esquema, grupo "Documento maestro": Mostrar documento, Contraer subdocumentos, Cerrar vista Esquema).
+
+8.9. Macros
+- Macro = conjunto de operaciones grabadas con un nombre, para ejecutar en bloque y economizar tareas repetitivas.
+- Cinta Vista: ejecutar y crear macros (mismo o distintos documentos).
+- Creación: "Grabar macro" — asignar nombre, decidir si se aplica con combinación de teclas y/o botón de la barra de herramientas. Al pulsar Aceptar se activa el modo grabación.
+- Durante la grabación SÍ quedan registrados: clics sobre comandos de la cinta y menús.
+- Durante la grabación NO se registran: movimientos de selección de texto arrastrando el ratón. Para seleccionar texto durante la grabación hay que usar el TECLADO (ej. MAYUS+flechas de dirección).
+
+===============================================================
+9. OPCIONES
+===============================================================
+Personalización del entorno de trabajo: Archivo > Opciones (cuadro de diálogo Opciones de Word).
+
+- General: nombre de usuario e iniciales (comentarios/control de cambios), tema visual de Office (Colorido, Gris oscuro, Blanco, Negro), pantalla de inicio al abrir Word.
+- Presentación: cómo se muestra el contenido en pantalla; marcas de formato permanentes (tabulaciones, espacios, marcas de párrafo, texto oculto, guiones opcionales, delimitadores de objeto); opciones de impresión (dibujos, colores de fondo, propiedades del documento, texto oculto, etc.).
+- Revisión: comportamiento de la corrección automática; acceso a Opciones de Autocorrección; activar/desactivar revisión ortográfica y gramatical en tiempo real; reglas gramaticales.
+- Guardar: formato de archivo predeterminado (por defecto .docx), intervalo de guardado de Autorrecuperación (por defecto 10 minutos), ubicación predeterminada de archivos locales, ubicación de archivos de autorrecuperación.
+- Idioma: añadir idiomas de edición y revisión; idioma de visualización de la interfaz.
+- Accesibilidad: alto contraste, ayudas para usuarios con necesidades especiales.
+- Avanzadas: comportamiento del cortar y pegar, opciones de visualización del documento, compatibilidad con versiones anteriores.
+- Personalizar la barra de herramientas de acceso rápido: Archivo > Opciones > Barra de herramientas de acceso rápido; añadir/eliminar/reordenar comandos; también clic derecho sobre comando de la cinta > "Agregar a la barra de herramientas de acceso rápido"; configurable para todos los documentos o solo el actual; posición por defecto encima de la cinta, se puede mostrar debajo.
+- Personalizar la cinta de opciones: Archivo > Opciones > Personalizar cinta de opciones; crear fichas/grupos personalizados, añadir comandos sin ficha por defecto, reordenar/mostrar/ocultar fichas. Ficha destacable NO visible por defecto: PROGRAMADOR (macros, formularios, XML).
+- Complementos: ver y gestionar complementos instalados (activos/inactivos), añadir nuevos desde la Tienda de Office.
+- Centro de confianza: opciones de seguridad y privacidad — ubicaciones de confianza, configuración de macros, acceso de aplicaciones a los documentos.
+
+===============================================================
+RESUMEN DE ATAJOS DE TECLADO (métodos abreviados)
+===============================================================
+
+GESTIÓN DE DOCUMENTOS:
+- CTRL+U: Nuevo documento.
+- CTRL+A: Abrir documento desde vista Backstage.
+- CTRL+F12: Cuadro de diálogo Abrir documento.
+- CTRL+G / MAYUS+F12: Guardar documento.
+- F12: Cuadro de diálogo Guardar como.
+- CTRL+P / CTRL+F2: Imprimir.
+- CTRL+F4 / CTRL+R: Cerrar documento.
+- ALT+F4: Cierra ventana (si es la última, cierra Word).
+
+EDICIÓN DE TEXTO:
+- CTRL+C: Copiar. CTRL+X: Cortar. CTRL+V: Pegar.
+- CTRL+Z: Deshacer. CTRL+Y: Rehacer.
+- CTRL+MAYUS+guion bajo: Guion de no separación.
+- CTRL+MAYUS+Espacio: Espacio de no separación.
+- Retroceso: borra 1 carácter a la izquierda. Supr: borra 1 carácter a la derecha.
+- CTRL+Retroceso: borra hasta fin de palabra a la izquierda. CTRL+Supr: borra hasta fin de palabra a la derecha.
+- CTRL+MAYUS+1/2/3: Aplica Estilo Título 1/2/3.
+
+FORMATO FUENTE:
+- CTRL+<: Disminuir tamaño de fuente. CTRL+MAYUS+>: Aumentar tamaño.
+- CTRL+M: Cuadro de diálogo Fuente.
+- CTRL+N: Negrita. CTRL+K: Cursiva. CTRL+S: Subrayado.
+- CTRL+MAYUS+D: Subrayado doble.
+- CTRL+MAYUS+P: Subrayado solo palabras.
+- CTRL+MAYUS+L: Efecto Versalitas.
+- CTRL+MAYUS+U: Efecto mayúsculas.
+- CTRL+(: Mostrar todo (caracteres invisibles).
+- MAYUS+F3: Cambiar mayúsculas/minúsculas/tipo oración.
+- CTRL+Barra espaciadora / CTRL+MAYUS+Z: Borra formato de fuente.
+
+FORMATO PÁRRAFO:
+- CTRL+T: Centrar. CTRL+J: Justificar. CTRL+Q: Alinear izquierda. CTRL+D: Alinear derecha.
+- CTRL+MAYUS+J: Distribución de texto (alineación distribuida).
+- CTRL+H: Sangría izquierda (de 1,25 en 1,25 cm). CTRL+MAYUS+R: Quita sangría izquierda.
+- TAB / Retroceso: Inserta/elimina sangría de primera línea (1,25 en 1,25 cm).
+- CTRL+F: Inserta sangría francesa. CTRL+MAYUS+H: Elimina sangría francesa.
+- CTRL+5: Interlineado 1,5. CTRL+2: Interlineado doble. CTRL+1: Interlineado sencillo.
+- CTRL+W: Borra formato párrafo.
+
+FORMATO (general):
+- MAYUS+F1: Mostrar formato.
+- CTRL+MAYUS+A: Borra todos los formatos.
+- CTRL+MAYUS+C: Copiar formato. CTRL+MAYUS+V: Pegar formato.
+
+NOTAS:
+- ALT+CTRL+O: Insertar nota al pie.
+- ALT+CTRL+L: Insertar nota al final.
+
+SALTOS:
+- MAYUS+INTRO: Salto de línea manual.
+- CTRL+INTRO: Salto de página manual.
+- CTRL+MAYUS+INTRO: Salto de columna manual.
+
+OTROS:
+- CTRL+E: Seleccionar todo el texto del documento.
+- F7: Revisión de ortografía y gramática. MAYUS+F7: Sinónimos.
+- CTRL+I / F5: Ir a...
+- F9: Actualizar campos.
+- CTRL+F1: Contraer la cinta de opciones.
+- ALT+CTRL+K: Insertar hipervínculo.
+- ALT+CTRL+A: Insertar comentario.
+- CTRL+MAYUS+G: Contar palabras.
+- ALT+Q: Información "¿Qué desea hacer?".
+- CTRL+B: Panel de navegación (búsqueda).
+- CTRL+ALT+MAYUS+S: Ventana de estilos.
+- ALT+=: Insertar ecuación.
+
+===============================================================
+IDEAS CLAVE (resumen final del tema)
+===============================================================
+
+- Formatos principales compatibles con Word 365:
+  - .docx: documento Word 365 (XML comprimido, formato predeterminado al guardar).
+  - .doc: documento Word 97-2003 (retrocompatibilidad).
+  - .docm: documento con macros habilitadas.
+  - .dotx: plantilla Word 365 (sin macros). .dotm: plantilla con macros. .dot: plantilla Word 97-2003.
+  - .pdf: exportable desde Archivo > Exportar o Archivo > Guardar como.
+  - .odt: formato OpenDocument (LibreOffice y otras suites).
+  - .txt: texto sin formato. .rtf: texto enriquecido.
+  - Para cambiar de formato al guardar: Archivo > Guardar como > seleccionar tipo en desplegable.
+- Pestaña Archivo: gestión de documentos (abrir, guardar, imprimir, compartir); información del documento; opciones avanzadas; versiones anteriores.
+- Proteger documento: Archivo > Información > Proteger documento (cifrar con contraseña, permisos de edición/revisión, firma digital).
+- Pestaña Inicio: formato y edición de texto (fuentes, tamaños, estilos de párrafo, colores, alineación, viñetas/números, copiar/pegar).
+- Pestaña Insertar: imágenes, tablas, gráficos, formas, hipervínculos, encabezados/pies, símbolos, ecuaciones, objetos de texto.
+- Insertar tabla: Insertar > Tabla > arrastrar sobre cuadrícula, o "Insertar tabla" para especificar tamaño exacto.
+- Cambiar tema del documento: pestaña Diseño > Tema (colores, fuentes, efectos).
+- Marca de agua: pestaña Diseño > Marca de agua (predefinida o personalizada con texto/imagen propios).
+- Pestaña Disposición: orientación (vertical/horizontal), márgenes (predefinidos o personalizados), tamaño de papel, secciones, saltos de página/sección, números de línea, guiones.
+- Ajuste de texto alrededor de imagen: En línea con el texto, Cuadrado, Arriba y abajo, Detrás del texto, Delante del texto.
+- Salto de página: Disposición > Saltos > Salto de página, o CTRL+INTRO.
+- Cita o nota al pie: pestaña Referencias > "Insertar Cita" o "Notas al pie".
+- Tabla de contenido: pestaña Referencias > Tabla de contenido (estilos predefinidos o personalizado).
+- Combinación de correspondencia: pestaña Correspondencia — seleccionar tipo de documento y destinatarios, combinar datos, generar cartas personalizadas. Pasos: 1) Seleccionar pestaña Correspondencia. 2) Elegir tipo de documento (cartas/sobres/etiquetas). 3) Seleccionar documento inicial. 4) Conectar/importar lista de datos. 5) Insertar campos de combinación. 6) Combinar datos y crear documentos personalizados (guardar/imprimir/enviar).
+- Seguimiento de cambios: pestaña Revisar (registra modificaciones, permite revisar/aprobar/rechazar cada cambio).
+- Pestaña Revisar: corrector ortográfico y gramatical, tesauro, comentarios.
+- Vistas de documento: Modo de lectura, Diseño de impresión (predeterminada), Diseño web, Esquema, Borrador.
+- Activar/desactivar reglas: pestaña Vista > Mostrar > Reglas.
