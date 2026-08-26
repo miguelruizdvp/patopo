@@ -1,0 +1,356 @@
+TEMA 19 — BASES DE DATOS: ACCESS. PRINCIPALES FUNCIONES Y UTILIDADES. TABLAS. CONSULTAS. FORMULARIOS. INFORMES. RELACIONES. IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN DE DATOS. POWER BI.
+
+1. INTRODUCCIÓN A LAS BASES DE DATOS
+Una base de datos es una colección de datos interrelacionados almacenados en conjunto sin redundancias perjudiciales o innecesarias; los datos son independientes de los programas que los usan.
+Requisitos de una buena organización de datos: capacidad de almacenamiento suficiente, simplicidad de acceso, claridad (interfaz sencilla), independencia física y lógica de los datos, compartición de la información entre usuarios (con limitación de acceso donde proceda).
+Integridad de los datos: si un dato está en varios sitios, su borrado/modificación debe reflejarse en todos ellos. Redundancia: un dato almacenado en distintos sitios; debe minimizarse aunque a veces sea necesaria.
+Los programas que gestionan bases de datos se llaman SGBD (Sistemas de Gestión de Bases de Datos). Permiten incorporar, modificar, dar de baja y generar informes de los datos, y relacionar bases de datos por un campo común.
+
+2. HISTORIA Y EVOLUCIÓN DE LOS SGBD
+Evolución desde estándares como dBase IV (sucesor de dBase III Plus), RBASE SYSTEM V, ORACLE y PARADOX.
+Transacción con recuperación: evita pérdidas de información por fallo del sistema y actualiza pantallas usadas simultáneamente por varias personas.
+Protección de acceso mediante claves y cifrado de datos.
+Microsoft lanzó ACCESS (bajo Windows). También se incorporaron a sistemas personales Oracle e Informix (diseñadas para sistemas grandes).
+En 1970 apareció el modelo relacional (organización de datos en tablas bidimensionales, formulación matemática). Casi todos los productos recientes se basan en el enfoque relacional. Las agendas electrónicas son un tipo especial de SGBD.
+
+3. MODELOS DE SISTEMAS GESTORES DE BASES DE DATOS
+Sistemas "prerrelacionales": modelo jerárquico (o en árbol) y modelo de red.
+
+3.1. Modelo jerárquico o en árbol
+Conjunto ordenado de árboles; un tipo de árbol tiene un solo tipo de registro raíz y un conjunto ordenado de subárboles dependientes de nivel más bajo (recuerda la estructura de MS-DOS).
+Integridad referencial: "un hijo no puede existir sin su padre" — al eliminar un padre se elimina automáticamente todo su subárbol. No se puede insertar un hijo sin que exista su padre. Norma básica: un registro hijo solo puede tener un registro padre.
+Ejemplo típico: SUCURSAL → OFICINA / EMPLEADA → HIJOS.
+
+3.2. Modelo de red
+Forma extendida de la estructura jerárquica. Diferencia clave: en jerárquico un hijo tiene un único padre; en red, un hijo puede tener cualquier número de padres.
+Integridad referencial similar: no se puede insertar un hijo si no existe su padre.
+Ejemplo típico: Curso 1, Curso 2, Curso 3 → Alumnos (relación muchos a muchos entre cursos y alumnos).
+
+3.3. Modelo relacional
+El usuario percibe los datos en forma de tablas (filas y columnas). "Relación" es sinónimo matemático de "tabla".
+Sinónimos: Archivo secuencial ↔ Relación ↔ Tabla; Registro ↔ Tupla ↔ Fila; Campo ↔ Atributo ↔ Columna.
+Conceptos básicos:
+- Dominio: conjunto de valores del mismo tipo que puede tomar un campo.
+- Relación: subconjunto del producto cartesiano de n dominios, caracterizado por un nombre.
+- Atributo (Campo): columna de una relación, caracterizada por su nombre, que toma valores de un dominio.
+- Campo clave: atributo(s) que distinguen unívocamente los registros de una relación. Puede haber ninguno, uno o varios.
+- Registro (Tupla): conjunto de campos/información sobre una persona u objeto.
+- Tabla: forma de representar una relación; es una "vista" de la base de datos (imagen lógica, no necesariamente física); puede estar limitada por seguridad o interés del usuario.
+- Clave candidata: campo(s) que pueden identificar de forma exclusiva cada registro; elegibles como clave primaria.
+- Clave primaria (Primary key): campo(s) que identifican de manera exclusiva cada registro; no admite valores Nulo y siempre tiene índice exclusivo; se usa para relacionar con claves externas de otras tablas. Una tabla puede tener ningún, un campo, o varios campos como clave principal.
+- Clave foránea (externa o ajena): clave usada en una tabla secundaria que coincide con la clave primaria de la tabla primaria relacionada; puede tener valores duplicados en la secundaria (a diferencia de la primaria). Exige la integridad referencial.
+- Propagación de la clave: cuando la clave principal de una tabla entra a formar parte de otra tabla relacionada (relaciones 1:N o 1:1), ese campo se convierte en clave foránea.
+
+4. ELEMENTOS DE UN SISTEMA GESTOR DE BASES DE DATOS
+Access 365 se integra con OneDrive y SharePoint (compartir bases de datos, trabajar en colaboración, acceder desde cualquier dispositivo con Internet); también con Teams, Outlook y OneNote. Access 365 solo está disponible para PC, no tiene versión online (a diferencia de Word, Excel o PowerPoint).
+Pantalla inicial: Inicio (Nueva base de datos en blanco por defecto "Database1" en carpeta Documentos, o Recientes), Nuevo (documento en blanco o plantillas de office.com), Abrir (bases de datos existentes, locales o en OneDrive). También Cuenta, Comentarios y Opciones.
+La base de datos Access "propiamente dicha" no existe: en realidad son archivos .mdb (antiguo) o .accdb (actual, desde Access 2007) gestionados por un motor: antes Jet, ahora ACE. Se puede crear/mantener un .accdb sin Access mediante DAO, OLE DB, ADO.NET, ADO, ODBC o JDBC junto con el motor ACE.
+Arquitectura: UI de Access (interfaz de usuario: formularios, informes, consultas, macros, asistentes) + Motor ACE (almacenamiento de datos, definición de datos, integridad de datos, manipulación de datos, recuperación de datos vía SQL, cifrado de datos, uso compartido en red, publicación web, importación/exportación/vinculación de datos). Access = interfaz gráfica del motor ACE.
+Al crear una base de datos en blanco, Access solicita crear una tabla en vista Hoja de datos (Tabla1); recomendable definir antes campos y tipos de datos en Vista Diseño.
+Interfaz de Access 365:
+- Panel de navegación (izquierda): objetos organizados por tipo (tablas, consultas, formularios, informes, macros, módulos); se muestra/oculta con F11.
+- Área de trabajo (centro): cada objeto se abre en pestaña independiente.
+- Cinta de opciones: fichas fijas + fichas contextuales según el objeto (Herramientas de tabla, de consulta, de formulario...).
+- Barra de estado (inferior): info del objeto activo, botones de cambio de vista.
+Cintas de opciones: Archivo (gestión de archivos, impresión, configuración), Inicio (vistas, edición, ordenación/filtros, registros, búsquedas, formatos), Crear (Tablas, Consultas, Formularios, Informes, Macros y código), Datos externos (importar/exportar), Herramientas de base de datos (rendimiento, relaciones entre tablas).
+Divisor de bases de datos (Herramientas de base de datos > Mover datos > Base de datos de Access): asistente que divide la BD en Archivo back-end (solo tablas, compartido en multiusuario) y Archivo front-end (consultas, formularios, informes, macros, módulos; conectado al back-end vía tablas vinculadas; cada usuario puede tener su propio front-end).
+Compactar una base de datos/proyecto: copia el archivo y reorganiza su almacenamiento (elimina fragmentación). Se puede activar "Compactar al cerrar" en Archivo > Opciones > Base de datos actual.
+Reparar una base de datos: Access suele detectar daños al abrir y ofrece compactar; si no, compactar manualmente si se comporta de forma imprevisible.
+Ejemplo de BD (librería): tablas AUTORES (Código, Nombre, Apellido, País, Anac, Ciudad, Estudios), LIBROS (ISBN, Título, Autor, Editorial, Año, Precio, Páginas, Ejemplares), EDITORIAL (Código, Nombre, Teléfono, Persona de contacto, Dirección, Ciudad, TServicio).
+Vistas de tabla:
+- Vista Diseño: define/modifica estructura (nombres de campos, tipos, propiedades); no muestra datos; recomendada antes de introducir datos.
+- Vista Hoja de datos: muestra los datos en formato de cuadrícula (filas=registros, columnas=campos); equivalente a hoja de cálculo Excel.
+Cambio de vista: ficha Inicio > comando Ver, o botones de la barra de estado.
+
+4.1. Tablas
+Creación en Vista Diseño: comando "Diseño de tabla" en la cinta Crear. Cinta contextual "Diseño de tabla": cambiar vista, clave principal, insertar/eliminar filas, hoja de propiedades, índices, crear macros, cambiar nombre/eliminar macro, relaciones, dependencias del objeto.
+
+4.1.1. Características de los campos en Access
+Nombres de campos/controles/objetos: hasta 64 caracteres; pueden incluir letras, números, espacios y caracteres especiales EXCEPTO puntos (.), signos de exclamación (!), acentos graves (`) y corchetes ([ ]); no pueden empezar por espacios; no admiten caracteres de control (ASCII 0-31); no pueden incluir comillas dobles (") en nombres de tabla/vista/procedimiento de un proyecto Access.
+Tipos de datos en Access (tabla resumen):
+- Texto corto: caracteres alfanuméricos, hasta 255 caracteres.
+- Texto largo (memo): texto largo o enriquecido, hasta 1 GB de caracteres o 2 GB de almacenamiento (2 bytes/carácter); muestra hasta 64.000 caracteres en un control.
+- Número: valores enteros o fraccionarios; 1, 2, 4, 8 o 16 bytes (id. de replicación).
+- Número grande: valor numérico no monetario, cálculo eficaz de números grandes; 8 bytes.
+- Fecha/Hora: fecha y hora; 8 bytes; incluye siempre componente fecha y hora.
+- Fecha/Hora extendida: similar, mayor rango e intervalo, más precisión decimal; cadena codificada de 42 bytes.
+- Moneda (Currency): datos monetarios sin redondeo en cálculos; 15 dígitos a la izquierda y 4 a la derecha de la coma; 8 bytes.
+- Hipervínculo: acceso a páginas web (URL) o archivos (UNC); hasta 8192 caracteres (2048 por parte).
+- Autonumeración: número único insertado automáticamente al agregar registro; usado como clave principal; 4 o 16 bytes (id. de replicación); puede ser secuencial, valor concreto o aleatorio.
+- Sí/No: booleano; formatos Sí/No, Verdadero/Falso, Activado/Desactivado; 1 byte.
+- Objeto OLE: objetos OLE u otros datos binarios de programas Windows; hasta 2 GB.
+- Datos adjuntos: fotos, imágenes, archivos binarios/Office; tipo preferente para imágenes; comprimidos hasta 2 GB, sin comprimir ~700 KB.
+- Asistente para búsquedas: no es un tipo real; inicia el asistente para crear un cuadro combinado que busca valores en otra tabla/consulta/lista.
+- Calculado: expresión con datos de uno o varios campos; tamaño según el tipo de resultado.
+Tamaño máximo de un archivo de base de datos Access: 2 gigabytes.
+
+4.1.2. Propiedades del campo
+- Tamaño del campo: máximo de datos almacenados (texto, número, autonumeración).
+  * Autonumérico: Entero largo o Id. de réplica.
+  * Numérico: Byte (0-255, 1 byte, sin decimales); Entero (-32.768 a 32.767, 2 bytes, sin decimales); Entero largo (-2.147.483.648 a 2.147.483.647, 4 bytes, sin decimales; recomendado como clave externa para relacionar con Autonumérico); Simple (±3,4×10^38, 4 bytes, 7 dígitos significativos); Doble (±1,797×10^308, 8 bytes, 15 dígitos significativos); Id. de réplica (identificador único global, 16 bytes, no admitido en .accdb); Decimal (±9,999...×10^27, 12 bytes, 28 dígitos decimales).
+- Formato: personaliza la visualización.
+  * Formatos numéricos predefinidos: Número general (sin separador de miles, ej. 3456,79), Moneda (símbolo + 2 decimales + separador miles, ej. 3.456,79 €), Euro (igual que Moneda pero siempre con € independientemente de la configuración regional), Fijo (mínimo 1 dígito y 2 decimales, sin separador miles, ej. 3456,79), Estándar (como Fijo con separador de miles, ej. 3.456,79), Porcentaje (×100 + %, ej. 21,00%), Científico (notación exponencial, ej. 3,46E+03).
+  * Formatos de fecha predefinidos: Fecha general (fecha y hora completas), Fecha larga (día semana, día, mes escrito, año), Fecha mediana (día, mes abreviado, año), Fecha corta (solo fecha numérica), Hora larga (h:m:s), Hora mediana (h:m AM/PM), Hora corta (h:m).
+- Posiciones decimales: número de decimales al mostrar.
+- Nuevos valores: incremento o valor aleatorio en campo autonumeración al agregar registro.
+- Máscara de entrada: caracteres que facilitan la entrada de datos. Caracteres de máscara: 0 (dígito obligatorio 0-9), 9 (dígito opcional 0-9), # (dígito/espacio/signo, opcional), L (letra obligatoria), ? (letra opcional), A (letra o dígito obligatorio), a (letra o dígito opcional), & (carácter/espacio obligatorio), C (caracteres/espacios opcional), . , : ; - / (marcadores decimales/millares/fecha-hora según configuración regional), > (mayúsculas siguientes), < (minúsculas siguientes), ! (rellena de izquierda a derecha), \ (carácter literal siguiente), "" (texto literal entre comillas).
+- Título: texto mostrado por defecto en etiquetas de formularios, informes y consultas.
+- Valor predeterminado: valor automático al agregar registros; modificable después en la tabla.
+- Regla de validación: expresión que debe ser verdadera al agregar/cambiar el valor; se puede usar el generador de expresiones (ej. longitud([campo1])<5).
+- Texto de validación: mensaje mostrado cuando un valor infringe la regla de validación.
+- Requerido: exige que se especifiquen datos en el campo.
+- Permitir longitud cero: permite cadena de longitud cero ("") en campos Texto corto/largo.
+- Indexado: agiliza el acceso a los datos mediante un índice.
+- Compresión Unicode: comprime el texto almacenado (>4.096 caracteres).
+- Modo IME / Modo de oraciones IME: controlan conversión de caracteres/oraciones en versiones asiáticas de Windows.
+- Etiquetas inteligentes: adjuntan una etiqueta inteligente al campo (datos reconocidos y etiquetados, p. ej. nombre de persona o destinatario reciente de Outlook).
+- Solo anexar: seguimiento del historial de valores del campo (propiedad en Sí).
+- Formato del texto: Texto enriquecido (almacena como HTML, permite formato) o Texto sin formato.
+- Alineación del texto: alineación predeterminada dentro de un control.
+
+4.1.3. Macros de datos
+Añadidas en Access 2010; agregan lógica a eventos de las tablas (adición, actualización, eliminación). Similares a los desencadenadores (triggers) de SQL Server. Se crean desde Crear > Macros y código. Sirven para validar datos y comprobar precisión. Dos tipos: controladas por eventos de tabla ("controladas por eventos") y las que se ejecutan al ser llamadas por nombre ("con nombre").
+
+4.2. Relaciones
+Una relación permite trabajar con datos de un campo de una tabla en otro campo de otra tabla, combinando datos de dos tablas.
+No es necesario que los campos relacionados tengan el mismo nombre, pero sí el mismo tipo de datos, salvo que la clave principal sea Autonumérico: en ese caso la propiedad Tamaño del campo de ambos campos relacionados debe ser Entero Largo.
+Se crea arrastrando el campo de una tabla al campo relacionado de la otra (se abre el cuadro "Modificar relaciones").
+Tipos de relaciones:
+- Uno a uno (1 a 1): una fila de una tabla se relaciona con una sola fila de la otra y viceversa.
+- Uno a muchos (1 a ∞): una fila de una tabla se relaciona con varias filas de la otra, pero no al revés.
+- Muchos a muchos (∞ a ∞): una fila de una tabla se relaciona con varias filas de otra y viceversa; se implementa con una tabla de unión intermedia con relaciones 1 a muchos con cada tabla.
+Integridad referencial (una vez creadas las relaciones, se puede exigir): impide añadir un registro en la secundaria si no existe el correspondiente en la principal (evita huérfanos); impide eliminar un registro de la principal si existen registros relacionados en la secundaria; impide modificar la clave primaria de la principal si existen registros relacionados en la secundaria.
+Opciones adicionales junto a la integridad referencial:
+- Actualización en cascada: al modificar la clave primaria en la principal, Access actualiza automáticamente los valores en la secundaria.
+- Eliminación en cascada: al eliminar un registro de la principal, Access elimina automáticamente los registros relacionados en la secundaria.
+Se configuran desde Herramientas de base de datos > Relaciones.
+Tipos de combinaciones (en consultas):
+1. Combinación interna: solo filas donde los campos combinados de ambas tablas coinciden.
+2. Combinación externa izquierda: todos los registros de la tabla izquierda + solo los coincidentes de la derecha (blancos si no hay correspondencia); útil para ver todos los de la principal más los relacionados de la secundaria.
+3. Combinación externa derecha: todos los registros de la tabla derecha + solo los coincidentes de la izquierda (caso inverso a la externa izquierda).
+
+4.3. Introducción de registros en las tablas
+Cinta Inicio con tabla abierta: Ver (alternar Vista Diseño/Vista Hoja de datos), Ascendente/Descendente (ordenar), Selección (filtro por campo/valor), Filtro (aplicar/quitar), Buscar (buscar y reemplazar), Nuevo (nuevo registro al final), Eliminar (registro o columna seleccionados).
+
+4.4. Consultas
+Permiten búsquedas, criterios, ordenaciones sobre campos de una o varias tablas relacionadas, u otras tareas de modificación de datos.
+Asistentes para crear consultas (Crear > Consultas > Asistente para consultas), 4 tipos:
+- Asistente para consultas sencillas: selección básica de tablas/consultas y campos.
+- Asistente para tablas de referencias cruzadas: encabezados de fila, columna y valor de agregación.
+- Asistente para búsqueda de duplicados: busca registros con valores duplicados en uno o más campos.
+- Asistente para búsqueda de no coincidentes: busca registros sin relación en otra tabla (registros huérfanos).
+Con "Diseño de consulta" se elige la tabla/consulta origen; tipo por defecto: consulta de selección. Cinta "Diseño de consulta": Ver/Ejecutar, tipos de consulta (Seleccionar, Crear tabla, Anexar, Actualizar, General, Eliminar, Unión, Paso a través, Definición de datos), Agregar tablas, Totales, Parámetros, Nombres de tabla, Hoja de propiedades.
+Categorías: Consultas de selección (recuperan/muestran datos sin modificarlos; las más habituales) y Consultas de acción (modifican datos o estructura: creación de tabla, datos anexados, actualización, eliminación).
+Tipos de consultas en Access 365:
+- Consulta de selección: recupera y muestra datos según criterios; tipo predeterminado.
+- Consulta de parámetros: solicita un valor al usuario en un cuadro de diálogo al ejecutarse; se define con el texto entre corchetes [ ] en la fila Criterios.
+- Consulta de tabla de referencias cruzadas (General): datos resumidos en filas y columnas cruzadas (como tabla dinámica de Excel); requiere encabezados de fila, columna y valor de agregación.
+- Consulta de creación de tabla: genera nueva tabla permanente a partir de resultados de una consulta de selección.
+- Consulta de actualización: modifica valores de campos en registros que cumplan un criterio; NO sirve para añadir ni eliminar registros.
+- Consulta de datos anexados: añade registros de una tabla/consulta a otra tabla existente.
+- Consulta de eliminación: elimina permanentemente registros que cumplan criterios.
+- Consulta de unión (SQL): combina registros de dos o más tablas/consultas en un único conjunto de resultados; solo puede crearse en Vista SQL.
+Internamente Access ejecuta todas las consultas en SQL (Structured Query Language); estándar internacional reconocido por ISO y ANSI; relativamente fácil de leer.
+Vistas de consultas: Vista Diseño (estructura visual: tablas, campos, criterios, orden), Vista Hoja de datos (resultados en filas/columnas), Vista SQL (código SQL editable directamente).
+
+4.4.1. Consulta de selección
+El usuario selecciona campos, tabla de origen, orden, visualización y criterios. Se ejecuta con el comando Ejecutar (!) o cambiando a Vista Hoja de datos.
+Ejemplo 1: mostrar nombre/apellidos/país de autores + títulos/año/precio de libros + editorial, filtrando autores cuyo nombre empiece por A y año de nacimiento posterior a 1970 (criterios en la misma fila = Y).
+Ejemplo 2 (consulta paramétrica): el criterio no es directo; se escribe algo entre corchetes [...] y al ejecutar se abre un cuadro de diálogo solicitando el dato (p. ej. [Indicar País]).
+Criterios de igualdad según tipo de dato:
+- Texto corto/largo e hipervínculo: entre comillas "texto".
+- Numérico/autonumeración/moneda: número directamente.
+- Fecha: entre almohadillas #dd/mm/aaaa#.
+- Booleano: Verdadero / Falso.
+Caracteres comodín en criterios: * (cero o más caracteres, ej. Qu* → que, qué, quién), ? (un carácter alfabético, ej. B?la → bola, bala, bula), [ ] (un carácter de los indicados, ej. B[ao]la → bola, bala), ! (carácter NO incluido, ej. B[!ao]la → bula), - (carácter de un intervalo ascendente, ej. B[a-c]r → bar, bbr, bcr), # (carácter numérico, también delimita fechas, ej. 1#3 → 103,113,123; >#01/04/2008#), Sí/1/-1 (VERDADERO lógico), 0 (FALSO lógico), " (delimitan texto).
+Criterios en la misma fila = función Y (ambos deben cumplirse); criterios en filas distintas = función O (basta con que se cumpla uno).
+Operadores en consultas de Access:
+- Comparación: = <> > < ≥ ≤.
+- Texto: & o + (concatenación; + solo con dos cadenas de texto), Como (compara cadenas, admite comodines * y ?), IN (verifica si un valor está en un conjunto de valores).
+- Lógicos: AND (y), OR (o), NOT (invierte la condición).
+- Intervalo: Entre (valor dentro de un rango).
+- Nulo: Es nulo (campo sin valor), Es NoEsNulo (campo con valor).
+
+4.4.2. Consulta de creación de tabla
+Crea una tabla nueva a partir de la consulta de datos de otra tabla, eligiendo campos y datos como en una de selección.
+
+4.4.3. Consulta Actualizar
+Modifica datos de una tabla; NO sirve para agregar ni eliminar registros. Ejemplo: actualizar campo Ejemplares de tabla Libros a "100" (fila "Actualizar a").
+
+4.4.4. Consulta General
+Antes llamadas "Tabla de referencias cruzadas". Muestra datos resumidos en filas y columnas cruzadas (como tabla dinámica de Excel); agrupa según dos conjuntos de valores (encabezados de fila/izquierda y de columna/superior), mostrando en la intersección el resultado de una función de agregación (suma, promedio, recuento).
+
+4.4.5. Consulta Anexar
+Añade registros a una tabla existente. Ejemplo: añadir a una tabla los registros cuyo campo Nombre_Animal contenga "LAIKA" (fila "Anexar a" indica el campo destino).
+
+4.4.6. Consulta Eliminar
+Elimina registros de la tabla existente que coincidan con los criterios especificados (fila "Eliminar: Dónde").
+
+4.4.7. Consulta de selección con campo calculado
+Se crea un campo nuevo con una expresión, p. ej.: total:[Consultas]![Importe]*1,21 (incrementa el importe un 21%).
+
+4.4.8. Consultas de totales
+Calculan subtotales en grupos de registros; una fila de total calcula totales generales de una o varias columnas. Ejemplo: Suma del Importe por cada Especialidad de Veterinarios.
+
+4.4.9. Consultas con expresiones mediante el Generador de expresiones
+Permite crear campos calculados usando funciones incorporadas (p. ej. Mes([Animales]![Fecha_Nacimiento]) para extraer el mes de nacimiento).
+
+4.4.10. Otras consultas
+- Unión: muestra registros de una tabla/consulta junto con datos de una o más tablas, formando un conjunto de registros.
+- Paso a través: consulta SQL específica (usuarios avanzados) para usar tablas de un servidor SQL.
+- Definición de datos: consultas SQL específicas que crean/modifican/eliminan elementos de la estructura de las tablas de origen; se diseñan directamente en Vista SQL.
+
+4.5. Formularios
+
+4.5.1. Cuestiones generales
+Ventanas para obtener/introducir/modificar datos de forma atractiva: pueden usarse para introducir/ver datos de tabla o consulta, cuadros de diálogo con acción basada en la entrada, o paneles de control para abrir otros formularios/informes.
+Tipos de formularios en Access:
+- Formularios de detalles: en blanco, muestran un registro a la vez.
+- Formularios de columnas: cada campo en una columna distinta, claros y ordenados.
+- Formularios tabulares: muestran muchos campos en filas distintas, sin perder datos.
+- Subformularios: muestran datos de una tabla relacionada dentro de otra (p. ej. pedidos de cada cliente).
+Vistas de formularios: Vista Formulario (uso normal, introduce/modifica/elimina datos, no modifica estructura), Vista Diseño (modifica estructura/diseño, no muestra datos reales), Vista Presentación (modifica diseño mientras se ven datos reales, intermedia), Vista Hoja de datos (registros en formato tabla).
+
+4.5.2. Creación de un formulario
+Opciones desde Crear: Formulario (usa todos los campos del origen de registros seleccionado y de sus orígenes relacionados), Diseño del formulario, Formulario en blanco, Asistente para formularios (preguntas detalladas sobre origen, campos, diseño, formato), Navegación, Más formularios.
+Pasos del Asistente para formularios: 1) seleccionar tabla/consulta y campos; 2) elegir distribución (En columnas, Tabular, Hoja de datos, Justificado); 3) establecer título del formulario y elegir si abrirlo o modificar su diseño.
+
+4.6. Informes
+Presentan datos efectivamente en formato impreso; sirven para agrupar/ordenar datos, calcular totales y organizar según necesidades.
+Vistas de informes: Vista Informe (lectura, con datos reales), Vista Preliminar (previsualización antes de imprimir, ajuste de zoom, opciones de impresión), Vista Diseño (estructura: secciones, controles, propiedades, sin datos reales), Vista Presentación (diseño con datos reales visibles).
+Un informe consta de cuatro partes: encabezado de informe, encabezado de página, detalle, pie de página.
+Expresiones de paginación habituales: =[Page] (número de página actual), =[Pages] (número total de páginas), ="Página " & [Page] & " de " & [Pages] (texto "Página 1 de 4"); se insertan en cuadros de texto del encabezado/pie de página, combinables con texto literal usando &.
+Desde Diseño > Agrupación y totales: hasta 10 niveles de ordenación y agrupación por informe; cada nivel puede calcular subtotales, totales, promedios u otras agregaciones. Los informes se crean sobre tablas o consultas.
+Formatos de exportación desde Vista Preliminar: PDF/XPS (preserva el diseño), Excel (hoja de cálculo), Word/RTF (texto enriquecido compatible con Word), Texto (sin formato), HTML (página web), XML (datos), Correo electrónico (informe adjunto).
+El Asistente de Informes ofrece tres tipos de distribución: en columnas, tabular y justificado.
+
+4.7. Macros
+Una macro es un conjunto de una o más acciones (cada una realiza una operación, p. ej. abrir un formulario o imprimir un informe); ayudan a automatizar tareas comunes (ej. imprimir un informe al hacer clic en un botón). Se crean desde Crear.
+
+4.8. Módulos
+Objetos que agregan funciones a la base de datos, escritos en VBA (Visual Basic para Aplicaciones).
+- Módulos de clase: se adjuntan a formularios/informes; procedimientos específicos de ese objeto.
+- Módulos estándar: no vinculados a objetos específicos, código "global" para toda la base de datos.
+Se crean desde Crear.
+
+4.9. Páginas
+Páginas de acceso a datos: funcionalidad de versiones antiguas (anteriores a Access 2007) para crear páginas web de visualización/edición de datos desde Internet/intranet. Eliminada definitivamente en Access 2007; NO existe en Access 365. Se menciona solo como referencia histórica.
+
+5. IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN DE DATOS
+Opciones en la cinta Datos externos.
+Access permite dos opciones de uso de datos externos:
+- Importar: crea copia de la información en una nueva tabla de Access (convierte datos de otro formato); también puede importar objetos de base de datos (formularios, informes) a otra BD/proyecto Access. El archivo/tabla de origen no se modifica. Se pueden agregar datos a tablas existentes salvo al importar archivos de texto u hojas de cálculo.
+- Vincular: conecta datos de otra base de datos SIN importarlos; permite ver/modificar los datos más recientes en ambas bases sin duplicar copias. Solo se pueden crear vínculos a TABLAS de otra base de datos Access (no a consultas, formularios, informes, macros ni módulos). Se crea una "tabla vinculada" con vínculo a campos y registros de origen; los cambios se reflejan en ambos sentidos, PERO no se puede cambiar la estructura de una tabla vinculada (no se pueden agregar/eliminar campos ni modificar tipos de datos).
+- Excepción con Excel: se puede vincular a un origen Excel creando una tabla vinculada; los cambios en Excel se reflejan en Access, pero los datos de origen no se pueden modificar desde Access.
+Exportación de datos: envía datos y objetos a otra base de datos, hoja de cálculo o formato de archivo; proceso similar a copiar y pegar. Se puede exportar a diversidad de bases de datos, programas y formatos compatibles; la mayoría de objetos de Access se pueden exportar a otra BD/proyecto de Access.
+
+6. EXPRESIONES Y FUNCIONES EN ACCESS
+Una expresión combina funciones (integradas o definidas por el usuario), identificadores, operadores, valores y constantes, dando como resultado un único valor.
+Ejemplo: =Sum([PRECIO])*0,08 → Sum() función integrada; [PRECIO] identificador; * operador matemático; 0,08 constante.
+Toda expresión válida debe contener al menos una función o un identificador; puede anidarse (usar una expresión como argumento de otra).
+Todas las tablas, consultas, formularios, informes y campos son "objetos", cada uno con un nombre. El conjunto de todos los miembros de un tipo de objeto es una "colección". Los objetos tienen "propiedades" que describen/cambian sus características.
+Un identificador incluye el nombre del elemento y el del elemento al que pertenece. Ejemplo: [EMPLEADOS]![FECHA_NACIMIENTO].
+
+6.1. Operadores de identificadores
+Tres operadores: ! (signo de exclamación), . (punto), [ ] (corchetes). Se usan colocando cada parte del identificador entre corchetes y uniéndolas con ! o con punto.
+
+6.2. Utilizar los operadores ! y . (punto) en las expresiones
+- Operador ! : indica que el elemento siguiente ha sido definido por el USUARIO (tabla, formulario, informe, control, campo).
+- Operador . (punto): indica normalmente que el elemento siguiente ha sido definido por MICROSOFT ACCESS (p. ej. propiedades de un campo).
+Ejemplo identificador completo: [Informes]![Ventas]![Id-Empleado].Visible
+- [Informes]: colección de informes abiertos de la base de datos.
+- [Ventas]: informe "Ventas" de la colección Informes.
+- [Id-Empleado]: control "Id-Empleado" del informe "Ventas".
+- Visible: propiedad Visible del control "Id-Empleado".
+
+6.3. Ejemplo de funciones
+
+6.3.1. Categoría Agregadas de SQL
+- Cuenta(Expresión): número de registros devueltos por una consulta.
+- Máx(Expresión): máximo de un conjunto de valores de un campo.
+- Min(Expresión): mínimo de un conjunto de valores de un campo.
+- Promedio(Expresión): media aritmética de un conjunto de valores.
+- Suma(Expresión): suma de un conjunto de valores.
+
+6.3.2. Categoría Fecha y Hora
+- AgregFecha(intervalo;número;fecha): añade un intervalo de tiempo a una fecha. Intervalos: "aaaa" año, "m" mes, "d" día, "t" trimestre. Ejemplo: AgregFecha("aaaa";1;"01/01/2024") suma 1 año.
+- Ahora(): fecha y hora actual del sistema.
+- Fecha(): fecha actual del sistema.
+- Año(fecha) / Mes(fecha) / Día(fecha): devuelven el entero correspondiente de una fecha.
+- Hora(hora): entero 0-23. Minuto(hora): entero 0-59. Segundo(hora): entero 0-59.
+- DifFecha(intervalo; fecha1; fecha2; [primer día semana]; [primera semana año]): número de intervalos de tiempo entre dos fechas. Ejemplo: difFecha("d";[Fecha_Pedido];[Fecha_Entrega]) → días transcurridos.
+
+6.3.3. Categoría Flujo de programas
+- Conmutador(Expr-1;valor-1;[Expr-2;valor-2]...): evalúa lista de expresiones, devuelve el valor asociado a la primera expresión Verdadero. Ejemplo: calificación según [Nota] (Aprobado, Bien, Notable, Sobresaliente, Suspenso).
+- Elegir(núm_índice;valor1;[valor2]...): elige un elemento de una lista según su posición. Ejemplo: =ELEGIR(1;"rojo";"verde";"azul") devuelve "rojo".
+- SiInm(Expr; parteVerdadera; parteFalsa): evalúa una condición y devuelve un valor u otro. Ejemplo: siInm([EDAD]>=18;"MAYOR DE EDAD";"MENOR DE EDAD").
+
+6.3.4. Categoría Texto
+- Izq(cadena;longitud): caracteres desde la izquierda.
+- Der(cadena;longitud): caracteres desde la derecha.
+- Medio(cadena;inicio;[longitud]): caracteres desde una posición.
+- Longitud(cadena): número de caracteres.
+
+6.3.5. Categoría Matemáticas
+- Abs(número): valor absoluto.
+- Int(número) / Fix(número): parte entera.
+- Redondear(número;[precisión]): redondeo a posiciones decimales.
+- Raíz2(número): raíz cuadrada.
+
+7. POWER BI: HERRAMIENTA DE ANÁLISIS Y VISUALIZACIÓN DE DATOS
+
+7.1. Introducción
+Herramienta de inteligencia de negocios (Business Intelligence) de Microsoft que transforma grandes volúmenes de datos en información visual, clara y comprensible mediante gráficos interactivos, tablas dinámicas y paneles personalizados. Ampliamente usada en sector privado y, cada vez más, en organismos públicos (informes presupuestarios, control del gasto, indicadores de gestión, datos de personal y servicios).
+
+7.2. Componentes principales
+- Power BI Desktop: aplicación gratuita local; conecta, transforma, modela y visualiza datos mediante informes interactivos.
+- Power BI Service: plataforma en la nube (navegador); publicar, compartir y colaborar en tiempo real.
+- Power BI Mobile: app móvil, acceso a paneles/informes desde cualquier lugar.
+- Power BI Gateway: mantiene actualizados datos locales (Excel, SQL locales) en informes publicados en Power BI Service.
+- Power BI Report Builder: informes paginados con formato clásico (contextos administrativos/documentales).
+- Power BI Embedded: incrusta informes de Power BI en otras aplicaciones/portales web (orientado a desarrolladores).
+
+7.3. Funcionalidades principales
+- Conexión a múltiples fuentes de datos: Excel, Access, SQL Server, SharePoint, Google Analytics, bases en la nube, archivos planos, etc.
+- Modelado de datos: combinar tablas, establecer relaciones, jerarquías, columnas calculadas.
+- Visualizaciones interactivas: barras, líneas, mapas, tarjetas, indicadores, matrices, con filtrado dinámico y segmentación cruzada.
+- Lenguaje DAX (Data Analysis Expressions): medidas y cálculos personalizados (totales acumulados, comparativas interanuales, promedios, indicadores compuestos).
+- Transformación de datos con Power Query: limpieza, combinación y preparación automatizada.
+- Actualización automática de informes: programable, vinculada a servicios en la nube.
+- Modos DirectQuery y LiveConnect: trabajan directamente sobre las fuentes sin importarlas, acceso en tiempo real.
+- Funciones de inteligencia artificial: detección de anomalías, análisis de causas (decomposition tree), predicción de tendencias, generación automática de explicaciones, visualizaciones con modelos de aprendizaje automático, sin necesidad de programar.
+
+7.4. Power Query
+Herramienta integrada para importar, transformar y depurar datos antes del análisis: filtrar columnas/filas, eliminar duplicados, combinar datos de distintas tablas/archivos, cambiar formatos, agrupar y resumir información. Entorno visual e intuitivo sin necesidad de programar; cada paso queda registrado en un flujo de pasos editable, reproduciendo automáticamente la carga y transformación al actualizar los datos.
+
+7.5. Flujo básico de trabajo
+Cinco fases: 1) Conexión a fuentes de datos (Excel, Access, BD relacionales o en la nube); 2) Transformación mediante Power Query; 3) Modelado (relaciones entre tablas, cálculos personalizados); 4) Visualización (gráficos, tarjetas, tablas, paneles interactivos); 5) Publicación y colaboración (subir informes al servicio Power BI, compartir o exportar a PDF/PPT).
+
+7.6. Aplicaciones de Power BI
+Elaboración de informes financieros y seguimiento del presupuesto (ingresos, gastos, desviaciones); análisis de recursos humanos (horas trabajadas, ausencias, productividad, distribución del personal); supervisión de contratos/proyectos/procesos operativos; visualización de KPIs segmentados por área/departamento/delegación/unidad de negocio; análisis de datos históricos para planificación estratégica (tendencias, patrones, oportunidades de mejora).
+
+7.7. Ventajas de Power BI
+Gratuito en versión de escritorio (Power BI Desktop), sin inversión inicial; interfaz intuitiva basada en el entorno Office (reduce curva de aprendizaje); no requiere conocimientos de programación (aunque permite funciones avanzadas con DAX y Power Query); compatibilidad con gran variedad de fuentes de datos locales y en la nube; automatización de tareas y reducción de errores manuales; facilidad para compartir y colaborar (Power BI Service y dispositivos móviles); mejora de la toma de decisiones gracias a información visual, clara, actualizada y basada en datos reales.
+
+7.8. Requisitos técnicos y consideraciones
+- Sistema operativo: Power BI Desktop requiere Windows 10 o superior; NO disponible de forma nativa para macOS (solo vía máquinas virtuales u otras soluciones). Power BI Service se accede vía navegador (Edge, Chrome, Firefox, etc.).
+- Hardware recomendado para Power BI Desktop: procesador 1,4 GHz mínimo (recomendado 2,0 GHz o superior, 64 bits); RAM mínimo 4 GB (recomendado 8 GB o más); disco: al menos 2 GB disponibles; resolución: 1440x900 o superior.
+- Conectividad: bases de datos relacionales (SQL Server, MySQL, PostgreSQL, Oracle...), archivos (Excel, CSV, JSON, XML...), servicios online (SharePoint, Dynamics, Google Analytics, Salesforce...), APIs REST y conectores personalizados.
+- Instalación del gateway de datos (opcional): para acceder a datos locales desde Power BI Service (nube), es necesario instalar el Data Gateway en un servidor/equipo disponible 24/7; actúa de puente seguro entre datos on-premise y entorno cloud.
+- Licencias de usuario: Power BI Free (uso individual local); Power BI Pro (necesaria para compartir y colaborar, requerida por cada usuario que publica o consume dashboards compartidos); Power BI Premium (mayor capacidad de almacenamiento/rendimiento/funcionalidades avanzadas, por usuario o por capacidad).
+- Requisitos de red: acceso a Internet para Power BI Service y fuentes online; configuración de firewalls/proxies que permitan el tráfico hacia los servicios de Microsoft Power BI.
+
+IDEAS CLAVE
+- Microsoft Access es un SGBD relacional integrado en Microsoft Office; permite crear y administrar bases de datos para almacenar y recuperar información de forma eficiente.
+- Para crear una nueva BD en Access se elige "Nuevo" en la pantalla de inicio: plantilla o base de datos en blanco.
+- Las tablas son la estructura fundamental de una base de datos: filas (registros) y columnas (campos).
+- Los tipos de datos determinan cómo se almacena y utiliza la información en un campo: texto corto, texto largo, número, número grande, fecha/hora, fecha/hora extendida, moneda, hipervínculo, autonumeración, Sí/No, objeto OLE, datos adjuntos, asistente para búsquedas, calculado.
+- Las relaciones establecen cómo se conectan las tablas entre sí; garantizan la integridad referencial. Tipos: uno a uno, uno a muchos, muchos a muchos.
+- Las consultas recuperan, filtran o modifican datos; se dividen en consultas de selección (no modifican datos) y consultas de acción (creación de tabla, actualización, anexado, eliminación).
+- SQL (Structured Query Language) es el lenguaje interno que Access usa para todas las consultas; se puede editar directamente en Vista SQL.
+- Los subformularios muestran datos relacionados de una tabla secundaria dentro de un formulario principal.
+- Los informes presentan datos en formato impreso o electrónico, con agrupación, ordenación y cálculo de totales.
+- Se pueden importar (archivos de Access, hojas Excel, texto, bases SQL, SharePoint...), vincular (solo tablas de otra BD Access) y exportar datos.
+- Una expresión combina funciones, identificadores, operadores, valores y constantes para realizar cálculos y manipular datos.
+- Se puede proteger una BD de Access cifrando con contraseña desde Archivo > Información (requiere abrir la base en modo exclusivo).
+- Power BI es la herramienta de Microsoft para transformar grandes volúmenes de datos en información visual clara y comprensible, mediante gráficos interactivos, tablas dinámicas y paneles personalizados, para tomar decisiones basadas en datos reales.
