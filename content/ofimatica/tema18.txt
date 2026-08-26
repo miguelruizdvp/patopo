@@ -1,0 +1,713 @@
+TEMA 18 - HOJAS DE CÁLCULO: EXCEL
+Oposición Auxiliar Administrativo Comunidad de Madrid - Ofimática
+Fuente: ADAMS Editorial
+
+===============================================================
+1. HISTORIA DE LAS HOJAS DE CÁLCULO
+===============================================================
+
+La primera hoja de cálculo fue VISICALC. Otras hojas de cálculo: LOTUS 1,2,3, QUATRO PRO, EXCEL. Una hoja de cálculo es una aplicación horizontal para realizar cálculos y representación gráfica de datos. Característica clave: las fórmulas se recalculan automáticamente.
+
+Excel es la hoja de cálculo de Microsoft. Apareció en 1985. Versiones: 95, 97, 2000, XP, 2003, 2007, 2010, 2013, 2016, 2019, 2021 y 365.
+
+Excel 365 es parte de Microsoft 365 (antes Office 365), servicio por suscripción. Integrado con OneDrive: autoguardado, colaboración en tiempo real, acceso desde cualquier navegador. Se integra con Teams, SharePoint, Outlook y OneNote.
+
+===============================================================
+2. ESTRUCTURA DE LA INFORMACIÓN EN LAS HOJAS DE CÁLCULO
+===============================================================
+
+LIBROS - Formatos de archivo compatibles con Excel 365:
+- .xlsx: formato estándar de Excel 365 (XML comprimido, sin macros). Formato predeterminado al guardar.
+- .xlsm: libro con macros habilitadas.
+- .xltx: plantilla sin macros.
+- .xltm: plantilla con macros habilitadas.
+- .xls: formato binario Excel 97-2003 (retrocompatibilidad).
+- .csv: valores separados por comas, intercambio de datos.
+- .pdf: exportable desde Archivo > Exportar, preserva el diseño.
+
+Formato predeterminado al guardar: .xlsx. Para otro formato: Archivo > Guardar como.
+
+HOJAS: los libros se componen de hojas. Excel 365 inicia con una hoja por defecto ("Hoja 1"). El nº de hojas al inicio se modifica en Opciones avanzadas.
+
+CELDAS: una hoja de Excel 365 tiene 1.048.576 filas por 16.384 columnas (de A a XFD) = 17.179.869.184 celdas por hoja.
+
+CELDA: estructura mínima de almacenamiento. Se identifican por columna+fila (ej. A2). Notación completa: NombreHoja!Columna Fila (ej. Hoja1!A3). La celda sobre la que se trabaja es la celda activa.
+
+RANGO: conjunto de celdas, juntas o separadas. Se representa: celda inicial : celda final. Selección de rango contiguo: SHIFT o F8 (extiende selección). Rangos múltiples: CTRL o MAYÚS+F8 (agregar selección). Se puede nombrar un rango vía Administrador de nombres (ficha Fórmulas) o cuadro de nombres.
+
+===============================================================
+3. DESPLAZAMIENTO POR LA HOJA DE CÁLCULO
+===============================================================
+
+- Teclas de movimiento del cursor: mueven la celda activa una celda en cada dirección.
+- Ctrl + flecha: desplaza al extremo de los datos (o al final/inicio si no hay datos).
+- Inicio: desplaza a la columna "A" de la fila actual.
+- Ctrl+Inicio: mueve a la celda A1.
+- Ctrl+Fin: intersección de última fila con última columna utilizada.
+- Av Pág / Re Pág: desplaza una pantalla abajo/arriba.
+- Alt+Av Pág / Alt+Re Pág: desplaza una pantalla a la derecha/izquierda.
+- Ctrl+Retroceso: muestra la celda activa.
+- Intro: desplaza cursor arriba→abajo en rango seleccionado.
+- May+Intro: desplaza cursor abajo→arriba.
+- Tab / May+Tab: desplaza derecha / izquierda.
+- F5: cuadro "Ir a" (coordenadas Columna+Fila; para otra hoja: NombreHoja!Celda).
+- FIN: activa "MODO FINAL".
+- Ctrl+Av Pág / Ctrl+Re Pág: hoja siguiente / anterior.
+- Ctrl+F6 o Ctrl+Tab: siguiente libro abierto.
+- Ctrl+Mayus+F6 o Ctrl+Mayus+Tab: libro abierto anterior.
+
+===============================================================
+4. PRINCIPALES FUNCIONES Y UTILIDADES
+===============================================================
+
+4.1. ESTRUCTURA DE UN LIBRO DE EXCEL: LIBROS, HOJAS Y CELDAS
+
+Interfaz de Excel 365 - elementos principales:
+- Barra de herramientas de acceso rápido: esquina superior izquierda, personalizable desde Archivo > Opciones > Barra de herramientas de acceso rápido.
+- Cinta de opciones: fichas Archivo, Inicio, Insertar, Disposición de página, Fórmulas, Datos, Revisar, Vista, Automatizar, Ayuda. Se minimiza con doble clic en el nombre de ficha o CTRL+F1.
+- Cuadro de nombres: izquierda de la barra de fórmulas; muestra referencia de celda activa; permite navegar y asignar nombres a rangos.
+- Barra de fórmulas: muestra el contenido real (fórmula o valor exacto) de la celda activa.
+- Área de trabajo: filas (1 a 1.048.576) y columnas (A a XFD, 16.384). La intersección forma la celda.
+- Fichas de hojas: parte inferior; clic derecho permite insertar, eliminar, mover, copiar, renombrar, cambiar color.
+- Barra de estado: información contextual (promedio, recuento, suma de celdas numéricas seleccionadas); personalizable con clic derecho.
+
+Ficha Archivo: gestión de archivos, impresión, configuración.
+
+AUTOGUARDADO Y AUTORRECUPERACIÓN (dos mecanismos distintos, no confundir):
+- Autoguardado (AutoSave): solo disponible si el archivo está en OneDrive o SharePoint. Guarda cambios automáticamente cada pocos segundos. Permite colaboración en tiempo real. Si el archivo está en local, NO está disponible.
+- Autorrecuperación: independiente del Autoguardado; guarda copia temporal local periódicamente (por defecto cada 10 minutos, configurable en Archivo > Opciones > Guardar). Recupera trabajo tras cierre inesperado (Panel de recuperación de documentos). Disponible tanto en nube como en local.
+
+CONFIGURACIÓN DE EXCEL 365 (Archivo > Opciones):
+- General: nombre de usuario, tema de Office, vista de inicio, nº de hojas predeterminado.
+- Fórmulas: opciones de cálculo (automático / automático excepto tablas de datos / manual), estilo de referencia R1C1, autocompletar fórmulas, comprobación de errores.
+- Datos: conexiones externas, consultas en segundo plano, Power Pivot.
+- Revisión: autocorrección y ortografía.
+- Guardar: formato predeterminado (.xlsx), intervalo de autorrecuperación (10 min por defecto), ubicación de archivos, autoguardado en la nube.
+- Idioma: edición y revisión.
+- Accesibilidad.
+- Avanzadas: comportamiento tecla Intro, separadores decimales/miles, visualización, cálculo y rendimiento.
+- Personalizar cinta de opciones: añadir/eliminar/reorganizar fichas y grupos. La ficha Programador (no aparece por defecto) es necesaria para macros, formularios y VBA.
+- Barra de herramientas de acceso rápido: añadir comandos frecuentes.
+- Complementos: gestión de Solver, Paquete de herramientas para análisis, etc.
+- Centro de confianza: seguridad, macros, ubicaciones de confianza.
+
+Menú Imprimir: opciones - Imprimir hojas activas, Imprimir todo el libro, Imprimir selección, Imprimir la tabla seleccionada.
+
+En la cinta aparecen los botones Comentarios y Compartir.
+
+FICHAS DE LA CINTA (resumen):
+- Inicio: portapapeles, fuente, alineación, número, estilos, celdas, edición. Incluye "Analizar datos" (busca patrones para sugerir valores).
+- Insertar: tablas, tablas dinámicas, tabla, formularios, ilustraciones, gráficos, minigráficos, filtros (segmentación de datos), vínculos, comentarios, texto, símbolos. En Imágenes: "Colocar en celda" y "Colocar sobre las celdas". También Iconos y Modelos 3D. Posibilidad de insertar casilla en celda.
+- Disposición de página: temas, configurar página, ajustar área de impresión, opciones de la hoja.
+- Fórmulas: biblioteca de funciones, nombres definidos, auditoría de fórmulas, cálculo.
+- Datos: obtener y transformar datos, consultas y conexiones, tipos de datos, ordenar y filtrar, herramientas de datos, previsión, esquema.
+- Revisar: ortografía, control de rendimiento (nuevo en 365, detecta lentitud), comentarios, notas (equivalen a comentarios de Excel 2019, ahora los comentarios son interactivos como en Word), proteger hoja/libro/rangos.
+- Vista: vistas de hoja/libro, mostrar (encabezados, cuadrícula, barra de fórmulas), zoom, ventana, macros. "Vista de hoja" se habilita al compartir la hoja.
+- Automatizar: herramientas de scripting y plantillas de flujo de trabajo (nueva en 365).
+- Ayuda: soporte, comentarios al equipo de Microsoft Office.
+
+MICROSOFT COPILOT EN EXCEL 365: asistente de IA integrado, botón en la cinta. Permite: analizar datos e identificar patrones/tendencias en lenguaje natural, generar fórmulas complejas desde descripción textual, crear tablas dinámicas y gráficos automáticamente, resaltar/filtrar/ordenar según criterios descritos, generar resúmenes e interpretaciones. Requiere suscripción a Microsoft 365 Copilot (licencia adicional) y conexión a Internet. No disponible en todas las versiones/planes.
+
+===============================================================
+5. CONFIGURACIÓN DE LA PÁGINA
+===============================================================
+
+Ficha Disposición de página configura el aspecto de impresión. Cuadro Configuración de página: 4 pestañas.
+
+PESTAÑA PÁGINA: orientación, escala, tamaño de papel, calidad de impresión, número de página inicial.
+Opciones de escalado:
+- Sin escalado: tamaño real.
+- Ajustar hoja en una página: reduce toda la hoja a una página (ancho y alto).
+- Ajustar todas las columnas en una página: ajusta ancho, puede ocupar varias páginas de alto.
+- Ajustar todas las filas en una página: ajusta alto, puede ocupar varias páginas de ancho.
+
+PESTAÑA MÁRGENES: márgenes de hoja, centrar contenido horizontal/verticalmente.
+
+PESTAÑA ENCABEZADO Y PIE DE PÁGINA: 3 secciones (izquierda, central, derecha). Iconos disponibles (en orden): 1) Fuente, 2) Número de página, 3) Número total de páginas, 4) Fecha actual, 5) Hora actual, 6) Ruta del archivo, 7) Nombre del archivo, 8) Etiqueta de la hoja, 9) Insertar imagen.
+
+PESTAÑA HOJA: Área de impresión (rango a imprimir); "Repetir filas en extremo superior" / "Repetir columnas a la izquierda" (para repetir en varias páginas); opciones de impresión (líneas de división, blanco y negro, calidad borrador, encabezados de filas/columnas, comentarios y notas, errores de celda); orden de páginas.
+
+===============================================================
+6. VISTAS DE TRABAJO DEL LIBRO
+===============================================================
+
+Tres vistas preconfiguradas:
+- Normal: vista de inicio; encabezados de filas/columnas, líneas de cuadrícula.
+- Diseño de página: para configurar impresión; regla, encabezados/pies visibles, márgenes y orientación editables directamente.
+- Vista previa de salto de página: muestra dónde ocurre el salto de página al imprimir.
+
+Se pueden generar vistas personalizadas. Cambio de vista: barra de estado o pestaña Vista.
+
+===============================================================
+7. TIPOS DE DATOS EN LAS CELDAS
+===============================================================
+
+INTRODUCCIÓN Y EDICIÓN DE DATOS:
+Confirmar con Intro (celda inferior), Tab (celda derecha) o flechas.
+Editar celda existente: doble clic, F2, o clic en barra de fórmulas.
+Eliminar contenido sin formato: Supr. Eliminar contenido y formato: Inicio > Edición > Borrar > Borrar todo.
+
+HERRAMIENTAS PARA AGILIZAR ENTRADA DE DATOS:
+- Autocompletar: sugiere completar según entrada anterior de la misma columna (Intro acepta, seguir escribiendo ignora).
+- Relleno rápido (Flash Fill): detecta patrones y rellena automáticamente el resto de la columna. Se activa con CTRL+MAYÚS+E o Inicio > Edición > Relleno rápido. Exclusivo de Excel 2013 en adelante.
+- Autorrellenar: arrastrando el controlador de relleno (esquina inferior derecha) se extiende serie de datos/fechas/números/fórmulas.
+
+TIPOS DE DATOS EN LAS CELDAS:
+
+VALORES CONSTANTES (dato introducido directamente):
+- Texto: caracteres alfanuméricos ("etiquetas"). Alineación por defecto: izquierda. Para forzar texto en un número/fórmula: apóstrofe (') al inicio, ej. '123.
+- Números: cantidades numéricas, signo +/-, coma decimal, punto de millares, %, €. Alineación por defecto: derecha.
+- Valores lógicos: VERDADERO o FALSO. Alineación: centro.
+- Fechas: Excel almacena la fecha como número entero (permite sumar/restar/comparar). Se introduce con guion (-) o barra (/). Formato predeterminado en España: dd/mm/aaaa. Excel reconoce fechas posteriores al 01/01/1900 (que tiene el número 1); última fecha reconocida: 31/12/9999 (número 2958465). Fecha actual: CTRL+, (coma). Para forzar como texto: apóstrofe antes, ej. '20-2.
+- Horas: número decimal entre 0 y 1 (0=medianoche hoy, 1=medianoche siguiente). Formato: h:mm o variantes hh:mm:ss / hh:mm. Hora actual: CTRL+MAYUS+. (punto).
+
+FÓRMULAS: secuencias iniciadas con "=" seguidas de valores constantes, referencias, nombres, funciones y/u operadores.
+Operadores: matemáticos (%, ^, /, *, -, +), de texto (&), de comparación (<, >, >=, <=, =, <>), o funciones.
+Una función es una expresión programada internamente con nombre y argumentos.
+
+CÓDIGOS DE ERROR:
+- #¡DIV/0!: división por cero (celda vacía se considera cero).
+- #¡N/D: valor no disponible, el cálculo no existe.
+- #¡NULO!: rango especificado incorrectamente en una función (ej. =A1+B1 B5 → intersección vacía de B1 y B5).
+- #¿NOMBRE?: nombre de fórmula o rango no reconocido.
+- #¡NUM!: resultado excede los límites de Excel (ej. =POTENCIA(1000,1000)).
+- #¡REF!: referencia de celda no válida.
+- #¡VALOR!: tipo de dato incorrecto para la función (ej. =SUMA(1,"a")).
+- #############: contenido (número o fecha) superior al ancho de columna.
+
+===============================================================
+8. REFERENCIAS DENTRO DE UNA CELDA
+===============================================================
+
+- Relativas: varían al copiar/pegar o usar relleno. Notación: A1.
+- Absolutas: no varían al copiar/pegar (celda "inmovilizada"). Se logra nombrando la celda o con signo $: $A$1.
+- Mixtas: relativa en columna o fila, absoluta en la otra. Ejemplo: A$1 o $A1.
+- Tecla F4: cambia entre tipos de referencia.
+- Referencias a celdas en otras hojas del mismo libro: NombreHoja!DirCelda (celda) o NombreHoja!Rango (rango).
+- Referencias 3D: hacen referencia a la misma celda/rango en varias hojas. Ej: =SUMA(Hoja1:Hoja3!A1) suma A1 de las Hojas 1, 2 y 3.
+- Referencias externas: celdas de otros libros abiertos. Sintaxis: [NombreLibro.ext]NombreHoja!DirCelda.
+
+===============================================================
+9. OPCIONES PARA EL FORMATO DE CELDAS
+===============================================================
+
+Modificar formato = cambiar aspecto/visualización sin cambiar el dato. Vía pestaña Inicio, cuadro de diálogo Formato de celda (CTRL+1), Formato condicional, estilos de tabla o pegados especiales.
+
+9.1. FORMATO DE CELDA (pestañas del cuadro de diálogo)
+
+9.1.1. NÚMERO - categorías:
+- General: predeterminado, muestra tal cual se escribe; redondea decimales si no cabe.
+- Número: nº de decimales, separador de miles, formato de negativos. Atajo: CTRL+MAYUS+1.
+- Moneda: añade símbolo predeterminado. Atajo: CTRL+MAYUS+4. Si se escribe € tras el dato, se aplica; negativos en rojo.
+- Contabilidad: como moneda pero alineación distinta y el 0 se muestra con guion.
+- Fecha: números de serie como fecha; formato predeterminado España dd/mm/aaaa.
+- Hora: parte decimal representa la hora.
+- Porcentaje: multiplica x100 y añade %. Atajo: CTRL+MAYUS+5. Si se escribe % tras el dato, se aplica.
+- Fracción: visualiza como división; para forzarlo escribir un 0 precediendo.
+- Científico: notación exponencial (E+n / E-n).
+- Texto: muestra tal cual se escribe, incluso números.
+- Especial: códigos postales, teléfonos, seguridad social.
+- Personalizado: se basa en códigos de formato.
+
+Nuevos tipos de datos en Excel 365 (ficha Datos, bloque Tipos de datos): Cotizaciones, Monedas, Información geográfica — no son tipos de dato per se, obtienen información adicional del dato introducido.
+
+FORMATO PERSONALIZADO: se accede desde Formato de celdas > Número > Más formatos de número > categoría Personalizada.
+Permite hasta 4 secciones separadas por punto y coma (;): valores positivos; valores negativos; valor cero; texto. Un solo código afecta a todos sin distinción. Dos secciones: primera para positivos/ceros/texto, segunda para negativos.
+
+Caracteres comodín para formato personalizado:
+- # : dígitos significativos sin considerar ceros.
+- ? : deja espacio para caracteres especificados.
+- 0 : despliega ceros de relleno.
+- . : separador de miles.
+- % : símbolo de porcentaje.
+- , : separador decimal.
+- E+ e+ E- e- : notación científica.
+- + – / ( ) : $ : se muestran tal cual.
+- carácter : despliega el carácter especificado.
+- * : repite el siguiente carácter hasta llenar el ancho de columna.
+- _ (guion bajo) : deja espacio del mismo ancho que el siguiente carácter.
+- "texto" : despliega el texto entre comillas.
+- @ : representa un texto.
+- [color] : Negro, Azul, Cian, Verde, Magenta, Rojo, Blanco, Amarillo.
+- [COLOR n] : color de la paleta, n entre 0 y 56.
+
+Códigos para fechas personalizadas: m (1-12), mm (01-12), mmm (ene-dic), mmmm (enero-diciembre), mmmmm (inicial del mes), d (1-31), dd (01-31), ddd (dom-sáb), dddd (domingo-sábado), aa (00-99), aaaa (1900-9999).
+
+Códigos para horas personalizadas: h (0-23), hh (00-23), m (minutos 0-59), mm (minutos 00-59), s (segundos 0-59), ss (segundos 00-59), h AM/PM, h:mm a.m./p.m., h:mm:SS A/P, [h] tiempo transcurrido en horas (acumulador), [mm]:ss minutos acumulador, [ss] segundos acumulador, h:mm:SS.00 fracciones de segundo.
+
+Eliminar formato personalizado: Formato de celdas > pestaña Número > seleccionar en Tipo > Eliminar. Excel aplica el formato General a las celdas afectadas.
+
+9.1.2. ALINEACIÓN:
+- Ajustar texto: varias líneas en una celda. Manual: ALT+ENTER.
+- Reducir hasta ajustar: reduce tamaño de letra para que quepa en una línea.
+- Combinar celdas: convierte varias celdas en una sola (solo conserva el valor superior izquierdo, descarta el resto).
+
+9.1.3. FUENTE: fuente, estilo, tamaño, subrayado, color, efectos (tachado, superíndice, subíndice).
+
+9.1.4. BORDES: contornos e interiores, estilo de línea y color.
+
+9.1.5. RELLENO: color de fondo y trama (conjunto de líneas de relleno).
+
+9.1.6. PROTEGER:
+- Bloqueada: no se puede editar contenido ni formato. Por defecto TODAS las celdas están bloqueadas.
+- Oculta: no muestra la información en la barra de fórmulas.
+Para que bloqueo/ocultación surtan efecto, la hoja debe estar protegida (ficha Revisar > Proteger hoja).
+
+PROTECCIÓN DE HOJAS Y LIBROS - tres niveles:
+1. Proteger hoja (Revisar > Proteger hoja): contraseña + qué acciones permitidas a usuarios sin contraseña (seleccionar celdas, formato, insertar/eliminar filas-columnas, ordenar, autofiltro, etc.). Desproteger: Revisar > Desproteger hoja.
+2. Proteger libro (Revisar > Proteger libro): protege estructura (impide añadir/eliminar/mover/ocultar/mostrar/renombrar hojas). Con contraseña opcional.
+3. Cifrar con contraseña (Archivo > Información > Proteger libro > Cifrar con contraseña): contraseña necesaria para ABRIR el archivo.
+
+9.2. DAR FORMATO COMO TABLA
+Pestaña Inicio > sección Estilos > Dar formato como tabla: aplica formatos predefinidos a un rango. También: Insertar > Tabla. Un estilo = conjunto de formatos aplicados como un todo. Genera pestaña "Diseño de tabla" con 5 secciones: nombre/tamaño, herramientas, datos externos, opciones de estilo (encabezado, totales, primera/última columna, filas/columnas con bandas, botón de filtro), estilos de tabla. Incluye "Insertar segmentación de datos" para filtrado interactivo.
+
+9.3. FORMATO CONDICIONAL
+Resalta celdas modificando su formato según condiciones dadas por el usuario. Ubicación: cinta Inicio, sección Estilos. Formatos predefinidos: Resaltar celdas, Reglas para valores superiores e inferiores, Barras de datos, Escalas de color, Conjuntos de iconos. También se pueden añadir condiciones mediante Fórmulas.
+
+9.4. PEGADO ESPECIAL
+Tras copiar, en Inicio > Pegar > Pegado especial: permite pegar con condiciones distintas al origen (Todo, Fórmulas, Valores, Formatos, Comentarios y notas, Validación, operaciones Sumar/Restar/Multiplicar/Dividir, Saltar blancos, Transponer, Pegar vínculos, etc.).
+Ejemplo: A1=3, A3=7; copiar A1 y pegado especial "dividir" sobre A3 → A3 resulta 2,333 (7/3).
+
+9.5. RELLENAR
+Autorrellenar: base para series ("1,2,3,4,5…" escribir 1 y 2; "2,4,6,8…" escribir 2 y 4; "2,2,2,2…" escribir solo 2). Arrastrar el controlador de relleno. Opciones de autorrelleno: Copiar celdas, Serie de relleno, Rellenar formatos solo, Rellenar sin formato, Relleno rápido.
+También: Inicio > Edición > Rellenar > Series (Series en Filas/Columnas; Tipo Lineal/Geométrica/Cronológica/Autorrellenar; Unidad de tiempo Fecha/Día laborable/Mes/Año; Incremento; Límite).
+
+===============================================================
+10. FÓRMULAS
+===============================================================
+
+Objetivo: resolver cálculos mediante operadores o funciones.
+Insertar fórmula: directamente en la celda, o con el asistente de funciones. Formas de abrir el asistente:
+- MAYUSC+F3
+- Inicio > comando Suma (Σ) > Más funciones
+- Comando fx de la barra de fórmulas
+- Comando "Insertar función" de la cinta Fórmulas
+
+10.1. ESTRUCTURA DE UNA FÓRMULA
+Fórmula básica: = seguido de celdas separadas por el operador. Ej: =A1*A3.
+Si se empieza con + en vez de =, Excel añade el = automáticamente al pulsar Enter.
+Estructura general válida para cualquier fórmula: =NombreDeLaFunción(argumento1;argumento2;…)
+NOTA: argumentos son los datos que necesita la función. Hay funciones sin argumentos (ej. HOY()), argumentos obligatorios y opcionales (indicados con corchetes []).
+
+10.1.1. OPERADORES MATEMÁTICOS Y PRIORIDAD (de mayor a menor prioridad):
+1. ( ) Paréntesis - agrupan operaciones
+2. % Porcentaje
+3. ^ Acento circunflejo - exponente
+4. * Asterisco - multiplicación (y / división, misma prioridad)
+5. + Signo más - suma
+6. - Signo menos - resta
+
+Ejemplos: =25^1/2 → 12,5 | =25^(1/2) → 5 | =3^2 → 9
+
+Otros operadores: & (y comercial) - concatenar (unir) celdas de texto.
+
+10.2. ASISTENTE PARA INSERTAR FUNCIONES - dos fases:
+- Primera fase: casilla de descripción del cálculo deseado + botón "Ir" → lista de funciones posibles; desplegable de categoría de funciones.
+- Segunda fase: ventana de argumentos según la función elegida; argumentos obligatorios en negrita.
+
+===============================================================
+RESUMEN DE FUNCIONES PRINCIPALES DE EXCEL (por categoría)
+===============================================================
+
+FECHA Y HORA:
+- AHORA(): fecha y hora actuales.
+- AÑO(nº serie): año (1900-9999).
+- DIA(nº serie): día (1-31).
+- DIAS360(Fi;Ff;método): días entre 2 fechas, año de 360 días.
+- DIASEM(nº serie;tipo): día de la semana (1 dom., 7 sáb.).
+- FECHA(año;mes;día): nº que representa la fecha.
+- FECHANUMERO(texto_fecha): convierte fecha-texto a nº.
+- HORA(nº serie): número de hora.
+- HORANUMERO(texto_hora): nº que representa la hora.
+- HOY(): fecha actual.
+- SIFECHA(fecha_inicial;fecha_final;unidad): diferencia entre fechas ("Y" años completos, "M" meses, "D" días). No documentada oficialmente pero funcional; ejemplo =SIFECHA(L2;HOY();"Y") calcula antigüedad/trienios.
+- MES(nº serie): mes (1-12).
+- MINUTO(nº serie): minuto (0-59).
+- NSHORA(hora;minuto;segundo): nº que representa una hora.
+- SEGUNDO(nº serie): segundo (0-59).
+
+MATEMÁTICAS Y TRIGONOMÉTRICAS:
+- ABS(nº): valor absoluto.
+- COCIENTE(numerador;denominador): parte entera de división.
+- COS(nº): coseno.
+- ENTERO(nº): redondea al entero inferior.
+- GRADOS(ángulo): radianes a grados.
+- PI(): valor π (15 dígitos precisión).
+- POTENCIA(nº;potencia): eleva a potencia.
+- PRODUCTO(n1;n2;…): multiplica argumentos.
+- RADIANES(ángulo): grados a radianes.
+- RAIZ(nº): raíz cuadrada.
+- REDONDEAR(nº;nº decimales): redondea.
+- RESIDUO(dividendo;divisor): resto de división.
+- SENO(nº): seno.
+- SUMA(n1;n2;…): suma un rango.
+- SUMA.CUADRADOS(n1;n2;…): suma de cuadrados.
+- SUMAR.SI(rango;criterio;rango_suma): suma condicional.
+- TAN(nº): tangente.
+- TRUNCAR(nº;nº decimales): quita parte decimal.
+
+ESTADÍSTICAS:
+- CONTAR(ref1;ref2;…): cuenta celdas con números.
+- CONTAR.BLANCO(rango): cuenta celdas en blanco.
+- CONTAR.SI(rango;criterio): cuenta celdas que cumplen criterio.
+- CONTARA(valor1;valor2;…): cuenta celdas no vacías.
+- MAX(valor1;valor2;…): valor máximo.
+- MEDIANA(nº1;nº2;…): valor central.
+- MIN(nº1;nº2;…): valor mínimo (omite lógicos y texto).
+- MODA.UNO(nº1;nº2;…): valor más repetido (equivale a MODA).
+- PROMEDIO(nº1;nº2;…): media aritmética.
+- VAR.S(nº1;nº2;…): varianza de una muestra.
+
+BÚSQUEDA Y REFERENCIA:
+- BUSCARH(valor_buscado;rango;indicador_filas): busca en fila superior, devuelve valor de fila especificada.
+- BUSCARV(valor_buscado;rango;indicador_columnas): busca en primera columna izq., devuelve valor de columna especificada.
+- BUSCAR(valor_buscado;rango_busqueda;rango_resultados): busca y devuelve valor correspondiente de otro rango.
+- BUSCARX(valor_buscado;rango_búsqueda;rango_resultado;[si_no_encuentra];[modo_coincidencia];[modo_búsqueda]): busca en cualquier dirección (vertical/horizontal), no requiere que el valor esté en primera columna/fila, permite valor alternativo. Por defecto búsquedas exactas. Sustituye/mejora a BUSCARV y BUSCARH.
+- TRANSPONER(matriz): convierte rango vertical en horizontal o viceversa.
+- Otras: INDICE, COINCIDIR, FILA, FILAS, COLUMNA, COLUMNAS.
+
+FUNCIONES DE MATRIZ DINÁMICA (introducidas en Excel 365, "derraman" resultados sin necesidad de CTRL+MAYÚS+INTRO):
+- FILTRAR(matriz;incluir;[si_vacío]): filtra según condición(es).
+- ORDENAR(matriz;[índice_ordenación];[orden];[por_col]): ordena por columna/fila especificada.
+- ORDENARPOR(matriz;por_matriz1;[orden1]…): ordena según valores de otro rango/matriz.
+- ÚNICOS(matriz;[por_col];[exactamente_una_vez]): valores únicos, elimina duplicados.
+- SECUENCIA(filas;[columnas];[inicio];[paso]): genera secuencia de números.
+
+TEXTO:
+- CONCAT(texto1;texto2;…): une elementos de texto.
+- UNIRCADENAS(delimitador;ignorar_vacías;texto1;texto2;…): une textos con delimitador, opción de ignorar vacías. Ejemplo: =UNIRCADENAS(" ";VERDADERO;C2;D2;E2).
+- MAYUSC(texto): a mayúsculas.
+- MINUSC(texto): a minúsculas.
+- NOMPROPIO(texto): primera letra de cada palabra en mayúscula.
+- EXTRAE(texto;posición_inicial;nº_caracteres): caracteres del centro.
+- IZQUIERDA(texto;nº_caracteres): caracteres del principio.
+- DERECHA(texto;nº_caracteres): caracteres del final.
+- LARGO(texto): número de caracteres.
+- SUSTITUIR(texto;texto_original;texto_nuevo): sustituye texto.
+- Otras: HALLAR, ENCONTRAR, IGUAL.
+
+LÓGICAS:
+- FALSO(): devuelve FALSO.
+- NO(valor_lógico): invierte VERDADERO/FALSO.
+- O(valor_lógico1;…): VERDADERO si alguno es verdadero.
+- SI(prueba_lógica;valor_si_verdadero;valor_si_falso): condicional básico.
+- VERDADERO(): devuelve VERDADERO.
+- Y(valor_lógico1;…): VERDADERO solo si todos son verdaderos.
+- SI.ERROR(valor;valor_si_error): devuelve valor alternativo si hay error.
+- SI.CONJUNTO(prueba_lógica1;valor_si_verdadero1;prueba_lógica2;…): alternativa clara al SI anidado con múltiples condiciones. Ej: =SI.CONJUNTO(A1<=15;"Bajo";A1<=25;"Medio";A1>25;"Alto").
+
+INFORMACIÓN:
+- ESBLANCO(valor): celda vacía.
+- ESNUMERO(valor): es un número.
+- ESTEXTO(valor): es texto.
+- FORMULATEXTO(referencia): devuelve la fórmula como texto.
+- Otras: ES.PAR, ES.IMPAR, ESLOGICO, ESNOTEXTO.
+
+FINANCIERAS:
+- PAGO(tasa;nper;va;[vf];[tipo]): pago de un préstamo.
+- PAGOINT(tasa;período;nper;va;[vf];[tipo]): interés pagado en un período.
+- PAGOPRIN(tasa;período;nper;va;[vf];[tipo]): pago del capital en un período.
+- SLN(costo;valor_residual;vida): depreciación método directo.
+- SYD(costo;valor_residual;vida;período): depreciación método anualidades.
+- TASA(nper;pago;va;[vf];[tipo];[estimar]): tasa de interés por período.
+- TIR(valores;[estimar]): tasa interna de retorno.
+- VA(tasa;nper;pago;[vf];[tipo]): valor presente de una inversión.
+- VF(tasa;nper;pago;[va];[tipo]): valor futuro de una inversión.
+- VNA(tasa;valor1;[valor2];…): valor neto presente.
+
+===============================================================
+11. TABLAS DINÁMICAS
+===============================================================
+
+Permiten resumir, extraer y analizar datos sin modificarlos manualmente.
+Acceso: Menú Insertar > Tabla dinámica (opciones: "De una tabla o rango" o "Desde Datos externos de origen"; también "Tablas dinámicas recomendadas").
+
+Proceso: seleccionar rango de datos → elegir ubicación (nueva hoja / hoja existente) → panel "Campos de tabla dinámica" a la derecha con áreas: Filtros, Columnas, Filas, Valores.
+
+Ejemplo: campo "Tipo" en Filas, campo "Cantidad" en Valores → Excel propone automáticamente "Suma de Cantidad".
+
+Ventaja: modificar campos/filtros con un par de clics recalcula la tabla al instante.
+
+Ficha contextual "Analizar tabla dinámica" (aparece al seleccionar la tabla). Icono "Tabla dinámica" > Opciones de la tabla dinámica, con 6 pestañas:
+- Diseño y formato: apariencia de la tabla.
+- Totales y filtros: mostrar/ocultar totales generales.
+- Mostrar: mostrar/ocultar botones e información contextual.
+- Impresión: qué información se imprime.
+- Datos: guardar origen de datos con el archivo.
+- Texto alternativo: accesibilidad para personas con dificultades visuales.
+
+Iconos destacados de "Analizar tabla dinámica":
+- Actualizar: refresca con los datos más recientes de la fuente.
+- Insertar segmentación de datos: filtrado visual interactivo (también desde Insertar > Filtros > Segmentación de datos). Se pueden insertar varias segmentaciones conectadas a la misma tabla dinámica para filtrar por múltiples campos.
+- Mostrar: subtotales, totales generales, diseño de tabla.
+- Gráficos dinámicos: crea gráfico basado en la tabla dinámica.
+- Herramientas de cálculo: agregar campos o elementos calculados.
+
+===============================================================
+12. GRÁFICOS
+===============================================================
+
+Un gráfico es una representación gráfica de una serie de datos.
+
+12.1. TIPOS DE GRÁFICOS:
+- Gráfico de columnas: datos en columnas verticales (agrupadas, apiladas, 100% apiladas).
+- Gráfico de líneas: datos a lo largo de eje horizontal, líneas que conectan puntos.
+- Gráfico circular: partes de un todo como porcentajes de un círculo.
+- Gráfico de barras: como columnas pero horizontal.
+- Gráfico de áreas: tendencia a lo largo del tiempo/categorías con áreas coloreadas.
+- Gráfico de dispersión: puntos en plano cartesiano, relaciones entre 2 conjuntos de datos.
+- Gráfico de mapas: datos geográficos en mapa con colores.
+- Gráfico radial: eje circular, comparar múltiples categorías/variables.
+- Gráfico de caja y bigotes: estadísticas resumidas (mediana, cuartiles, atípicos).
+- Gráfico de cascada: cómo un valor inicial se modifica mediante adiciones/sustracciones.
+- Gráfico de embudo: proceso jerárquico o de flujo, etapas como secciones del embudo.
+
+12.2. CREAR UN GRÁFICO
+Desde cinta Insertar > sección Gráficos. Se puede explorar grupos recomendados o desplegar todos los gráficos. Recomendado: partir de la selección de datos; Excel detecta el tipo y recomienda gráficos adecuados.
+
+Al insertar un gráfico aparece la barra "Herramientas de gráficos" con:
+- Ficha "Diseño de gráfico": elementos, estilos, cambiar fila/columna, seleccionar datos, cambiar tipo de gráfico, mover gráfico.
+- Ficha "Formato": formato del elemento del gráfico seleccionado (formas, WordArt, accesibilidad, organizar, tamaño).
+
+MINI GRÁFICOS: representan datos numéricos de una fila/columna dentro de una sola celda. No se crean con tabla de solo 2 filas y 2 columnas. Tipos: Líneas, Columnas, o Pérdidas y Ganancias.
+
+ESPECIFICACIONES Y LÍMITES DE GRÁFICOS:
+- Gráficos vinculados a una hoja: según memoria disponible.
+- Hojas a las que hace referencia un gráfico: 255.
+- Serie de datos en un gráfico: 255.
+- Puntos de datos en serie 2D/3D/todas las series: según memoria disponible.
+
+===============================================================
+13. OPCIONES AVANZADAS
+===============================================================
+
+13.1. ORDENAR
+Ubicación: Inicio > Edición, o pestaña Datos.
+Permite ordenar por uno o varios niveles (Agregar nivel). Se puede ordenar según valores de celda, color de celda, color de fuente o icono de formato condicional. Orden ascendente/descendente, de menor a mayor, o cronológico. Se puede usar lista personalizada (días semana, meses, etc.).
+Por defecto: ordena de arriba a abajo, no distingue mayúsculas/minúsculas (configurable en Opciones).
+Orden ascendente con datos alfanuméricos: números (negativos→positivos) → símbolos → letras → valores lógicos → errores → celdas en blanco (al final). Descendente: se invierte excepto blancos, que van al final.
+
+13.2. FILTROS
+El filtrado NO reorganiza la lista, solo oculta temporalmente filas que no cumplen el criterio. Permite modificar, formatear, graficar e imprimir el subconjunto sin reorganizar.
+Dos comandos: Filtro (criterios simples, personalizables) y Filtro avanzado (criterios complejos).
+Uso de Filtro: seleccionar la tabla > comando Filtro (Inicio > Ordenar y filtrar > Filtro, o pestaña Datos > Filtro) → aparece flecha en cada celda de encabezado.
+Filtro avanzado: necesario cuando se combinan condiciones OR entre columnas distintas (ej. población="Madrid" O salario>9000). Requiere definir un "rango de criterios" en tabla anexa. Cuadro de diálogo "Filtro avanzado": Filtrar la lista sin moverla / Copiar a otro lugar; Rango de la lista; Rango de criterios; Copiar a; Solo registros únicos.
+Si las condiciones deben cumplirse simultáneamente (AND), se escriben en la MISMA fila del rango de criterios; si es OR, en filas distintas.
+
+13.3. FORMULARIOS
+Un formulario de datos es un cuadro de diálogo para introducir o mostrar una fila entera (registro) de una lista de una vez; también sirve para ubicar y eliminar registros.
+Requisito: la lista debe tener rótulos en la parte superior de cada columna (Excel los usa como campos del formulario).
+Se puede activar el comando "Formularios…" desde Archivo > Opciones > Personalizar cintas de opciones > Comandos disponibles > Todos los comandos (la ficha Programador no viene activada por defecto).
+
+13.4. BUSCAR OBJETIVO
+Se usa cuando se conoce el resultado deseado de una fórmula sencilla pero no la variable que lo determina. Excel varía el valor de una celda específica hasta que la fórmula dependiente devuelve el resultado deseado.
+Ubicación: pestaña Datos > Análisis de hipótesis > Buscar objetivo.
+Configuración: Definir la celda (con la fórmula) / Con el valor (resultado deseado) / Cambiando la celda (variable).
+
+13.5. AUDITORÍA DE FÓRMULAS
+Ubicación: cinta Fórmulas > sección Auditoría de fórmulas.
+- Rastrear precedentes: celdas que proporcionan datos a la celda seleccionada (flecha azul).
+- Rastrear dependientes: celdas que dependen del valor de la celda seleccionada.
+- Quitar flechas.
+- Mostrar fórmulas: muestra fórmulas en vez de resultados.
+- Comprobación de errores.
+- Evaluar fórmula: comprueba la fórmula paso a paso para depurar errores.
+
+13.6. VALIDACIÓN DE DATOS
+Ubicación: pestaña Datos > Herramientas de datos > Validación de datos. Restringe el contenido admisible en las celdas seleccionadas.
+Criterios: Cualquier valor, Número entero, Decimal, Lista, Fecha, Hora, Longitud de texto, Personalizada (fórmula que debe ser verdadera).
+Mensaje de entrada: mensaje informativo al seleccionar la celda.
+
+13.7. ESCENARIOS
+Un escenario es un conjunto de valores que Excel guarda y puede sustituir automáticamente en la hoja, para prever el resultado de un modelo (Análisis de hipótesis).
+Ubicación: pestaña Datos > Análisis de hipótesis > Administrador de escenarios.
+Permite crear y guardar varios grupos de valores y pasar de uno a otro para comparar resultados; genera informe resumen con celdas cambiantes y celdas de resultado.
+
+13.8. SUBTOTALES
+Excel calcula automáticamente subtotales y totales en una lista. Requisitos: columnas rotuladas y lista ordenada por la(s) columna(s) para las que se calculan los subtotales.
+Ubicación: Datos > Esquema > Subtotal.
+Configuración: "Para cada cambio en" (columna de agrupación), "Usar función" (Suma, Promedio, etc.), "Agregar subtotal a" (columna de valores).
+Al insertar subtotales, Excel esquematiza la lista (agrupa filas de detalle con su subtotal, y subtotales con el total general).
+
+13.8.1. AGRUPACIÓN Y ESQUEMAS
+Un esquema permite ocultar/mostrar niveles de detalle con un clic. Máximo 8 niveles de detalle. Símbolo "-" oculta información; "+" la muestra.
+
+13.8.2. FORMAS DE TRAZAR EL ESQUEMA
+- Insertando subtotales (comando Subtotal).
+- Trazado automático: si hay fórmulas de resumen (ej. SUMA) junto a datos detallados → Datos > Agrupar y esquema > Autoesquema.
+- Trazado manual: si los datos no permiten trazado automático (valores en vez de fórmulas) → Datos > Esquema > Agrupar.
+
+13.9. TABLAS DINÁMICAS (ampliación práctica)
+Resumen de datos de una base de datos o lista, para promediar o totalizar. Ubicación: Insertar > Tablas > Tabla dinámica.
+Se pueden aplicar filtros a la tabla dinámica eligiendo qué contenidos visualizar/ocultar (desplegable en "Etiquetas de fila").
+Gráfico dinámico: inserción de un gráfico basado en la tabla dinámica, permite analizar datos agregando filtros dinámicamente.
+
+13.10. CONSOLIDAR DATOS
+Ubicación: Datos > Herramientas de datos > Consolidar. Combina valores de varios rangos de celdas. Tres modos:
+- Con referencias 3D o fórmulas: método más flexible y recomendado; fórmulas que referencian celdas de varias hojas se llaman fórmulas 3D.
+- Por posición: cuando los datos de origen tienen idéntico orden y ubicación (ej. hojas creadas desde la misma plantilla); requiere que no haya columnas/filas en blanco, cada rango en hoja diferente, mismo diseño.
+- Por categoría: resume hojas con mismos rótulos de fila/columna pero datos organizados de forma diferente; combina datos con rótulos coincidentes.
+Cuadro Consolidar: Función (ej. Suma), Referencia, Todas las referencias (Agregar/Eliminar), Usar rótulos en (Fila superior / Columna izquierda), Crear vínculos con los datos de origen.
+
+13.11. LA HERRAMIENTA SOLVER
+Busca el valor óptimo para una "celda objetivo" en la hoja. Funciona sobre un grupo de celdas relacionadas (directa o indirectamente) con la fórmula de la celda objetivo. Ajusta los valores en las "celdas ajustables" (cambiantes) especificadas para lograr el resultado buscado. Permite aplicar restricciones.
+Activación: Archivo > Opciones > Complementos > Ir > activar Solver → aparece en la cinta Datos.
+Parámetros de Solver: Establecer objetivo (celda), Para: Máx/Mín/Valor de, Cambiando las celdas de variables, Sujeto a las restricciones (Agregar/Cambiar/Eliminar/Restablecer/Cargar-Guardar), Método de resolución (GRG Nolineal, LP Simplex, Evolutionary).
+
+===============================================================
+14. PERSONALIZACIÓN DEL ENTORNO DE TRABAJO
+===============================================================
+
+Accesible principalmente desde la ficha Vista.
+
+- Vistas del libro: Normal (predeterminada, edición), Diseño de página (impresión, regla, encabezados/pies editables), Vista previa de salto de página (saltos de página ajustables arrastrando líneas azules). Vistas personalizadas (Vista > Vistas personalizadas): guardan zoom, filtros activos, filas/columnas ocultas.
+- Inmovilizar paneles (Vista > Inmovilizar paneles): fija fila superior, primera columna, o desde una celda concreta (fija filas superiores y columnas a la izquierda de esa celda simultáneamente).
+- Dividir ventana (Vista > Dividir): divide en 2 o 4 paneles independientes para ver/editar distintas zonas de la misma hoja.
+- Nueva ventana y organizar ventanas: Vista > Nueva ventana abre 2ª ventana del mismo libro (trabajar en paralelo); Vista > Organizar todo dispone todas las ventanas abiertas.
+- Zoom: Vista > Zoom, entre 10% y 400%. También control deslizante en la barra de estado.
+- Personalizar cinta de opciones y barra de acceso rápido: completamente personalizables (Archivo > Opciones).
+
+===============================================================
+15. ESPECIFICACIONES DE HOJAS Y LIBROS (límites clave a memorizar)
+===============================================================
+
+HOJAS Y LIBROS:
+- Tamaño de hoja: 1.048.576 filas x 16.384 columnas.
+- Ancho de columna: 255 caracteres.
+- Alto de fila: 409 puntos.
+- Saltos de página: 1.026 horizontal y vertical.
+- Caracteres por celda: 32.767.
+- Caracteres en encabezado/pie de página: 255.
+- Hojas en un libro: según memoria (predeterminado 3, aunque en 365 inicia con 1).
+- Colores en un libro: 16 millones (32 bits, espectro 24 bits).
+- Formatos/estilos de celda distintos: 64.000.
+- Estilos de relleno: 256.
+- Grosor y estilos de línea: 256.
+- Tipos de fuentes distintas: 1.024 fuentes globales.
+- Formatos de número en un libro: entre 200 y 250 (según idioma).
+- Paneles en una ventana: 4.
+- Celdas cambiantes en un escenario: 32.
+- Celdas ajustables en Solver: 200.
+- Escala de zoom: del 10% al 400%.
+- Criterios de ordenación: 64 combinados en una operación; ilimitado en operaciones secuenciales.
+- Niveles de deshacer: 100.
+- Campos en un formulario: 32.
+- Parámetros del libro: 255.
+- Elementos en listas de filtros desplegables: 10.000.
+- Celdas discontinuas seleccionables: 2.147.483.648.
+
+CÁLCULOS:
+- Precisión numérica: 15 dígitos.
+- Longitud del contenido de una fórmula: 8.192 caracteres.
+- Longitud interna de la fórmula: 16.384 bytes.
+- Iteraciones: 32.767.
+- Rangos seleccionados: 2.048.
+- Argumentos en una función: 255.
+- Niveles anidados de funciones: 64.
+- Categorías de funciones definidas por el usuario: 255.
+- Número de funciones de hoja de cálculo disponibles: 341.
+- Dependencia entre hojas de cálculo: 64.000 hojas pueden referenciar a otras.
+- Dependencia en una sola celda: 4.000 millones de fórmulas pueden depender de una celda.
+- Primera fecha permitida en un cálculo: 1 de enero de 1900 (1904 si se usa fecha del sistema).
+- Período de tiempo máximo que puede escribirse: 9999:59:59.
+
+GRÁFICOS:
+- Hojas a las que hace referencia un gráfico: 255.
+- Serie de datos en un gráfico: 255.
+
+TABLAS DINÁMICAS Y GRÁFICOS DINÁMICOS:
+- Número de elementos únicos por campo: 1.048.576.
+- Filtros de informe en tabla/gráfico dinámico: 256.
+- Campos de valores en tabla/gráfico dinámico: 256.
+- Longitud del nombre MDX para un elemento de tabla dinámica: 32.767.
+- Longitud de una cadena de tabla dinámica relacional: 32.767.
+- Elementos mostrados en listas de filtros desplegables: 10.000.
+
+LIBROS COMPARTIDOS:
+- Usuarios que pueden abrir y compartir simultáneamente: 256.
+- Días que se mantiene el historial de cambios: 32.767 (predeterminado 30 días).
+- Celdas que pueden resaltarse: 32.767.
+- Colores para identificar cambios de diferentes usuarios: 32 (cambios del usuario actual en azul marino).
+- Tablas de Excel en un libro compartido: 0 (NO se puede compartir un libro con tablas de Excel).
+
+===============================================================
+16. RESUMEN TECLAS MÉTODOS ABREVIADOS (más relevantes para examen)
+===============================================================
+
+TECLAS DE FUNCIÓN:
+- F1: Ayuda de Excel. CTRL+F1: muestra/oculta cinta de opciones. ALT+F1: gráfico incrustado desde rango actual. ALT+MAYÚS+F1: inserta hoja nueva.
+- F2: modifica celda activa (edición). MAYÚS+F2: comentario de celda. CTRL+F2: vista previa de impresión.
+- F3: Pegar nombre. MAYÚS+F3: Insertar función.
+- F4: repite último comando; recorre combinaciones de referencias absolutas/relativas. CTRL+F4: cierra ventana del libro. ALT+F4: cierra Excel.
+- F5: Ir a. CTRL+F5: restaura tamaño de ventana.
+- F6: cambia entre hoja, cinta, panel de tareas y zoom. CTRL+F6: cambia a la siguiente ventana de libro.
+- F7: Ortografía. CTRL+F7: comando Mover en ventana no maximizada.
+- F8: activa/desactiva modo extendido (Selección extendida). MAYÚS+F8: agrega celda/rango no adyacente. ALT+F8: cuadro de diálogo Macro.
+- F9: calcula todas las hojas de todos los libros abiertos. MAYÚS+F9: calcula la hoja activa. CTRL+ALT+F9: calcula todo independientemente de cambios.
+- F10: activa/desactiva info de métodos abreviados (=ALT). MAYÚS+F10: menú contextual.
+- F11: crea gráfico en hoja de gráfico distinta. MAYÚS+F11: inserta hoja nueva. ALT+F11: Editor de VBA.
+- F12: Guardar como.
+
+TECLAS DE COMBINACIÓN MÁS RELEVANTES:
+- CTRL+RePág / CTRL+AvPág: cambia entre fichas de hoja (izq/der).
+- CTRL+MAYÚS+(: muestra filas ocultas.
+- CTRL+MAYÚS+&: aplica contorno a celdas seleccionadas. CTRL+MAYÚS+_: quita contorno.
+- CTRL+MAYÚS+$: formato moneda con 2 decimales.
+- CTRL+MAYÚS+%: formato porcentaje sin decimales.
+- CTRL+MAYÚS+!: formato número con 2 decimales y separador de miles.
+- CTRL+MAYÚS+*: selecciona la región actual (área de datos delimitada); tabla dinámica: selecciona todo el informe.
+- CTRL+MAYÚS+: (dos puntos): inserta hora actual.
+- CTRL+MAYÚS+" (comillas): copia el valor de la celda de encima.
+- CTRL+Signo más (+): cuadro de diálogo Insertar celdas.
+- CTRL+Signo menos (-): cuadro de diálogo Eliminar celdas.
+- CTRL+; (punto y coma): inserta fecha actual.
+- CTRL+` (acento grave): alterna entre mostrar valores y mostrar fórmulas.
+- CTRL+' (apóstrofe): copia la fórmula de la celda de encima.
+- CTRL+1: Formato de celdas. CTRL+2: negrita. CTRL+3: cursiva. CTRL+4: subrayado. CTRL+5: tachado.
+- CTRL+6: oculta/muestra objetos. CTRL+8: muestra/oculta símbolos de esquema. CTRL+9: oculta filas. CTRL+0: oculta columnas.
+- CTRL+E: selecciona toda la hoja de cálculo (si hay datos); si el cursor está en un nombre de función en fórmula, muestra Argumentos de función.
+- CTRL+N: negrita. CTRL+C: copia. CTRL+J: rellenar hacia abajo.
+- CTRL+B: Buscar y reemplazar (ficha Buscar). CTRL+L: Buscar y reemplazar (ficha Reemplazar).
+- CTRL+I: Ir a (=F5). CTRL+K: cursiva (alternativo). CTRL+ALT+K: Insertar/Modificar hipervínculo.
+- CTRL+U: nuevo libro en blanco. CTRL+A: Abrir archivo.
+- CTRL+P: Imprimir (Vista Backstage).
+- CTRL+D: rellenar hacia la derecha.
+- CTRL+G: Guardar. CTRL+T: Crear tabla. CTRL+S: subrayado.
+- CTRL+V: pegar. CTRL+ALT+V: Pegado especial.
+- CTRL+R: cierra ventana del libro seleccionado. CTRL+X: cortar. CTRL+Y: repetir. CTRL+Z: deshacer.
+
+OTRAS TECLAS:
+- ALT: muestra los KeyTips en la cinta.
+- Teclas de dirección: mueven el cursor; CTRL+flecha va al extremo del área de datos; MAYÚS+flecha extiende selección; CTRL+MAYÚS+flecha extiende a última celda no vacía.
+- RETROCESO: elimina carácter a la izquierda / borra contenido de celda activa.
+- SUPR: quita contenido (datos y fórmulas) sin afectar formato ni comentarios.
+- FIN: activa Modo final (siguiente tecla de flecha va a la próxima celda no vacía o al final de fila/columna si están vacías). CTRL+FIN: última celda usada de la hoja. CTRL+MAYÚS+FIN: extiende selección hasta la última celda usada.
+- ENTRAR: completa entrada y baja a celda inferior. ALT+ENTRAR: nueva línea en la misma celda. CTRL+ENTRAR: rellena rango seleccionado con la entrada actual. MAYÚS+ENTRAR: completa entrada y sube a celda superior.
+- ESC: cancela entrada / cierra menú, cuadro de diálogo o pantalla completa.
+- INICIO: al principio de la fila. CTRL+INICIO: va a A1 (inicio de la hoja). CTRL+MAYÚS+INICIO: amplía selección hasta el comienzo de la hoja.
+- AV PÁG / RE PÁG: baja/sube una pantalla. CTRL+AV PÁG / CTRL+RE PÁG: hoja siguiente/anterior de un libro.
+- BARRA ESPACIADORA: en cuadro de diálogo ejecuta acción del botón/checkbox. CTRL+BARRA ESPACIADORA: selecciona columna completa. MAYÚS+BARRA ESPACIADORA: selecciona fila completa. CTRL+MAYÚS+BARRA ESPACIADORA: selecciona toda la hoja (1ª vez región actual, 2ª vez +filas de resumen, 3ª vez toda la hoja); con objeto seleccionado, selecciona todos los objetos.
+- TAB: mueve una celda a la derecha / entre celdas desbloqueadas en hoja protegida / entre opciones de cuadro de diálogo. MAYÚS+TAB: celda anterior. CTRL+TAB / CTRL+MAYÚS+TAB: ficha siguiente/anterior en cuadro de diálogo.
+
+===============================================================
+IDEAS CLAVE (resumen final del tema, alta probabilidad de examen)
+===============================================================
+
+- Una hoja de cálculo en Excel 365 está compuesta por celdas organizadas en filas y columnas. Las filas se numeran y las columnas se etiquetan con letras. La intersección de fila y columna se llama celda; puede contener datos, fórmulas o funciones.
+- La extensión de archivo de un libro de trabajo en Excel 365 es .xlsx.
+- La vista Normal es la vista predeterminada en Excel 365; se usa para editar y ver el contenido con todas las funciones y herramientas disponibles.
+- Los principales tipos de datos que se pueden introducir en una celda son: valores constantes y fórmulas.
+- Errores más comunes al introducir fórmulas/funciones:
+  · #N/D: Excel no puede encontrar un valor buscado (típico en BUSCARV, BUSCARH, MODA.UNO).
+  · #¡DIV/0!: división por cero.
+  · #¡VALOR!: tipo de dato incorrecto en la fórmula/función (ej. operación matemática con texto).
+- Las referencias relativas son el tipo más común: al copiar la fórmula, la referencia se ajusta según su posición relativa a la celda de destino (ej. copiar =SUMA(A1,B1) de C1 a D1 → =SUMA(A2,B2)).
+- Las referencias absolutas mantienen constante una celda/rango al copiar la fórmula; se crean con el símbolo "$" delante de columna y fila (ej. $A$1).
+- Para referenciar celdas de otras hojas: NombreHoja seguido de "!" y la referencia de celda/rango. Ej: =Hoja2!A1.
+- El formato condicional aplica automáticamente formatos (colores de fondo/fuente) según reglas o condiciones, para resaltar patrones, tendencias o valores destacados.
+- Una fórmula es una expresión matemática o lógica para realizar cálculos o tomar decisiones basadas en datos.
+- Las funciones son fórmulas predefinidas que realizan cálculos específicos.
+- Sintaxis básica de una función: =NOMBRE_DE_FUNCION(argumento1;argumento2;…)
+- La pestaña "Datos" contiene herramientas de administración y análisis de datos: Ordenar y filtrar, Convertir texto en columna (Texto en columnas), Consolidar, Quitar duplicados, entre otras.
+- Proteger una HOJA (Revisar > Proteger hoja) evita cambios no deseados: bloquear celdas, ocultar fórmulas, establecer permisos.
+- Proteger un LIBRO (Revisar > Proteger libro) mantiene la estructura general: previene añadir/eliminar hojas y puede requerir contraseña para abrir el libro.
