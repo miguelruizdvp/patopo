@@ -1,0 +1,570 @@
+TEMA 16. EL EXPLORADOR DE WINDOWS. GESTIÓN DE CARPETAS Y ARCHIVOS. OPERACIONES DE BÚSQUEDA. HERRAMIENTAS «ESTE EQUIPO» Y «ACCESO RÁPIDO». ACCESORIOS. HERRAMIENTAS DEL SISTEMA.
+
+Ámbito: Windows 10.
+
+====================================================================
+INTRODUCCIÓN
+====================================================================
+
+El Explorador de archivos mejora con el paso del tiempo. Para acceder en Windows 10: icono en la barra de tareas, menú Inicio, o tecla Windows + E.
+
+Cambios destacados en Windows 10 respecto a versiones anteriores:
+- OneDrive ahora es parte del explorador de archivos.
+- Al abrir el explorador de archivos estará en Acceso rápido (carpetas usadas con frecuencia y archivos usados recientemente). Se pueden anclar carpetas favoritas a Acceso rápido.
+- Se pueden compartir archivos y fotos directamente desde el explorador (pestaña Compartir).
+- "Mi PC" ahora se llama "Este equipo" y no se muestra en el escritorio por defecto.
+- Las bibliotecas no se muestran por defecto; para agregarlas al panel izquierdo: Vista > Panel de navegación > Mostrar bibliotecas.
+
+====================================================================
+1. EL EXPLORADOR DE WINDOWS
+====================================================================
+
+1.1. El sistema de archivos en Windows
+
+Un sistema de archivos es la estructura subyacente que el equipo usa para organizar datos en un disco duro o partición. Al instalar un nuevo disco duro, hay que formatearlo con un sistema de archivos antes de usarlo.
+
+El sistema de archivos por defecto en Windows 10 es NTFS (New Technology File System), aunque también admite FAT, FAT32, exFAT y ReFS.
+
+Ventajas de NTFS frente a FAT32:
+- Habilidad de recuperarse automáticamente de algunos errores relacionados con los discos.
+- Soporta volúmenes de hasta 8 petabytes en Windows 10 (v1709+) y archivos individuales de hasta 256 TB. Límite teórico del sistema de archivos: 16 EB.
+- Mayor seguridad: permisos y cifrados para restringir el acceso a archivos específicos para determinados usuarios.
+- Por lo general permite convertir una partición a NTFS desde otro sistema de archivos.
+
+El sistema de archivos de Windows está basado en carpetas: las carpetas contienen archivos y otras carpetas, de modo que el sistema es jerárquico o estructurado en árbol.
+
+Nombres de archivo/carpeta: máximo 255 caracteres, incluyendo espacios en blanco. No pueden contener los caracteres: \ / : * ? " < > |
+Desde la línea de comandos, solo se pueden crear nombres de archivo de un máximo de 253 caracteres.
+
+Otros sistemas operativos (ej. LINUX) usan sistemas de archivos diferentes: ext2, ext3, swap, ReiserFS, XFS, JFS, UFS, ISO9660, aunque también soportan los sistemas de Microsoft (NTFS, FAT32 o FAT).
+
+1.1.1. Introducción y estructura general
+
+El Explorador de archivos (también llamado Explorador de Windows) es la aplicación que actúa como shell gráfico del sistema operativo, proporcionando una interfaz visual para gestionar archivos, carpetas y unidades de almacenamiento.
+
+Se accede: Inicio > Explorador de Archivos; icono de carpeta en la barra de tareas; atajo de teclado Windows + E; o abriendo cualquier carpeta del sistema.
+
+Elementos de la ventana del Explorador de archivos (de arriba a abajo):
+
+- Barra de herramientas de acceso rápido: esquina superior izquierda; acceso con un clic a comandos más utilizados (por defecto Deshacer y Propiedades); personalizable añadiendo/eliminando botones.
+
+- Barra de título: nombre de la carpeta actual y controles de ventana (minimizar, maximizar, cerrar).
+
+- Cinta de opciones: contiene todos los comandos organizados en fichas y, dentro de cada una, en grupos. Por defecto muestra 4 fichas: Archivo, Inicio, Compartir y Vista. Puede minimizarse pulsando la flecha de la esquina superior derecha.
+
+- Botones de navegación y barra de direcciones (justo debajo de la cinta):
+  - Botones Atrás y Adelante: navegan por el historial de carpetas visitadas en esa ventana. Junto a Adelante hay una flecha que despliega el historial completo.
+  - Botón Subir un nivel: lleva a la carpeta o unidad que contiene la carpeta actual.
+  - Barra de direcciones: muestra la ruta de la carpeta actual en forma de ruta de navegación (con flechas entre nombres de carpeta para ver subcarpetas sin abrirlas). Clic directo sobre la barra cambia a formato de ruta absoluta (ej. C:\Usuarios\Documentos), permitiendo escribir una ruta y pulsar Intro para navegar.
+    - Si se escribe una dirección web y se pulsa el botón de navegar, Windows abre automáticamente Microsoft Edge.
+    - Sintaxis para rutas locales: unidad:\ruta\al\recurso (ej. C:\Usuarios\Documentos).
+    - Para recursos en red: Convención de Nomenclatura Universal (UNC): \\nombre_de_host\nombre_de_recurso.
+    - El botón Actualizar (a la derecha de la barra de direcciones) recarga el contenido de la carpeta actual.
+  - Cuadro de búsqueda: inicia la búsqueda automáticamente conforme se escribe, sin pulsar ningún botón. La búsqueda en Windows es indexada por defecto, lo que agiliza los resultados.
+
+- Panel de navegación: a la izquierda; árbol jerárquico de unidades y carpetas del equipo (no muestra archivos). Detallado en el apartado 1.6.
+
+- Panel de contenido: área central; muestra el contenido de la carpeta seleccionada.
+
+- Barra de estado: parte inferior; información sobre el elemento o elementos seleccionados. Si no hay nada seleccionado, indica el número de elementos de la carpeta actual.
+
+1.1.2. Métodos abreviados para objetos y para las carpetas y el explorador de archivos en general
+
+Para un objeto seleccionado:
+- F2: Cambiar nombre del objeto.
+- F3: Herramienta de Búsqueda.
+- CTRL+X: Cortar.
+- CTRL+C: Copiar.
+- CTRL+V: Pegar.
+- MAYÚS+SUPR: Eliminar la selección inmediatamente, sin enviar el elemento a la Papelera de reciclaje.
+- ALT+ENTRAR: Abrir la hoja de propiedades del objeto seleccionado.
+
+Para copiar un archivo: presionar y mantener CTRL mientras se arrastra el archivo a otra carpeta.
+
+Para crear un acceso directo: presionar y mantener CTRL+MAYÚS mientras se arrastra un archivo al escritorio o a una carpeta (también se puede usar ALT mientras se arrastra).
+
+1.1.3. Control de árboles en el explorador de archivos
+
+- * (teclado numérico): Expande todo lo que hay bajo la selección actual.
+- + (teclado numérico): Expande la selección actual.
+- - (teclado numérico): Contrae la selección actual.
+- Flecha a la derecha: Expande la selección actual si no está ya expandida; si ya lo está, va a la primera carpeta secundaria.
+- Flecha a la izquierda: Contrae la selección actual si está expandida; si no, va a la carpeta principal.
+
+1.2. La técnica de arrastrar y soltar
+
+La forma más sencilla de mover un fichero de una carpeta a otra es "arrastrar y soltar": se selecciona el fichero (clic), se mantiene el botón izquierdo del ratón pulsado mientras se desplaza sobre la carpeta de destino (que cambia el color de fondo a azul), y se suelta el botón para completar el movimiento.
+
+Para copiar en vez de mover: mismo procedimiento, pero antes de soltar el botón se pulsa la tecla CTRL (aparece un signo + con el texto "Copiar a (nombre de carpeta)").
+
+Arrastrar con el botón derecho: al soltar aparece un menú contextual con las opciones «Copiar aquí», «Mover aquí» y «Crear acceso directo aquí».
+
+Reglas por defecto:
+- Dentro de una misma unidad o disco: la opción por defecto es MOVER (para copiar hay que mantener pulsada CTRL mientras se arrastra).
+- Entre discos distintos: la opción por defecto es COPIAR (para mover hay que mantener pulsada Shift/Mayúsculas).
+- Al copiar aparece un signo + junto al icono del fichero que se arrastra, indicando la operación que se está realizando.
+
+1.3. La cinta de opciones del explorador
+
+Contiene todos los comandos organizados en fichas y, dentro de cada una, en secciones. Por defecto tiene 4 fichas: Archivo, Inicio, Compartir y Vista.
+
+- Ficha Archivo: no tiene la estructura típica de una ficha (ni en Windows ni en Office), por lo que no suele considerarse una ficha propiamente dicha. Contiene opciones para abrir nuevas ventanas del explorador, el símbolo del sistema, PowerShell, opciones y ayuda.
+
+- Ficha Inicio: operaciones más habituales sobre los elementos seleccionados. Cinco grupos:
+  - Portapapeles: Anclar al acceso rápido, Cortar, Copiar, Copiar ruta, Pegar.
+  - Organizar: Mover a, Copiar a, Eliminar, Cambiar nombre.
+  - Nuevo: Nueva carpeta, Nuevo elemento.
+  - Abrir: Propiedades, Abrir.
+  - Seleccionar: Seleccionar todo, No seleccionar nada, Invertir selección.
+
+- Ficha Compartir: comandos relacionados con compartir, enviar o comprimir archivos y/o carpetas.
+  - Enviar: Compartir, Correo electrónico, Comprimir, Grabar en disco, Imprimir, Enviar por fax.
+  - Compartir con: Usuarios específicos, Quitar el acceso a, Seguridad avanzada.
+  - IMPORTANTE: no confundir "Compartir" (enviar un documento a través de una aplicación online, p.ej. correo) con "Compartir con" (hacer disponibles recursos del equipo a otros equipos de la red). En Windows 10 solo se pueden compartir carpetas (para compartir documentos hay que colocarlos dentro de una carpeta compartida previamente).
+
+- Ficha Vista: configura la visualización de los elementos del explorador.
+  - Paneles: activa/desactiva:
+    - Panel de navegación: árbol de carpetas del sistema (izquierda).
+    - Panel de vista previa: contenido parcial del archivo seleccionado sin abrirlo (derecha); compatible con imágenes, documentos de texto, PDF, Word, Excel, PowerPoint y otros formatos.
+    - Panel de detalles: metadatos del archivo/carpeta (tamaño, fecha de modificación, autor, dimensiones, etc.) (derecha).
+    - El Panel de vista previa y el Panel de detalles son MUTUAMENTE EXCLUYENTES: no pueden estar activos a la vez.
+  - Diseño: Iconos muy grandes, Iconos grandes, Iconos medianos, Iconos pequeños (sin información adicional salvo el nombre), Lista, Detalles, Mosaicos, Contenido (con información adicional, la más extensa en Detalles).
+  - Vista actual: opciones de ordenación y agrupación de archivos.
+  - Mostrar u ocultar: elementos ocultos y extensiones de nombre de archivo.
+  - Opciones: abre un panel de configuración avanzada del comportamiento del sistema (ocultar archivos recientes, mostrar elementos ocultos/extensiones, elegir si el explorador se inicia en "Este equipo" o en "Acceso rápido").
+
+- Fichas contextuales: aparecen automáticamente al seleccionar cierto tipo de elemento:
+  - Herramientas de imagen: al seleccionar un archivo de imagen.
+  - Herramienta de aplicación: al seleccionar un archivo ejecutable.
+  - Herramientas de unidad: al seleccionar una unidad de disco (BitLocker, Optimizar, Limpieza, Formato).
+  - Equipo: al hacer clic en "Este equipo" en el panel de navegación (grupos Ubicación, Red y Sistema, con opciones como Conectar a unidad de red, Propiedades del sistema o Administrar).
+
+1.4. Vistas, agrupación y ordenación de archivos en el explorador de archivos
+
+1.4.1. Vistas
+
+Opciones disponibles: Iconos muy grandes, Iconos grandes, Iconos medianos, Iconos pequeños, Lista, Detalles, Mosaicos, Contenido.
+
+- Iconos (muy grandes/grandes/medianos/pequeños): muestran el icono del programa, de la carpeta o miniatura de imagen/vídeo junto al nombre (con Iconos pequeños no se previsualiza el contenido de imágenes/vídeos).
+- Lista: como iconos pequeños, pero organizado por columnas en lugar de filas; facilita la búsqueda por nombre (más espacio vertical que horizontal).
+- Detalles: iconos uno sobre otro, con algunas propiedades; permite ordenar por los encabezados de columna.
+- Mosaicos: formato/tamaño como iconos medianos, pero con información adicional según el archivo.
+- Contenido: información como la de mosaicos, pero en forma de listado.
+
+Windows 10 recuerda la configuración de vista, encabezados y ordenación aplicada y la aplica automáticamente a carpetas con contenido similar.
+
+1.4.2. Organizar y ordenar archivos y carpetas
+
+Se gestiona con los botones "Ordenar por" y "Agrupar por" de la sección Vista actual, en la ficha Vista.
+
+Criterios de Ordenar por: Nombre, Fecha de modificación, Tipo, Tamaño, Fecha de creación, Autores, Etiquetas, Título; Ascendente/Descendente; Elegir columnas.
+
+Por defecto, los archivos se ordenan por nombre en orden ascendente (alfabético-numérico).
+
+Agrupar por: subdivide las listas según criterios seleccionados; los grupos se disponen en orden alfabético, indicando la cantidad de elementos de cada grupo.
+
+1.5. El menú del botón derecho (del ratón)
+
+Al hacer clic con el botón derecho sobre una carpeta o fichero aparece un menú contextual. Muchas operaciones de la barra de herramientas también son accesibles desde aquí, además de otras:
+
+- Abrir: abre una carpeta o fichero (los ficheros se abren con su programa predeterminado, ej. un .txt con el Bloc de notas).
+- Imprimir: imprime cualquier documento directamente desde el explorador.
+- Editar: hace lo mismo que abrir, pero solo se puede usar con archivos, no con carpetas.
+- Nuevo: abre un nuevo archivo con el contenido del archivo seleccionado.
+- Abrir con: selecciona de una lista el programa con el que abrir un archivo.
+- Restaurar versiones anteriores: muestra un historial de versiones anteriores del archivo/carpeta (generadas por el Historial de archivos o por puntos de restauración del sistema); permite recuperar una versión previa sin restaurar todo el sistema.
+- Enviar a: elige el destino de copia del archivo/carpeta, o crea una carpeta comprimida (*.zip) con el contenido seleccionado.
+- Cortar, copiar, pegar.
+- Crear acceso directo: crea un icono para acceder directamente (doble clic) al fichero o carpeta.
+- Eliminar: envía los objetos seleccionados a la papelera de reciclaje.
+- Cambiar nombre: edita el nombre de un objeto.
+- Propiedades: muestra información detallada del objeto en varias pestañas:
+  - General:
+    1. Tipo de archivo: tipo de elemento y, si es archivo, con qué aplicación se abre.
+    2. Ubicación: ruta donde está guardado.
+    3. Tamaño: en megabytes y bytes; en carpetas, en función de los archivos que contiene.
+    4. Tamaño en disco: tamaño ocupado al ser almacenado (difiere del tamaño real).
+    5. Contiene: (solo carpetas) número de objetos en su interior.
+    6. Creado: fecha de creación de la carpeta o el archivo.
+    7. Modificado: fecha de la última modificación (no aparece en carpetas).
+    8. Último acceso: última vez que se abrió el archivo, independientemente de cambios (no aparece en carpetas).
+    9. Atributos: permisos sobre el archivo/carpeta. "Solo lectura" permite leer y no borrar; "Oculto" hace la carpeta/archivo invisible; "Archivo" indica si debe guardarse en una copia de seguridad.
+  - Seguridad: muestra y configura los permisos de acceso de los distintos usuarios.
+  - Detalles: informe de las propiedades del elemento.
+  - Versiones anteriores: historial de versiones anteriores.
+
+1.6. El panel de Navegación del explorador de archivos
+
+Situado a la izquierda de la ventana; solo muestra unidades de almacenamiento y carpetas (nunca archivos), ordenadas jerárquicamente con estructura de árbol (subordinación indicada por sangrado hacia la derecha).
+
+Flechas junto a cada carpeta (desplegar/contraer subcarpetas sin abrirla):
+- Flecha negra apuntando hacia abajo: subcarpetas mostradas.
+- Flecha gris apuntando hacia la derecha: subcarpetas ocultas.
+- Sin flecha: normalmente no contiene subcarpetas (aunque sí puede contener archivos).
+
+Elementos del panel de navegación:
+
+- Acceso rápido: el Explorador de archivos se abre aquí por defecto. Muestra carpetas usadas con frecuencia y archivos usados recientemente. Por defecto aparecen 4 carpetas personales ancladas: Escritorio, Documentos, Descargas e Imágenes (identificadas con el símbolo de chincheta, siempre visibles). La lista se completa automáticamente con carpetas usadas frecuentemente (no ancladas, pueden variar).
+  - Anclar una carpeta al Acceso rápido: clic derecho > "Anclar al Acceso rápido", o seleccionar la carpeta y usar el comando de la ficha Inicio.
+  - Desanclar: clic derecho > "Desanclar del Acceso rápido".
+  - Solo se pueden anclar carpetas, no archivos. Desde las opciones de carpeta se puede configurar si mostrar archivos usados recientemente y carpetas usadas con más frecuencia.
+
+- OneDrive: forma parte del Explorador de archivos desde Windows 10. Servicio de almacenamiento en la nube de Microsoft (almacenar, sincronizar y compartir archivos en línea). Acceso directo a archivos en la nube desde el panel de navegación, igual que una carpeta local.
+
+- Este equipo: al hacer clic se muestra una lista con las carpetas personales del usuario y todas las unidades de almacenamiento conectadas (discos duros, USB, tarjetas de memoria, etc.), con espacio disponible y letra de unidad asignada.
+  - Al seleccionar "Este equipo" aparece la ficha contextual "Equipo", con tres grupos:
+    - Ubicación: Propiedades, Abrir, Cambiar nombre del elemento seleccionado.
+    - Red: Acceso multimedia, Conectar a una unidad de red, Agregar una ubicación de red.
+    - Sistema: Desinstalar o cambiar un programa, Propiedades del sistema, Administrar (Administrador de equipos).
+  - Al seleccionar una unidad concreta dentro de "Este equipo" se habilita la ficha contextual "Herramientas de unidad" (BitLocker, Optimizar, Limpieza, Formato, y opciones para medios ópticos/electrónicos).
+
+- Bibliotecas: contenedores virtuales que agrupan archivos y carpetas almacenados en distintas ubicaciones, mostrándolos como si estuvieran en un único lugar. NO mueve ni cambia físicamente la ubicación de los archivos: es una vista sobre esas carpetas. Las operaciones (copiar, mover, eliminar) desde la biblioteca SÍ afectan a los archivos reales, no a copias.
+  - No se muestran por defecto; para agregarlas: Vista > Panel de navegación > Mostrar bibliotecas.
+  - Bibliotecas predeterminadas: Documentos, Música, Imágenes y Vídeos.
+
+- Red: visualiza dispositivos presentes en la misma red local (otros ordenadores, impresoras, etc.) y accede a recursos compartidos.
+
+====================================================================
+2. GESTIÓN DE ARCHIVOS Y CARPETAS
+====================================================================
+
+Funciones más importantes del Explorador de Windows para gestionar carpetas y archivos:
+
+- Selección de archivos y carpetas:
+  - Un solo elemento: clic izquierdo.
+  - Varios elementos no consecutivos: mantener Ctrl y hacer clic en cada uno (para deseleccionar, clic de nuevo sin soltar Ctrl).
+  - Varios elementos consecutivos: clic en el primero, mantener Mayús, clic en el último (selecciona todos los intermedios).
+  - Todos los elementos de una carpeta: atajo Ctrl+E, o ficha Inicio > Seleccionar todo.
+  - Rectángulo de selección: clic en espacio vacío del panel de contenido y arrastrar dibujando un rectángulo.
+  - Casillas de verificación: se activan desde ficha Vista > Casillas de elemento; permiten marcar/desmarcar sin usar el teclado.
+
+- Navegar por carpetas y unidades: clic en una unidad o carpeta para explorar su contenido.
+
+- Crear carpetas: clic derecho en espacio vacío > Nuevo > Carpeta; o atajo Ctrl+Mayús+N; o comando de la ficha Inicio / Grupo Nuevo.
+
+- Copiar y pegar archivos y carpetas: seleccionar, clic derecho > Copiar (o Ctrl+C); navegar al destino, clic derecho > Pegar (o Ctrl+V).
+
+- Cortar y pegar archivos y carpetas: seleccionar, clic derecho > Cortar (o Ctrl+X); navegar al destino, clic derecho > Pegar (o Ctrl+V).
+  Los comandos de copiar y cortar están disponibles en la cinta de opciones, ficha Inicio / Grupo Portapapeles.
+
+- Renombrar archivos y carpetas: 2 clics pausados en el nombre para resaltarlo y poder editarlo; escribir el nuevo nombre y pulsar Enter. También: seleccionar el elemento y pulsar F2, o usar el comando de la ficha Inicio / Grupo Organizar.
+
+- Eliminar archivos y carpetas: seleccionar, clic derecho > Eliminar, o tecla Suprimir, o comando de la ficha Inicio. Los archivos eliminados van a la Papelera de reciclaje.
+  Para eliminar de forma PERMANENTE (sin pasar por la Papelera):
+  - Usar Shift + Suprimir.
+  - Configurar la Papelera de reciclaje para que no almacene los archivos eliminados.
+
+- La Papelera de reciclaje: espacio reservado en el disco duro donde se almacenan temporalmente los archivos y carpetas eliminados, permitiendo recuperarlos si se han borrado por error.
+  - Capacidad configurable; por defecto ocupa el 10% del espacio del disco (ajustable por unidad desde clic derecho > Propiedades).
+  - Los archivos eliminados de UNIDADES DE RED o DISPOSITIVOS EXTERNOS (USB, tarjetas de memoria) generalmente NO PASAN por la Papelera: se eliminan de forma permanente directamente.
+  - Se puede vaciar completamente: clic derecho sobre su icono en el escritorio > Vaciar Papelera de reciclaje.
+  - Restaurar desde la Papelera de reciclaje: abrir la Papelera, buscar el elemento, clic derecho > Restaurar (se restaura en su ubicación original).
+
+- Vista y ordenación de archivos: cambiar vista (lista, iconos, miniaturas) y ordenar por nombre, fecha, tipo, etc.
+
+- Compartir archivos: clic derecho en archivo/carpeta > Compartir (configurar permisos y opciones), o desde la cinta de opciones, pestaña Compartir.
+
+- Propiedades de archivos y carpetas: acceder a información detallada (tamaño, fecha de creación, atributos, permisos) desde ficha Inicio / Grupo Abrir, o menú contextual.
+
+- Comprimir y descomprimir archivos: comprimir en ZIP o descomprimir ZIP desde el Explorador, ficha Compartir.
+
+====================================================================
+3. OPERACIONES DE BÚSQUEDA
+====================================================================
+
+El Explorador de archivos ofrece diversas opciones de búsqueda. La búsqueda en Windows es INDEXADA por defecto (Windows mantiene un índice actualizado de los archivos del sistema para resultados más rápidos). En ubicaciones NO indexadas, el sistema lo advierte y la búsqueda es más lenta.
+
+3.1. El cuadro de búsqueda y la ficha Herramientas de búsqueda
+
+El cuadro de búsqueda está en la esquina superior derecha. La búsqueda se inicia automáticamente conforme se escribe, sin pulsar ningún botón. Al hacer clic en el cuadro de búsqueda aparece la ficha contextual "Herramientas de búsqueda", que permite ajustar las opciones de forma visual sin escribir operadores manualmente. Filtros disponibles:
+- Ubicación: esta carpeta, subcarpetas, o todo el equipo.
+- Fecha de modificación: hoy, esta semana, este mes, este año, o intervalo personalizado.
+- Tipo: documentos, imágenes, música, vídeos, etc.
+- Tamaño: vacío, minúsculo, pequeño, mediano, grande, enorme, gigantesco.
+
+Operaciones de búsqueda comunes:
+
+- Búsqueda por nombre: escribir el nombre del archivo/carpeta en la barra de búsqueda; al pulsar el icono de navegar se habilita la barra "Herramientas de búsqueda" en la cinta.
+
+- Búsqueda avanzada (operadores de búsqueda): p. ej. "nombre:archivo" para archivos específicos, o "tipo:.pdf" para un tipo de archivo específico.
+
+- Búsqueda por fecha: p. ej. "fecha:ayer" o "fecha:>01/01/2025".
+
+- Búsqueda por tamaño: p. ej. "tamaño:>10MB" o "tamaño:<1GB".
+
+- Búsqueda en ubicaciones específicas: limitar la búsqueda escribiendo la ubicación seguida de una barra invertida (ej. "C:\Carpeta").
+
+- Búsqueda en resultados anteriores: los resultados se almacenan en "Resultados de búsqueda"; se puede volver a ver una búsqueda anterior sin reescribir la consulta.
+
+- Guardar búsquedas: guardar búsquedas frecuentes (ej. "archivos recientes") para acceder fácilmente en el futuro.
+
+Operadores y comodines de búsqueda:
+- Asterisco (*): representa cualquier número de caracteres (ej. "archi*" busca "archivo1", "archivo2", etc.).
+- Interrogación (?): representa un solo carácter (ej. "c?lor" encuentra "color" o "calor").
+- Operadores booleanos:
+  1. AND (mayúsculas): combina términos; ambas palabras deben aparecer (ej. "proyecto AND informe"). Es la función que hace por defecto el buscador: "proyecto informe" equivale a "proyecto AND informe".
+  2. OR (mayúsculas): al menos uno de los términos (ej. "factura OR recibo").
+  3. NOT (mayúsculas): excluye términos (ej. "informe NOT preliminar" busca "informe" pero no "preliminar").
+
+====================================================================
+4. ACCESORIOS. HERRAMIENTAS DEL SISTEMA
+====================================================================
+
+4.1. Accesorios
+
+Windows 10 incluye aplicaciones integradas para tareas cotidianas sin instalar software adicional, ubicadas en el menú Inicio, dentro del grupo "Accesorios de Windows":
+
+- Bloc de notas: crea y edita documentos de texto sin formato (.txt). Opciones destacables (limitadas): configurar página (papel, orientación, márgenes, encabezado y pie de página), buscar, editar fuente (fuente, estilo, tamaño), insertar fecha y hora.
+
+- Calculadora: realiza operaciones matemáticas, simula una calculadora convencional.
+
+- Paint: aplicación de dibujo básico incluida desde las primeras versiones de Windows. Crea y edita imágenes en formatos BMP, JPEG, PNG, GIF y TIFF, entre otros.
+
+- Paint 3D: aplicación de dibujo que permite crear diseños con formato .bmp, .jpg, .png, etc.; evolución de Paint que permite trabajar también con formas 3D.
+
+- Wordpad: aplicación para crear documentos. Por defecto guarda en formato RTF (Rich Text Format), aunque soporta otros formatos: BMP, JPEG, PNG, GIF, etc.
+
+- Centro de movilidad de Windows: incluido en equipos portátiles con ediciones Home, Pro, Enterprise y Education de Windows 10. Coloca en un solo lugar las opciones de configuración más usadas de portátiles: brillo de pantalla, volumen, estado de batería, configuración de energía, función inalámbrica, etc. (varía según hardware/fabricante).
+
+- Conexión a escritorio remoto: tecnología que permite usar un equipo para conectarse a un equipo remoto de otra ubicación, con acceso a todos sus programas, archivos y recursos de red.
+
+- Mapa de caracteres: copia y pega caracteres especiales en documentos (símbolo de marca comercial, caracteres matemáticos, caracteres de otros idiomas).
+
+- 3D Builder: crea objetos utilizando tecnología 3D. Asociado a Print 3D si se dispone de impresora 3D.
+
+- Grabación de acciones de usuario: herramienta de diagnóstico que registra las acciones del usuario mediante capturas de pantalla secuenciales, acompañadas de descripción textual de cada acción. NO graba vídeo: genera un informe en formato MHTML con todas las capturas y descripciones. Útil para documentar pasos o reportar problemas técnicos al soporte.
+
+- Herramienta Recortes: captura una parte de la pantalla y la guarda o pega directamente en un documento. Cuatro modos de captura: recorte rectangular, recorte de forma libre, recorte de ventana, recorte de pantalla completa. Atajo de teclado directo: Windows + Mayús + S (abre el selector de modo de captura sin abrir la aplicación).
+
+- Visor de XPS: abre y visualiza documentos en formato XPS (XML Paper Specification), formato de documento propio de Microsoft. XPS es INDEPENDIENTE del PDF: XPS es la alternativa de Microsoft, PDF es el estándar de Adobe. El Visor de XPS NO abre archivos PDF.
+
+- Asistencia rápida: permite a un técnico de soporte conectarse de forma remota al equipo de otro usuario para visualizar su pantalla y, con permiso, tomar el control para resolver problemas técnicos. A diferencia de Escritorio remoto, NO requiere configuración previa ni que el equipo tenga habilitada ninguna opción: funciona mediante un código de seguridad de seis dígitos de un solo uso proporcionado por el técnico al usuario. Se accede buscando "Asistencia rápida" en el buscador del menú Inicio.
+
+4.2. Herramientas administrativas
+
+Windows incluye herramientas de administración para optimizar el disco duro, comprobar errores y comprimirlo; también permiten supervisar y controlar el uso del sistema si más de una persona usa el equipo.
+
+- Administrador de equipos: consola centralizada que agrupa varias herramientas de administración del sistema. Permite gestionar discos y particiones, ver el visor de eventos, administrar usuarios y grupos locales, gestionar servicios y acceder a herramientas de diagnóstico (equipo local o remoto). Se accede: Windows + X > Administración de equipos, o ejecutando compmgmt.msc.
+
+- Configuración del sistema: herramienta avanzada para configurar el comportamiento del arranque de Windows. Permite gestionar qué servicios y aplicaciones se inician automáticamente, configurar opciones de arranque avanzadas y realizar diagnósticos de inicio. Se accede: Windows + R > msconfig.
+
+- Desfragmentar y optimizar unidades: reorganiza la información en discos mecánicos para acelerar el acceso a los datos, y envía comandos de optimización (TRIM) en unidades SSD. El disco se degrada conforme se graban y eliminan datos, por eso se reorganiza la información para eliminar espacios libres entre datos y mejorar el rendimiento y velocidad de acceso.
+
+- Editor de Registro: base de datos jerárquica que contiene datos críticos para el funcionamiento de Windows, las aplicaciones y servicios. Se accede ejecutando regedit.
+
+- Información del sistema: recopila y muestra información sobre la configuración del sistema (equipo local o equipo conectado).
+
+- Liberador de espacio en disco: ayuda a liberar espacio en la unidad de disco duro; busca y enumera archivos temporales, archivos de caché de Internet y archivos de programa innecesarios que se pueden eliminar de forma segura.
+
+- Monitor de recursos: utilidad para administrar y validar múltiples parámetros del sistema en tiempo real (CPU, Disco, Red y memoria).
+
+- Monitor de rendimiento: similar al anterior, muestra en tiempo real una gráfica de rendimiento del equipo además de herramientas de diagnóstico del sistema. Se accede: perfmon.msc.
+
+- Programador de tareas: permite programar tareas para que se ejecuten automáticamente. Se accede: taskschd.msc.
+
+- Servicios: muestra todos los servicios de Windows instalados y permite iniciarlos, detenerlos, pausarlos y configurar su tipo de inicio (automático, manual o deshabilitado). Muchos servicios son esenciales para el funcionamiento del sistema y las aplicaciones. Se accede: services.msc.
+
+- Windows Defender Firewall: cortafuegos integrado en Windows 10 que protege frente a accesos no autorizados y ataques a través de Internet o de una red local. Permite configurar qué aplicaciones y puertos tienen acceso a la red (redes privadas y públicas). Forma parte del centro de Seguridad de Windows, junto con el antivirus Windows Defender.
+
+- Restaurar sistema: hace un seguimiento de los cambios en el equipo y crea un punto de restauración cuando detecta el comienzo de la realización de cambios. Permite restaurar el equipo a un estado anterior en el que funcionaba correctamente.
+
+- Chkdsk (Comprobación de errores): analiza la integridad del sistema de archivos de una unidad y corrige errores si los encuentra. Puede ejecutarse manualmente desde Propiedades de la unidad > Herramientas > Comprobación de errores (programándose para el próximo reinicio si la unidad está en uso). Windows 10 la ejecuta automáticamente al arrancar si detecta que un volumen fue desmontado incorrectamente o presenta fallos, mostrando un mensaje que permite cancelar la comprobación pulsando cualquier tecla durante la cuenta atrás (10 segundos por defecto).
+
+Comandos de las principales herramientas administrativas (ejecutables desde el cuadro de diálogo Ejecutar, Windows+R):
+- compmgmt.msc: Administración de equipos.
+- msconfig: Configuración del sistema.
+- diskmgmt.msc: Administración de discos.
+- taskschd.msc: Programador de tareas.
+- services.msc: Servicios.
+- devmgmt.msc: Administrador de dispositivos.
+- eventvwr.msc: Visor de eventos.
+- perfmon.msc: Monitor de rendimiento.
+- certmgr.msc: Administrador de certificados.
+- regedit: Editor de Registro.
+
+4.3. Configuración de Windows
+
+Herramientas para la configuración y personalización de Windows:
+
+- Panel de control: herramienta tradicional con acceso a una amplia gama de configuraciones de Windows. Útil para configuraciones más avanzadas, administración de hardware, programas y características específicas del sistema.
+
+- "Modo Dios" (God Mode): característica de Windows 10 que permite acceder a una página avanzada de configuración del sistema, con todos los ajustes avanzados agrupados en una sola carpeta. Se activa creando una nueva carpeta en el escritorio y nombrándola: "GodMode.{ED7BA470-8E54-465E-825C-99712043E01C}".
+
+- Configuración de Windows: aplicación/menú que permite personalizar y ajustar una amplia variedad de configuraciones y preferencias del sistema operativo. Alternativa más moderna y amigable al Panel de control tradicional, más accesible para usuarios no técnicos. Formas de acceder:
+  - Buscador de la barra de tareas.
+  - Enlace del menú contextual del botón Inicio.
+  - Icono de la rueda dentada del panel izquierdo del menú Inicio.
+  - Listado de aplicaciones del menú Inicio.
+  - Atajo de teclado Windows + I.
+
+Categorías de Configuración de Windows:
+
+- Sistema: configuración de pantalla, notificaciones, aplicaciones, energía.
+  - Pantalla: orientación, brillo, resolución; configuración de varias pantallas. Atajo Windows + P (si hay dos pantallas conectadas), modos de proyección:
+    1. Solo pantalla de PC: solo en la pantalla principal.
+    2. Solo segunda pantalla: solo en la segunda pantalla.
+    3. Duplicado: misma información en ambas pantallas.
+    4. Ampliar (Extender): permite mover elementos entre las dos pantallas.
+  - Sonido: ajuste de acciones vinculadas a sonidos del sistema.
+  - Notificaciones y acciones: comportamiento de notificaciones e iconos de la barra de tareas (Centro de Actividades).
+  - Asistente de concentración: activación/desactivación por periodos de notificaciones y alertas.
+  - Inicio/apagado y suspensión: tiempos de apagado de pantalla o suspensión, opciones de ahorro de batería (portátiles).
+  - Almacenamiento: estado del almacenamiento interno; liberación de espacio automático.
+  - Tableta: optimiza el equipo para entrada táctil.
+  - Multitarea: características de trabajo con varias ventanas abiertas.
+  - Escritorios virtuales: Windows 10 permite crear múltiples escritorios virtuales dentro de la misma sesión, cada uno con sus propias ventanas y aplicaciones. Útiles para separar trabajo personal/profesional o mostrar un escritorio limpio sin cerrar aplicaciones. Atajos:
+    - Windows + Tab: abre la Vista de tareas (todos los escritorios virtuales y ventanas abiertas).
+    - Windows + Ctrl + D: crea un nuevo escritorio virtual.
+    - Windows + Ctrl + flecha izquierda/derecha: cambia entre escritorios virtuales.
+    - Windows + Ctrl + F4: cierra el escritorio virtual activo (sus ventanas se trasladan al escritorio anterior).
+  - Ajuste de ventanas (Snap): organiza ventanas rápidamente:
+    - Windows + flecha izquierda: ajusta la ventana a la mitad izquierda.
+    - Windows + flecha derecha: ajusta la ventana a la mitad derecha.
+    - Windows + flecha arriba: maximiza la ventana.
+    - Windows + flecha abajo: restaura o minimiza la ventana.
+    - Arrastrar la barra de título hacia un lateral o esquina también activa el ajuste automático.
+  - Proyección en este equipo: proyecta la imagen de un teléfono u otro PC en el equipo.
+  - Experiencias compartidas: aplicaciones de otros dispositivos pueden abrir aplicaciones en el PC y enviarse mensajes.
+  - Portapapeles: visualiza el historial del portapapeles.
+  - Escritorio remoto: controla el PC desde un dispositivo remoto (requiere Windows 10 Pro).
+  - Acerca de: muestra especificaciones del equipo (procesador, RAM, edición/versión de Windows). Para averiguar la versión: Windows + R > winver > Aceptar.
+
+- Dispositivos: configuración de dispositivos conectados (Bluetooth, impresoras, escáneres, teclado, ratón, paneles táctiles, escritura a mano, reproducción automática para DVDs/USB, notificación de problemas de conexión USB).
+
+- Teléfono: vincula un teléfono Android o iPhone al equipo para recibir y gestionar notificaciones, mensajes, llamadas y fotos directamente desde el escritorio de Windows 10.
+
+- Red e internet: conexiones a Internet, tipos de conexión, modo avión, medición de datos consumidos, servidores proxy.
+
+- Personalización: fondo del escritorio, colores, temas, salvapantalla.
+
+- Aplicaciones: Aplicaciones y características (todas las aplicaciones instaladas); Aplicaciones predeterminadas (las que abren un archivo según su extensión).
+
+- Cuentas: quién puede usar el equipo, tipo de cuenta, opciones de sincronización.
+  - Información de la cuenta con sesión iniciada: nombre, correo, si es administrador/usuario, imagen.
+  - Cuentas de correo y aplicaciones: usar más de una cuenta y ver cuáles usa cada aplicación.
+  - Opciones de inicio de sesión: reconocimiento facial, huella dactilar, PIN (estos tres conforman Windows Hello, característica de seguridad y autenticación biométrica), o llave de seguridad.
+
+- Hora e idioma: hora, región, formato de fecha, moneda, etc.
+
+- Accesibilidad: opciones para personas con impedimentos visuales o auditivos:
+  - Teclado: facilita el manejo, especialmente combinaciones de teclas.
+  - Sonidos: sustituye sonidos por efectos en pantalla.
+  - Pantalla: alto contraste, fuentes grandes, etc.
+  - Ratón: sustituye algunas funciones del ratón por otras con el teclado.
+  - Facilitar uso de toque y tableta (dispositivos táctiles).
+  - Usar el equipo sin mouse o teclado.
+  - Lupa: aumenta el tamaño de una parte de la pantalla.
+  - Narrador: lee el texto de la pantalla en voz alta.
+  - Teclado en pantalla: aparece un teclado en pantalla para teclear sin dispositivo físico (más que el ratón).
+  - Alto contraste: reduce el cansancio de la vista y facilita la lectura.
+  - Reconocimiento de voz de Windows: controla el equipo por medio de la voz.
+
+- Buscar: configura la búsqueda en web, aplicaciones, configuración y archivos, ofreciendo búsquedas seguras.
+
+- Privacidad: configuración de permisos de Windows y de aplicaciones (especialmente importantes: ubicación y cámara web).
+
+- Actualización y seguridad:
+  - Windows Update: sistema de actualización automática de Windows.
+  - Seguridad de Windows: administra y visualiza la seguridad y estado del PC:
+    1. Protección contra virus u amenazas.
+    2. Protección de cuentas.
+    3. Firewall de Windows: configura quién y qué puede tener acceso a las redes.
+    4. Control de aplicaciones y exploradores.
+    5. Seguridad del dispositivo.
+  - Copia de Seguridad: realiza y restaura copias de seguridad de los archivos en otra unidad.
+  - Historial de archivos: herramienta de copia de seguridad automática que guarda periódicamente versiones de los archivos personales del usuario (documentos, imágenes, música, vídeos, escritorio y favoritos) en una unidad externa o ubicación de red. Permite recuperar versiones anteriores de un archivo si ha sido modificado o eliminado por error. Se configura desde Configuración > Actualización y seguridad > Copia de seguridad > Agregar una unidad. Una vez configurada, el historial se activa y realiza copias automáticas cada hora por defecto (frecuencia configurable).
+  - Recuperación: opciones de recuperación de Windows 10:
+    1. Quitar una actualización de Windows instalada.
+    2. Restablecer este equipo (equivalente a reinstalar Windows):
+       a) Mantener mis archivos: borra aplicaciones y configuración, mantiene archivos personales.
+       b) Quitar todo: elimina archivos personales, aplicaciones y configuración.
+    3. Reparación de Inicio: herramienta de recuperación que soluciona incidentes que impiden que Windows se inicie; examina el equipo, busca el error e intenta corregirlo.
+    4. Restaurar Sistema: protege y repara el software del equipo mediante "instantáneas" de archivos del sistema y del registro (Puntos de restauración). Ante error de instalación o daños en los datos, permite devolver el sistema a una condición de trabajo sin reinstalar el sistema operativo.
+    5. Unidad de recuperación: crea una unidad USB de recuperación con los archivos del sistema necesarios para solucionar problemas de arranque o reinstalar Windows si el equipo no puede iniciarse correctamente.
+
+4.4. Ejecutar y PowerShell
+
+Ejecutar es una herramienta que permite abrir programas, gestores, archivos, carpetas o recursos de Internet mediante comandos de texto.
+
+Acceso a la ventana Ejecutar:
+- Atajo de teclado: Windows + R.
+- Menú Inicio: botón Inicio > escribir "Ejecutar" en el buscador > seleccionar "Ejecutar".
+
+Comandos de ejemplo en la ventana Ejecutar:
+- cmd: abre el símbolo del sistema.
+- Explorer: abre el explorador de Windows.
+- Msconfig: abre la configuración del sistema.
+- Taskmgr: abre el administrador de tareas.
+- Chkdsk: análisis de la partición del disco.
+- Defrag: herramienta de desfragmentación de discos.
+- Ipconfig: muestra la configuración de red.
+- Ping: verifica la conectividad de red entre dispositivos.
+
+Gestores (consolas) ejecutables desde Ejecutar:
+- devmgmt.msc: configurar dispositivos y hardware.
+- diskmgmt.msc: administrar volúmenes de disco y crear particiones.
+- perfmon.msc: monitor del rendimiento del sistema.
+- services.msc: configurar los servicios del sistema.
+- compmgmt.msc: Administración de equipos.
+- eventvwr.msc: Visor de eventos.
+- certmgr.msc: Administrador de certificados.
+
+PowerShell y el Símbolo del sistema (CMD):
+
+Windows 10 dispone de dos interfaces de línea de comandos que coexisten y son complementarias:
+- Símbolo del sistema (CMD): intérprete de comandos presente desde las primeras versiones de Windows. Comandos basados en MS-DOS, sencillos y directos, adecuados para tareas básicas (gestión de archivos, configuración de red, scripts sencillos).
+- Windows PowerShell: herramienta de línea de comandos avanzada de Microsoft, basada en .NET. Usa un lenguaje de scripting propio cuyos comandos se llaman cmdlets, con formato verbo-nombre (ej. Get-Process, Stop-Service). Mucho más potente que CMD; permite automatizar tareas complejas de administración del sistema. Recomendada para administradores y usuarios avanzados; NO ha sustituido al CMD, que sigue disponible y funcional.
+
+Ambas herramientas se pueden abrir desde:
+- Buscador de la barra de tareas.
+- Clic derecho sobre el botón Inicio (Windows + X).
+- Ventana Ejecutar (cmd o powershell).
+- Ficha Archivo de la cinta de opciones del Explorador de archivos.
+
+====================================================================
+5. EL ADMINISTRADOR DE TAREAS
+====================================================================
+
+Aplicación integrada en Windows que proporciona información de los programas y procesos en ejecución, además de indicadores de rendimiento del equipo. Permite comprobar el rendimiento, ver el estado de los programas en ejecución y realizar acciones sobre ellos (como forzar su finalización).
+
+Muestra gráficos y datos sobre el uso de CPU y memoria: el porcentaje indica la capacidad total del procesador y qué porcentaje se está utilizando. A mayor porcentaje de utilización, mayor consumo de energía.
+
+Formas de abrirlo:
+- CTRL + ALT + SUPR.
+- CTRL + MAY + ESC.
+- Clic derecho sobre la barra de tareas > opción correspondiente.
+- Desde la carpeta "Sistema de Windows", en el menú de Inicio.
+- Windows + R > taskmgr > Intro.
+
+Pestañas del Administrador de tareas:
+- Procesos: lista de aplicaciones en ejecución y procesos en segundo plano, con CPU, memoria, disco, red, GPU y otra información de uso de recursos.
+- Rendimiento: gráficos en tiempo real del uso total de recursos de CPU, memoria, disco, red y GPU.
+- Historial de aplicaciones: información sobre la cantidad de recursos de red y CPU que las aplicaciones han usado para la cuenta de usuario actual.
+- Inicio: lista de programas de inicio (aplicaciones que Windows inicia automáticamente al iniciar sesión).
+- Usuarios: cuentas de usuario actualmente registradas en el PC, recursos que usan y aplicaciones que ejecutan.
+- Detalles: información más detallada sobre los procesos que se ejecutan en el sistema.
+- Servicios: muestra todos los servicios de Windows y su estado actual (en ejecución o detenidos).
+
+====================================================================
+IDEAS CLAVE / RESUMEN
+====================================================================
+
+- Un sistema de archivos es la estructura lógica y organizativa utilizada por un sistema operativo para gestionar cómo se almacenan, acceden y organizan los archivos en un dispositivo de almacenamiento.
+- El sistema de archivos utilizado en Windows 10 es NTFS (New Technology File System). Ventajas frente a versiones anteriores: recuperación de errores, soporte para unidades de mayor capacidad, mayor seguridad, nombres de archivo de hasta 255 caracteres, compatibilidad con sistemas de archivos de versiones anteriores.
+- El Explorador de archivos es la herramienta que permite administrar y gestionar los archivos y carpetas de los distintos sistemas de almacenamiento del ordenador.
+- El "Panel de Navegación" permite navegar y administrar archivos y carpetas, con acceso rápido a ubicaciones específicas del sistema.
+- El "Acceso rápido" ofrece acceso rápido a carpetas y archivos usados con frecuencia o abiertos recientemente; permite anclar carpetas (no archivos).
+- OneDrive es el servicio de almacenamiento en la nube de Microsoft para almacenar, sincronizar y compartir archivos y datos en línea.
+- "Este Equipo" da acceso a todos los dispositivos de almacenamiento y recursos conectados al ordenador (discos duros, USB, tarjetas de memoria, unidades de red, y carpetas por defecto de cada perfil de usuario).
+- Diseños disponibles para visualizar carpetas: Iconos muy grandes, Iconos grandes, Iconos medianos, Iconos pequeños, Lista, Detalles, Mosaicos y Contenido.
+- La Papelera de reciclaje es un espacio en el disco duro reservado para almacenar la información eliminada, permitiendo recuperarla; la restauración se hace por defecto en la ubicación original.
+- Un archivo o carpeta comprimida es el resultado de reducir su tamaño de almacenamiento con una herramienta de compresión.
+- La configuración del sistema en Windows se cambia desde el Panel de control o desde la Configuración de Windows (Windows + I).
+- La apariencia de Windows 10 se personaliza desde "Personalización" (fondo de pantalla, colores, temas, pantalla de bloqueo).
+- La instalación/desinstalación de programas se realiza desde "Aplicaciones" en el Panel de Configuración.
+- Las copias de seguridad y restauración de archivos se gestionan desde "Actualización y seguridad".
+- Opciones de accesibilidad de Windows 10: Narrador, Lupa, Teclado en pantalla, Reconocimiento de voz, entre otras.
+- La configuración de energía se cambia desde "Sistema" en el Panel de Configuración.
+- Herramientas administrativas más usuales: Administrador de Equipos, Editor del registro, Liberador de espacio, Desfragmentador y optimización de discos.
+- PowerShell es una herramienta de línea de comandos de Microsoft (basada en .NET, comandos cmdlets con formato verbo-nombre) que permite interactuar con el ordenador de forma más avanzada que el símbolo del sistema (CMD); útil para automatizar tareas repetitivas y de administración del sistema.
+- El Administrador de tareas es una aplicación integrada en Windows para obtener información de programas y procesos en ejecución y de los indicadores de rendimiento del equipo.
