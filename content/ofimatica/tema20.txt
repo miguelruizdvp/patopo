@@ -1,0 +1,275 @@
+TEMA 20 — CORREO ELECTRÓNICO: OUTLOOK. CONCEPTOS ELEMENTALES Y FUNCIONAMIENTO. ENVIAR, RECIBIR, RESPONDER Y REENVIAR MENSAJES. CREACIÓN DE MENSAJES. REGLAS DE MENSAJE. LIBRETA DE DIRECCIONES. AGENDA. CONVOCATORIAS Y CITAS.
+
+1. CORREO ELECTRÓNICO: CONCEPTOS ELEMENTALES Y FUNCIONAMIENTO
+El correo electrónico (e-mail) es uno de los servicios de Internet más utilizados; medio para recibir y enviar mensajes privados a través de redes de ordenadores. Se implantó como medio principal de comunicación entre grupos y comunidades científicas y culturales.
+Los envíos constan de remitente y destinatario, cada uno con una dirección de correo electrónico. El mensaje viaja desde el ordenador origen hasta el destino pasando por ordenadores intermedios que remiten el mensaje hasta el destino final.
+Ventajas del e-mail: Rapidez (llega en segundos independientemente del lugar), Coste (sin cargos por envío), Adaptación (se pueden añadir imágenes, sonidos, vídeos, hojas de cálculo), Fiabilidad (no suelen perderse; los errores se devuelven al remitente con aviso), Comodidad (se guardan, modifican y reutilizan; se pueden recuperar mensajes borrados).
+Inconvenientes del e-mail: Inseguridad (fácil interferencia al pasar por muchos dispositivos), Errores (envíos a destinatario equivocado por automatización), Publicidad (correo basura, virus o enlaces peligrosos).
+
+1.1. Características
+El correo electrónico se diferencia del resto de servicios de Internet en que los dos ordenadores implicados (emisor y receptor) NO necesitan estar en contacto obligatoriamente al mismo tiempo (a diferencia de FTP, Telnet, Archie, Gopher, que exigen ambos ordenadores y toda la red activos simultáneamente). Si el ordenador/red destino está fuera de servicio, el mensaje llegará cuando vuelva a estar operativo en un plazo razonable.
+
+1.2. Dirección de correo electrónico
+Necesaria para enviar y recibir correspondencia; identifica de forma inequívoca en la red (dato obligatorio para enviar). Deben ser únicas (no puede haber dos personas con la misma dirección). Formato semejante a direcciones IP, con identificador de usuario añadido.
+Características:
+- Nombre de usuario: identifica al usuario (ej. en "usuario@gmail.com", "usuario").
+- Símbolo @: separa nombre de usuario del dominio.
+- Dominio: nombre del servidor de correo que gestiona la dirección (ej. "gmail.com").
+- Extensión: parte final que indica tipo de organización o país (ej. ".com").
+- Longitud total de una dirección de correo: no debe exceder 320 caracteres. Parte local (antes de "@"): entre 1 y 64 caracteres. Nombre de dominio (después de "@"): limitado a 255 caracteres.
+
+1.3. Protocolos
+Un protocolo es un conjunto de reglas y convenciones para el intercambio correcto de información en Internet. Existen servidores E-MAIL SERVERS con distintos protocolos:
+- SMTP (Simple Mail Transfer Protocol): usado por el ordenador local al enviar un mensaje; correo SALIENTE.
+- POP (Post Office Protocol): usado por el destinatario para recuperar/leer el mensaje; el mensaje se DESCARGA al equipo local; correo ENTRANTE.
+- IMAP (Internet Message Access Protocol): usado por el destinatario para recuperar/leer el mensaje; el mensaje NO se descarga al equipo local; correo ENTRANTE.
+
+1.4. Funcionamiento
+Al enviar un mensaje, el ordenador local transmite al SMTP local, que recoge el mensaje y, según la dirección del destinatario, decide la mejor ruta. El mensaje va saltando entre ordenadores hasta ser transferido al servidor POP/IMAP del destinatario. Finalmente se transfiere desde el servidor POP al ordenador final. Si un ordenador intermedio está fuera de servicio, el servidor correspondiente guarda el mensaje y lo reenvía cuando se solucione.
+
+1.5. Acceso al correo electrónico
+Dos posibilidades:
+- Web Mail: acceso vía servicio WWW mediante navegador, con dirección de correo y contraseña.
+- Programas Cliente: se instala un programa de correo, configurando cuenta, contraseña y protocolo de servidor a utilizar.
+
+1.5.1. El Web Mail
+Solución práctica ante el crecimiento de Internet. Características: solo requiere usuario y contraseña; no necesita configuración; se puede consultar desde cualquier ordenador; incluye todas las opciones de gestión (enviar, reenviar, borrar, responder, organizar en carpetas); no necesita programa cliente, solo navegador. Ejemplos: Gmail, Yahoo! Mail, Outlook.com (antes Hotmail).
+
+1.5.2. Programas Cliente de correo electrónico
+Permiten trabajar con varias cuentas a la vez, organizar mejor los emails, crear copias de seguridad y acceder a mensajes sin conexión. Se configuran para usar protocolos POP3 o IMAP. Programas más utilizados: Eudora, Microsoft Outlook (incluido en Microsoft 365), Mailbird, Lotus Notes → IBM Notes, Thunderbird.
+
+A) Microsoft Outlook
+Outlook 365 es parte de Microsoft 365 (servicio por suscripción). Integrado con OneDrive y otros servicios en la nube: autoguardado, colaboración en tiempo real, acceso desde cualquier navegador web. Se integra con Teams, SharePoint, OneNote y Planner.
+Primera acción: configurar la cuenta de correo electrónico. Después: recibir/enviar correos, programar eventos en calendario, establecer recordatorios, personalizar configuración.
+
+La interfaz de Outlook 365
+- Barra de navegación (izquierda): cambia entre Correo (CTRL+1), Calendario (CTRL+2), Contactos/Personas (CTRL+3), Tareas (CTRL+4) y otros.
+- Panel de carpetas: estructura de carpetas del buzón (Bandeja de entrada, Enviados, Borradores, Eliminados, Correo no deseado, Archivo, etc.) y personalizadas; se puede marcar como Favoritas.
+- Lista de mensajes (panel central): remitente, asunto, fecha, vista previa; no leídos en negrita; ordenable por fecha/remitente/asunto/tamaño.
+- Panel de lectura (panel derecho): contenido completo sin abrir ventana independiente; configurable a la derecha, abajo o desactivado (Vista > Diseño > Panel de lectura).
+- Barra de tareas pendientes (derecha, opcional): calendario, tareas pendientes, contactos importantes (Vista > Diseño > Barra Tareas pendientes).
+
+Cinta de opciones Pestaña Archivo
+- Información: agregar cuenta, cambiar configuración de cuentas existentes, administrar tamaño del buzón, definir reglas y alertas.
+- Abrir y Exportar: abrir archivo de calendario (.ics, .vcs), abrir archivo de datos de Outlook (.pst), importar/exportar archivos y configuraciones, abrir carpeta compartida.
+- Guardar como: opciones para guardar un mensaje.
+- Guardar datos adjuntos: guardar archivos adjuntos de un mensaje.
+- Imprimir: mensajes, contactos, calendarios, reuniones, tareas.
+- Cuenta de Office: espacio de almacenamiento disponible y detalles de licencia.
+- Comentarios: proporcionar feedback a Microsoft.
+- Opciones: personalizar configuración (correo, calendario, tareas, idioma, accesibilidad...).
+Botones adicionales:
+- Configuración de la cuenta: Configuración de la cuenta (añadir/quitar cuentas o cambiar configuración de conexiones existentes; se puede tener más de una cuenta activa); Configuración de la sincronización y nombre de cuenta; Delegar acceso (conceder a otro usuario permisos para gestionar correo/calendario/tareas en nombre del titular; enviar mensajes y convocatorias, responder y gestionar calendario; se configura en Archivo > Opciones de cuenta > Delegar acceso; útil cuando el titular no puede atender el correo); Descargar libreta de direcciones; Cambiar perfil; Administrar perfiles.
+- Respuestas automáticas: respuestas cuando no se está disponible (vacaciones, fuera de oficina).
+- Herramientas: Limpieza de buzón (Archivo > Herramientas > Limpiar buzón): Buscar elementos por antigüedad y tamaño, Autoarchivar (mueve elementos antiguos a archivo .pst local liberando espacio), Vaciar elementos eliminados (borrado definitivo de la carpeta Elementos eliminados); Vaciar carpeta eliminados; Limpiar elementos antiguos (mueve a un archivo de Outlook).
+- Administrar reglas y alertas: organizar correo en carpetas, descartar correo, etc.
+- Administrar complementos: añadir complementos.
+
+Cinta de opciones Pestaña Inicio (pantalla principal)
+- Grupo Nuevo: crear nuevo mensaje y nuevos elementos (mensajes, citas, reuniones, contactos, tareas).
+- Grupo Eliminar: eliminar correos o moverlos a Elementos Eliminados; Omitir conversación (mueve mensajes actuales y futuros de una conversación a Elementos eliminados); Limpiar (elimina mensajes redundantes de la conversación); Correo no deseado (marcar elementos o remitentes/dominios como no deseados); Eliminar; Archivo (mueve a la carpeta Archivo).
+- Grupo Informe: denunciar suplantación de identidad y correo no deseado.
+- Grupo Responder: responder, responder a todos, reenviar, responder con convocatoria de reunión o mensaje instantáneo.
+- Grupo Pasos rápidos: varias acciones con un solo clic.
+- Grupo Mover: mover correos a carpetas; Reglas (crear reglas de correo para automatizar acciones con mensajes entrantes); Enviar a OneNote (colocar el correo en un bloc de notas en OneNote).
+- Grupo Etiquetas: categorías de color para organizar/dar seguimiento; marcar como leído/no leído.
+- Grupo Buscar: opciones de búsqueda de correos.
+- Otras: Leer en voz alta; Todas las aplicaciones (administrar complementos y aplicaciones instalados).
+
+Cinta de opciones Pestaña Enviar y recibir
+Actualizar carpetas (global o individual), mostrar estado de descargas, configurar descarga de encabezados, trabajar sin conexión, configurar grupos de envío/recepción (una o varias cuentas, fuentes RSS y calendarios).
+
+Cinta de opciones Pestaña Carpeta
+- Grupo Nuevo: crear nueva carpeta en el buzón; Nueva Carpeta de Búsqueda (organiza y muestra automáticamente mensajes que cumplen ciertos criterios/reglas de búsqueda).
+- Grupo Acciones: cambiar nombre, copiar/mover, eliminar la carpeta.
+- Grupo Limpiar: marcar correos como no leídos, aplicar reglas, ordenar carpetas alfabéticamente, limpiar mensajes redundantes, eliminar todos los elementos, recuperar elementos eliminados.
+- Grupo favoritos: marcar carpetas como "Favoritas".
+- Grupo Propiedades: Directiva (retención de la carpeta); Propiedades de la Carpeta (nombre, dirección de correo asociada, permisos); Permisos de carpeta (uso compartido); Configuración de Autoarchivar (archivos .pst que almacenan correos, contactos, calendarios).
+
+Cinta de opciones Pestaña Vista
+- Grupo vista actual: configuraciones personalizadas por carpeta; tres tipos de vista: compacta, Única y Vista previa.
+- Grupo mensajes: Mostrar mensajes en conversaciones (agrupa correos con el mismo asunto en una sola conversación).
+- Bandeja de entrada Prioritarios: muestra la bandeja "Prioritarios".
+- Grupo organización: organizar/personalizar apariencia de los elementos.
+- Grupo Diseño: Panel de Carpetas (mostrar/ocultar/minimizar, Favoritos); Panel de Lectura (ubicación derecha/inferior/desactivado); Barra de Tareas Pendientes (Calendario, Tareas, Personas).
+- Immersive Reader: ajuste de tamaño de texto/espaciado, lectura en voz alta.
+
+1.6. Elementos comunes a los programas de correo electrónico
+Todo programa organiza los mensajes en carpetas. Carpetas principales de Outlook (versión escritorio):
+- Bandeja de entrada: recibe mensajes entrantes; no leídos en negrita; número de correos sin leer junto al nombre.
+- Bandeja de salida: mensajes pendientes de envío (aún pueden modificarse); al enviarse pasan a Elementos enviados; el número indica correos retenidos.
+- Elementos enviados: copia de mensajes ya transmitidos con éxito.
+- Borradores: mensajes guardados sin enviar (manual o autoguardado).
+- Elementos eliminados (Papelera): mensajes eliminados (SUPR o CTRL+D); recuperables; eliminación permanente sin pasar por esta carpeta: MAYÚS+SUPR; el número indica elementos guardados.
+- Correo no deseado: mensajes sospechosos detectados por filtros de Microsoft o de remitentes bloqueados.
+- Archivo: mensajes antiguos quitados de la vista principal pero conservados a largo plazo.
+
+2. ENVIAR, RECIBIR, RESPONDER Y REENVIAR MENSAJES. CREACIÓN DE MENSAJES
+
+2.1. Crear y enviar mensajes
+Se redacta un nuevo mensaje desde el botón de la pantalla principal. Si hay más de una cuenta configurada, aparece el botón "De" (encima de "Para") para elegir la cuenta emisora.
+Estructura del mensaje: CABECERA (De, Para, CC, CCO, Asunto) y CUERPO.
+Campos de la cabecera:
+- De: remitente, autocompletado; visualizable/modificable activando Opciones > Mostrar Campos.
+- Para: destinatario(s); varias direcciones separadas por "," o ";".
+- CC: copia a otros destinatarios además de los principales; los principales SÍ saben que hay copia; separar direcciones con ";" o ",".
+- CCO: copia a otros destinatarios, PERO los principales NO saben que se ha enviado copia; se activa desde Opciones > Mostrar Campos.
+- Nota: para poder enviar, al menos uno de los tres campos (Para, CC, CCO) debe contener una dirección correcta.
+- Asunto: tema del mensaje; no obligatorio.
+- Adjuntar: añadir archivos de texto, imágenes, etc.; el conjunto de adjuntos tiene un límite de tamaño superior; NO se pueden adjuntar carpetas.
+El Cuerpo del mensaje es la zona de redacción: se pueden modificar fuentes, formatear párrafos, insertar elementos.
+Al enviar (botón Enviar), el mensaje pasa a la Bandeja de salida y, tras enviarse, a Elementos enviados; mientras esté en Bandeja de salida se puede reabrir y modificar.
+Cintas que genera Outlook al crear un correo: Mensaje, Insertar, Opciones, Formato de texto, Revisar.
+
+2.2. Barra de herramientas de mensaje nuevo
+En la pestaña Mensaje, entre otras: Libreta de direcciones, Comprobar nombres, Adjuntar archivo, Vínculo, Firma, Componentes de Loop, Asignar directiva, Seguimiento, Importancia alta, Importancia baja.
+
+Libreta de direcciones
+Almacena información de contacto de personas y organizaciones: nombre, dirección de correo, teléfono, dirección postal, empresa, cargo, fecha de cumpleaños y aniversarios, entre otros. Funciones principales:
+- Acceso: Inicio > Buscar > Libreta de direcciones, o CTRL+MAYÚS+B.
+- Autocompletar: al escribir en Para/CC/CCO, sugiere contactos coincidentes.
+- Comprobar nombres: verifica que las direcciones corresponden a contactos válidos.
+- Grupos de contactos (listas de distribución): enviar a varios contactos escribiendo solo el nombre del grupo en Para.
+- Gestión de contactos: se crean/editan/organizan desde la sección Personas del panel de navegación; se puede importar/exportar en formato .csv o vCard (.vcf).
+Para añadir contacto o crear grupo: opción Personas del menú izquierdo; cinta con Nuevo contacto, Nuevo grupo de contactos, Nuevos elementos, Eliminar, Reunión, Más, Cambiar vista, Acciones, Compartir, Etiquetas, Grupos, Buscar personas, Libreta de direcciones.
+
+Comprobar nombres: cuando no se recuerda la dirección completa, se puede escribir parte del nombre y usar el comando Comprobar nombres.
+
+Adjuntar archivo: añade archivos al mensaje; muestra últimos archivos usados o permite explorar el equipo. El auge de adjuntos ralentiza envío/recepción y puede saturar/bloquear cuentas por espacio limitado. Para reducir tamaño se pueden usar herramientas de compresión: Winzip, WinRar. Todos los mensajes de correo tienen la extensión .eml. El estándar MIME (Multipurpose Internet Mail Extensions) permite el envío/recepción de cualquier tipo de fichero adjunto.
+
+Adjuntar elemento: permite añadir una tarjeta de presentación o un mensaje recibido como fichero adjunto.
+
+Firma: texto (información de contacto, cita favorita) que se añade automáticamente al final de los mensajes.
+- Firma de correo: texto/imagen/combinación añadida automáticamente al final; suele incluir nombre, cargo, empresa, teléfono. Se configura en Archivo > Opciones > Correo > Firmas; se pueden crear varias y asignar distintas por cuenta o tipo de mensaje (nuevos vs. respuestas).
+- Firma digital: certificado electrónico criptográfico que autentica la identidad del remitente y garantiza que el contenido no ha sido modificado; NO es texto visible, es un elemento de seguridad invisible; se aplica desde "Firmar digitalmente" en las opciones del mensaje; requiere un certificado digital válido.
+
+Seguimiento: establece una marca para recordar volver a trabajar con el mensaje.
+
+Importancia alta e importancia baja: prioridad al enviar; tres niveles: normal (por defecto), alta (admiración cerrada roja), baja (flecha azul hacia abajo).
+
+Botón de Propiedades avanzadas (menú desplegable): incluye Configuración de seguridad (firmar digitalmente el correo), Opciones de votación y seguimiento (acuse de recibo o lectura), Opciones de entrega: Enviar respuestas a (redirige respuestas a otra dirección), No entregar antes de (fecha/hora de entrega diferida; el mensaje se guarda en Bandeja de salida hasta esa fecha), Caduca después de (fecha de caducidad; tras ella se marca como no disponible en el buzón del destinatario), Solicitar confirmación de entrega (notifica cuando llega al servidor del destinatario), Solicitar confirmación de lectura (notifica cuando el destinatario abre el mensaje).
+
+2.3. Recibir, responder y reenviar mensajes
+Al acceder al correo se muestran los mensajes recibidos; los no leídos en negrita; la Bandeja de entrada muestra el número de mensajes sin leer.
+Para revisar si hay mensajes nuevos: pestaña Enviar y recibir > Enviar y recibir todas las carpetas (F9).
+- Si el mensaje es respuesta a otro, el asunto aparece precedido de RE:
+- Si el mensaje es reenviado, el asunto aparece precedido de RV o FW:
+Un clip indica archivos adjuntos; una marca de exclamación indica importancia alta.
+Comandos disponibles (con mensaje seleccionado o abierto):
+- Responder (CTRL+R): respuesta solo al remitente original; los demás destinatarios de Para/CC no la reciben; asunto con RE:
+- Responder a todos (CTRL+MAYÚS+R): respuesta al remitente y a todos los destinatarios de Para y CC del mensaje original; los de CCO NO la reciben; precaución para no enviar información a destinatarios no deseados; asunto con RE:
+- Reenviar (CTRL+F): envía el mensaje a una nueva dirección que el usuario debe especificar; el remitente y destinatarios originales NO reciben copia del reenvío; se puede añadir texto adicional antes del mensaje reenviado; asunto con RV: (en español) o FW: (en inglés, "Forward").
+Configuración adicional del gestor de correo: Archivo > Opciones, con categorías: General (interfaz de usuario, predeterminado), Correo (editor de mensajes, ortografía/gramática, firmas, fondos, paneles de lectura, alertas, respuestas/reenvíos, seguimiento, guardado, formato), Calendario (jornada laboral, avisos, previsualización), Personas (cómo se muestran los contactos), Tareas (seguimiento de tareas), Búsqueda (forma de buscar, indización, resultados), Avanzado (paneles de Outlook, inicio/salida, archivado, sonidos, exportación, fuentes RSS, programación de envío/recepción, codificación de mensajes según idioma).
+Desde el menú izquierdo de Outlook también se accede a Personas, Calendario, panel de tareas To Do, lista de tareas pendientes y el resto de aplicaciones de Microsoft 365.
+
+2.4. Criterios de búsqueda en Outlook
+Se pueden escribir frases en el cuadro de búsqueda de la lista de mensajes; se admiten operadores, signos de puntuación y palabras clave para restringir resultados.
+Concordancia de prefijos: al escribir "ray", Outlook devuelve mensajes con ray, Ray, rayo, rayas, pero NO Saray ni pararrayos. Funciona igual con números: "9876" devuelve 9876, 98765, 987600, pero no 19876 ni 59876.
+
+2.4.1. Conceptos básicos de búsqueda
+Outlook analiza mensajes y muchos tipos de datos adjuntos buscando la palabra/frase en remitente, asunto, cuerpo o datos adjuntos. Al escribir una dirección de correo, devuelve mensajes que la contengan en cualquier lugar y también los enviados desde esa dirección; para limitar a "enviados desde" se especifica en el cuadro de búsqueda con el formato "de:".
+
+2.4.2. Tablas de referencia de búsqueda
+Operadores lógicos Y, NO, O (deben escribirse en mayúsculas), además de <, >, =.
+Ejemplos relevantes: "miguel" (todas las variaciones); "miguel tórrez" (cualquiera de los dos, no necesariamente juntos); "miguel Y tórrez" (ambos); "miguel NO tórrez"; "miguel O tórrez"; "\"miguel\"" (frase exacta, con comillas); De:"miguel tórrez" (enviados desde); De:"X" sobre:"Y" (enviados desde X con Y en asunto/cuerpo/adjuntos); Recibido: ayer / la semana pasada (fechas relativas: hoy, mañana, ayer, esta semana, mes siguiente, semana pasada, mes pasado, año que viene, días y meses); Pendiente: la semana pasada (marcados para seguimiento); Tamaño del mensaje: muy pequeño/pequeño/medio/grande/muy grande/enorme (rangos en KB/MB); Tiene datos adjuntos: sí; Archivos adjuntos: nombre; Asunto:"frase"; Cc:"nombre" o Cc:dirección; Cco: nombre; Categoría: palabra; Marca de seguimiento: seguimiento; Tiene indicador: true; operadores de comparación < > = en tamaño y fechas (Recibido:=1/1/2016, Recibido >= fecha y <= fecha, sin usar dos puntos en los intervalos); Enviado: ayer; Para: nombre (buscando en Elementos enviados); Lectura: no / lectura:false.
+
+2.4.3. Búsquedas en los contactos
+Solo devuelven resultados correctos ejecutadas desde una carpeta de Contactos: Nombre:, Apellido:, Alias:, Puesto:, Teléfono trabajo:, Teléfono particular:, Teléfono móvil:, Fax trabajo:, Dirección particular: (entre paréntesis), Ciudad trabajo:, Código postal trabajo:, Calle: (entre paréntesis), Cumpleaños:.
+
+3. REGLAS DE MENSAJES
+Organizan el correo entrante: se crea una regla y, según van entrando los mensajes, se distribuyen en carpetas según las especificaciones definidas, o se realizan otras tareas (reenvíos, contestaciones automáticas).
+Se crean/modifican desde Archivo > Información > "Administrar reglas y alertas" (Reglas y alertas). Ventana con pestañas "Reglas de correo electrónico" y "Administrar alertas"; botones Nueva regla, Cambiar regla, Copiar, Eliminar, Ejecutar reglas ahora, Opciones; casilla "Habilitar reglas en todos los mensajes descargados desde fuentes RSS".
+El comando "Nueva regla" abre el Asistente para reglas, con plantillas de ejemplo: Mantenerse organizado (mover a carpeta mensajes de una persona; mover a carpeta mensajes con palabras específicas en el asunto; mover a carpeta mensajes enviados a un grupo público; marcar mensajes de una persona como tarea para seguimiento; mover elementos RSS de una fuente específica a una carpeta), Mantenerse actualizado (mostrar el correo de una persona en Alerta de nuevo elemento; reproducir un sonido al recibir mensajes de alguien; enviar alerta al móvil), o Iniciar desde una regla en blanco (aplicar regla a mensajes que reciba / a mensajes que envíe).
+Se puede crear, por ejemplo, una carpeta donde almacenar correos que cumplan una condición sobre un campo (remitente, Para, CC, CCO, Asunto, cuerpo del mensaje, etc.).
+
+4. PROTOCOLOS DE RECEPCIÓN
+
+4.1. POP3 (Post Office Protocol)
+Ventaja principal: carpetas y mensajes se guardan en el ordenador local, permitiendo leer el correo sin estar conectado a la red. Al leer/bajar mensajes se libera espacio en el buzón del HOST (menos riesgo de que se llene y no se puedan recibir más mensajes). Ideal para conectarse siempre desde el mismo ordenador. Requiere un programa cliente instalado y configurado (Outlook, Lotus Notes, Eudora, etc.).
+
+4.2. IMAP (Internet Message Access Protocol)
+Diferencia principal respecto a POP3: mensajes y carpetas se guardan en el HOST (no se descargan al PC). Muy útil para conectarse desde ordenadores compartidos (los mensajes no pueden ser leídos por terceros al no quedarse en el PC); permite acceder a la totalidad de los mensajes desde cualquier ordenador. El acceso vía navegador (Web Mail) utiliza el protocolo IMAP.
+
+5. PROBLEMAS
+El principal problema actual es el spam: correos no solicitados (correo basura), normalmente publicidad engañosa en grandes cantidades. Suelen indicar un remitente falso, por lo que es difícil localizar al remitente real y no sirve de nada contestar (las respuestas las reciben usuarios ajenos). No existe forma de discriminar la verdadera dirección del remitente de una falsa (similar al correo postal, donde nada impide poner un remitente aleatorio). Existen tecnologías como la firma de mensajes mediante criptografía de clave pública.
+Otros problemas de seguridad y veracidad:
+- Virus informáticos: se propagan mediante ficheros adjuntos, infectando el ordenador de quien los abre.
+- Phishing: correos fraudulentos que intentan conseguir información bancaria.
+- Hoax (engaños): difunden noticias falsas masivamente.
+- Cadenas de correo electrónico: reenviar un mensaje a mucha gente; aunque parece inofensivo, la publicación de listas de direcciones contribuye a la propagación a gran escala de spam, virus, phishing y hoax.
+
+5.1. Recomendaciones
+Ante un mensaje sobre algo desconocido (aunque lo mande alguien conocido), conviene consultar su veracidad (buscadores, sitio web de la supuesta fuente, webs fiables especializadas).
+Solo reenviar si se está seguro de que es cierto e importante, poniendo las direcciones de los destinatarios en CCO (poniendo solo la propia dirección en Para) y borrando del cuerpo los encabezados previos con direcciones de email (mejor copiar el cuerpo sin encabezados previos y pegarlo en un mensaje nuevo o tras reenviar, borrando el texto repetido de envíos anteriores). Así se evita la propagación de spam, malware, phishing o hoax.
+Con mensajes con ficheros adjuntos: cuidado especial si el remitente es desconocido (posible malware); solo abrir si se está seguro de la procedencia e inocuidad.
+Ante ofrecimientos sospechosos de darse de baja de futuros mensajes/boletines: no responder, no escribir a direcciones tipo "bajas@..." o "unsubscribe@...", no pinchar enlaces (confirmaría a los spammers que la cuenta existe y está activa, generando más spam). Si el proveedor lo ofrece, marcar como "Es spam" / "Correo no deseado" / "Marcar como spam".
+
+5.2. Soluciones
+No hay fórmula 100% eficaz; existen diversas técnicas basadas en filtros para detectar correo no deseado. Clientes de correo con reglas para detección de spam (eliminación o bandejas especiales). Programas comerciales: SpamExperts Desktop, Xeeon Antispam, SpamExperts Home, SpamFighter, Ad Muncher, Anti Spam Umbrella. La mayoría de compañías de software antivirus incorporan herramientas de detección de spam, phishing, spyware, etc.
+
+Métodos abreviados de navegación básica (selección relevante): CTRL+1 Correo; CTRL+2 Calendario; CTRL+3 Contactos; CTRL+4 Tareas; CTRL+5 Lista de tareas pendientes; CTRL+6 Lista de carpetas; CTRL+MAYÚS+I Bandeja de entrada; CTRL+MAYÚS+O Bandeja de salida; CTRL+R Responder; CTRL+MAYÚS+R Responder a todos; CTRL+ALT+R Responder con convocatoria de reunión; CTRL+F Reenviar; CTRL+ALT+J Marcar como correo deseado; CTRL+MAYÚS+V Enviar a una carpeta; F9 Comprobar nuevos mensajes; CTRL+U Crear mensaje desde correo/cita desde calendario; CTRL+MAYÚS+M Crear mensaje desde cualquier vista; CTRL+O Marcar como no leído; CTRL+SUPRIMIR Mover a eliminados; CTRL+MAYÚS+B Abrir libreta de direcciones; INSERTAR Marca rápida a mensaje sin abrir; CTRL+MAYÚS+G Marcar mensaje para seguimiento; CTRL+Q Marcar como leído; CTRL+ENTRAR Enviar; CTRL+P Imprimir; ALT+ENTRAR Propiedades del elemento; CTRL+MAYÚS+T Crear una tarea.
+
+6. AGENDA. CONVOCATORIAS Y CITAS
+
+6.1. Introducción
+Outlook 365 no es solo correo, sino también un completo gestor de calendario para organizar citas personales, convocar reuniones y mantener planificación eficiente y sincronizada, mejorando la gestión del tiempo a nivel personal y organizacional.
+
+El Calendario de Outlook como agenda
+Herramienta de agenda integrada; organiza el tiempo visualmente mostrando eventos en distintas vistas temporales. Se accede desde el icono de Calendario en la barra de navegación o con CTRL+2.
+Vistas disponibles:
+- Vista Día (ALT+1): eventos de un día concreto organizados por horas.
+- Vista Semana laboral: cinco días laborables de la semana actual.
+- Vista Semana (ALT+2): siete días de la semana.
+- Vista Mes (ALT+4): mes completo con eventos de cada día.
+- Vista Programación: eventos en formato de tabla horizontal, útil para comparar disponibilidad.
+Se sincroniza automáticamente con Microsoft Teams y otros servicios de Microsoft 365: las reuniones creadas en Teams aparecen en el calendario de Outlook y viceversa.
+Desde el Calendario se puede: ver la disponibilidad de otros usuarios de la organización antes de crear una reunión; compartir el calendario propio; suscribirse a calendarios externos (festivos, calendarios de equipo); configurar el horario laboral para que Outlook lo tenga en cuenta al sugerir horas de reunión.
+Desde el módulo Calendario se puede: crear, editar y eliminar citas y reuniones; enviar invitaciones; gestionar respuestas de los asistentes; consultar la disponibilidad de otros usuarios.
+Diferencia entre cita y convocatoria:
+- Cita: evento personal programado en el propio calendario del usuario, SIN incluir a otros participantes.
+- Convocatoria o reunión: evento al que se invita a uno o más asistentes; Outlook envía las invitaciones por correo, muestra la disponibilidad de los asistentes y agrega el evento al calendario de los invitados que acepten.
+Se accede a la sección Calendario seleccionando su icono en la barra lateral izquierda.
+
+6.2. Creación de citas o convocatorias
+Para crear una cita/evento personal: pestaña Inicio > botón "Nueva cita". Para crear una reunión con más participantes: botón "Nueva reunión".
+Campos comunes a cita y reunión:
+- Título: nombre del evento, visible en el calendario.
+- Ubicación: lugar físico o virtual (sala física, Teams, etc.).
+- Fecha y hora: inicio y fin de la reunión/cita.
+- Campo notas/texto: detalles, agenda, documentos.
+- Aviso: alertas configurables de 0 a 2 semanas antes.
+- Categorizar: colores para organización visual.
+- Importancia alta/baja: importancia de la reunión.
+- Convertir en periódica: define la recurrencia del evento (frecuencia Diaria/Semanal/Mensual/Anual, rango de repetición con comienzo, finalización en fecha, después de X repeticiones, o sin fecha de finalización).
+- Privado: oculta detalles del evento a otros usuarios que vean el calendario.
+- Pestaña Insertar: permite adjuntar documentos al evento.
+
+6.3. Creación de convocatorias / reuniones
+Al crear una convocatoria con más de un participante aparecen campos adicionales:
+- Agregar asistentes: campos "Obligatorio" y "Opcional" para incluir correos de participantes.
+- Asistente para programación: visualiza la disponibilidad de los invitados en tiempo real.
+- Reunión de Skype (o Teams): inserta automáticamente un enlace de reunión virtual.
+- Opciones de respuesta: solicitar confirmación a los invitados y/o permitir nuevas propuestas de plazos.
+- Reenviar: permite que los invitados puedan reenviar la reunión (o reenviar como iCalendar).
+
+6.4. Consulta y modificación de eventos
+Una vez creada la reunión, se visualiza en la ventana de Calendario (vista por Día, Semana, Semana Laboral o Mes). Al hacer clic sobre el evento se muestran sus detalles y actualizaciones (p. ej. respuestas de los participantes: aceptaron, aceptaron provisionalmente, rechazaron). Desde esa ventana se puede cancelar la reunión o modificarla; los cambios se comunican a los asistentes por correo electrónico.
+
+Atajos de teclado en el calendario: Ctrl+2 Ir a Calendario; Ctrl+U Crear nueva cita; Ctrl+Mayús+Q Crear nueva convocatoria de reunión; Ctrl+Mayús+R Responder a todos en una reunión; Ctrl+F Reenviar una cita o reunión; Ctrl+D Rechazar una invitación; Ctrl+T Vista de hoy; Alt+1 Vista Día; Alt+2 Vista Semana; Alt+4 Vista Mes; Ctrl+Flecha derecha/izquierda Día siguiente/anterior; Alt+Flecha abajo/arriba Semana siguiente/anterior; Alt+AvPag/RePag Mes siguiente/anterior.
+
+IDEAS CLAVE
+- El correo electrónico es un sistema de comunicación electrónica que permite enviar mensajes y archivos digitales a través de Internet.
+- Una dirección de correo electrónico consta de nombre de usuario y dominio, separados por "@" (arroba). Ejemplo: usuario@adams.com.
+- Protocolo más común: SMTP para enviar mensajes; POP3 o IMAP para acceder a los mensajes.
+- El webmail se accede a través de un navegador web en lugar de un cliente de correo de escritorio.
+- El spam es correo no deseado enviado masivamente sin consentimiento; se puede proteger el correo con filtros o reglas.
+- El phishing intenta engañar a los destinatarios para obtener información confidencial haciéndose pasar por una entidad confiable.
+- Elementos esenciales de la interfaz de un gestor de correo: bandeja de entrada, borradores, elementos enviados, elementos eliminados, bandeja de salida, correo no deseado.
+- Partes principales de un mensaje: encabezado/cabecera, cuerpo del mensaje y archivos adjuntos.
+- CC muestra la dirección del destinatario al que se envió copia; CCO oculta las direcciones de los destinatarios en copia.
+- Microsoft Outlook es la aplicación de gestión de correo electrónico y organización personal de la suite Office.
+- Acciones más comunes con un mensaje recibido: Responder, Responder a todos, Reenviar.
+- Un archivo PST (Personal Storage Table) almacena correos, contactos, calendarios y otros elementos de Outlook; sirve para copias de seguridad y archivado.
+- La vista de conversación agrupa correos con el mismo asunto en un hilo.
+- Formatos de texto en correos de Outlook: texto sin formato, HTML, Texto enriquecido (Rich Text).
+- Una cita es un evento personal sin otros participantes; una convocatoria es un evento al que se invita a uno o más asistentes.
