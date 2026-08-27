@@ -1,0 +1,423 @@
+TEMA 21 — TRABAJO COLABORATIVO: HERRAMIENTAS Y FUNCIONALIDADES. MICROSOFT 365: TEAMS, SHAREPOINT, ONEDRIVE Y OUTLOOK. VIDEOCONFERENCIAS
+(ADAMS, Ofimática)
+
+===================================================================
+1. HERRAMIENTAS Y FUNCIONALIDADES
+===================================================================
+
+Las herramientas de trabajo colaborativo son aplicaciones o plataformas diseñadas para permitir a varios usuarios trabajar de forma conjunta, en tiempo real o asincrónica, sobre documentos, proyectos o tareas.
+
+Ventajas del trabajo colaborativo:
+- Aumento de la productividad: se reduce el tiempo necesario para realizar tareas compartidas.
+- Mejora de la comunicación interna: más ágil, directa y contextual.
+- Facilitación del teletrabajo y la movilidad: acceso desde múltiples ubicaciones y dispositivos.
+- Reducción de errores: gracias a la edición conjunta y al control de versiones.
+- Toma de decisiones más informada y participativa.
+
+--- 1.1. Herramientas de edición colaborativa de documentos ---
+
+Permiten que varios usuarios trabajen simultáneamente sobre un mismo documento, sin intercambiar archivos por correo ni esperar turnos.
+
+¿Qué permiten hacer?
+- Edición en tiempo real: varios usuarios escriben/borran/mueven/formatean a la vez; cambios instantáneos; cada usuario identificado por color/etiqueta.
+- Comentarios y sugerencias: se añaden observaciones sin modificar el contenido; las sugerencias pueden aceptarse/rechazarse por los propietarios; se puede mencionar (@nombre) para asignar tareas.
+- Control de versiones: cronología automática de ediciones; se ve quién modificó qué y cuándo; se pueden restaurar versiones anteriores.
+- Historial de cambios: detalle de cambios; algunos sistemas permiten verlo por párrafo o celda (Google Docs, Excel en línea); aporta transparencia y trazabilidad.
+
+Todo se realiza desde el navegador o aplicaciones integradas, con acceso controlado por permisos (solo lectura, edición, comentarios, etc.).
+
+Ejemplos destacados:
+- Word en línea (Microsoft 365): edición colaborativa desde el navegador; integrado con OneDrive y Teams; coautoría, comentarios, sugerencias y control de versiones.
+- Excel en línea (Microsoft 365): trabajo simultáneo en hojas de cálculo; muestra celdas activas por usuario; ideal para presupuestos/seguimientos compartidos.
+- Google Docs (Google Workspace): alternativa gratuita y extendida; comentarios, historial de versiones, uso offline sincronizado; requiere cuenta de Google.
+- LibreOffice Online (Nextcloud, Collabora): software libre; edita ODT, ODS, ODP en línea; menor integración con servicios corporativos.
+
+--- 1.2. Plataformas de almacenamiento y compartición de archivos ---
+
+Servicios que permiten guardar, organizar y acceder a archivos digitales desde cualquier dispositivo con conexión a Internet. Fundamentales para digitalizar el archivo, reducir el papel, facilitar el teletrabajo y la colaboración interdepartamental.
+
+¿Qué permiten hacer?
+- Guardar archivos de todo tipo.
+- Acceder desde distintos dispositivos.
+- Compartir archivos/carpetas con control de qué se puede hacer (leer, editar, descargar, comentar).
+- Sincronizar carpetas locales con la nube.
+- Colaborar en tiempo real con coautoría y control de versiones.
+
+Características comunes:
+- Almacenamiento seguro en la nube: servidores remotos administrados por proveedores; disponibilidad continua; cifrado en tránsito y en reposo.
+- Control de acceso y permisos: el propietario decide quién accede y con qué nivel (solo lectura, edición, comentario, acceso temporal/con contraseña); posibilidad de revocar permisos.
+- Sincronización con dispositivos locales: cambios replicados automáticamente; sincronización total o selectiva ("archivos a demanda").
+- Integración con herramientas ofimáticas: abrir/editar desde navegador o apps de escritorio; coautoría en Word, Excel, PowerPoint; conectadas con calendarios y correo.
+
+Ejemplos destacados:
+- OneDrive (Microsoft 365): espacio personal por usuario; integración completa con Teams, Word, Excel, Outlook y SharePoint; compartición avanzada con permisos detallados; ideal para entorno institucional/administrativo.
+- Google Drive: servicio de Google; integra Docs, Sheets y Slides; muy usado en entornos educativos y Google Workspace.
+- Dropbox: simplicidad y facilidad de uso; comparte carpetas con permisos por enlace o usuario; útil en pequeñas oficinas o colaboraciones externas.
+- Box: enfocado a entornos empresariales; seguridad avanzada, flujos automatizados, cumplimiento normativo; integra Office, Google Workspace, Salesforce, etc.
+
+Ventajas: ahorro de espacio local, mayor accesibilidad y movilidad, reducción de duplicados/errores de versión, control de trazabilidad, mejora de la continuidad del servicio ante fallos técnicos.
+
+--- 1.3. Aplicaciones de comunicación interna ---
+
+Herramientas para agilizar la interacción entre miembros de una organización: mensajes rápidos, coordinación de tareas, resolución de dudas sin recurrir siempre al correo. Sustituyen muchos correos internos por chats inmediatos, grupos temáticos, llamadas integradas y compartición de archivos.
+
+¿Qué permiten hacer?
+- Enviar mensajes instantáneos entre compañeros o departamentos.
+- Organizar la comunicación por canales temáticos o por proyectos.
+- Realizar videollamadas o llamadas de voz.
+- Compartir documentos, imágenes o enlaces en el chat.
+- Acceder al historial de mensajes y archivos compartidos.
+- Recibir notificaciones personalizadas por relevancia/mención directa.
+
+Características comunes:
+- Chats individuales y grupales: privados o en grupo; reemplazan usos del correo interno; emojis, gifs, reacciones.
+- Canales por departamentos o proyectos: espacios organizados; visibilidad y trazabilidad para todos los implicados.
+- Videollamadas integradas: del chat a la videollamada sin salir de la app; reuniones 1:1 o grupales; pantalla compartida y grabación.
+- Búsqueda de mensajes y archivos: filtros por usuario, fecha o palabra clave.
+
+Ejemplos destacados:
+- Microsoft Teams: parte de Microsoft 365; chats, canales, llamadas, reuniones; integración con Word, Excel, Planner; muy extendido en AA. PP. y grandes organizaciones; permite usuarios externos con control de permisos.
+- Slack: plataforma pionera en comunicación empresarial; canales abiertos/privados; integración con cientos de apps (Google Drive, Asana, Trello); buen sistema de búsqueda.
+- Google Chat: integrado con Google Workspace (Gmail, Calendar, Drive); conversaciones por espacios; integración con Meet.
+- Zoom Chat: parte del ecosistema Zoom; chats persistentes, canales por temas, vinculación con videollamadas Zoom.
+
+Ventajas: aumento de la velocidad de respuesta interna, reducción de la dependencia del correo, mejora de la coordinación en tiempo real, organización estructurada por temas, potenciación del trabajo remoto y móvil.
+
+--- 1.4. Herramientas de gestión de tareas y proyectos ---
+
+Permiten organizar el trabajo de forma visual, estructurada y colaborativa: asignar tareas, definir plazos, establecer responsables y supervisar el avance de proyectos. Útiles para coordinar departamentos, planificar actividades, controlar cargas de trabajo y mejorar la trazabilidad de procesos.
+
+¿Qué permiten hacer?
+- Crear tareas individuales o agrupadas en proyectos.
+- Asignar responsables y colaboradores.
+- Establecer fechas de inicio y vencimiento.
+- Organizar el trabajo por fases o estados (pendiente, en curso, finalizado).
+- Agregar archivos, comentarios y prioridades.
+- Recibir recordatorios, notificaciones y alertas.
+- Generar informes visuales de progreso y carga de trabajo.
+
+Características comunes:
+- Tableros Kanban o listas de tareas: columnas móviles por estado; drag & drop; alternativamente, lista ordenada.
+- Asignación de responsables: uno o varios usuarios por tarea; niveles (creador, ejecutor, supervisor).
+- Notificaciones y alertas: recordatorios antes del vencimiento, avisos por modificación/comentarios, seguimiento por correo o en la app.
+- Informes de seguimiento: paneles con gráficos de avance, tareas por persona o % de finalización; informes para reuniones, evaluación del desempeño o control de plazos.
+
+Ejemplos destacados:
+- Microsoft Planner: integrado en Microsoft 365; tableros Kanban por plan/proyecto; se integra con Teams, Outlook y To Do; ideal para entornos administrativos.
+- Trello: plataforma visual muy intuitiva; tableros con listas y tarjetas; etiquetas, checklist, fechas, comentarios, archivos; ampliable con "power-ups".
+- Asana: enfoque profesional; vistas de lista, cronograma, calendario, Kanban; asignación, dependencias, hitos; útil en proyectos de varias fases y equipos grandes.
+- Jira: orientado a equipos técnicos y metodologías ágiles (Scrum, Kanban); gestión avanzada de tareas, incidencias, roles y flujos; usado en TI y proyectos tecnológicos.
+
+Ventajas: visibilidad del estado del trabajo, mejora la distribución de tareas y evita duplicidades, fomenta la responsabilidad individual, aumenta la productividad y el control de plazos, facilita la evaluación del rendimiento y la toma de decisiones.
+
+--- 1.5. Conclusión ---
+
+Las herramientas digitales de trabajo colaborativo son un pilar fundamental de la productividad en las organizaciones modernas: editar documentos en tiempo real, almacenar archivos de forma segura, comunicarse ágilmente y gestionar tareas de forma estructurada, desde cualquier ubicación y dispositivo. En la administración pública facilitan la coordinación interdepartamental, la reducción del papel y la mejora de la trazabilidad y eficiencia de los procesos administrativos.
+
+===================================================================
+2. MICROSOFT 365: TEAMS
+===================================================================
+
+Microsoft Teams centraliza la comunicación y colaboración en equipos de trabajo, facilitando el intercambio de información, la organización de tareas y la gestión de proyectos desde un único entorno digital.
+
+Combina: mensajería instantánea (chats), llamadas y videoconferencias, compartición y coautoría de archivos, gestión de equipos y canales temáticos, integración con otras apps de Microsoft 365 (Outlook, SharePoint, OneDrive, Planner, etc.).
+
+Teams se ha vuelto indispensable en organizaciones públicas y privadas, sobre todo por el crecimiento del trabajo remoto.
+
+--- 2.1. Estructura general de Teams ---
+
+Tres niveles principales: organización, equipos y canales.
+
+- Organización: entidad global bajo la cual se agrupan usuarios y recursos (empresa, organismo público, universidad, institución con dominio propio, ej. @ayto.es). Gestionada por administradores globales desde el Centro de administración de Microsoft 365. Desde aquí se configuran políticas generales de uso, permisos, seguridad, almacenamiento. Todos los equipos, usuarios y canales pertenecen a una organización determinada.
+
+- Equipos (Teams): grupo de trabajo formal y colaborativo creado para reunir a personas con un objetivo común. Puede representar un departamento administrativo, un proyecto concreto, una unidad de gestión transversal o un grupo temporal. Al crear un equipo se crea automáticamente: un sitio de SharePoint vinculado (archivos), un espacio de OneNote, Planner y calendario compartido (opcional), y posibilidad de añadir aplicaciones/pestañas personalizadas.
+
+- Canales: subespacios temáticos dentro de un equipo que organizan conversaciones, archivos y tareas por área/actividad. Cada equipo tiene por defecto un canal general; se pueden crear otros personalizados.
+  Tipos de canales:
+  · Canales estándar: visibles y accesibles para todos los miembros del equipo; útiles para temas comunes/compartidos.
+  · Canales privados: solo accesibles para miembros concretos seleccionados al crearlo; útiles para temas confidenciales; cada canal privado tiene su propia biblioteca de archivos independiente.
+  · Canal compartido: permite incluir usuarios de otros equipos, con políticas organizativas más restrictivas.
+
+- Tipos de usuarios en Teams (tres roles principales):
+  · Propietario del equipo: control total; crea/elimina canales, gestiona miembros y configuración; asigna/revoca permisos; puede cambiar a otros usuarios de propietario a miembro y viceversa; responsable de la administración funcional.
+  · Miembro: participa en conversaciones; sube/edita/comparte archivos; acceso a todos los canales estándar; puede añadir pestañas, crear tareas o reuniones (según configuración); no puede modificar la configuración general.
+  · Invitado: usuario externo a la organización, invitado de forma controlada; accede solo al contenido habilitado; participa en conversaciones, reuniones y archivos, pero no puede crear equipos ni canales; suele usarse para proveedores/colaboradores externos; el acceso de invitados puede deshabilitarse/restringirse por el administrador global.
+
+- Ventajas de esta arquitectura: organización clara del trabajo por unidades temáticas o funcionales; seguridad y control mediante permisos en cada nivel; escalabilidad; separación entre áreas sensibles y comunes; colaboración efectiva y contextualizada.
+
+--- 2.2. Funcionalidades principales de Teams ---
+
+- Chat (mensajería instantánea): comunicación inmediata individual o en grupo (interna o externa si se autoriza). Chats uno a uno o en grupo; mensajes enriquecidos (negrita, listas, enlaces, emojis, gifs, @menciones); adjuntar archivos directamente; reacciones rápidas; respuestas en hilo dentro de canales. Reduce el uso del correo para comunicaciones breves.
+
+- Llamadas y videollamadas: sin apps externas. Funciones: videollamadas individuales/grupales (programadas o instantáneas); audio de alta calidad y compatibilidad con periféricos; compartición de pantalla (completa o ventana); levantar mano, reacciones, modo enfoque; grabación de reuniones (si el admin lo habilita); transcripción automática y subtítulos; fondos personalizados/difuminados.
+
+  Tipos de eventos en Teams:
+  · Reunión: todos los participantes pueden activar cámara, micrófono, compartir pantalla y usar el chat; hasta 1.000 participantes interactivos, con desbordamiento a modo solo visualización para más.
+  · Webinar: evento estructurado con ponentes y asistentes; interacción limitada del asistente; permite registro previo; ideal para formación/presentaciones con audiencia amplia.
+  · Town Hall (Asamblea): formato para eventos masivos de comunicación institucional/corporativa; sustituye a los antiguos Teams Live Events; grandes audiencias según licencia; los asistentes solo interactúan vía Q&A.
+
+--- 2.3. Compartición y coautoría de archivos ---
+
+Teams está integrado con SharePoint y OneDrive: almacenar y editar archivos desde cada canal o chat.
+
+Capacidades: subida y acceso desde la pestaña Archivos; edición colaborativa en tiempo real con Word, Excel y PowerPoint; historial de versiones para restaurar ediciones anteriores; comentarios, sugerencias y control de cambios; acceso desde la nube en cualquier dispositivo.
+
+IMPORTANTE: los archivos compartidos en CANALES se almacenan en SharePoint; los archivos enviados por CHAT se guardan en OneDrive del remitente.
+
+--- 2.4. Gestión de tareas y planificación ---
+
+Teams se integra con Planner (trabajo en equipo) y To Do (tareas personales).
+
+Funcionalidades clave: creación de planes de trabajo vinculados a cada equipo; asignación de tareas con responsables y fechas de vencimiento; visualización en tableros Kanban, listas o calendarios; etiquetas, niveles de prioridad y seguimiento de progreso; notificaciones y alertas por retrasos/cambios; sincronización con Outlook y To Do personal.
+
+--- 2.5. Integración con otras aplicaciones ---
+
+Integraciones nativas:
+- Outlook: programación de reuniones, recordatorios, integración con calendario.
+- OneNote: blocs de notas colaborativos por equipo o canal.
+- Forms: encuestas y formularios en pestañas o reuniones.
+- Power BI: paneles de datos en tiempo real dentro de Teams.
+- SharePoint: acceso a documentación compartida y sitios vinculados.
+
+Integraciones de terceros: Trello, Asana, Adobe Sign, GitHub, Zoom, YouTube, entre otras, añadidas como pestañas o conectores dentro de canales/chats. Permiten no salir de Teams para consultar información o ejecutar tareas en otras plataformas.
+
+Otras funcionalidades destacables: encuestas rápidas durante reuniones/conversaciones; pestañas personalizadas por canal (fijar un Excel, una web, una app); búsqueda unificada de mensajes, archivos y personas; notificaciones personalizables (por canal, mención, palabra clave); acceso multiplataforma (escritorio, web, móvil).
+
+Microsoft Copilot: asistente de IA integrado en Microsoft 365 que potencia el trabajo colaborativo en toda la suite.
+- En Teams: resume automáticamente reuniones y conversaciones, genera actas a partir de la transcripción, responde preguntas sobre el contenido de los chats.
+- En Outlook: redacta correos, resume hilos, sugiere respuestas.
+- En Word y Excel: genera contenido, analiza datos, crea visualizaciones mediante lenguaje natural.
+- En SharePoint y OneDrive: busca y resume información de documentos almacenados.
+Copilot requiere licencia adicional Microsoft 365 Copilot y conexión a Internet; no está disponible en todos los planes.
+
+--- 2.6. Gestión y administración ---
+
+Dos niveles: gestión funcional (propietarios de cada equipo) y gestión global/centralizada (administradores de Microsoft 365, vía el Centro de administración de Teams).
+
+2.6.1. Gestión de equipos desde el entorno de usuario — funciones del propietario del equipo: agregar/eliminar miembros; cambiar roles (miembro↔propietario); crear/editar/eliminar canales estándar o privados; controlar permisos de publicación en canales; gestionar pestañas y apps vinculadas; configurar notificaciones, menciones, etiquetas personalizadas y moderadores de canal.
+
+2.6.2. Administración desde el Centro de administración de Microsoft Teams — funciones clave del administrador global: crear políticas de uso para chats, reuniones, llamadas, grabaciones y almacenamiento; restringir/permitir funciones específicas (creación de equipos, compartir archivos, invitar externos); supervisar uso y actividad (informes de conexiones, reuniones, tráfico); gestionar licencias y roles administrativos; auditoría y cumplimiento (registro de actividades, acceso a grabaciones, RGPD, políticas de retención).
+
+2.6.3. Seguridad y control de acceso — elementos integrados: autenticación multifactor (MFA); control de sesiones y dispositivos conectados; políticas de retención de datos y archivado; configuración de privacidad en reuniones (quién puede entrar, grabar o compartir); encriptación de datos en tránsito y en reposo; gestión de accesos de usuarios invitados y bloqueo de dominios externos. La seguridad debe configurarse según normativas aplicables (ej. RGPD en AA. PP.).
+
+--- 2.7. Automatización y gobernanza ---
+
+Automatismos y reglas de gobernanza para mantener el orden en organizaciones con muchos usuarios/equipos: nombrado automático de equipos según convenciones; restricción de quién puede crear nuevos equipos; eliminación automática de equipos inactivos tras cierto tiempo; aplicación de etiquetas de confidencialidad a archivos compartidos. Especialmente útiles en administraciones con múltiples departamentos.
+
+--- 2.8. Ventajas de Teams en el entorno colaborativo ---
+
+- Centraliza la comunicación y el trabajo en equipo: chats, videollamadas, archivos, tareas y reuniones en una única app; evita dispersión de herramientas.
+- Sustituye el correo electrónico en muchas tareas internas: conversaciones rápidas y temáticas en canales; evita cadenas de correo confusas.
+- Favorece la transparencia y trazabilidad de los procesos: evolución de tareas/conversaciones/documentos visible para todos; historial permanente; facilita rendición de cuentas.
+- Ideal para organizaciones con múltiples departamentos: estructura por equipos y canales; canales confidenciales.
+- Accesible desde múltiples dispositivos: escritorio (Windows/Mac), web y app móvil (Android/iOS); ideal para movilidad, teletrabajo o atención en campo; sincroniza actividades en todos los dispositivos.
+
+--- 2.9. Consideraciones de privacidad y seguridad ---
+
+- Cumplimiento de estándares de seguridad: Teams está en Microsoft 365, cumple normativas internacionales (RGPD, ISO 27001); datos cifrados en tránsito y en reposo; sesiones protegidas con MFA.
+- Almacenamiento seguro de archivos: canales→SharePoint; chats→OneDrive; permisos configurables por archivo (solo lectura, edición, restringido); control de versiones para recuperar documentos.
+- Configuraciones administrativas de seguridad: el administrador global puede restringir la creación de equipos/canales, limitar/bloquear acceso de usuarios externos, controlar la grabación de reuniones, aplicar políticas de retención/auditoría/etiquetado de confidencialidad.
+
+===================================================================
+3. MICROSOFT 365: SHAREPOINT
+===================================================================
+
+SharePoint es una plataforma de colaboración de Microsoft (parte de Microsoft 365) para gestionar, compartir y estructurar la información interna de forma segura y eficiente. Actúa como repositorio central de contenido: sitios internos, almacenamiento de documentos, listas de datos, automatización de procesos, todo con control de versiones, flujos de trabajo y permisos personalizados. Muy útil en administración pública (trazabilidad documental, trabajo compartido entre departamentos, cumplimiento normativo). Permite además crear intranets corporativas y gestionar contenidos estructurados sin programación.
+
+--- 3.1. Estructura y funcionamiento de SharePoint ---
+
+3.1.1. Sitios de SharePoint — toda la información se organiza en sitios (departamentos, proyectos o grupos de trabajo).
+Tipos de sitio:
+- Sitio de comunicación: difusión unidireccional de información, como intranet o portal institucional; ideal para noticias, documentos oficiales, comunicados internos.
+- Sitio de grupo: orientado a la colaboración activa; integra automáticamente Microsoft Teams; edición compartida, subida de archivos, asignación de tareas.
+Cada sitio tiene su propio espacio de documentos, listas, páginas y configuración de permisos.
+
+3.1.2. Bibliotecas de documentos — espacios dentro de los sitios donde se almacenan y gestionan archivos.
+Funciones: subir/descargar/editar documentos desde el navegador; control de versiones (cada guardado registra una nueva versión, permite restaurar); añadir metadatos (etiquetas, fechas, autores); crear vistas personalizadas para filtrar/mostrar archivos según criterios (tipo de documento, estado de aprobación).
+
+3.1.3. Listas — gestionan información estructurada, como hojas de cálculo inteligentes.
+Ejemplos de uso: formularios de solicitud/registro; seguimiento de expedientes; inventarios o fichas de recursos; listas de tareas o peticiones ciudadanas.
+Cada lista puede personalizarse con columnas, validaciones de datos, colores condicionales y flujos de aprobación mediante Power Automate, sin necesidad de conocimientos técnicos avanzados.
+
+Power Automate — herramienta de automatización de flujos de trabajo de Microsoft 365; interfaz visual sin programar, conecta apps y servicios de Microsoft y de terceros.
+Ejemplos de uso administrativo: notificación por Teams/correo al subir un documento nuevo a SharePoint; mover automáticamente correos de Outlook a carpetas según criterios; generar tarea en Planner al rellenar un formulario de Microsoft Forms; activar flujo de aprobación al modificar un elemento de una lista de SharePoint; registrar en Excel los datos recibidos en un formulario.
+Power Automate se integra con más de 500 aplicaciones y servicios.
+
+--- 3.2. Funcionalidades principales de SharePoint ---
+
+- Almacenamiento y gestión documental: acceso restringido por permisos (sitio, carpeta, archivo); flujos de aprobación antes de publicar/modificar documentos; edición en línea/tiempo real con coautoría en Word, Excel, PowerPoint; alertas personalizadas de cambios/publicaciones.
+- Creación de sitios y páginas: plantillas prediseñadas; páginas con bloques visuales (textos, enlaces, calendarios, imágenes, vídeos, formularios, bibliotecas); personalización de diseño (logotipo, colores, navegación, estructura jerárquica).
+- Automatización de procesos (Power Automate): notificaciones automáticas al subir/modificar un documento; flujos de aprobación con uno o varios responsables; registro de movimientos/cambios de estado sin intervención manual.
+- Integración con otras herramientas de Microsoft 365: Teams (equipo↔sitio de SharePoint vinculado); Outlook (compartir documentos como enlaces seguros); OneDrive (acceso individual a documentos personales relacionados); Planner y Power BI (gestión de tareas y visualización de indicadores).
+- Ventajas de usar SharePoint: control granular de accesos; centralización documental (evita correos, pendrives, carpetas compartidas informales); mejora de la organización de contenidos institucionales (metadatos, vistas personalizadas); facilita el cumplimiento de normativas de protección de datos y auditabilidad (RGPD, ISO 27001); flexibilidad (se adapta a cada unidad/departamento/proyecto).
+
+--- 3.3. Consideraciones de seguridad y administración ---
+
+- Permisos: se configuran a varios niveles (sitio completo; biblioteca o lista específica; carpeta o archivo individual); cada nivel con distintos roles (lectura, edición, control total, etc.).
+- Auditoría y trazabilidad: todas las acciones quedan registradas; los administradores consultan quién accedió, modificó o eliminó un contenido.
+- Copias de seguridad: Microsoft realiza copias de seguridad automáticas en Microsoft 365, con recuperación ante errores o pérdidas.
+- Cumplimiento normativo: políticas de retención y eliminación programada; integración con el Centro de cumplimiento de Microsoft 365; clasificación de contenido (confidencial, público, solo lectura, etc.).
+- Administración técnica: el entorno se gestiona desde el Centro de administración de Microsoft 365; los propietarios de sitios editan/configuran su espacio sin afectar al resto de la organización; se pueden establecer plantillas corporativas, estructuras jerarquizadas y procesos predefinidos.
+
+--- 3.4. Conclusión ---
+
+SharePoint permite organizar, almacenar y compartir información de forma segura y estructurada dentro de una organización. Facilita la centralización documental, la colaboración entre departamentos y el cumplimiento normativo. Gracias a su integración con Teams, Outlook, OneDrive y Power Automate, es el eje central del trabajo colaborativo institucional.
+
+===================================================================
+4. MICROSOFT 365: ONEDRIVE
+===================================================================
+
+OneDrive es el servicio de almacenamiento en la nube de Microsoft, integrado en Microsoft 365: guardar, sincronizar y compartir archivos en línea de forma segura, con acceso desde cualquier dispositivo conectado a Internet.
+
+Dos versiones:
+- OneDrive Personal: orientado a usuarios individuales, uso doméstico o no corporativo.
+- OneDrive para la Empresa (OneDrive for Business): entornos profesionales/organizaciones; integración total en Microsoft 365; capacidades de administración y cumplimiento normativo.
+
+--- 4.1. Funciones principales de OneDrive ---
+
+4.1.1. Almacenamiento en la nube — cada usuario de Microsoft 365 dispone de un espacio personal, habitualmente con 1 terabyte (1 TB) de capacidad.
+Ventajas: acceso universal desde cualquier dispositivo (PC, móvil, tablet, navegador); copia de seguridad automática de documentos (evita pérdidas por fallo del sistema o robo de dispositivos); alta disponibilidad (servidores redundantes, accesibles 24/7). Sustituye al almacenamiento local tradicional.
+
+4.1.2. Sincronización de archivos — se integra de forma nativa con el Explorador de archivos de Windows.
+Características: cambios locales reflejados automáticamente en la nube; posibilidad de trabajar sin conexión y sincronizar al recuperarla; función "archivos a petición" para definir qué archivos/carpetas se sincronizan (ahorra espacio en disco local).
+
+4.1.3. Compartir archivos y carpetas — de forma segura y controlada, dentro y fuera de la organización según políticas.
+Opciones: usuarios internos (mismo dominio); usuarios externos (por correo o enlace, si se permite); configuración de permisos: solo lectura, edición, protección por contraseña, fecha de expiración del enlace.
+
+4.1.4. Edición y coautoría en tiempo real — documentos editables simultáneamente por varios usuarios (app de escritorio o navegador).
+Funcionalidades: coautoría en tiempo real con indicación de quién edita qué parte; integración con Word, Excel y PowerPoint con guardado automático; control de cambios y comentarios.
+
+4.1.5. Historial de versiones — OneDrive registra automáticamente todas las versiones de un archivo: consultar versiones anteriores, comparar cambios, restaurar versiones previas ante error o eliminación accidental. Fundamental para trabajo colaborativo y trazabilidad documental.
+
+--- 4.2. Interfaz y acceso ---
+
+Vías de acceso: aplicación de escritorio (integrada en Windows 10 y 11); sitio web oficial (onedrive.com o portal de Microsoft 365); aplicaciones móviles (Android e iOS); Explorador de archivos de Windows (sección "OneDrive – [nombre de la organización]").
+
+--- 4.3. Integración con Microsoft 365 ---
+
+- Outlook: adjuntar archivos como enlace en lugar de enviar copias (facilita edición, evita duplicados).
+- Teams: archivos compartidos en chats privados se almacenan en el OneDrive del remitente, en una carpeta "Archivos de Teams".
+- Word, Excel y PowerPoint: guardado automático en OneDrive mientras se edita.
+- SharePoint: cada usuario de un sitio SharePoint tiene un espacio personal en OneDrive vinculado, ideal para trabajo previo a la publicación oficial.
+
+--- 4.4. Seguridad y control ---
+
+Cifrado de datos en tránsito y en reposo; autenticación multifactor (MFA); permisos personalizables (controlados por el usuario o por administradores de TI); recuperación ante ransomware (alertas y restauración masiva de archivos modificados); cumplimiento del RGPD y otras normativas legales (retención y auditoría).
+
+--- 4.5. Conclusión ---
+
+OneDrive permite guardar, sincronizar y compartir archivos de forma segura y accesible desde cualquier dispositivo. Su integración con Word, Excel, Outlook, Teams y SharePoint lo hace esencial para el trabajo colaborativo moderno: coautoría en tiempo real, organización documental, cumplimiento normativo y protección de datos.
+
+===================================================================
+5. DIFERENCIAS ENTRE ONEDRIVE Y SHAREPOINT
+===================================================================
+
+- OneDrive: espacio de almacenamiento PERSONAL asignado a cada usuario. Pensado para documentos individuales, borradores o archivos que no requieren colaboración constante; permite compartir puntualmente, pero su función principal es el uso individual.
+  Ejemplo: un trabajador guarda en OneDrive su hoja de cálculo mensual y la comparte con su responsable para revisión.
+
+- SharePoint: orientado a la COLABORACIÓN. Entorno compartido donde equipos o departamentos gestionan conjuntamente documentos, plantillas, listas y flujos de trabajo. Los archivos se almacenan en bibliotecas asociadas a sitios de grupo, no a usuarios individuales.
+  Ejemplo: el departamento de Recursos Humanos almacena en SharePoint las plantillas de contrato disponibles para todo el equipo.
+
+===================================================================
+6. MICROSOFT 365: OUTLOOK
+===================================================================
+
+Microsoft Outlook es la aplicación de gestión de correo electrónico, calendario, contactos y tareas integrada en Microsoft 365; centraliza funciones de comunicación formal y planificación del trabajo en una sola interfaz.
+
+Disponible en: aplicación de escritorio (Windows y Mac); versión web (Outlook en línea); aplicaciones móviles (Android, iOS); integración con Teams, Word, Excel o SharePoint.
+
+--- 6.1. Funcionalidades principales de Outlook ---
+
+- Gestión del correo electrónico: soporte para cuentas corporativas y personales (Exchange, IMAP, POP); carpetas personalizadas y subcarpetas temáticas; reglas automáticas para clasificar/mover/reenviar/eliminar mensajes; etiquetas, categorías y banderas; búsqueda avanzada (remitente, asunto, fecha, palabras clave, tamaño, adjuntos).
+
+- Calendario: gestión de citas, reuniones y eventos. Creación de eventos personales/profesionales (fecha, hora, ubicación, duración, recordatorios); organización de reuniones con asistentes internos o externos, integrando calendarios; visualización de disponibilidad de asistentes de la misma organización; inclusión directa de enlaces de Teams para reuniones virtuales; vistas diaria, semanal, mensual o lista.
+
+- Contactos: agenda personal con información detallada (correo, teléfono, dirección, cargo, notas); listas de distribución para grupos frecuentes; importación/exportación desde otras plataformas; visualización integrada en correo y calendario.
+
+- Tareas: registro de tareas pendientes con título, descripción, fechas límite y estado de finalización; integración con Microsoft To Do (visualizar/editar desde otros dispositivos); recordatorios y prioridades configurables; sincronización automática en todos los dispositivos conectados.
+
+--- 6.2. Interfaz y versiones disponibles ---
+
+Interfaz organizada en paneles: panel izquierdo (correo, calendario, contactos, tareas); panel central (lista de correos/eventos/tareas según módulo activo); panel de lectura (vista previa); barra superior (opciones contextuales: nuevo mensaje, responder, clasificar, buscar).
+
+Versiones disponibles: Outlook de escritorio (más completa y personalizable); Outlook Web App — OWA (outlook.office.com, desde cualquier navegador); aplicación móvil (acceso rápido a funciones esenciales); integración con Teams y otras aplicaciones (pestañas compartidas, notificaciones cruzadas).
+
+--- 6.3. Integración con otras herramientas de Microsoft 365 ---
+
+- Teams: crear reuniones con enlace de Teams directamente desde el calendario.
+- OneDrive: al adjuntar archivos, se pueden enviar como enlaces compartidos (control de edición, ahorro de espacio).
+- Planner y To Do: las tareas de Planner pueden sincronizarse con el calendario y la bandeja de tareas.
+- SharePoint: enlaces a documentos de sitios compartidos, abribles directamente desde el correo.
+- Complementos (add-ins): Microsoft Forms (encuestas), encuestas rápidas, Trello, DocuSign, etc.
+
+--- 6.4. Organización del trabajo y productividad ---
+
+Modelo de gestión integral del tiempo personal y profesional: clasificación y priorización de correos; planificación de la jornada mediante citas y reuniones; seguimiento de tareas y pendientes con recordatorios y fechas límite; visualización unificada de correos, eventos y tareas (visión global de responsabilidades).
+
+--- 6.5. Seguridad y cumplimiento normativo ---
+
+Cifrado de mensajes y posibilidad de impedir reenvíos o capturas (Information Rights Management); detección avanzada de phishing, spam y malware; inicio de sesión seguro (MFA) y control de accesos por dispositivo; compatibilidad con el RGPD; registro de auditoría de accesos, actividad, borrado o reenvíos, gestionado desde el Centro de Seguridad y Cumplimiento de Microsoft 365.
+
+--- 6.6. Conclusión ---
+
+Outlook combina en un solo entorno correo electrónico, calendario, contactos y tareas. Su integración con Teams, OneDrive, Planner y SharePoint lo convierte en el centro de organización personal y profesional del puesto de trabajo, con funciones de seguridad y cumplimiento normativo adecuadas a contextos institucionales.
+
+===================================================================
+7. VIDEOCONFERENCIAS
+===================================================================
+
+La videoconferencia permite mantener reuniones a distancia en tiempo real mediante transmisión simultánea de imagen, sonido y, habitualmente, contenido compartido (pantalla, documentos, presentaciones). Consolidada tras el impulso del teletrabajo y la digitalización de los procesos públicos; se usa tanto para la coordinación interna de equipos como para la interacción con ciudadanos, proveedores, empresas y otras instituciones. Ha sustituido en gran medida a las reuniones presenciales, aportando agilidad, ahorro de costes y accesibilidad.
+
+--- 7.1. Componentes técnicos de una videoconferencia ---
+
+Requisitos básicos: dispositivo con conexión a Internet (ordenador, tablet o smartphone); cámara (integrada o externa/USB); micrófono y altavoces (internos o auriculares con micrófono); plataforma de videoconferencia (Teams, Zoom, Meet, etc.).
+
+Requisitos opcionales (según contexto): pantalla compartida (presentaciones, documentos, programas); pizarra digital para anotaciones colaborativas; grabación de la reunión (revisión o acta posterior); fondos virtuales o desenfoque (privacidad).
+
+Factores de rendimiento: velocidad y estabilidad de la conexión a Internet (cable o Wi-Fi de calidad); calidad del dispositivo (procesador, RAM, tarjeta gráfica); configuración adecuada de audio y vídeo (evitar interferencias, ruidos de fondo, mala iluminación).
+
+--- 7.2. Herramientas más comunes para videoconferencias ---
+
+- Microsoft Teams: integrado en Microsoft 365; reuniones programadas o instantáneas con hasta cientos de participantes; grabación de la sesión (según permisos) y transcripción automática en varios idiomas; programación directa desde Outlook con enlace automático; fondos personalizados y desenfoque de fondo.
+  Roles diferenciados en una reunión de Teams:
+  · Organizador: crea y convoca la reunión; mayor nivel de control: gestiona participantes, silencia o expulsa asistentes, habilita/deshabilita la sala de espera, inicia/detiene la grabación, finaliza la reunión para todos.
+  · Presentador: puede compartir pantalla, presentar contenido, gestionar participantes y grabar la reunión (si el organizador lo permite); puede ser designado por el organizador antes o durante la reunión.
+  · Asistente: ve y escucha el contenido compartido, usa el chat y levanta la mano para pedir turno; NO puede compartir pantalla ni gestionar otros participantes, salvo que el organizador le ascienda a presentador.
+  Compartición de pantalla, ventanas o documentos de OneDrive/SharePoint.
+
+- Zoom: amplia difusión por facilidad de uso y buena calidad audiovisual. Reuniones individuales o en grupo; salas paralelas (breakout rooms) para dividir grupos de trabajo; función de levantar la mano y reacciones; pizarra digital interactiva; límite de tiempo en versión gratuita (40 minutos para grupos).
+
+- Google Meet: integrado en Google Workspace, funciona desde el navegador. Ventajas: no requiere instalación; acceso directo desde Gmail o Google Calendar; subtítulos automáticos en tiempo real; compartición de pantalla y documentos desde Google Drive.
+
+- Otras plataformas: Webex (Cisco) — potente en entornos empresariales, buenas opciones de seguridad; Jitsi Meet — software libre y de código abierto; Skype — precursor de muchas funciones actuales; BigBlueButton — muy utilizado en entornos educativos virtuales.
+
+--- 7.3. Funcionalidades habituales de las plataformas de videoconferencia ---
+
+Vídeo y audio en tiempo real con controles individuales por usuario; chat integrado para comentarios o enlaces durante la sesión; compartir pantalla, aplicación o ventana específica; control de participantes (permitir entrada, silenciar micrófonos, expulsar, asignar roles); grabación de la reunión (según configuración y permisos); reacciones visuales (iconos, levantar la mano); subtítulos y transcripciones automáticas (en plataformas compatibles); pizarras interactivas, encuestas y herramientas de anotación colaborativa.
+
+--- 7.4. Ventajas del uso de videoconferencias ---
+
+- Ahorro de tiempo y costes: evita desplazamientos y dietas asociadas.
+- Mayor accesibilidad: incluye a personal, colaboradores o ciudadanos en distintas ubicaciones geográficas.
+- Flexibilidad laboral: facilita el trabajo híbrido o remoto.
+- Mejora de la coordinación: permite convocar reuniones frecuentes y estructuradas.
+- Reducción del impacto ambiental: menor necesidad de transporte o consumo de recursos.
+- Registro y seguimiento: grabar y transcribir reuniones mejora la trazabilidad.
+
+===================================================================
+IDEAS CLAVE
+===================================================================
+
+- Trabajo colaborativo: herramientas y funcionalidades — permite que varios usuarios trabajen de forma conjunta y coordinada sobre tareas, documentos o proyectos, independientemente de su ubicación física. Facilita edición compartida, comunicación interna fluida, control de versiones, automatización de procesos y acceso remoto desde distintos dispositivos.
+
+- Microsoft Teams — herramienta de colaboración en tiempo real de Microsoft 365; organiza equipos por departamentos/áreas/proyectos con canales temáticos, archivos compartidos y tareas vinculadas; chat, videollamadas, reuniones programadas, coautoría; integración con Outlook, Planner, OneDrive y SharePoint; sustituye gran parte del correo interno.
+
+- SharePoint — plataforma de gestión documental y creación de sitios internos; bibliotecas de documentos, listas de datos personalizadas, sitios de grupo o comunicación; automatización de flujos con Power Automate; control de versiones, permisos detallados, coautoría y trazabilidad documental; centraliza formularios, expedientes y normativas internas.
+
+- OneDrive — servicio de almacenamiento PERSONAL en la nube para cada usuario de Microsoft 365; guardar, sincronizar y compartir archivos de forma segura; se integra con el Explorador de archivos de Windows y todas las apps de Office; coautoría en tiempo real, historial de versiones, edición multidispositivo, permisos personalizados en la compartición.
+
+- Outlook — herramienta de correo electrónico, calendario, contactos y tareas de Microsoft 365; gestiona mensajes, programa citas, coordina reuniones y registra pendientes con sincronización en escritorio, web y móvil; integración con Teams, OneDrive, Planner y SharePoint; centro de organización personal y profesional del puesto de trabajo.
+
+- Videoconferencias — reuniones remotas con audio, vídeo, chat, compartición de pantalla y documentos; Teams, Zoom, Google Meet o Webex, imprescindibles en teletrabajo, atención ciudadana, formación interna y coordinación entre departamentos u organismos públicos; funciones de programación, control de participantes, grabación, transcripción y salas paralelas; requieren preparación técnica adecuada, configuración correcta de privacidad/seguridad y etiqueta profesional digital.
+
+DATO CLAVE A RETENER: archivos compartidos en CANALES de Teams → se guardan en SharePoint. Archivos compartidos en CHATS de Teams → se guardan en OneDrive del remitente. OneDrive = almacenamiento personal/individual; SharePoint = almacenamiento colaborativo/de equipo.
