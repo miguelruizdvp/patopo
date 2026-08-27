@@ -1,0 +1,579 @@
+[
+  {
+    "id": "tema16-1601-01",
+    "cuestionario": "16.01",
+    "texto": "Indique el método abreviado de teclado que nos permite acceder a la barra de comandos del Explorador de archivos de Windows:",
+    "opciones": ["a) CTRL + F1", "b) F10", "c) ALT", "d) Alt + F1"],
+    "respuesta_correcta": "c",
+    "explicacion": "La tecla ALT nos permite acceder a la barra de comandos del Explorador de archivos de Windows.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-02",
+    "cuestionario": "16.01",
+    "texto": "Señale la opción correcta con respecto al \"Inicio\" en el Explorador de archivos de Windows:",
+    "opciones": [
+      "a) Sólo aparecen en el Inicio las carpetas más utilizadas.",
+      "b) Sólo se pueden anclar al Inicio archivos, no carpetas.",
+      "c) Podemos seleccionar una carpeta y anclarla al Acceso rápido de Inicio.",
+      "d) Para anclar una carpeta al Inicio es preciso que esté en la biblioteca Documentos."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "En Inicio solo se pueden anclar carpetas y unidades.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-03",
+    "cuestionario": "16.01",
+    "texto": "¿En qué pestaña del explorador de archivos de Windows 10 se encuentra la opción para poder imprimir los archivos seleccionados?",
+    "opciones": ["a) Archivo", "b) Inicio", "c) Compartir", "d) Vista"],
+    "respuesta_correcta": "c",
+    "explicacion": "El comando Imprimir está en la pestaña Compartir, grupo Enviar.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-04",
+    "cuestionario": "16.01",
+    "texto": "Señale cuál de las siguientes no es una carpeta predeterminada del sistema Windows10:",
+    "opciones": ["a) Descargas", "b) Vídeos", "c) Galería", "d) Música"],
+    "respuesta_correcta": "c",
+    "explicacion": "Las carpetas predeterminadas de Windows 10 son: Descargas, Documentos, Escritorio, Imágenes, Música, Objetos 3D y Vídeos. Galería no existe entre ellas.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-05",
+    "cuestionario": "16.01",
+    "texto": "¿Es posible recuperar un archivo borrado accidentalmente en un disco duro?",
+    "opciones": [
+      "a) Siempre.",
+      "b) Nunca.",
+      "c) En algunas situaciones podremos hacerlo utilizando para ello la papelera de reciclaje.",
+      "d) En algunas situaciones podremos utilizando el portapapeles."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "Si se borra accidentalmente un archivo que esté en el disco duro, salvo que se modifique la configuración por defecto, el archivo va a parar a la papelera de reciclaje, desde donde se puede recuperar restaurándolo.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-06",
+    "cuestionario": "16.01",
+    "texto": "¿Qué permite la vista \"Detalles\" en el explorador de archivos de Windows?",
+    "opciones": [
+      "a) Ver solo iconos grandes.",
+      "b) Ocultar archivos.",
+      "c) Mostrar miniaturas de imágenes.",
+      "d) Mostrar información como nombre, tamaño, tipo y fecha de modificación."
+    ],
+    "respuesta_correcta": "d",
+    "explicacion": "El tipo de vista Detalles muestra, además del nombre, el tipo, tamaño y fecha de modificación.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-07",
+    "cuestionario": "16.01",
+    "texto": "Con respecto al \"Acceso rápido\" en el Explorador de archivos de Windows, señale la opción correcta:",
+    "opciones": [
+      "a) Podemos anclar una carpeta al Acceso rápido a través de su menú contextual.",
+      "b) El Acceso rápido puede mostrar los archivos usados con frecuencia.",
+      "c) El Acceso rápido puede mostrar las carpetas usadas recientemente.",
+      "d) No es posible anclar carpetas a Acceso rápido, solamente se pueden anclar los archivos."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Desde el menú contextual de una carpeta se puede elegir la opción 'Anclar a Acceso rápido'.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-08",
+    "cuestionario": "16.01",
+    "texto": "Si utilizamos el accesorio de Grabación de acciones de usuario y guardamos, ¿con qué extensión se guarda el archivo?",
+    "opciones": ["a) .png", "b) .mp4", "c) .jpg", "d) .zip"],
+    "respuesta_correcta": "d",
+    "explicacion": "Al guardar una grabación de acciones se crea un archivo ZIP dentro del cual se encuentra un archivo .mht.",
+    "referencia": "Accesorios de Windows"
+  },
+  {
+    "id": "tema16-1601-09",
+    "cuestionario": "16.01",
+    "texto": "¿Qué hace el comando \"Comprimir en archivo ZIP\" del explorador de archivos de Windows?",
+    "opciones": [
+      "a) Crea una carpeta comprimida (en un archivo) con los elementos seleccionados.",
+      "b) Descomprime archivos ZIP.",
+      "c) Cambia permisos de seguridad.",
+      "d) Elimina archivos duplicados."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Crea una carpeta comprimida (en un archivo ZIP) con los elementos seleccionados.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-10",
+    "cuestionario": "16.01",
+    "texto": "Se desea desde el símbolo de sistema moverse a otro directorio, ¿Cuál de los siguientes comandos utilizaría?",
+    "opciones": ["a) CLS", "b) DEL", "c) IPCONFIG", "d) CD"],
+    "respuesta_correcta": "d",
+    "explicacion": "El comando CD (Change Directory) permite cambiar de directorio desde el símbolo del sistema.",
+    "referencia": "Símbolo del sistema / línea de comandos de Windows"
+  },
+  {
+    "id": "tema16-1601-11",
+    "cuestionario": "16.01",
+    "texto": "¿En qué carpeta del sistema de Windows 10 se puede encontrar la opción \"Liberador de espacio en disco\"?",
+    "opciones": [
+      "a) Accesibilidad de Windows.",
+      "b) Accesorios de Windows.",
+      "c) Herramientas Administrativas de Windows.",
+      "d) Sistema de Windows."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "El Liberador de espacio en disco es una herramienta administrativa de Windows; también se puede acceder a ella desde las propiedades del disco.",
+    "referencia": "Herramientas Administrativas de Windows"
+  },
+  {
+    "id": "tema16-1601-12",
+    "cuestionario": "16.01",
+    "texto": "Para mover archivos dentro del explorador de archivos de Windows, ¿Qué pasos debemos realizar?",
+    "opciones": [
+      "a) Seleccionar los archivos a mover, pulsar Ctrl-X, navegar al punto de destino y pulsar Ctrl-V.",
+      "b) Seleccionar los archivos a mover, pulsar Ctrl-C, navegar al punto de destino y pulsar Ctrl-V.",
+      "c) Seleccionar los archivos a mover, pulsar Ctrl-E, navegar al punto de destino y pulsar Ctrl-V.",
+      "d) Seleccionar los archivos a mover, pulsar Ctrl-Z, navegar al punto de destino y pulsar Ctrl-V."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Para mover archivos se utiliza la combinación de teclas de cortar (Ctrl+X) y pegar (Ctrl+V).",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-13",
+    "cuestionario": "16.01",
+    "texto": "Según una captura del Explorador mostrando el contenido de la carpeta Documentos mientras la unidad D: aparece seleccionada en el panel de navegación, indique el tipo de vista utilizada en la unidad D:",
+    "opciones": ["a) Mosaicos", "b) Contenido", "c) Iconos medianos", "d) No lo podemos saber"],
+    "respuesta_correcta": "d",
+    "explicacion": "No se puede saber el tipo de vista de la unidad D: porque el contenido mostrado en el panel es el de Documentos, no el de la unidad D:.",
+    "referencia": "Explorador de archivos de Windows",
+    "requiere_imagen": true
+  },
+  {
+    "id": "tema16-1601-14",
+    "cuestionario": "16.01",
+    "texto": "Indique la zona del explorador de archivos desde la cual podemos ver la ubicación actual donde se encuentra el usuario:",
+    "opciones": [
+      "a) La barra de estado.",
+      "b) La barra de título.",
+      "c) La barra de direcciones.",
+      "d) La barra de Herramientas de acceso rápido."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "La barra de direcciones informa sobre la ubicación actual donde se encuentra el usuario, señalando el nombre de la carpeta y su ruta jerárquica.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-15",
+    "cuestionario": "16.01",
+    "texto": "Queremos que al seleccionar un archivo se muestre información sobre el mismo. Para ello, en el explorador de archivos de Windows 10, en la pestaña Vista, seleccionamos:",
+    "opciones": ["a) Panel de detalles.", "b) Panel de navegación.", "c) Panel de información.", "d) Panel de vista previa."],
+    "respuesta_correcta": "a",
+    "explicacion": "El Panel de detalles muestra información detallada sobre el elemento seleccionado.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-16",
+    "cuestionario": "16.01",
+    "texto": "¿En qué comando de la barra de herramientas del Explorador de archivos de Windows se encuentra la opción de crear nueva carpeta?",
+    "opciones": ["a) Carpeta", "b) Nuevo", "c) Ver", "d) Ver más"],
+    "respuesta_correcta": "b",
+    "explicacion": "El comando 'Nuevo' despliega, entre otras opciones, la de crear una nueva carpeta.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-17",
+    "cuestionario": "16.01",
+    "texto": "En una imagen que muestra cuatro archivos JPG con su nombre y tamaño dispuestos en filas, con miniatura e información adicional (tipo y tamaño), indica cuál es la vista mostrada:",
+    "opciones": ["a) Contenido", "b) Mosaicos", "c) Iconos medianos", "d) Iconos pequeños"],
+    "respuesta_correcta": "b",
+    "explicacion": "Mosaicos: la apariencia y tamaño de los iconos es igual a Iconos medianos, pero incluye información adicional (por ejemplo, tipo de archivo) y organiza los elementos en filas. Se diferencia de Contenido en que esta última distribuye la información en columnas, no en filas.",
+    "referencia": "Explorador de archivos de Windows",
+    "requiere_imagen": true
+  },
+  {
+    "id": "tema16-1601-18",
+    "cuestionario": "16.01",
+    "texto": "Para seleccionar todos los elementos de una ventana de explorador de Windows, podremos usar una de las siguientes opciones:",
+    "opciones": [
+      "a) Ctrl + E o, desde la barra de comandos, el comando \"Ver más\" y luego \"Seleccionar Todo\".",
+      "b) Usando el comando \"Seleccionar Todo\" del grupo \"Seleccionar\" de la cinta de opciones Vista.",
+      "c) Haciendo clic sobre el primer elemento, mantener pulsada la tecla CTRL y hacer clic sobre el último elemento.",
+      "d) Ctrl + S o clic sobre el primer elemento, mantener pulsada la tecla MAY y hacer clic sobre el último elemento."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "La opción de 'Seleccionar todo' se encuentra en la barra de comandos dentro de 'Ver más' (los tres puntos), o con el atajo CTRL+E.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-19",
+    "cuestionario": "16.01",
+    "texto": "En Windows 10, ¿Qué herramienta nos permite realizar una captura de pantalla de forma rectangular, de forma libre, pantalla completa o de ventana?",
+    "opciones": ["a) Herramienta Capture", "b) Herramienta Recorte", "c) Herramienta Tijeras", "d) Herramienta CUT"],
+    "respuesta_correcta": "b",
+    "explicacion": "La Herramienta Recorte se encuentra en Accesorios y permite los cuatro modos de recorte indicados.",
+    "referencia": "Accesorios de Windows"
+  },
+  {
+    "id": "tema16-1601-20",
+    "cuestionario": "16.01",
+    "texto": "Indique qué opciones de las siguientes se despliegan al elegir el comando \"Fácil acceso\" de la pestaña Inicio del explorador de archivos de Windows 10:",
+    "opciones": [
+      "a) Acceso rápido y Bibliotecas.",
+      "b) Carpeta y Acceso directo.",
+      "c) Incluir en biblioteca y Asignar como unidad.",
+      "d) Asignar como unidad y Acceso rápido."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "El comando 'Fácil acceso' está en la pestaña Inicio, grupo Nuevo, y ofrece las opciones 'Incluir en biblioteca' y 'Asignar como unidad'.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-21",
+    "cuestionario": "16.01",
+    "texto": "Con respecto al \"Acceso rápido\" del Explorador de archivos de Windows 10, indique la respuesta incorrecta:",
+    "opciones": [
+      "a) Se pueden anclar archivos y carpetas.",
+      "b) Solo se pueden anclar carpetas.",
+      "c) Muestra las carpetas frecuentes y los archivos recientes.",
+      "d) Su contenido se muestra de forma predeterminada al entrar al Explorador de archivos."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "En Acceso rápido solo se pueden anclar carpetas, no archivos; por eso la respuesta incorrecta es la a).",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-22",
+    "cuestionario": "16.01",
+    "texto": "¿Cómo se llama la herramienta de Windows que permite capturar una parte de la pantalla, tanto en imagen como en vídeo?",
+    "opciones": ["a) Captura de pantalla", "b) Paint", "c) Recortes", "d) Tijeras"],
+    "respuesta_correcta": "c",
+    "explicacion": "La herramienta Recortes captura rápidamente el contenido de parte de la pantalla, tanto en imagen como en vídeo, y permite guardarlo.",
+    "referencia": "Accesorios de Windows"
+  },
+  {
+    "id": "tema16-1601-23",
+    "cuestionario": "16.01",
+    "texto": "¿Cuál de los siguientes elementos aparece en el listado de programas y herramientas del menú Inicio, sin estar contenido en ninguna carpeta de aplicaciones?",
+    "opciones": ["a) Lupa", "b) Editor de registro", "c) Calculadora", "d) Mapa de caracteres"],
+    "respuesta_correcta": "c",
+    "explicacion": "En Windows, la Calculadora aparece como aplicación listada directamente, sin estar ubicada dentro de ninguna carpeta.",
+    "referencia": "Menú Inicio de Windows"
+  },
+  {
+    "id": "tema16-1601-24",
+    "cuestionario": "16.01",
+    "texto": "Vista del Explorador en la que se puede escoger qué campos de información se quieren mostrar, en qué orden y qué ancho se desea dar a cada columna de propiedades:",
+    "opciones": ["a) Lista", "b) Detalles", "c) Contenido", "d) No existe ninguna vista con esas características"],
+    "respuesta_correcta": "b",
+    "explicacion": "La vista Detalles es la única que permite escoger qué campos de información se quieren mostrar, en qué orden y qué ancho dar a cada columna.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1601-25",
+    "cuestionario": "16.01",
+    "texto": "Indique qué extensión utiliza el accesorio Paint de Windows por defecto:",
+    "opciones": ["a) .png", "b) .jpg", "c) .bmp", "d) .gif"],
+    "respuesta_correcta": "a",
+    "explicacion": "La extensión .png es la que aplica el accesorio Paint a sus archivos de forma predeterminada.",
+    "referencia": "Accesorios de Windows"
+  },
+  {
+    "id": "tema16-1603-01",
+    "cuestionario": "16.03",
+    "texto": "En la ubicación Este equipo del Explorador de Archivos, ¿Qué se visualiza directamente?",
+    "opciones": [
+      "a) Todas las carpetas y archivos que estén almacenadas sobre la unidad.",
+      "b) Las carpetas del sistema, los dispositivos conectados y las unidades.",
+      "c) Las carpetas ancladas.",
+      "d) Las carpetas de la unidad C:"
+    ],
+    "respuesta_correcta": "b",
+    "explicacion": "En Este equipo se visualizan directamente las carpetas del sistema, los dispositivos conectados y las unidades.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-02",
+    "cuestionario": "16.03",
+    "texto": "Para seleccionar elementos no consecutivos usando solo el teclado:",
+    "opciones": [
+      "a) Con las teclas de dirección se apunta al primer elemento, se presiona Ctrl y con las flechas se enfoca el siguiente elemento; al soltar Ctrl se pulsa la Barra espaciadora para añadirlo a la selección, repitiendo el proceso.",
+      "b) Se trabaja con Ctrl, Flechas cursor y Enter para añadir la selección del nuevo elemento.",
+      "c) Se trabaja con dos teclas, Ctrl para marcar el nuevo elemento y Enter para añadirlo a la selección.",
+      "d) No es posible seleccionar elementos no consecutivos usando solo el teclado."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Con las flechas de dirección se apunta al primer elemento; presionando Ctrl se navega con las flechas hasta el siguiente elemento a seleccionar; al soltar Ctrl se pulsa la Barra espaciadora para añadirlo, repitiendo la operación tantas veces como sea necesario.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-03",
+    "cuestionario": "16.03",
+    "texto": "¿Cómo podemos cambiar los programas predeterminados en Windows?",
+    "opciones": [
+      "a) En el botón Inicio >> Configuración >> Aplicaciones >> Aplicaciones predeterminadas.",
+      "b) En el botón Inicio >> Programas >> Predeterminados.",
+      "c) En el botón Inicio >> Configuración >> Configuración de aplicaciones.",
+      "d) En la cinta de opciones de cada programa."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Los programas predeterminados se cambian en Inicio >> Configuración >> Aplicaciones >> Aplicaciones predeterminadas.",
+    "referencia": "Configuración de Windows"
+  },
+  {
+    "id": "tema16-1603-04",
+    "cuestionario": "16.03",
+    "texto": "¿Qué comando de la barra de comandos del Explorador de archivos de Windows permite acceder a la opción para copiar la ruta completa de un archivo?",
+    "opciones": ["a) Ver", "b) Ordenar", "c) Nuevo", "d) Ver más"],
+    "respuesta_correcta": "d",
+    "explicacion": "Dentro de \"Ver más\" (los tres puntos) del menú contextual/barra de comandos se encuentra la opción 'Copiar ruta de acceso', junto a otras como Deshacer, Comprimir en archivo ZIP o Agregar a Favoritos.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-05",
+    "cuestionario": "16.03",
+    "texto": "Las extensiones de los archivos en el Explorador de archivos de Windows:",
+    "opciones": [
+      "a) Si están ocultas se pueden visualizar en Ver>>Mostrar.",
+      "b) Informan de las dimensiones del archivo.",
+      "c) Son utilizadas por los hackers para introducirse en un ordenador ajeno.",
+      "d) No tienen relación con los tipos de archivo."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Las extensiones de archivo, si están ocultas por defecto, se pueden mostrar activando la casilla correspondiente en Ver >> Mostrar >> Extensiones de nombre de archivo.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-06",
+    "cuestionario": "16.03",
+    "texto": "Indique en qué zona del explorador de archivos de Windows podemos añadir una ruta de forma manual para acceder al contenido de una carpeta determinada.",
+    "opciones": [
+      "a) Barra de herramientas de acceso rápido.",
+      "b) Panel de navegación.",
+      "c) Cuadro ruta de acceso.",
+      "d) Barra de direcciones."
+    ],
+    "respuesta_correcta": "d",
+    "explicacion": "Introduciendo la ruta o dirección de una carpeta en la barra de direcciones del Explorador de archivos de Windows podemos acceder al contenido de la misma.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-07",
+    "cuestionario": "16.03",
+    "texto": "Indique la herramienta de Windows que permite la reorganización de los archivos almacenados en un disco duro mejorando el acceso a los datos.",
+    "opciones": ["a) Comprobación de errores.", "b) Formatear.", "c) Desfragmentar y optimizar unidades.", "d) Ordenar archivos."],
+    "respuesta_correcta": "c",
+    "explicacion": "La desfragmentación de las unidades de almacenamiento reorganiza los archivos en el disco duro para que el equipo funcione con mayor velocidad y eficiencia.",
+    "referencia": "Herramientas del sistema de Windows"
+  },
+  {
+    "id": "tema16-1603-08",
+    "cuestionario": "16.03",
+    "texto": "Estamos trabajando en una ventana del Explorador de archivos de Windows 10 que no está maximizada. Si pulsamos Tecla de Windows+Flecha arriba, ¿Qué ocurrirá con la ventana?",
+    "opciones": ["a) Se minimizará", "b) Se maximizará", "c) Se cerrará", "d) No ocurrirá nada"],
+    "respuesta_correcta": "b",
+    "explicacion": "La combinación de teclas Windows+Flecha arriba maximiza la ventana activa.",
+    "referencia": "Atajos de teclado de Windows"
+  },
+  {
+    "id": "tema16-1603-09",
+    "cuestionario": "16.03",
+    "texto": "El uso del ? (interrogante) en una búsqueda dentro del explorador de archivos de Windows, ¿Qué efecto tiene?",
+    "opciones": [
+      "a) Ninguno, es un símbolo reservado del sistema.",
+      "b) Representa cualquier carácter numérico.",
+      "c) Representa uno o más caracteres.",
+      "d) Representa un solo carácter."
+    ],
+    "respuesta_correcta": "d",
+    "explicacion": "En las búsquedas, el comodín ? sustituye la posición de un carácter cualquiera (uno solo).",
+    "referencia": "Búsqueda en el Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-10",
+    "cuestionario": "16.03",
+    "texto": "¿Podemos modificar la resolución de la pantalla con el sistema operativo Windows?",
+    "opciones": [
+      "a) No, eso depende de las características y la marca de la pantalla misma.",
+      "b) Sí, siempre y cuando el procesador sea rápido y haya memoria suficiente en el equipo.",
+      "c) Sí, desde el panel Configuración >> Sistema, en la categoría Pantalla.",
+      "d) Sólo podemos modificar la resolución si se conecta el ordenador con un proyector."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "La resolución de pantalla se modifica desde Configuración >> Sistema >> Pantalla.",
+    "referencia": "Configuración de Windows"
+  },
+  {
+    "id": "tema16-1603-11",
+    "cuestionario": "16.03",
+    "texto": "Cuando accedemos a las propiedades de \"Este equipo\" en el explorador de archivos de Windows, se abre:",
+    "opciones": [
+      "a) Configuración-->Información donde se muestran las especificaciones del dispositivo y de Windows.",
+      "b) La configuración del menú Inicio de nuestro equipo.",
+      "c) Un cuadro de diálogo con información general del sistema y de seguridad.",
+      "d) Las opciones avanzadas de configuración del Explorador de archivos."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "Propiedades de Este equipo lleva a Configuración >> Sistema >> Información, dentro de Configuración.",
+    "referencia": "Configuración de Windows"
+  },
+  {
+    "id": "tema16-1603-12",
+    "cuestionario": "16.03",
+    "texto": "Estamos situados en una carpeta que contiene a su vez 3 carpetas y 5 archivos; seleccionamos 2 archivos y 1 carpeta. Indique qué información nos mostrará la barra de estado del explorador de archivos.",
+    "opciones": [
+      "a) Número de elementos seleccionados.",
+      "b) Número de elementos.",
+      "c) Número de elementos y elementos seleccionados.",
+      "d) Número de elementos, elementos seleccionados y tamaño."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "La barra de Estado muestra información concisa acerca del contenido de la ventana activa: número de elementos incluidos y, en caso de tener elementos seleccionados, informa de su número; solo si se seleccionan exclusivamente archivos indicaría además el tamaño total.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-13",
+    "cuestionario": "16.03",
+    "texto": "Indique el procedimiento adecuado para mostrar bibliotecas en el explorador de archivos de Windows:",
+    "opciones": [
+      "a) Ver>>Mostrar Bibliotecas.",
+      "b) Inicio>>Fácil Acceso>>Mostrar Bibliotecas.",
+      "c) Menú contextual del Panel de Navegación >> Mostrar Bibliotecas.",
+      "d) Detalles>> Mostrar Bibliotecas."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "Se accede desde el menú contextual del Panel de Navegación, opción 'Mostrar bibliotecas'. También se puede configurar desde la pestaña Ver del cuadro de diálogo de Opciones de carpeta.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-14",
+    "cuestionario": "16.03",
+    "texto": "¿A través de qué herramienta de Windows podemos obtener información de los programas y procesos que se ejecutan en nuestro ordenador?",
+    "opciones": ["a) Administrador de programas.", "b) Administrador de recursos.", "c) Administrador de equipos.", "d) Administrador de tareas."],
+    "respuesta_correcta": "d",
+    "explicacion": "El Administrador de tareas es una aplicación integrada en Windows que muestra información de los programas y procesos en ejecución, además de indicadores de rendimiento del equipo.",
+    "referencia": "Herramientas del sistema de Windows"
+  },
+  {
+    "id": "tema16-1603-15",
+    "cuestionario": "16.03",
+    "texto": "¿Qué tipo de archivos puede guardar el programa Paint del grupo de accesorios de Windows?",
+    "opciones": ["a) bmp, jpg, gif, pdf", "b) rtf, docx, pdf, txt", "c) xml, docx, pdf, txt", "d) bmp, jpg, gif, png"],
+    "respuesta_correcta": "d",
+    "explicacion": "La extensión por defecto de Paint es png, pero también admite guardar en bmp, jpg y gif.",
+    "referencia": "Accesorios de Windows"
+  },
+  {
+    "id": "tema16-1603-16",
+    "cuestionario": "16.03",
+    "texto": "En el explorador de archivos de Windows, si selecciono un archivo y lo arrastro con el ratón de una unidad de almacenamiento a otra distinta, ¿qué ocurre?",
+    "opciones": ["a) Moveré el archivo de una unidad a otra.", "b) Realizaré una copia de una unidad a otra.", "c) Crearé un acceso directo en la unidad destino.", "d) No se realiza ninguna acción."],
+    "respuesta_correcta": "b",
+    "explicacion": "Al arrastrar elementos con el botón principal del ratón entre carpetas situadas en unidades diferentes, los elementos se copian automáticamente, sin necesidad de pulsar Ctrl.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-17",
+    "cuestionario": "16.03",
+    "texto": "¿Con qué sistema de almacenamiento de archivos en la nube está integrado por defecto el Explorador de archivos de Windows?",
+    "opciones": ["a) OneDrive", "b) Google Drive.", "c) Amazon Drive.", "d) Dropbox."],
+    "respuesta_correcta": "a",
+    "explicacion": "OneDrive es el sistema de almacenamiento en la nube de Microsoft, integrado por defecto en el Explorador de archivos de Windows.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-18",
+    "cuestionario": "16.03",
+    "texto": "Si en el panel de navegación del Explorador de Archivos aparece una carpeta con un icono de una chincheta a su derecha, ¿Qué información está proporcionando?",
+    "opciones": ["a) Es una carpeta anclada al acceso rápido.", "b) Es una carpeta anclada como tiles en Inicio.", "c) Es una carpeta anclada a la barra de tareas.", "d) Ninguna de las anteriores."],
+    "respuesta_correcta": "a",
+    "explicacion": "El icono de chincheta junto a una carpeta en el panel de navegación indica que está anclada al Acceso rápido.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-19",
+    "cuestionario": "16.03",
+    "texto": "En Windows, anclar programas, ¿para qué sirve?",
+    "opciones": [
+      "a) Que se ejecuten al iniciar el ordenador.",
+      "b) Que no vuelvan a aparecer en una Jump list (Recientes).",
+      "c) Disponer de ellos de forma más rápida, ya sea en la barra de tareas o en el menú Inicio.",
+      "d) Disponer de ellos de forma más rápida. Únicamente se pueden anclar elementos a la barra de tareas."
+    ],
+    "respuesta_correcta": "c",
+    "explicacion": "Anclar programas permite disponer de ellos de forma más rápida, tanto en la barra de tareas como en el menú Inicio. También se pueden anclar en el Explorador de Windows.",
+    "referencia": "Configuración de Windows"
+  },
+  {
+    "id": "tema16-1603-20",
+    "cuestionario": "16.03",
+    "texto": "Indique cuál de los siguientes no es un sistema de archivos de Windows:",
+    "opciones": ["a) FAT32.", "b) extFAT.", "c) NTFS.", "d) Ext4."],
+    "respuesta_correcta": "b",
+    "explicacion": "El sistema de archivos 'extFAT' no existe; el que sí existe es exFAT, especialmente adaptado para memorias flash.",
+    "referencia": "Sistemas de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-21",
+    "cuestionario": "16.03",
+    "texto": "El tipo de Vista disponible en el Explorador de Windows que es igual que la vista de Iconos pequeños, pero en vez de ir ocupando el espacio disponible por filas, lo va ocupando por columnas, es:",
+    "opciones": ["a) Contenido.", "b) Lista.", "c) Detalles.", "d) Mosaicos."],
+    "respuesta_correcta": "b",
+    "explicacion": "La vista Lista muestra el listado de archivos con iconos pequeños, distribuido en horizontal o por columnas, a diferencia de Iconos pequeños que se distribuye por filas.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-22",
+    "cuestionario": "16.03",
+    "texto": "Indique la respuesta falsa en relación al Explorador de archivos de Windows 10:",
+    "opciones": [
+      "a) La barra de estado no se puede ocultar.",
+      "b) El Panel de navegación se puede ocultar.",
+      "c) Las extensiones de los archivos se pueden ocultar.",
+      "d) La barra de herramientas de acceso rápido se puede mostrar sobre o bajo la Cinta."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "La barra de estado sí se puede ocultar, desde Opciones de carpeta >> pestaña Ver, desmarcando 'Mostrar barra de estado'. Por eso la afirmación a) es falsa.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-23",
+    "cuestionario": "16.03",
+    "texto": "Puedo borrar un archivo en el Explorador de archivos de Windows sin que pase por la papelera de reciclaje con la combinación de teclas...:",
+    "opciones": ["a) Control+suprimir", "b) Suprimir", "c) Mayúscula+Suprimir", "d) Alt+suprimir"],
+    "respuesta_correcta": "c",
+    "explicacion": "Con la combinación de teclas Mayúscula+Suprimir se borra un archivo en Windows sin que pase por la papelera de reciclaje.",
+    "referencia": "Explorador de archivos de Windows"
+  },
+  {
+    "id": "tema16-1603-24",
+    "cuestionario": "16.03",
+    "texto": "¿Qué ocurre si se activa la Vista compacta en el Explorador de archivos de Windows 11?",
+    "opciones": [
+      "a) Reduce el espacio entre los elementos.",
+      "b) Reduce o aumenta el número de columnas del diseño detalles.",
+      "c) Aumenta el espacio entre los elementos.",
+      "d) Reduce el espacio entre los elementos en el panel de navegación exclusivamente."
+    ],
+    "respuesta_correcta": "a",
+    "explicacion": "La Vista compacta reduce los espacios intermedios entre elementos, proporcionando una vista más amplia al usuario.",
+    "referencia": "Explorador de archivos de Windows 11"
+  },
+  {
+    "id": "tema16-1603-25",
+    "cuestionario": "16.03",
+    "texto": "Si queremos eliminar una carpeta o un archivo de forma permanente de una unidad de almacenamiento interno sin que pase por la papelera de reciclaje, ¿qué deberemos hacer?",
+    "opciones": [
+      "a) Pulsando CTRL + Supr.",
+      "b) Desde la barra de herramientas / comandos pulsar el comando Eliminar con la tecla Mayús pulsada.",
+      "c) Desde la barra de herramientas / comandos pulsar el comando Eliminar con la tecla Ctrl pulsada.",
+      "d) Desde la barra de herramientas / comandos pulsar el comando Eliminar, ya que los elementos almacenados en unidades internas al eliminarlos ya no pasan por la papelera de reciclaje."
+    ],
+    "respuesta_correcta": "b",
+    "explicacion": "Para eliminar un elemento de forma permanente: usar el comando Eliminar con la tecla Mayús pulsada (desde la barra de comandos o el menú contextual), presionar Mayús+Supr, o arrastrar a la papelera de reciclaje manteniendo pulsada la tecla Mayús.",
+    "referencia": "Explorador de archivos de Windows"
+  }
+]
