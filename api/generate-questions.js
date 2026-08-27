@@ -4,13 +4,24 @@
 // preguntas para un test (Miniopo, Tuopo o Superopo) y llama a la API de
 // Google Gemini para generarlas, usando el prompt maestro con sus 3 modos.
 //
-// NOVEDAD: para el modo "generar_nueva" (leyes/ofimática), el contexto ya
-// NO hace falta enviarlo desde el frontend — se carga automáticamente
-// desde content/<area>/<tema_slug>.txt dentro del propio repositorio, a
-// partir del slug de tema que mande el frontend (ej. "tema1", "tema5").
-// Así, subir un tema nuevo es solo añadir su archivo .txt al repo: ningún
-// cambio de código hace falta, y el frontend nunca tiene que cargar el
-// temario completo en memoria.
+// NOVEDAD (contexto de temario): para el modo "generar_nueva" (leyes/
+// ofimática), el contexto ya NO hace falta enviarlo desde el frontend —
+// se carga automáticamente desde content/<area>/<tema_slug>.txt dentro
+// del propio repositorio, a partir del slug de tema que mande el frontend
+// (ej. "tema1", "tema5"). Así, subir un tema nuevo es solo añadir su
+// archivo .txt al repo: ningún cambio de código hace falta.
+//
+// NOVEDAD (banco de preguntas): para el modo "replicar", ya NO hace falta
+// que el frontend mande "pregunta_original" a mano. Si no se manda, el
+// endpoint carga automáticamente content/<area>/<tema_slug>-preguntas.json
+// (el banco propio de ese tema), descarta las preguntas marcadas como
+// "requiere_imagen" y elige al azar tantas como pida n_preguntas.
+// Si esas preguntas del banco YA traen su "explicacion" y "referencia"
+// completas (como las que exportamos desde los cuestionarios ADAMS), el
+// endpoint las devuelve directamente sin llamar a Gemini — es más rápido,
+// más barato y elimina cualquier riesgo de que la IA altere una pregunta
+// real por error. Gemini solo se invoca en modo "replicar" si hace falta
+// completar una explicación que falte.
 //
 // La clave de API vive SOLO aquí, en el servidor (variable de entorno
 // GEMINI_API_KEY configurada en el panel de Vercel), nunca en el
@@ -49,7 +60,47 @@ export default async function handler(req, res) {
     }
   }
 
-  const prompt = construirPrompt({ modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar });
+  // Para "replicar", resolvemos de dónde sale la pregunta original:
+  // 1) si el frontend la manda explícitamente (compatibilidad con lo ya probado), la usamos tal cual.
+  // 2) si no, intentamos cargar el banco propio del tema y elegir al azar.
+  let preguntasOriginales = null;
+  if (modo === 'replicar') {
+    if (pregunta_original) {
+      preguntasOriginales = [pregunta_original];
+    } else {
+      const banco = await cargarBancoPreguntas(area, tema_slug);
+      if (!banco || banco.length === 0) {
+        return res.status(400).json({
+          error: `No hay banco de preguntas para el tema "${tema_slug}" del área "${area}". Sube content/${area}/${tema_slug}-preguntas.json o manda "pregunta_original" en la petición.`,
+        });
+      }
+      const disponibles = filtrarDisponibles(banco, evitar);
+      if (disponibles.length === 0) {
+        return res.status(400).json({
+          error: `El banco de preguntas del tema "${tema_slug}" no tiene más preguntas disponibles (todas usadas o requieren imagen).`,
+        });
+      }
+      preguntasOriginales = elegirAlAzar(disponibles, n_preguntas);
+    }
+
+    // Camino rápido: si TODAS las preguntas originales ya traen explicación
+    // y referencia completas, las devolvemos directamente, sin llamar a
+    // Gemini. Es el caso normal cuando vienen de un -preguntas.json real.
+    const todasCompletas = preguntasOriginales.every(
+      (p) => p.explicacion && p.explicacion.trim().length > 0
+    );
+    if (todasCompletas) {
+      const preguntasFinal = preguntasOriginales.map((p) => ({
+        ...normalizarPreguntaBanco(p),
+        origen: 'banco_propio',
+        area,
+        tema: tema || null,
+      }));
+      return res.status(200).json({ preguntas: preguntasFinal });
+    }
+  }
+
+  const prompt = construirPrompt({ modo, area, tema, n_preguntas, contexto, preguntasOriginales, pregunta_modelo, evitar });
 
   try {
     const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
@@ -118,7 +169,75 @@ async function cargarContextoTema(area, temaSlug) {
   return contenido;
 }
 
-function construirPrompt({ modo, area, tema, n_preguntas, contexto, pregunta_original, pregunta_modelo, evitar }) {
+/**
+ * Carga el banco de preguntas propio de un tema, si existe.
+ * Convención de rutas: content/<area>/<tema_slug>-preguntas.json
+ * Devuelve null si el archivo no existe (tema sin banco todavía).
+ */
+async function cargarBancoPreguntas(area, temaSlug) {
+  if (!temaSlug) return null;
+  const rutaSegura = path.basename(temaSlug);
+  const filePath = path.join(process.cwd(), 'content', area, `${rutaSegura}-preguntas.json`);
+  try {
+    const raw = await readFile(filePath, 'utf-8');
+    return JSON.parse(raw);
+  } catch (e) {
+    return null; // no existe el archivo, o no es JSON válido: tratamos como "sin banco"
+  }
+}
+
+/**
+ * Filtra el banco de preguntas descartando:
+ * - las que requieren una imagen que no tenemos disponible
+ * - las que ya se han usado en este intento (recibidas en "evitar",
+ *   comparando por id si lo tienen, o por texto si no)
+ */
+function filtrarDisponibles(banco, evitar) {
+  const idsEvitar = new Set((evitar || []).map((e) => (typeof e === 'string' ? e : e.id)));
+  const textosEvitar = new Set((evitar || []).map((e) => (typeof e === 'string' ? null : e.texto)).filter(Boolean));
+
+  return banco.filter((p) => {
+    if (p.requiere_imagen) return false;
+    if (p.id && idsEvitar.has(p.id)) return false;
+    if (p.texto && textosEvitar.has(p.texto)) return false;
+    return true;
+  });
+}
+
+function elegirAlAzar(lista, n) {
+  const copia = [...lista];
+  const elegidas = [];
+  for (let i = 0; i < n && copia.length > 0; i++) {
+    const idx = Math.floor(Math.random() * copia.length);
+    elegidas.push(copia[idx]);
+    copia.splice(idx, 1);
+  }
+  return elegidas;
+}
+
+/**
+ * Convierte una pregunta del banco propio (opciones con prefijo "a) ", " b) "...
+ * y respuesta_correcta como letra "a"/"b"/"c"/"d") al formato de salida del
+ * endpoint (opciones sin prefijo, respuesta_correcta como índice numérico 0-3).
+ */
+function normalizarPreguntaBanco(p) {
+  const letras = ['a', 'b', 'c', 'd'];
+  const opcionesLimpias = p.opciones.map((op) => op.replace(/^[a-dA-D]\)\s*/, ''));
+  const respuestaIndice =
+    typeof p.respuesta_correcta === 'number'
+      ? p.respuesta_correcta
+      : letras.indexOf(String(p.respuesta_correcta).toLowerCase());
+
+  return {
+    texto: p.texto,
+    opciones: opcionesLimpias,
+    respuesta_correcta: respuestaIndice,
+    referencia: p.referencia || null,
+    explicacion: p.explicacion,
+  };
+}
+
+function construirPrompt({ modo, area, tema, n_preguntas, contexto, preguntasOriginales, pregunta_modelo, evitar }) {
   const cabecera = `Eres un generador de preguntas tipo test para la oposición de Auxiliar
 Administrativo de la Comunidad de Madrid (CAM), estilo ADAMS.`;
 
@@ -139,16 +258,18 @@ FORMATO DE SALIDA (JSON estricto, sin texto adicional antes ni después):
     : '';
 
   if (modo === 'replicar') {
+    // Solo llegamos aquí si a alguna de las preguntas originales le falta
+    // la explicación (el camino rápido ya devolvió las que estaban completas).
     return `${cabecera}
 
 ═══ MODO 1 · REPLICAR (banco propio) ═══
-Se te da una pregunta existente del banco:
-${JSON.stringify(pregunta_original)}
+Se te dan estas preguntas existentes del banco:
+${JSON.stringify(preguntasOriginales)}
 
-Devuélvela tal cual, en el mismo formato de salida, sin alterar el
+Devuélvelas tal cual, en el mismo formato de salida, sin alterar el
 enunciado, las opciones ni la respuesta correcta. Tu única tarea aquí
-es redactar una "explicacion" clara y precisa de por qué esa es la
-respuesta correcta, citando el artículo/norma si aplica.
+es redactar (o completar) una "explicacion" clara y precisa de por qué
+esa es la respuesta correcta, citando el artículo/norma si aplica.
 ${formatoSalida}`;
   }
 
