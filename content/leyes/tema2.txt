@@ -1,0 +1,352 @@
+TEMA 2: EL ESTATUTO DE AUTONOMÍA DE LA COMUNIDAD DE MADRID: ESTRUCTURA Y CONTENIDO. LAS COMPETENCIAS DE LA COMUNIDAD DE MADRID: POTESTAD LEGISLATIVA, POTESTAD REGLAMENTARIA Y FUNCIÓN EJECUTIVA. LA ASAMBLEA DE MADRID: COMPOSICIÓN, ELECCIÓN Y FUNCIONES.
+
+Referencias legislativas:
+- Constitución española de 1978.
+- Ley Orgánica 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid.
+- Reglamento de 7 de febrero de 2019, aprobado por el Pleno de la Asamblea de Madrid.
+
+===========================================================
+1. EL ESTATUTO DE AUTONOMÍA: ESTRUCTURA Y CONTENIDO
+===========================================================
+
+1.1. Introducción
+
+Madrid accedió a su autonomía como Comunidad uniprovincial de régimen general. Se barajaron tres alternativas: (1) Estatuto especial para Madrid-Área Metropolitana, repartiendo el resto de la provincia entre CCAA limítrofes; (2) integrar la provincia en Castilla-La Mancha; (3) constituir Madrid en Comunidad Autónoma uniprovincial (la que prevaleció).
+
+El territorio de la Comunidad "es el comprendido dentro de los límites de la provincia de Madrid" (arts. 1 y 2 EA).
+
+Particularidades del proceso madrileño:
+- Careció de "régimen preautonómico".
+- Se constituyó en Comunidad uniprovincial en virtud de Ley Orgánica dictada al amparo del art. 144.a) CE.
+- El Proyecto de Estatuto inicial se tuvo por caducado (art. 207 Reglamento del Congreso) al disolverse las Cortes; se tramitó un nuevo Proyecto por procedimiento de urgencia para llegar a las elecciones autonómicas de mayo de 1983.
+- Los órganos de Gobierno sustituyeron directamente a la Diputación Provincial (no hubo Asamblea Provisional).
+- La autonomía madrileña "partió de cero" (sin transferencias previas).
+
+Fundamento constitucional: art. 143.1 CE (provincias con "entidad regional histórica" pueden acceder a la autonomía). Madrid careció de esa "entidad regional histórica", por lo que se acudió a la vía del art. 144.a) CE: las Cortes Generales, por motivos de interés nacional, autorizan la constitución de una CA uniprovincial aunque no reúna las condiciones del art. 143.1 CE.
+
+Norma habilitante: Ley Orgánica 6/1982, de 7 de julio — su art. 1 dispone: "Se autoriza a la provincia de Madrid, por razones de interés nacional, para constituirse en Comunidad Autónoma." Motivos: capitalidad del Estado, sede de instituciones democráticas, ~12% de la población nacional, gran desarrollo urbano y centro de comunicaciones de primer orden.
+
+Esta autorización estaba prevista en los Acuerdos Autonómicos de 1981 (UCD-PSOE), que establecían un procedimiento en 3 pasos: (1) la Diputación Provincial acuerda constituirse en CA uniprovincial vía art. 144.a) CE y los partidos formalizan la proposición de Ley ante las Cortes; (2) los municipios solicitan la autonomía y elaboración del Estatuto por la vía del art. 143 CE; (3) el Estatuto se somete a aprobación de las Cortes mediante Ley Orgánica.
+
+Conclusión: la iniciativa partió de la Diputación Provincial, pero quebró el principio dispositivo, pues fueron las Cortes Generales quienes autorizaron la constitución de la Comunidad. El Estatuto fue aprobado por la Ley Orgánica 3/1983, de 25 de febrero, publicado en el BOE el 1 de marzo de 1983, fecha de su entrada en vigor.
+
+1.2. El Estatuto de Autonomía: contenido
+
+Aprobado por Ley Orgánica 3/1983, de 25 de febrero. Modificaciones:
+1.ª — Ley Orgánica 2/1991, de 13 de marzo: fija que las elecciones se celebren el cuarto domingo de mayo de cada cuatro años.
+2.ª — Ley Orgánica 10/1994, de 24 de marzo: ampliación de competencias.
+3.ª — Ley Orgánica 5/1998, de 7 de julio: reforma en profundidad; dos objetivos: (a) reforma significativa del marco institucional (Gobierno autonómico, mecanismos de control, y sobre todo la Asamblea); (b) elevación del nivel competencial de la Comunidad.
+4.ª (última) — Ley 29/2010, de 16 de julio, de régimen de cesión de tributos del Estado a la Comunidad de Madrid: reforma el apartado 1 de la disposición adicional primera (esta modificación NO supone reforma del Estatuto).
+
+Contenido mínimo exigido por el art. 147.2 CE para los Estatutos de régimen general — el EA de Madrid lo recoge íntegro:
+a) Denominación de la Comunidad.
+b) Delimitación de su territorio.
+c) Denominación, organización y sede de las instituciones autónomas propias.
+d) Competencias asumidas y bases del traspaso de servicios.
+
+Además, hay una importante remisión a futura ley: la regulación de las relaciones entre instituciones estatales, municipales y autonómicas.
+
+1.3. Estructura del Estatuto
+
+a) Título Preliminar (arts. 1-7):
+   - Art. 1: Madrid es Comunidad Autónoma; denominación "Comunidad de Madrid"; el EA es su norma institucional básica.
+   - Art. 2: territorio = límites de la provincia de Madrid.
+   - Art. 3: organización territorial en municipios.
+   - Art. 4: bandera (roja carmesí, siete estrellas blancas de cinco puntas, colocadas 4 y 3 en el centro), escudo (por ley de la Asamblea), himno (por ley de la Asamblea), fiesta de la Comunidad (2 de mayo).
+   - Art. 5: capital = villa de Madrid.
+   - Art. 6: la villa de Madrid, por su condición de capital del Estado, tendrá régimen especial regulado por ley votada en Cortes.
+   - Art. 7: ciudadanos de la Comunidad = españoles con vecindad administrativa en cualquiera de sus municipios.
+
+b) Título Primero: "De la Organización Institucional de la Comunidad de Madrid" (arts. 8-25):
+   - Art. 8: los poderes se ejercen a través de la Asamblea, el Gobierno y el Presidente.
+   - Cap. I "De la Asamblea de Madrid" (arts. 9-16): representa al pueblo de Madrid; ejerce la potestad legislativa; aprueba y controla el Presupuesto; impulsa, orienta y controla la acción del Gobierno; ejerce las demás competencias atribuidas.
+   - Cap. II "Del Presidente" (arts. 17-21): ostenta la suprema representación de la Comunidad y la ordinaria del Estado en la misma; preside y dirige el Gobierno; designa y separa a Vicepresidentes y Consejeros; coordina la Administración.
+   - Cap. III "Del Gobierno" (arts. 22-25): órgano colegiado que dirige la política de la Comunidad; funciones ejecutivas y administrativas; potestad reglamentaria en materias no reservadas a la Asamblea.
+
+c) Título Segundo: "De las Competencias de la Comunidad" (arts. 26-33).
+
+d) Título Tercero: "Del Régimen Jurídico" (arts. 34-44):
+   - Cap. I "Disposiciones Generales" (arts. 34-36): la Comunidad, como ente de Derecho Público, tiene personalidad jurídica y plena capacidad de obrar.
+   - Cap. II "De la Administración" (arts. 37-41): la Comunidad crea y estructura su propia Administración Pública.
+   - Cap. III "Del control de la Comunidad de Madrid" (arts. 42-44): las Leyes de la Asamblea solo están sujetas al control de constitucionalidad del Tribunal Constitucional; el control económico-presupuestario corresponde a la Cámara de Cuentas (desde la LO 5/1998), sin perjuicio del Tribunal de Cuentas.
+
+e) Título Cuarto: "De la Organización Judicial" (arts. 45-50): el Tribunal Superior de Justicia es el órgano ante el que se agotan las sucesivas instancias procesales, sin perjuicio de la jurisdicción del Tribunal Supremo.
+
+f) Título Quinto: "Economía y Hacienda" (arts. 51-63): autonomía financiera; titularidad de bienes de dominio público, patrimonio y hacienda propios.
+
+g) Título Sexto: "De la Reforma del Estatuto" (art. 64):
+   - Iniciativa: Gobierno o Asamblea (a propuesta de 1/3 de sus miembros), o 2/3 de los municipios cuya población represente la mayoría absoluta de la Comunidad.
+   - Requiere aprobación de la Asamblea por mayoría de 2/3 y aprobación de las Cortes Generales mediante Ley Orgánica.
+   - Si la reforma no se aprueba, no puede volver a debatirse y votarse en la Asamblea hasta transcurrido un año.
+
+h) Dos Disposiciones Adicionales: 1.ª tributos cedidos a la Comunidad; 2.ª calendario electoral coordinado por las Cortes Generales.
+
+i) Siete Disposiciones Transitorias: traspaso de servicios, bienes, funcionarios, etc.
+
+j) Una Disposición Final: entrada en vigor el mismo día de publicación en el BOE (1 de marzo de 1983).
+
+===========================================================
+2. LAS COMPETENCIAS DE LA COMUNIDAD DE MADRID
+===========================================================
+
+Madrid accedió a la autonomía por la vía del art. 143 CE, por lo que en principio solo podía asumir competencias del art. 148 CE. Transcurridos los 5 años del art. 148.2 CE (y del antiguo art. 25.1.d EA), se amplió el marco competencial al ámbito del art. 149 CE, mediante los Acuerdos Autonómicos de 28 de febrero de 1992 y la Ley Orgánica 9/1992, de 23 de diciembre (de Transferencia de Competencias a las CCAA del art. 143 CE). La Comunidad incorporó ese contenido a su Estatuto mediante la reforma de la Ley Orgánica 10/1994, de 24 de marzo. Posteriormente, la Ley Orgánica 5/1998, de 7 de julio, elevó de nuevo el nivel competencial, reformando en profundidad el Título Segundo del Estatuto.
+
+Arts. 33 y 34 EA (principios generales):
+- El Derecho propio de la Comunidad de Madrid (leyes y normas de las materias de competencia plena) es aplicable con preferencia a cualquier otro en el territorio de Madrid; el Derecho estatal tiene carácter supletorio.
+- Las competencias se entienden referidas a su territorio.
+- En las materias de su competencia: la Asamblea tiene la potestad legislativa; el Consejo de Gobierno, la potestad reglamentaria y la función ejecutiva.
+- Las competencias de ejecución llevan implícita la potestad reglamentaria para la organización interna de los servicios, la administración y, en su caso, la inspección.
+
+2.1. Competencias legislativas plenas (Art. 26 EA)
+
+Competencia exclusiva (potestad legislativa, reglamentaria y función ejecutiva, respetando la CE) en materias como (lista no exhaustiva, para memorizar bloques):
+- Organización, régimen y funcionamiento de sus instituciones de autogobierno.
+- Creación/supresión de municipios y circunscripciones territoriales propias.
+- Procedimiento administrativo derivado de especialidades de organización propia.
+- Ordenación del territorio, urbanismo y vivienda.
+- Obras públicas de interés de la Comunidad (dentro de su territorio).
+- Ferrocarriles, carreteras, caminos y transporte terrestre y por cable íntegramente dentro de la Comunidad.
+- Instalaciones de navegación y deporte en aguas continentales, aeropuertos y helipuertos deportivos sin actividad comercial.
+- Aprovechamientos hidráulicos, canales y regadíos íntegramente dentro de la Comunidad.
+- Pesca fluvial y lacustre, acuicultura y caza.
+- Tratamiento singular de zonas de montaña.
+- Producción, distribución y transporte de energía (sin salir del territorio, sin afectar a otra Comunidad).
+- Publicidad.
+- Ferias y mercados interiores; bolsas de valores; centros de contratación de mercancías.
+- Cooperativas, mutualidades no integradas en la Seguridad Social.
+- Artesanía.
+- Denominaciones de origen (en colaboración con el Estado).
+- Fomento del desarrollo económico regional.
+- Archivos, bibliotecas, museos, hemerotecas, conservatorios, centros dramáticos y de bellas artes de interés para la Comunidad (no estatales).
+- Patrimonio histórico, artístico, monumental, arqueológico, arquitectónico y científico de interés para la Comunidad.
+- Fomento de la cultura y la investigación científica y técnica.
+- Promoción y ordenación del turismo.
+- Deporte y ocio.
+- Promoción y ayuda a la tercera edad, emigrantes, personas con discapacidad y otros grupos necesitados de especial atención.
+- Protección y tutela de menores; políticas de promoción integral de la juventud.
+- Promoción de la igualdad de la mujer.
+- Fundaciones que actúen principalmente en Madrid.
+- Vigilancia y protección de edificios e instalaciones propias.
+- Coordinación de políticas locales.
+- Casinos, juegos y apuestas (excepto apuestas mutuas deportivo-benéficas).
+- Espectáculos públicos.
+- Estadística para fines no estatales.
+- Servicio meteorológico propio.
+
+Además, con fundamento en los arts. 38 y 131 CE y materias 11.ª y 13.ª del art. 149.1 CE, competencia exclusiva en:
+- Ordenación y planificación de la actividad económica regional.
+- Comercio interior (sin perjuicio de política de precios, libre circulación y defensa de la competencia).
+- Industria (salvo normas estatales de seguridad, sanidad, interés militar, minas, hidrocarburos y energía nuclear).
+- Agricultura, ganadería e industrias agroalimentarias.
+- Instituciones de crédito corporativo público y territorial; Cajas de Ahorro.
+- Sector público económico de Madrid (residual).
+La Comunidad participa además en la gestión del sector público económico estatal cuando proceda.
+
+2.2. Competencias de desarrollo legislativo del ordenamiento estatal (Art. 27 EA)
+
+En el marco de la legislación básica del Estado: desarrollo legislativo, potestad reglamentaria y ejecución en materias como:
+- Régimen local.
+- Régimen jurídico y responsabilidad de la Administración de la Comunidad y sus entes; régimen estatutario de funcionarios; contratos y concesiones administrativas.
+- Régimen de montes y aprovechamientos forestales (montes vecinales en mano común, comunales, vías pecuarias, pastos).
+- Sanidad e higiene.
+- Coordinación hospitalaria en general (incluida la de la Seguridad Social).
+- Corporaciones de Derecho público (intereses económicos y profesionales); ejercicio de profesiones tituladas.
+- Protección del medio ambiente (con facultad de normas adicionales de protección); contaminación biótica/abiótica; vertidos.
+- Régimen minero y energético.
+- Protección de ecosistemas de pesca, acuicultura y caza; espacios naturales protegidos.
+- Defensa del consumidor y del usuario.
+- Prensa, radio, televisión y otros medios de comunicación social (la Comunidad puede crear y mantener los suyos propios).
+- Ordenación farmacéutica y establecimientos farmacéuticos.
+- Bienes de dominio público y patrimoniales de titularidad de la Comunidad; servidumbres públicas en sus materias.
+
+2.3. Función ejecutiva (Art. 28 EA)
+
+Corresponde a la Comunidad la ejecución de la legislación del Estado en materias como:
+- Gestión de la asistencia sanitaria de la Seguridad Social (alta inspección reservada al Estado).
+- Gestión de prestaciones y servicios sociales del sistema de Seguridad Social: IMSERSO.
+- Crédito, banca y seguros.
+- Asociaciones.
+- Ferias internacionales celebradas en la Comunidad.
+- Museos, archivos, bibliotecas de titularidad estatal cuya gestión directa no se reserve el Estado (por convenio).
+- Aeropuertos y helipuertos de interés general cuya gestión directa no se reserve el Estado.
+- Pesas y medidas; contraste de metales.
+- Reestructuración e implantación de sectores industriales (según planes del Estado).
+- Productos farmacéuticos.
+- Propiedad intelectual e industrial.
+- Laboral (legislación laboral y alta inspección reservadas al Estado; migraciones, fondos nacionales y de empleo reservados al Estado).
+- Transporte de mercancías y viajeros con origen y destino en la Comunidad (sin perjuicio de la ejecución directa reservada al Estado).
+
+En estas materias corresponde a la Comunidad la administración, ejecución e inspección, y la facultad de dictar reglamentos internos de organización de los servicios.
+
+2.4. Competencias en materia de enseñanza (Art. 29 EA)
+
+La Comunidad asume las competencias y funciones que le correspondan en el marco de la legislación general (o de delegaciones), fomentando la investigación y el bienestar social. Finalmente: "corresponde a la Comunidad Autónoma las competencias de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades" (art. 27 CE), sin perjuicio de las facultades del Estado (art. 149.1.30.ª CE) y de la alta inspección.
+
+2.5. Procedimientos de ampliación de competencias (Art. 30 EA)
+
+La Comunidad puede asumir competencias sobre materias no previstas en el Estatuto mediante:
+- Reforma del propio Estatuto, o
+- Decisión de las Cortes Generales por los procedimientos constitucionales.
+La Comunidad, mediante acuerdo de la Asamblea, puede solicitar a las Cortes Generales leyes marco o de transferencia/delegación.
+
+2.6. Convenios con otras Comunidades Autónomas (Art. 31 EA)
+
+- Convenios de cooperación con otras CCAA (especialmente limítrofes) para gestión y prestación de servicios propios: deben comunicarse a las Cortes Generales antes de entrar en vigor; si las Cortes (o alguna Cámara) manifiestan reparos en 30 días, sigue el trámite de acuerdos de cooperación; si no hay reparos, entra en vigor.
+- Acuerdos de cooperación sobre otras materias: requieren previa autorización de las Cortes Generales.
+- Relación especial de colaboración con las Comunidades castellanas por su tradicional vinculación.
+
+2.7. Competencias en materia de Tratados Internacionales (Art. 32 EA)
+
+- La Comunidad puede solicitar al Gobierno de la Nación la celebración de tratados o convenios internacionales de interés para Madrid.
+- Será informada de la elaboración de tratados/convenios y negociaciones de adhesión, así como de proyectos de legislación aduanera que afecten a sus intereses; el Gobierno de la Comunidad puede emitir su parecer.
+- Adoptará las medidas necesarias para ejecutar, en su territorio, tratados, convenios y actos normativos de organizaciones internacionales en materias de su competencia.
+
+===========================================================
+3. LA ASAMBLEA LEGISLATIVA: COMPOSICIÓN, ELECCIÓN Y FUNCIONES
+===========================================================
+
+3.1. Introducción
+
+El art. 152.1 CE sitúa al Parlamento autonómico en posición central: máximo órgano representativo (elegido por sufragio universal) y titular de las funciones fundamentales (aprobar leyes, elegir al Presidente de la CA y del Gobierno).
+
+Denominaciones de las Asambleas Legislativas según CA:
+- Parlamento: País Vasco, Cataluña, Galicia, Andalucía, Canarias, Baleares, Navarra.
+- Cortes: Valencia, Aragón, Castilla-La Mancha, Castilla y León.
+- Asamblea: Cantabria, Murcia, Extremadura, Madrid.
+- Diputación General: La Rioja.
+- Junta General: Asturias.
+
+Duración ordinaria de las Legislaturas: 4 años.
+
+3.2. La Asamblea Legislativa (regulada en el Cap. I del Título I EA, "De la Asamblea de Madrid")
+
+El Reglamento vigente de la Asamblea fue aprobado por el Pleno el 7 de febrero de 2019 (deroga el anterior, de 30 de enero de 1997).
+
+3.2.1. Concepto
+
+La Asamblea representa al pueblo de Madrid; ejerce la potestad legislativa; aprueba y controla los Presupuestos Generales; impulsa, orienta y controla la acción del Consejo de Gobierno; ejerce las demás funciones que le atribuyan las leyes, la Constitución y el Estatuto.
+Según su Reglamento: "la Asamblea se constituye en Cámara Única" y "es inviolable".
+
+3.2.2. Constitución
+
+- La sesión constitutiva tiene lugar dentro de los 25 días siguientes a la proclamación de resultados (art. 10.7 EA); en su defecto, a las 12h del día 25 tras la proclamación (o del día hábil inmediato anterior si aquel no fuera hábil).
+- Presidida inicialmente por la Mesa de Edad (Diputado electo de mayor edad, asistido por los dos más jóvenes como Secretarios).
+- Se lee el Decreto de convocatoria y la relación de Diputados electos (y recursos contencioso-electorales, si los hubiera).
+- Elección de la Mesa de la Asamblea: el Presidente es el Diputado que obtenga mayoría absoluta en primera votación; si no la hay, se repite entre los dos más votados y gana el que obtenga más votos. Vicepresidentes y Secretarios se eligen por mayoría simple.
+- Los Diputados elegidos ocupan sus puestos en la Mesa, cesando la Mesa de Edad.
+- El Presidente/a electo presta juramento/promesa de acatamiento de la Constitución y el Estatuto; después lo hacen el resto de miembros de la Mesa (por orden de precedencia) y los demás Diputados (por orden alfabético).
+- La Presidencia declara constituida la Asamblea y levanta la sesión.
+- Se notifica la constitución al Rey, al Senado, al Gobierno de la Nación y a la Presidencia de la Comunidad.
+
+3.2.3. Composición
+
+- Un Diputado por cada 50.000 habitantes o fracción superior a 25.000, según censo actualizado.
+- Mandato: 4 años desde la elección, o hasta disolución de la Cámara en los supuestos previstos.
+- Electores y elegibles: madrileños mayores de 18 años en pleno goce de derechos políticos. La Comunidad facilita el voto a madrileños fuera de la Comunidad.
+- Los Diputados no están ligados por mandato imperativo.
+
+3.2.4. Circunscripción electoral y elecciones
+
+- Circunscripción electoral: la provincia.
+- Barrera electoral: 5% de los sufragios válidamente emitidos para acceder al reparto de escaños.
+- Elecciones: cuarto domingo de mayo de cada 4 años (LOREG).
+- Ley 11/1986, de 16 de diciembre, Electoral de la Comunidad de Madrid — puntos clave:
+  1. Convocatoria por Decreto del Presidente de la Comunidad, el día quincuagésimo quinto (55.º) anterior a las elecciones.
+  2. El Decreto se publica al día siguiente en el BOCM (entra en vigor ese día) y señala la fecha de elecciones: cuarto domingo de mayo, o el día 54.º posterior a la convocatoria en caso de disolución anticipada.
+  3. Supuesto del art. 18.5 EA: el Presidente de la Asamblea lo comunica al Presidente de la Comunidad al día siguiente del vencimiento del plazo; el Decreto de convocatoria se expide ese mismo día y se publica al día hábil siguiente; las elecciones se celebran el primer domingo tras el 54.º día posterior a la convocatoria.
+  4. Campaña electoral: comienza el día 38.º posterior a la convocatoria, dura 15 días y termina a las 0h del día inmediatamente anterior a la votación. El Consejo de Gobierno puede hacer campaña institucional para fomentar la participación (sin influir en la orientación del voto).
+
+3.2.5. Diputados: prerrogativas e incompatibilidades
+
+- La condición plena de Diputado requiere: promesa/juramento de acatamiento de la CE y el EA (art. 10 EA), presentación de la credencial y declaración de actividades.
+- La Mesa declara formalmente la adquisición de la plena condición.
+- Derechos y deberes son efectivos desde la proclamación como electo; si tras 3 sesiones plenarias ordinarias no se ha adquirido la plena condición, quedan suspendidos (salvo fuerza mayor acreditada, con nuevo plazo).
+- Tratamiento: Ilustrísima (Diputados), Señoría (en actos parlamentarios), Excelencia (el Presidente).
+- Inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones, incluso después de cesar en el mandato.
+- Durante su mandato: no pueden ser detenidos/retenidos por actos delictivos en la Comunidad salvo flagrante delito; inculpación, prisión, procesamiento y juicio corresponden al TSJ de Madrid. Fuera del territorio, responsabilidad penal ante la Sala de lo Penal del Tribunal Supremo.
+- Asignación económica suficiente, fijada anualmente por la Mesa.
+- Según la LECrim, los Presidentes de Asambleas Legislativas autonómicas pueden declarar en su despacho oficial o en la sede de la Asamblea, sin acudir al llamamiento del Juez.
+- No sujeción a mandato imperativo.
+
+3.2.6. Funcionamiento
+
+a) Órganos que la Asamblea elige entre sus miembros: Presidente, Mesa y Diputación Permanente.
+   - Presidente: mayoría absoluta en 1.ª votación; si no, repetición entre los dos más votados, gana el de más votos.
+   - Mesa: órgano rector, ostenta la representación colegiada; compuesta por Presidente + 3 Vicepresidentes + 3 Secretarios.
+   - Diputación Permanente: Presidencia + número de Diputados equivalente a un tercio de la Cámara (incluidos los miembros de la Mesa, que son natos). La Mesa (oída la Junta de Portavoces) fija los miembros por Grupo, garantizando al menos un representante por Grupo. Designados por el Pleno a propuesta de los Grupos. La Mesa de la Asamblea es también la Mesa de la Diputación Permanente.
+b) La Asamblea se dota de su propio Reglamento (aprobación/reforma requieren mayoría absoluta en votación final de totalidad).
+c) Grupos Parlamentarios: mínimo 5 Diputados; constitución dentro de los 5 días siguientes a la sesión constitutiva, mediante escrito a la Mesa firmado por todos los miembros del Grupo. Quien no se integre pasa al Grupo Mixto durante toda la legislatura. No puede haber Grupos separados de Diputados de la misma formación política o candidatura. Los Portavoces integran la Junta de Portavoces (presidida por el Presidente de la Asamblea).
+d) Funcionamiento en Pleno y Comisión:
+   - Pleno: órgano supremo; convocado por el Presidente (de oficio o a petición de un Grupo o de 1/5 de los Diputados).
+   - Comisiones Permanentes (constituidas dentro del mes siguiente a la sesión constitutiva o al mes hábil siguiente al Decreto de nueva estructura departamental):
+     · Legislativas: Estatuto de Autonomía/Reglamento/Estatuto del Diputado; Presupuestos; Mujer; Juventud; Cultura; Políticas Integrales de la Discapacidad; y las que se constituyan según la estructura del Gobierno.
+     · No legislativas: Vigilancia de las Contrataciones; Radio Televisión Madrid; Participación.
+   - Comisiones no permanentes: de Investigación o de Estudio; se extinguen al finalizar el trabajo encomendado y, en todo caso, al concluir la legislatura.
+e) El Reglamento de la Asamblea determina: relaciones Asamblea-Gobierno, composición/funciones de la Diputación Permanente, períodos ordinarios de sesiones, número mínimo para Grupos Parlamentarios (5), procedimiento legislativo, funciones de la Junta de Portavoces y elección de Senadores representantes de la Comunidad.
+f) Sesiones ordinarias y extraordinarias:
+   - Períodos ordinarios: 1.º de septiembre a diciembre; 2.º de febrero a junio.
+   - Entre períodos, o si expira el mandato / se disuelve la Asamblea, actúa la Diputación Permanente (vela por los poderes de la Cámara).
+   - Sesiones extraordinarias: convocadas por el Presidente a petición del Gobierno, la Diputación Permanente, 1/4 de los Diputados o el número de Grupos que fije el Reglamento; deben convocarse sobre un orden del día determinado.
+   - Quórum: mayoría de los miembros para deliberar y adoptar acuerdos; acuerdos por mayoría de los presentes, salvo mayorías especiales exigidas.
+g) El Reglamento regula publicidad de sesiones, quórum y mayorías.
+
+3.2.7. Atribuciones
+
+La Asamblea elige de entre sus miembros al Presidente de la Comunidad y controla la acción del Gobierno y de su Presidente. Corresponde también a la Asamblea:
+a) Aprobación y control de los Presupuestos; examen y aprobación de cuentas.
+b) Conocimiento y control de los planes económicos.
+c) Acordar operaciones de crédito y deuda pública.
+d) Ordenación básica de órganos y servicios de la Comunidad.
+e) Control de los medios de comunicación social dependientes de la Comunidad.
+f) Potestad de establecer y exigir tributos.
+g) Interposición del recurso de inconstitucionalidad y personación ante el Tribunal Constitucional.
+h) Solicitud al Gobierno de la Nación de proyectos de ley y remisión a la Mesa del Congreso de proposiciones de ley (delegando su defensa en Diputados de la Asamblea).
+i) Designación de los Senadores representantes de la Comunidad (art. 69.5 CE), en proporción a los grupos políticos de la Asamblea; su mandato en el Senado va ligado a su condición de Diputados.
+j) Ratificación de convenios con otras CCAA para gestión/prestación de servicios (se comunican de inmediato a las Cortes Generales).
+k) Ratificación de acuerdos de cooperación sobre otras materias con otras CCAA (previa autorización de las Cortes Generales).
+l) Recepción de información del Gobierno de la Nación sobre tratados/convenios internacionales y normativa aduanera de interés específico para Madrid.
+m) Fijación de previsiones político-sociales-económicas que la Comunidad deba suministrar al Gobierno de la Nación para la planificación (art. 131.2 CE).
+n) Aprobación de planes generales de fomento del desarrollo económico de la Comunidad.
+ñ) Cuantos otros poderes, competencias y atribuciones le asignen la Constitución, el Estatuto y las leyes.
+
+3.2.8. Potestad legislativa
+
+A) Materias afectadas e iniciativa
+- La Asamblea ejerce la potestad legislativa en las materias del art. 26 EA (competencia exclusiva) y del art. 27 EA (desarrollo legislativo), así como en las que se le atribuyan/transfieran/deleguen conforme al art. 150.1 y 2 CE.
+- Iniciativa legislativa: Diputados, Grupos Parlamentarios y Gobierno (según el Reglamento de la Asamblea).
+- Proposiciones de Ley pueden ser adoptadas a iniciativa de: un Diputado con la firma de otros 4 miembros de la Cámara, o un Grupo Parlamentario con la sola firma de su Portavoz.
+
+B) Iniciativa legislativa popular y de los Ayuntamientos
+- Regulada por Ley 6/1986, de 25 de junio.
+- Iniciativa popular/ciudadana: requiere 50.000 firmas en un plazo máximo de 3 meses, con intervención de fedatario y control de la Mesa de la Asamblea.
+- Iniciativa de los Ayuntamientos: acuerdo por mayoría absoluta del Pleno de la Corporación, y además: (a) 3 o más Ayuntamientos cuyos municipios sumen censo superior a 50.000 electores, o (b) 10 o más Ayuntamientos limítrofes, cualquiera que sea su número de electores.
+- Quedan excluidas de esta iniciativa, entre otras, las materias tributarias y las relativas a la organización de las instituciones de autogobierno.
+
+C) Delegación legislativa
+- La Asamblea solo puede delegar la potestad de dictar normas con rango de ley en el Gobierno, conforme al régimen de los arts. 82, 83 y 84 CE (delegación de las Cortes Generales en el Gobierno de la Nación).
+- Excepciones a la delegación (no cabe Decreto Legislativo en):
+  a) Lo que afecte al ordenamiento básico del Gobierno o al régimen jurídico de la Administración de la Comunidad.
+  b) La legislación electoral.
+  c) Normas que, por su carácter institucional, requieran procedimiento especial de aprobación.
+
+D) Promulgación de las leyes
+- Las leyes aprobadas por la Asamblea son promulgadas en nombre del Rey por el Presidente de la Comunidad.
+- Se publican en el BOCM y en el BOE, entrando en vigor al día siguiente de su publicación en el BOCM, salvo que se disponga otra cosa.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+- Madrid accedió a su autonomía como Comunidad uniprovincial de régimen general (vía art. 144.a CE, por carecer de "entidad regional histórica").
+- Norma habilitante: Ley Orgánica 6/1982, de 7 de julio.
+- Estatuto de Autonomía aprobado por Ley Orgánica 3/1983, de 25 de febrero (BOE 1 de marzo de 1983).
+- Bandera: roja carmesí, con siete estrellas blancas de cinco puntas, colocadas 4 y 3 en el centro.
+- Escudo e himno: se establecen por ley de la Asamblea.
+- Fiesta de la Comunidad de Madrid: 2 de mayo.
+- La Asamblea representa al pueblo de Madrid, ejerce la potestad legislativa, aprueba y controla los Presupuestos, e impulsa, orienta y controla la acción del Consejo de Gobierno.
+- Composición de la Asamblea: 1 Diputado por cada 50.000 habitantes o fracción superior a 25.000.
+- Mandato de los Diputados: 4 años (o hasta disolución de la Cámara).
+- Circunscripción electoral: la provincia. Barrera electoral: 5% de los sufragios válidos.
+- Sesión constitutiva: dentro de los 25 días siguientes a la proclamación de resultados.
+- Elecciones: cuarto domingo de mayo de cada 4 años (LOREG).
+- La Asamblea elige de entre sus miembros al Presidente de la Comunidad de Madrid y controla la acción del Gobierno y de su Presidente.
+- Iniciativa de Proposiciones de Ley: un Diputado con la firma de otros 4 miembros, o un Grupo Parlamentario con la sola firma de su Portavoz.
