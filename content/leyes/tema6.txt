@@ -1,0 +1,286 @@
+TEMA 6 - La Ley del Procedimiento Administrativo Común de las Administraciones Públicas: Objeto y ámbito de aplicación. Fases del procedimiento: Iniciación, ordenación, instrucción y finalización.
+
+Referencia legislativa: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPA).
+
+===========================================================
+1. LA LEY 39/2015, DE 1 DE OCTUBRE, DEL PROCEDIMIENTO ADMINISTRATIVO COMÚN: CONTENIDO Y ÁMBITO DE APLICACIÓN
+===========================================================
+
+La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas deroga la Ley 30/1992, de 26 de noviembre, con efectos de 2 de octubre de 2016.
+
+1.1. Introducción
+
+La Constitución española encomienda al Estado (art. 149.1.18ª) la competencia exclusiva sobre:
+- Las bases del régimen jurídico de las Administraciones Públicas, garantizando a los administrados un tratamiento común ante ellas.
+- El procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización de las Comunidades Autónomas.
+
+La LRJ-PAC respondía al esquema "bases más desarrollo": el Estado fija las bases y las CCAA pueden dictar sus propias normas siempre que se ajusten a ellas. La Ley regula el procedimiento administrativo común, de aplicación general a todas las Administraciones Públicas, fijando garantías mínimas de los ciudadanos. Las CCAA pueden dictar las normas de procedimiento necesarias para la aplicación de su derecho sustantivo, respetando las reglas de procedimiento administrativo común, competencia exclusiva del Estado.
+
+1.2. Estructura y contenido
+
+1.2.1. Estructura
+
+La Ley se estructura en un Título Preliminar, 6 Títulos numerados, 9 Disposiciones Adicionales, 5 Disposiciones Transitorias, 1 Disposición Derogatoria y 7 Disposiciones Finales. Comprende 133 artículos.
+
+Esquema de contenido:
+- TÍTULO PRELIMINAR. Disposiciones generales (arts. 1 y 2).
+- TÍTULO I. De los interesados en el procedimiento.
+  · Cap. I. Capacidad de obrar y concepto de interesado (arts. 3-8).
+  · Cap. II. Identificación y firma de los interesados (arts. 9-12).
+- TÍTULO II. De la actividad de las Administraciones Públicas.
+  · Cap. I. Normas generales de actuación (arts. 13-28).
+  · Cap. II. Términos y plazos (arts. 29-33).
+- TÍTULO III. De los actos administrativos.
+  · Cap. I. Requisitos de los actos administrativos (arts. 34-36).
+  · Cap. II. Eficacia de los actos (arts. 37-46).
+  · Cap. III. Nulidad y anulabilidad (arts. 47-52).
+- TÍTULO IV. De las disposiciones sobre el procedimiento administrativo común.
+  · Cap. I. Garantías del procedimiento (art. 53).
+  · Cap. II. Iniciación del procedimiento.
+    Sección 1ª. Disposiciones generales (arts. 54-57).
+    Sección 2ª. Iniciación de oficio (arts. 58-65).
+    Sección 3ª. Inicio a solicitud del interesado (arts. 66-69).
+  · Cap. III. Ordenación del procedimiento (arts. 70-74).
+  · Cap. IV. Instrucción del procedimiento.
+    Sección 1ª. Disposiciones generales (arts. 75-76).
+    Sección 2ª. Prueba (arts. 77-78).
+    Sección 3ª. Informes (arts. 79-81).
+    Sección 4ª. Participación de los interesados (arts. 82-83).
+  · Cap. V. Finalización del procedimiento.
+    Sección 1ª. Disposiciones generales (arts. 84-86).
+    Sección 2ª. Resolución (arts. 87-92).
+    Sección 3ª. Desistimiento y renuncia (arts. 93-94).
+    Sección 4ª. Caducidad (art. 95).
+  · Cap. VI. Tramitación simplificada (art. 96).
+  · Cap. VII. Ejecución (arts. 97-105).
+- TÍTULO V. De la revisión de los actos en vía administrativa.
+  · Cap. I. Revisión de oficio (arts. 106-111).
+  · Cap. II. Recursos administrativos.
+    Sección 1ª. Principios generales (arts. 112-120).
+    Sección 2ª. Recurso de alzada (arts. 121-122).
+    Sección 3ª. Recurso potestativo de reposición (arts. 123-124).
+    Sección 4ª. Recurso extraordinario de revisión (arts. 125-126).
+- TÍTULO VI. De la iniciativa legislativa y de la potestad para dictar reglamentos y otras disposiciones (arts. 127-133).
+
+Disposiciones adicionales, transitorias, derogatorias y finales: la Ley deroga expresamente la Ley 30/1992, la Ley 11/2007 de Acceso Electrónico, el RD 429/1993 (responsabilidad patrimonial) y el RD 1398/1993 (potestad sancionadora), entre otras.
+
+1.2.2. Los derechos de las personas en sus relaciones con las Administraciones Públicas
+
+Se distinguen dos bloques: "derechos de las personas en sus relaciones con las AAPP" (art. 13) y "derechos del interesado en el procedimiento administrativo" (art. 53).
+
+A) Derechos de los interesados en el procedimiento administrativo (art. 53)
+a) Conocer en cualquier momento el estado de tramitación, el sentido del silencio, el órgano competente, los actos de trámite; acceder y obtener copia de los documentos.
+b) Identificar a las autoridades y personal responsables de la tramitación.
+c) No presentar documentos originales, salvo excepción; derecho a copia autenticada si excepcionalmente deben presentarse.
+d) No presentar datos y documentos ya en poder de las AAPP o elaborados por estas.
+e) Formular alegaciones y aportar documentos en cualquier fase anterior al trámite de audiencia.
+f) Obtener información y orientación sobre requisitos jurídicos o técnicos.
+g) Actuar asistidos de asesor.
+h) Cumplir obligaciones de pago por medios electrónicos (art. 98.2).
+i) Cualesquiera otros reconocidos por la Constitución y las leyes.
+
+En procedimientos sancionadores, además: derecho a ser notificado de hechos, infracciones y sanciones posibles, identidad del instructor y autoridad competente; y presunción de no existencia de responsabilidad administrativa mientras no se demuestre lo contrario.
+
+B) Derechos de las personas en sus relaciones con las AAPP (art. 13)
+Comunicarse a través del Punto de Acceso General electrónico; ser asistidos en medios electrónicos; utilizar lenguas cooficiales; acceso a información pública, archivos y registros (Ley 19/2013); trato con respeto y deferencia; exigir responsabilidades; obtención de medios de identificación y firma electrónica; protección de datos personales; y cualesquiera otros reconocidos por la Constitución y las leyes.
+
+C) Derecho y obligación de relacionarse electrónicamente con las AAPP
+Las personas físicas eligen libremente el medio, salvo obligación legal. Están obligados a relacionarse electrónicamente, al menos: personas jurídicas; entidades sin personalidad jurídica; quienes ejerzan actividad profesional con colegiación obligatoria (incluidos notarios y registradores); representantes de interesados obligados; empleados públicos en su condición de tales. Si existiendo obligación no se usa el medio electrónico, se requiere subsanación (plazo 10 días) bajo apercibimiento de tener por desistida la solicitud.
+
+D) El uso de las lenguas oficiales (art. 15)
+Lengua de procedimientos de la AGE: castellano; los interesados pueden usar también la lengua cooficial de la CA donde tenga sede el órgano. Si hay discrepancia entre varios interesados, se tramita en castellano. La Administración instructora debe traducir al castellano documentos que deban surtir efecto fuera de la CA.
+
+E) Acceso a los registros y archivos
+Fundamento en art. 105.b) CE; remite a la Ley 19/2013 de transparencia. Límites del art. 14: seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención/investigación de ilícitos, igualdad de partes en procesos judiciales, funciones de vigilancia/inspección/control, intereses económicos y comerciales, política económica y monetaria, secreto profesional y propiedad intelectual/industrial, confidencialidad en procesos de decisión, protección del medio ambiente.
+
+Deberes de las personas: colaborar con la Administración (informes, inspecciones); identificar a otros interesados que conozcan; comparecencia solo obligatoria si lo prevé norma con rango de ley, con citación expresando lugar, fecha, hora, medios y efectos de no atenderla.
+
+1.3. Ámbito de aplicación
+
+1.3.1. Ámbito objetivo de la ley
+
+Según el art. 1.1, la LPA regula:
+- Los requisitos de validez y eficacia de los actos administrativos.
+- El procedimiento administrativo común a todas las AAPP, incluyendo el sancionador y el de reclamación de responsabilidad.
+- Los principios a los que se ha de ajustar la iniciativa legislativa y la potestad reglamentaria (novedad respecto a la Ley 30/1992).
+
+Solo mediante ley y de manera motivada podrán incluirse trámites adicionales o distintos a los de la LPA, si resulta eficaz, proporcionado y necesario (art. 1.2). Reglamentariamente podrán establecerse especialidades referidas a: órganos competentes; plazos propios por razón de materia; formas de iniciación y terminación; publicación; informes a recabar.
+
+Se rigen por su normativa específica y supletoriamente por la LPA: procedimientos tributarios y aduaneros; procedimientos de Seguridad Social y Desempleo; procedimientos sancionadores en materia tributaria, aduanera, social, tráfico y seguridad vial, y extranjería; procedimientos de extranjería y asilo.
+
+1.3.2. Ámbito subjetivo de la Ley
+
+Coincide con el ámbito de la Ley 40/2015, de Régimen Jurídico del Sector Público. Se amplía respecto a la Ley 30/1992: pasa de aplicarse solo a las AAPP a todo el sector público (art. 2.1):
+1. Administración General del Estado.
+2. Administraciones de las CCAA.
+3. Entidades que integran la Administración Local.
+4. Sector público institucional: a) organismos públicos y entidades de Derecho público vinculados/dependientes; b) entidades de Derecho privado vinculadas/dependientes (sujetas a la LPA solo cuando ejerzan potestades administrativas); c) universidades públicas (normativa específica, supletoriamente LPA).
+
+Tienen consideración de Administraciones Públicas: AGE, Administraciones de las CCAA, Entidades de la Administración Local, y organismos/entidades de Derecho público vinculados o dependientes.
+
+Corporaciones de Derecho público: normativa específica en el ejercicio de funciones públicas atribuidas/delegadas, supletoriamente LPA.
+
+Disposición Adicional quinta: la actuación administrativa de órganos del Congreso, Senado, CGPJ, Tribunal Constitucional, Tribunal de Cuentas, Defensor del Pueblo, Asambleas Legislativas autonómicas e instituciones análogas se rige por su normativa específica, en el marco de los principios de la LPA.
+
+1.3.3. Ámbito temporal
+
+La LPA entra en vigor el 2 de octubre de 2016 (al año de su publicación en el BOE). Las previsiones sobre registro electrónico de apoderamientos, registro electrónico, registro de empleados públicos habilitados, punto de acceso general electrónico y archivo único electrónico producen efectos desde el 2 de abril de 2021.
+
+===========================================================
+2. FASES DEL PROCEDIMIENTO: INICIACIÓN, ORDENACIÓN, INSTRUCCIÓN Y FINALIZACIÓN
+===========================================================
+
+2.1. Formas de iniciación
+
+Art. 54 LPA: "los procedimientos podrán iniciarse de oficio o a solicitud de persona interesada".
+
+2.1.1. Período de información o actuaciones previas
+Antes del inicio, el órgano competente puede abrir un período de información o actuaciones previas para conocer las circunstancias del caso y la conveniencia de iniciar el procedimiento (art. 55). En sancionadores, se orienta a determinar hechos, personas responsables y circunstancias.
+
+2.1.2. Medidas provisionales (art. 56)
+Iniciado el procedimiento, el órgano competente para resolver puede adoptar, de oficio o a instancia de parte y de forma motivada, medidas provisionales para asegurar la eficacia de la resolución, según proporcionalidad, efectividad y menor onerosidad.
+Antes de la iniciación, en casos de urgencia inaplazable, también pueden adoptarse medidas provisionales, que deben confirmarse, modificarse o levantarse en el acuerdo de iniciación (dentro de los 15 días siguientes a su adopción); si no se inicia el procedimiento en ese plazo, quedan sin efecto.
+Medidas provisionales típicas (Ley de Enjuiciamiento Civil): suspensión temporal de actividades; prestación de fianzas; retirada/intervención de bienes productivos o suspensión de servicios; embargo preventivo; depósito/retención/inmovilización de cosa mueble; intervención y depósito de ingresos ilícitos; consignación de cantidades reclamadas; retención de ingresos a cuenta; otras medidas necesarias.
+No pueden causar perjuicio de difícil o imposible reparación ni violar derechos amparados por las leyes. Pueden alzarse o modificarse durante la tramitación. Se extinguen cuando surta efectos la resolución final.
+
+2.1.3. Acumulación
+El órgano que inicie o tramite un procedimiento puede disponer, de oficio o a instancia de parte, su acumulación a otros con identidad sustancial o íntima conexión, si es el mismo órgano quien debe tramitar y resolver. Contra el acuerdo de acumulación no cabe recurso.
+
+2.1.4. Iniciación de oficio (arts. 58-65)
+Cuatro modalidades:
+- Por propia iniciativa: conocimiento directo o indirecto por el órgano competente.
+- Como consecuencia de orden superior: emitida por órgano jerárquico superior. En sancionadores debe expresar, en la medida de lo posible, presuntos responsables, hechos y su tipificación, lugar y fecha.
+- A petición razonada de otros órganos: propuesta de un órgano sin competencia para iniciar, que ha conocido los hechos; no vincula al órgano competente, que debe comunicar los motivos de no iniciación.
+- Por denuncia: acto por el que cualquier persona pone en conocimiento hechos que puedan justificar la iniciación de oficio. Debe expresar identidad del denunciante y relato de hechos. La presentación de denuncia no confiere por sí sola condición de interesado. Existe régimen de exención/reducción de multa para el denunciante colaborador en infracciones con otros infractores (similar a clemencia), si cesa en la infracción y no destruye pruebas.
+
+2.1.5. Inicio a solicitud del interesado (arts. 66-69)
+Contenido obligatorio de las solicitudes: nombre y apellidos del interesado y, en su caso, representante; identificación del medio electrónico o lugar físico para notificación; hechos, razones y petición; lugar y fecha; firma o acreditación de autenticidad; órgano/centro/unidad al que se dirige y código de identificación.
+
+A) Lugares de presentación: registro electrónico de la Administración u organismo, o de cualquier sujeto del sector público; oficinas de Correos; representaciones diplomáticas/consulares en el extranjero; oficinas de asistencia en materia de registros; cualquier otro que establezcan las disposiciones vigentes.
+
+B) Subsanación de errores y mejora de la solicitud: si no reúne los requisitos, se requiere subsanación en plazo de 10 días, con apercibimiento de desistimiento (previa resolución); plazo ampliable prudencialmente hasta 5 días (salvo procedimientos selectivos o de concurrencia competitiva). El órgano competente puede recabar modificación o mejora voluntaria de los términos de la solicitud.
+
+C) Declaración responsable y comunicación (art. 69)
+Declaración responsable: documento donde el interesado manifiesta, bajo su responsabilidad, que cumple los requisitos, dispone de documentación acreditativa y se compromete a mantener el cumplimiento.
+Comunicación: documento con el que el interesado pone en conocimiento de la Administración datos identificativos o relevantes para iniciar una actividad o ejercer un derecho.
+Ambas permiten el reconocimiento/ejercicio del derecho o inicio de actividad desde su presentación, sin perjuicio de las facultades de comprobación. La inexactitud, falsedad u omisión esencial determina la imposibilidad de continuar con el ejercicio del derecho/actividad, sin perjuicio de responsabilidades. Solo es exigible una de las dos (no ambas acumulativamente) para la misma actividad/derecho.
+
+2.2. Ordenación del procedimiento
+
+Arts. 70-74. No constituye una fase temporal propiamente dicha, sino un conjunto de reglas/criterios para agilizar los trámites.
+
+2.2.1. Expediente administrativo
+Novedad de la LPA: conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución, más las diligencias para ejecutarla. Formato electrónico, con índice numerado; debe constar copia electrónica certificada de la resolución. No forma parte del expediente la información auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones internas, juicios de valor), salvo informes preceptivos y facultativos solicitados antes de la resolución final.
+
+2.2.2. Impulso
+El procedimiento, sometido al principio de celeridad, se impulsará de oficio en todos sus trámites y a través de medios electrónicos. Se guarda el orden riguroso de incoación en asuntos homogéneos, salvo orden motivada en contrario; el incumplimiento genera responsabilidad disciplinaria y puede ser causa de remoción del puesto de trabajo.
+
+2.2.3. Concentración de trámites
+Se acuerdan en un solo acto todos los trámites que, por su naturaleza, admitan impulso simultáneo y no requieran cumplimiento sucesivo. Al solicitar trámites a otros órganos, debe consignarse el plazo legal establecido.
+
+2.2.4. Cumplimiento de trámites
+Los trámites de los interesados deben realizarse en 10 días desde la notificación, salvo plazo distinto. Se puede declarar decaído en su derecho al trámite al interesado incumplidor, admitiéndose la actuación si se produce antes o dentro del día en que se notifique la resolución que tenga por transcurrido el plazo.
+
+2.2.5. Cuestiones incidentales
+No suspenden la tramitación del procedimiento, salvo la recusación.
+
+2.3. Instrucción del procedimiento
+
+Arts. 75-83.
+
+2.3.1. Actos de instrucción
+Necesarios para determinación, conocimiento y comprobación de los hechos; de oficio y por medios electrónicos, por el órgano que tramite, sin perjuicio del derecho de los interesados a proponer actuaciones. Deben practicarse en forma conveniente para los interesados, compatible con obligaciones laborales/profesionales, respetando contradicción e igualdad.
+
+2.3.2. Alegaciones
+En cualquier momento anterior al trámite de audiencia, los interesados pueden alegar y aportar documentos, que se tendrán en cuenta en la propuesta de resolución. En todo momento pueden alegar defectos de tramitación (paralización, infracción de plazos, omisión de trámites subsanables), pudiendo dar lugar a responsabilidad disciplinaria.
+
+2.3.3. Prueba (arts. 77-78)
+Cualquier medio de prueba admisible en Derecho, valorado según criterios de la LEC. Si la Administración no tiene por ciertos los hechos alegados, el instructor abre período de prueba: plazo no superior a 30 días ni inferior a 10; período extraordinario de prueba a petición de los interesados, no superior a 10 días. El instructor solo puede rechazar pruebas manifiestamente improcedentes o innecesarias, mediante resolución motivada. En casos de discriminación alegada con indicios fundados, corresponde a la parte imputada la justificación objetiva y razonable. Los documentos de funcionarios con condición de autoridad hacen prueba de los hechos constatados salvo prueba en contrario.
+
+2.3.4. Informes (arts. 79-81)
+Se solicitan los preceptivos por disposición legal y los que se juzguen necesarios. Salvo disposición en contrario, son facultativos y no vinculantes. Plazo de emisión: 10 días, salvo que otra norma o los plazos del procedimiento exijan uno distinto. Si no se emiten en plazo, pueden proseguir las actuaciones, salvo informe preceptivo, en cuyo caso puede suspenderse el plazo máximo para resolver. El informe emitido fuera de plazo puede no ser tenido en cuenta en la resolución.
+
+2.3.5. Trámite de audiencia (art. 82)
+Instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, se pone de manifiesto a los interesados. Anterior a la solicitud del informe del órgano de asesoramiento jurídico o al dictamen del Consejo de Estado. Plazo: no inferior a 10 días ni superior a 15. Puede prescindirse cuando no figuren en el procedimiento ni se tengan en cuenta otros hechos ni alegaciones/pruebas distintas de las aducidas por el interesado. En responsabilidad patrimonial por daños en ejecución de contratos por orden directa de la Administración o vicios del proyecto, es obligatorio dar audiencia al contratista.
+
+2.3.6. Información pública (art. 83)
+El órgano competente para resolver, cuando la naturaleza del procedimiento lo requiera, puede acordar un período de información pública, mediante anuncio en el Diario Oficial correspondiente; plazo de alegaciones no inferior a 20 días. La comparecencia no otorga por sí misma la condición de interesado, pero da derecho a respuesta razonada (que puede ser común para alegaciones sustancialmente iguales) y no impide interponer recursos contra la resolución definitiva.
+
+2.4. Finalización del procedimiento
+
+Arts. 84-95. Ponen fin al procedimiento: la resolución; el desistimiento; la renuncia al derecho (si no está prohibida); la declaración de caducidad; la imposibilidad material de continuarlo por causas sobrevenidas (resolución motivada en todo caso).
+
+2.4.1. Resolución (arts. 87-92)
+Actuaciones complementarias (art. 87, novedad): antes de resolver, el órgano competente puede acordar, mediante acuerdo motivado, actuaciones complementarias indispensables (no lo son los informes que preceden inmediatamente a la resolución). Se notifican a los interesados con plazo de 7 días de alegaciones tras su finalización; deben practicarse en plazo no superior a 15 días; el plazo para resolver queda suspendido hasta su terminación.
+
+La resolución decide todas las cuestiones planteadas y las derivadas del expediente; sobre cuestiones conexas no planteadas, se pone de manifiesto previamente (plazo no superior a 15 días). En procedimientos a solicitud del interesado, la resolución debe ser congruente con las peticiones, sin agravar su situación inicial, sin perjuicio de que la Administración incoe de oficio un nuevo procedimiento. Debe ser motivada en los casos del art. 35, expresando los recursos procedentes, órgano y plazo. Se dicta electrónicamente. La Administración nunca puede abstenerse de resolver alegando silencio, oscuridad o insuficiencia de preceptos (aunque puede inadmitir solicitudes de derechos no previstos o carentes de fundamento). Si instrucción y resolución no recaen en el mismo órgano, el instructor eleva propuesta de resolución.
+
+2.4.2. Terminación convencional (art. 86)
+Las AAPP pueden celebrar acuerdos, pactos, convenios o contratos con personas de Derecho público o privado, si no son contrarios al ordenamiento, no versan sobre materias no transigibles y satisfacen el interés público; pueden ser finalizadores del procedimiento o insertarse con carácter previo, vinculante o no. Contenido mínimo: identificación de partes, ámbito personal/funcional/territorial, plazo de vigencia. Requieren aprobación expresa del Consejo de Ministros u órgano equivalente si versan sobre materias de su competencia directa. No alteran las competencias de los órganos ni las responsabilidades de autoridades/funcionarios. En responsabilidad patrimonial, el acuerdo debe fijar cuantía y modo de indemnización según la LRJSP.
+
+2.4.3. Desistimiento y renuncia (arts. 93-94)
+Novedad: la Administración también puede desistir motivadamente en procedimientos iniciados de oficio, en supuestos previstos legalmente. Los interesados pueden desistir de su solicitud o renunciar a sus derechos (si no está prohibido). Si el escrito lo formularon varios interesados, solo afecta a quienes lo formulen. Ambos pueden hacerse por cualquier medio que permita constancia, con las firmas correspondientes. La Administración acepta de plano y declara concluso el procedimiento, salvo que terceros interesados personados insten su continuación en 10 días. Si la cuestión entraña interés general, la Administración puede limitar los efectos al interesado y continuar el procedimiento.
+
+2.4.4. Caducidad (art. 95)
+En procedimientos a solicitud del interesado, si se paraliza por causa imputable a él, la Administración advierte que transcurridos 3 meses se producirá la caducidad. Consumido el plazo sin reanudación, se acuerda el archivo de actuaciones, notificándolo; caben recursos contra la declaración de caducidad. No cabe caducidad por simple inactividad en trámites no indispensables para resolver (solo pérdida del derecho al trámite). La caducidad no produce por sí sola la prescripción de acciones, pero los procedimientos caducados no interrumpen el plazo de prescripción. Puede no aplicarse si la cuestión afecta al interés general.
+
+2.4.5. Tramitación simplificada del procedimiento administrativo común (art. 96)
+Novedad de la LPA (aunque ya existía para responsabilidad patrimonial y sancionadores en la Ley 30/1992). Cuando razones de interés público o falta de complejidad lo aconsejen, de oficio o a solicitud del interesado. Si se acuerda de oficio y algún interesado se opone expresamente, se sigue la tramitación ordinaria. Si la solicita el interesado y no concurren razones, puede desestimarse en 5 días (sin recurso; transcurrido el plazo, desestimación por silencio). Plazo de resolución: 30 días desde la notificación del acuerdo. Trámites: 1) inicio; 2) subsanación; 3) alegaciones al inicio (5 días); 4) audiencia solo si la resolución va a ser desfavorable; 5) informe del servicio jurídico si preceptivo; 6) informe del CGPJ si preceptivo; 7) dictamen del Consejo de Estado u órgano equivalente si preceptivo (suspende automáticamente el plazo para resolver; puede solicitarse emisión en 15 días; si el dictamen es contrario al fondo, se continúa por tramitación ordinaria, convalidándose las actuaciones salvo el propio dictamen); 8) resolución. Si un procedimiento exige un trámite no previsto en esta lista, debe tramitarse de forma ordinaria.
+
+2.5. Especial referencia al silencio administrativo
+
+2.5.1. Obligación de resolver y notificar
+Art. 21.1: obligación general de dictar resolución expresa y notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación. Únicas excepciones: terminación convencional y procedimientos sujetos solo a declaración responsable o comunicación. En prescripción, renuncia, caducidad, desistimiento y desaparición sobrevenida del objeto, también hay deber de resolución expresa (declarativa de la circunstancia). Art. 88.5: la Administración nunca puede abstenerse de resolver por silencio, oscuridad o insuficiencia de preceptos.
+
+Plazo máximo para notificar la resolución expresa: el fijado por la norma reguladora del procedimiento, sin exceder de 6 meses salvo norma con rango de ley o Derecho de la UE. Si no se fija plazo, será de 3 meses. Cómputo: desde el acuerdo de iniciación (de oficio) o desde la entrada en el registro electrónico (a solicitud del interesado). Las AAPP deben informar a los interesados del plazo máximo y de los efectos del silencio, dentro de los 10 días siguientes a la recepción de la solicitud. El incumplimiento de la obligación de resolver genera responsabilidad disciplinaria.
+
+2.5.2. Suspensión y ampliación del plazo máximo para resolver (art. 22)
+Se PODRÁ suspender (art. 22.1): requerimiento de subsanación (desde notificación hasta cumplimiento); pronunciamiento previo preceptivo de un órgano de la UE; procedimiento no finalizado en el ámbito de la UE que condicione la resolución; informes preceptivos de otro órgano (máximo 3 meses; si no se recibe, prosigue el procedimiento); pruebas técnicas o análisis contradictorios/dirimentes; negociaciones para un pacto o convenio (art. 86); necesidad de pronunciamiento previo de un órgano jurisdiccional.
+
+Se SUSPENDERÁ (art. 22.2): requerimiento entre AAPP para anular/revisar un acto ilegal (art. 39.5), hasta que se atienda o se resuelva el recurso contencioso-administrativo; actuaciones complementarias (art. 87), desde la notificación del acuerdo hasta su terminación; recusación promovida por los interesados, hasta su resolución por el superior jerárquico del recusado.
+
+Ampliación excepcional del plazo: cuando se hayan agotado los medios personales y materiales, el órgano competente puede acordar de manera motivada la ampliación, no pudiendo ser superior al plazo establecido para la tramitación del procedimiento. Contra el acuerdo de ampliación no cabe recurso.
+
+2.5.3. Silencio administrativo en procedimientos iniciados a solicitud del interesado (art. 24)
+Regla general: silencio ESTIMATORIO, salvo que una norma con rango de ley, de Derecho de la UE o de Derecho internacional establezca lo contrario (en procedimientos de acceso a actividades, la ley que disponga carácter desestimatorio debe fundarse en razones imperiosas de interés general).
+
+Silencio DESESTIMATORIO (excepción) en:
+- Ejercicio del derecho de petición (art. 29 CE).
+- Procedimientos cuya estimación transfiera al solicitante o a terceros facultades relativas al dominio público o al servicio público.
+- Procedimientos que impliquen actividades que puedan dañar el medio ambiente.
+- Procedimientos de responsabilidad patrimonial de las AAPP.
+- Procedimientos de impugnación de actos y disposiciones y de revisión de oficio a solicitud de interesados (salvo que el recurso de alzada se interponga contra la desestimación por silencio de una solicitud, en cuyo caso, si no se resuelve expresamente en plazo, se entiende estimado el recurso, salvo que afecte a las materias anteriores).
+
+La estimación por silencio tiene, a todos los efectos, la consideración de acto administrativo finalizador del procedimiento. La desestimación por silencio solo permite interponer el recurso administrativo o contencioso-administrativo procedente.
+
+Régimen de la resolución expresa posterior (art. 24.3):
+- Silencio estimatorio: la resolución expresa posterior solo puede ser confirmatoria.
+- Silencio desestimatorio: la resolución expresa posterior se adopta sin vinculación al sentido del silencio.
+
+Los actos por silencio se pueden hacer valer ante cualquier persona física o jurídica; su existencia se acredita por cualquier medio de prueba, incluido el certificado acreditativo, expedido de oficio en 15 días desde que expira el plazo máximo (o a petición del interesado).
+
+2.5.4. Falta de resolución expresa en procedimientos iniciados de oficio (art. 25)
+- Si pueden derivarse derechos o situaciones jurídicas favorables: los interesados comparecidos pueden entender desestimadas sus pretensiones por silencio.
+- Si la Administración ejercita potestades sancionadoras o de intervención con efectos desfavorables o de gravamen: se produce la CADUCIDAD, ordenándose el archivo de actuaciones.
+Si el procedimiento se paralizó por causa imputable al interesado, se interrumpe el cómputo del plazo para resolver y notificar.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+
+Fases del procedimiento administrativo:
+
+- Fase de inicio: de oficio (propia iniciativa, orden superior, petición razonada de otros órganos o denuncia) o a solicitud del interesado (sustituible en ciertos casos por declaración responsable o comunicación).
+
+- Fase de ordenación: no es propiamente una fase temporal, sino reglas de actuación general; define el expediente administrativo; impulso de oficio en todos los trámites y por medios electrónicos, sometido al principio de celeridad.
+
+- Fase de instrucción: la más extensa; actos necesarios para determinación, conocimiento y comprobación de los hechos:
+  · Alegaciones: en cualquier momento anterior al trámite de audiencia.
+  · Prueba: plazo no superior a 30 días ni inferior a 10.
+  · Informes: por lo general facultativos y no vinculantes, en 10 días.
+  · Audiencia a los interesados: plazo no inferior a 10 días ni superior a 15.
+  · Información pública: posible en procedimientos de gran trascendencia (plazo no inferior a 20 días).
+
+- Fase de finalización: la más habitual es la resolución; también terminación convencional, desistimiento, renuncia y caducidad.
+
+Silencio administrativo: regla general estimatorio en procedimientos a solicitud del interesado (salvo excepciones tasadas); en procedimientos de oficio, desestimatorio (si derivan derechos favorables) o caducidad (si son sancionadores/de gravamen).
