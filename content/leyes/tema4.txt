@@ -1,0 +1,395 @@
+TEMA 4: LAS FUENTES DEL ORDENAMIENTO JURÍDICO. LA CONSTITUCIÓN. LAS LEYES: CONCEPTO Y CLASES. LAS DISPOSICIONES DEL EJECUTIVO CON FUERZA DE LEY: DECRETOS-LEYES Y DECRETOS LEGISLATIVOS. LOS REGLAMENTOS: CONCEPTO Y CLASES. OTRAS FUENTES.
+
+Referencias legislativas:
+- Constitución española de 1978.
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPA).
+- Ley 50/1997, de 27 de noviembre, del Gobierno (LG).
+
+===========================================================
+1. LAS FUENTES DEL DERECHO ADMINISTRATIVO
+===========================================================
+
+1.1. Concepto
+
+Según MORELL OCAÑA, el problema de las fuentes del Derecho se resume en 3 preguntas: quién puede crear normas, sobre qué materias, y con qué forma/procedimiento.
+
+Posición de FEDERICO DE CASTRO — triple significado de "fuentes del Derecho":
+1. Filosófico: fundamento último del Derecho (cuestión metafísica).
+2. Técnico: (a) fuente formal — qué clases de normas existen en un ordenamiento; (b) fuente material — qué fuerzas/órganos las producen legítimamente (Cortes, Asambleas autonómicas, Plenos locales, etc.). Este segundo significado es el que interesa al tema.
+3. Instrumental: medios para conocer las normas (BOE, libros de Derecho, etc.) — fuente del conocimiento del Derecho.
+
+KELSEN: las fuentes del Derecho son las ideas que influyen sobre los órganos de creación jurídica (jueces): normas morales, postulados políticos, doctrina, etc.
+
+Concepto de Derecho Administrativo (ENTRENA CUESTA): "conjunto de normas de Derecho público interno, que regulan la organización y actividad de las Administraciones Públicas".
+
+1.2. Clases
+
+A) Derecho en general — art. 1.1 CC: "las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del Derecho". Postulados del art. 1 CC:
+- Carecen de validez las disposiciones que contradigan otra de rango superior.
+- La costumbre solo rige en defecto de ley aplicable, si no es contraria a la moral/orden público y resulta probada.
+- Los usos jurídicos no meramente interpretativos tienen consideración de costumbre.
+- Los principios generales del Derecho se aplican en defecto de ley o costumbre, sin perjuicio de su carácter informador.
+- Los Tratados internacionales no se aplican directamente en España hasta su publicación íntegra en el BOE.
+- La jurisprudencia completa el ordenamiento con la doctrina reiterada del Tribunal Supremo.
+
+B) Derecho Administrativo (VILLAR PALASÍ y VILLAR EZCURRA) — clasificación:
+- Directas escritas: Constitución; Tratados internacionales válidos y publicados; la ley; disposiciones del Ejecutivo con fuerza de ley (Decreto-ley, Decreto legislativo); reglamentos (estatales, autonómicos, locales, de entidades de Derecho público).
+- Directas no escritas: costumbre; principios generales del Derecho.
+- Indirectas: Tratados internacionales firmados pero no publicados; jurisprudencia; doctrina científica.
+
+1.2.3. Clasificaciones del Derecho Administrativo:
+a) Escritas y no escritas.
+b) Para la Administración y de la Administración (la ley no emana de una Administración; el reglamento sí, como expresión de la autonomía administrativa).
+c) Exclusivas (solo Derecho Administrativo: reglamentos) y eventuales (leyes que regulan también otras materias).
+d) Directas e indirectas — clasificación más importante:
+   - Directas: Primarias (se aplican directamente: Constitución, leyes y normas del Ejecutivo con fuerza de ley, reglamentos) y Subsidiarias (se aplican en defecto de las primarias: costumbre, principios generales del Derecho).
+   - Indirectas: no contienen la norma pero contribuyen a su producción/interpretación (jurisprudencia, doctrina científica, y para algunos los Tratados no publicados en el BOE).
+
+1.2.4. Referencia a la Constitución (Constitución de 27 de diciembre de 1978):
+- Superlegalidad formal: su reforma exige trámites especiales del Título X (arts. 166-169 CE); ninguna ley puede modificarla ni derogarla. Distingue procedimiento no agravado (reforma no esencial) y agravado (reforma esencial) — Constitución "rígida".
+- Superlegalidad material: es la norma jurídica suprema (MARTIN REBOLLO); mecanismos de defensa: recurso de inconstitucionalidad (art. 161 CE) y cuestión de inconstitucionalidad (art. 163 CE).
+- Contenido: parte dogmática (derechos fundamentales) y parte orgánica (composición y relaciones de los poderes del Estado), modelo de Estado, titularidad de la soberanía, mecanismos de reforma.
+
+===========================================================
+2. LA JERARQUÍA DE LAS FUENTES
+===========================================================
+
+2.1. Criterios
+Dos criterios: (1) primacía de la norma escrita sobre la no escrita; (2) jerarquía del órgano (las fuentes "de" la Administración se subordinan a las fuentes "para" la Administración; entre normas administrativas, el órgano inferior no puede contradecir al superior).
+
+2.2. Ordenación jerárquica (GARRIDO FALLA)
+
+Fuentes directas primarias:
+- Constitución (leyes constitucionales).
+- Leyes y disposiciones del Ejecutivo con fuerza de ley.
+- Reglamentos del Presidente del Gobierno y del Consejo de Ministros.
+- Reglamentos de las Comisiones Delegadas del Gobierno.
+- Reglamentos de los Ministros (órdenes ministeriales).
+- Reglamentos de órganos y entidades diversas.
+
+Fuentes directas subsidiarias: costumbre; principios generales del Derecho.
+
+Fuentes indirectas: jurisprudencia; doctrina científica; Tratados internacionales no publicados en el BOE.
+
+2.3. Reconocimiento constitucional y legal
+- Art. 9.3 CE: reconoce el principio de jerarquía normativa.
+- Art. 24.2 Ley 50/1997 (LG): los reglamentos se ordenan: 1º disposiciones aprobadas por Real Decreto del Presidente del Gobierno o acordadas en Consejo de Ministros; 2º disposiciones aprobadas por Orden Ministerial.
+- Art. 128.2 LPA: los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes, ni regular materias reservadas a las Cortes Generales o Asambleas autonómicas; no pueden tipificar delitos/infracciones ni establecer penas, sanciones o tributos.
+- Art. 128.3 LPA: las disposiciones administrativas se ajustan al orden de jerarquía de las leyes; ninguna disposición administrativa puede vulnerar los preceptos de otra de rango superior.
+- Art. 47.2 LPA: son nulas de pleno derecho las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos.
+
+2.4. El problema de los Tratados internacionales (arts. 93-96 CE)
+Posiciones doctrinales:
+1. Subordinados a la Constitución (art. 95.1 CE: si contiene estipulaciones contrarias a la CE, exige previa revisión constitucional — sucedió en 1992 con el art. 13.2 CE; art. 27.2.c LOTC somete los Tratados a control de constitucionalidad).
+2. Art. 96.1 CE: las disposiciones de los Tratados solo pueden derogarse/modificarse/suspenderse según lo previsto en ellos mismos o el Derecho internacional — para algunos, esto los hace jerárquicamente superiores a la ley; para otros, es un problema de competencia, no de jerarquía.
+3. Algunos autores diferencian entre Tratados que precisan autorización de las Cortes (equiparables a leyes) y Tratados de mera información a las Cámaras (jerarquía inferior, equiparables a reglamentos).
+
+2.5. Jerarquía y competencia
+La jerarquía solo tiene sentido dentro de cada subsistema (estatal o autonómico). Entre normas de subsistemas distintos rige el principio de competencia, no de jerarquía (una ley estatal no es superior a una autonómica, ni a la inversa).
+
+2.6. Conclusiones
+- Fuentes directas: gran importancia del reglamento; reducido ámbito de la costumbre; creciente importancia de los principios generales del Derecho (control de la discrecionalidad administrativa).
+- Fuentes indirectas: importancia de la jurisdicción contencioso-administrativa y la doctrina; relevancia de los Tratados internacionales por la incorporación de España a la UE.
+
+===========================================================
+3. LA LEY. TIPOS DE LEYES. RESERVA DE LEY
+===========================================================
+
+3.1. La Ley
+
+Tres acepciones: (a) sentido muy amplio — equivalente a Derecho o norma jurídica en general; (b) sentido amplio — norma jurídica emanada del Estado, escrita y solemne (frente a la costumbre); (c) sentido restringido — normas dictadas por el Poder Legislativo, de superior jerarquía, frente a los reglamentos.
+
+3.1.1. Requisitos
+- Internos: generalidad, imperatividad, coercibilidad, racionalidad.
+- Externos: elaboración y aprobación conforme a procedimiento tasado; sanción, promulgación y publicación.
+
+3.1.2. Características
+- Irretroactividad salvo disposición expresa (art. 2.3 CC); la CE garantiza la irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales (art. 9.3 CE).
+- Deben ser cumplidas: "la ignorancia de las leyes no excusa de su cumplimiento" (art. 6.1 CC).
+
+3.2. Tipos de leyes
+
+3.2.1. Leyes orgánicas
+- Carácter material: materias del art. 81.1 CE (desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y demás previstas en la CE).
+- Carácter formal: aprobación/modificación/derogación exige mayoría absoluta del Congreso en votación final de conjunto.
+- Rango jerárquico: debate doctrinal — GARRIDO FALLA y ALZAGA defienden su superioridad jerárquica sobre las ordinarias; GARCÍA DE ENTERRÍA sostiene que todas las leyes tienen igual rango y que la relación es de competencia, no de jerarquía (posición seguida por la STC de 13 de febrero de 1981).
+- Solo las Cortes pueden aprobar leyes orgánicas (no las Asambleas autonómicas). Si una ley regula como orgánica una materia no reservada constitucionalmente, es inconstitucional.
+- Leyes de transferencia o delegación (art. 150.2 CE, carácter orgánico): el Estado puede transferir/delegar en las CCAA facultades de titularidad estatal susceptibles de ello, previendo transferencia de medios financieros y formas de control estatal.
+- Estatutos de Autonomía: forma de ley orgánica; "norma institucional básica de cada Comunidad Autónoma" (art. 147.1 CE), norma de engarce entre el ordenamiento estatal y el autonómico.
+
+3.2.2. Leyes ordinarias
+Instrumento normal de la función legislativa; cualquier materia no reservada a otro tipo de norma.
+A) Leyes de Pleno y de Comisión: art. 75.2 CE permite delegar en Comisiones Legislativas Permanentes la aprobación de proyectos/proposiciones de ley (el Pleno puede recabar el debate: avocación). Excluidas de leyes de Comisión: reforma constitucional, asuntos internacionales, leyes orgánicas y de bases, Presupuestos Generales del Estado. Su valor jurídico es idéntico al de las demás leyes ordinarias.
+B) Leyes marco (art. 150.1 CE): las Cortes pueden atribuir a las CCAA la facultad de dictar normas legislativas en materias estatales, en el marco de principios/bases/directrices de una ley estatal; cada ley marco establece el control de las Cortes sobre esas normas.
+C) Leyes de armonización (art. 150.3 CE): el Estado puede dictar leyes que armonicen disposiciones autonómicas, aun en materias de su competencia, cuando lo exija el interés general (apreciado por mayoría absoluta de cada Cámara). Ejemplo histórico: LOAPA, transformada en Ley del Proceso Autonómico tras STC.
+D) Leyes básicas: previstas expresamente en la CE (art. 149 CE) para que las CCAA las desarrollen respetando lo ordenado. Ejemplo: Estatuto Básico del Empleado Público de 2015.
+E) Leyes autonómicas: iguales en rango a las estatales (TORNO MAS), con particularidades: procedimiento de elaboración, promulgación por el Presidente de la CA "en nombre del Rey", doble publicación (Boletín autonómico y BOE), aunque la entrada en vigor se produce con la publicación autonómica.
+F) Otras clases: leyes mixtas (naturaleza orgánica y ordinaria a la vez, según indique la propia ley — COSCULLUELA MONTANER; ejemplo: LO 1/1992 de Protección de la Seguridad Ciudadana, hoy derogada); leyes medidas o de caso único (mandatos singulares/excepcionales: leyes de presupuestos, de emisión de deuda pública, declaración de utilidad pública, etc.).
+
+3.3. Elaboración
+
+3.3.1. Introducción
+Función de las Cortes Generales, mediante actuaciones independientes pero coordinadas de ambas Cámaras. Todas las leyes requieren aprobación de ambas Cámaras, salvo veto del Senado (art. 90.2 CE), en cuyo caso aprueba solo el Congreso.
+
+3.3.2. Procedimiento — fases:
+
+A) Fase introductoria (art. 87 CE) — legitimados para la iniciativa:
+- El Gobierno (proyecto de ley, art. 88 CE, con exposición de motivos; se presenta en el Congreso salvo convenios/acuerdos de cooperación entre CCAA y Fondo de Compensación Interterritorial, que se presentan en el Senado — art. 74.2 CE). La iniciativa gubernamental tiene preferencia de tramitación (art. 89.1 CE). Según el art. 127 LPA, el Gobierno ejerce la iniciativa legislativa mediante anteproyectos de ley. El art. 129 LPA regula los principios de buena regulación (necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, eficiencia) — nota: la STC 55/2018 declaró este artículo, en general, no aplicable a las iniciativas legislativas autonómicas (salvo ciertos incisos). El art. 130 LPA (evaluación normativa) tampoco es aplicable a las CCAA según la misma STC. El art. 133 LPA regula la consulta pública previa a la elaboración del anteproyecto/proyecto (problemas a solucionar, necesidad y oportunidad, objetivos, alternativas), con posible excepción en normas presupuestarias/organizativas o razones graves de interés público, o cuando la propuesta no tenga impacto significativo.
+- El Congreso (iniciativa parlamentaria): proposición de ley a iniciativa de un Diputado con la firma de otros 14 miembros, o de un Grupo Parlamentario con la sola firma de su portavoz.
+- El Senado: suscrita por un Grupo Parlamentario o 25 Senadores.
+- Las Asambleas de las CCAA (art. 87.2 CE): vía indirecta (solicitar al Gobierno la adopción de un proyecto de ley) o directa (remitir a la Mesa del Congreso una proposición de ley, delegando su defensa en máximo 3 miembros de la Asamblea).
+- El pueblo español (iniciativa popular, art. 87.3 CE, desarrollada por LO 3/1984): la Comisión promotora presenta la proposición ante el Congreso; una vez admitida, debe reunir 500.000 firmas acreditadas en 9 meses (prorrogable 3 meses más por causa mayor). Excluidas: materias de ley orgánica, tributarias, prerrogativa de gracia, carácter internacional, art. 131 CE (planificación económica), art. 134.1 CE (presupuestos), reforma constitucional.
+
+B) Fase constitutiva:
+- Presentación de enmiendas: plazo de 15 días tras presentarse el proyecto. Tipos: a la totalidad (sobre la oportunidad/principios, piden devolución al Gobierno o proponen texto alternativo) y al articulado (adición, supresión, modificación).
+- Debates a la totalidad en el Pleno: si se rechazan, el proyecto pasa a Comisión; si triunfa una de devolución, termina el procedimiento; si triunfa una de texto alternativo, se tramita en Comisión (con nuevo plazo de enmiendas solo al articulado).
+- Debates en Comisión: se nombra una Ponencia que redacta informe en 15 días; el dictamen final vuelve a la Mesa del Congreso.
+- Deliberación en el Pleno: se inicia 48 horas después de recibir el dictamen; el texto aprobado se remite al Senado.
+- Tramitación en el Senado: en 2 meses (o 20 días naturales si es urgente) puede vetar (mayoría absoluta) o introducir enmiendas (el Congreso las acepta/rechaza por mayoría simple).
+- Devolución al Congreso: puede ratificar el texto rechazado por el Senado (inmediatamente por mayoría absoluta, o tras 2 meses por mayoría simple) o debatir las enmiendas del Senado.
+
+C) Fase integradora de eficacia:
+- Art. 91 CE: el Rey sanciona en 15 días las leyes aprobadas, las promulga y ordena su inmediata publicación. Las leyes autonómicas NO se sancionan: se promulgan y publican por el Presidente de la Comunidad en nombre del Rey (ej. art. 40.1 EA Madrid).
+- Sanción: acto solemne y simbólico por el que el Rey confirma y perfecciona las leyes (art. 91 CE — imperativo, no cabe alternativa).
+- Promulgación: certificación de que las leyes se elaboraron conforme a la CE, con fuerza de ley, ordenando su cumplimiento.
+- Publicación: inclusión en el BOE (art. 1 CC). Corresponde al Rey sancionar y promulgar (art. 62.a CE), con propuesta de sanción del Presidente del Gobierno (art. 2.2.h LG) y refrendo de este.
+- Art. 2.1 CC: las leyes entran en vigor a los 20 días de su completa publicación en el BOE, si no se dispone otra cosa.
+- Art. 131 LPA: las normas con rango de ley, reglamentos y disposiciones administrativas deben publicarse en el diario oficial correspondiente para entrar en vigor; la publicación electrónica tiene los mismos efectos que la impresa.
+- Plan Normativo anual (art. 132 LPA — nota: declarado no aplicable a CCAA por la STC 55/2018).
+- Publicación en lenguas cooficiales (RD 489/1997): las Leyes, Reales Decretos-Ley y Reales Decretos Legislativos se publican en castellano en el BOE (plena eficacia); pueden publicarse también en lenguas cooficiales previo convenio.
+
+3.3.3. Vigencia y derogación de las leyes
+- Vigencia: entrada en vigor a los 20 días naturales de su completa publicación en el BOE, salvo disposición en contrario (art. 2.1 CC).
+- Derogación: las leyes solo se derogan por otras posteriores; el alcance es el expresamente dispuesto, extendiéndose a todo lo incompatible con la nueva ley sobre la misma materia; la derogación de una ley no reactiva las que esta hubiera derogado (art. 2.2 CC).
+
+3.4. Reserva de ley
+
+3.4.1. Concepto: límite constitucional al poder reglamentario, exigiendo que ciertas materias se regulen necesariamente por ley formal.
+3.4.2. Regulación: arts. 128.2 y 47.2 LPA.
+3.4.3. Clases:
+- Reserva material: solo por ley (orgánica u ordinaria) puede regularse una materia — porque la CE lo exige expresamente (ej. art. 103.3 CE: estatuto de los funcionarios).
+- Reserva formal: cuando una materia se regula por ley (aunque antes no fuera necesario), en lo sucesivo debe regularse siempre por ley — principio de congelación del rango.
+3.4.4. Deslegalización: técnica por la que una ley permite que una materia hasta entonces regulada por ley pase a regularse por reglamento. Límite: no cabe en materias de reserva material. Finalidad: agilidad normativa (VILLAR PALASÍ y VILLAR EZCURRA). Ejemplo histórico: Ley de Régimen Jurídico de la Administración Central del Estado de 1957 y las Leyes de Presupuestos que deslegalizaban la reforma de ministerios.
+- Reserva reglamentaria: NO está reconocida en el Derecho español (a diferencia de la Constitución francesa de 1958).
+
+===========================================================
+4. DISPOSICIONES DEL EJECUTIVO CON FUERZA DE LEY: DECRETOS-LEY Y DECRETOS LEGISLATIVOS
+===========================================================
+
+4.1. Introducción
+El Gobierno puede dictar normas con rango de ley en dos hipótesis: intervención urgente ante situación urgente, o regulación técnica encargada por las Cortes. Se habla de "normas gubernamentales con valor de ley" (SANTAMARÍA PASTOR) o "normas gubernativas con fuerza de ley" (GAMERO CASADO y FERNÁNDEZ RAMOS). Art. 127 LPA: el Gobierno de la Nación puede aprobar reales decretos-leyes y reales decretos legislativos; los Gobiernos autonómicos pueden aprobar normas equivalentes según sus Estatutos.
+
+4.2. Supuestos
+- Decretos Legislativos: por expresa delegación del Poder Legislativo.
+- Decretos-Leyes: por razones de extraordinaria y urgente necesidad.
+
+4.3. Notas comunes
+- Emanan del Ejecutivo (punto de vista subjetivo).
+- Tienen el mismo valor formal que las leyes ordinarias.
+
+4.4. Notas diferenciales
+- Momento de intervención de las Cortes: a priori en los Decretos Legislativos (acto de delegación previo); a posteriori en los Decretos-Ley.
+- Fundamento distinto: en el Decreto Legislativo, bases/principios y autorización para "legislar" sobre cuestiones técnicas; en el Decreto-Ley, extraordinaria y urgente necesidad sin intervención previa del Legislativo.
+
+4.5. Decretos legislativos
+
+4.5.1. Regulación: arts. 82 a 85 CE.
+4.5.2. Definición: normas con rango de ley dictadas por el Gobierno en virtud de delegación de las Cortes (art. 82 CE) — "legislación delegada".
+4.5.3. Requisitos generales de la delegación:
+- No cabe en materias de ley orgánica.
+- Ley de bases si el objeto es formar textos articulados (ej. RDLeg 6/2015, Ley sobre Tráfico); ley ordinaria si el objeto es refundir textos legales en un texto refundido (ej. RDLeg 7/2015, Ley del Suelo).
+- Destinatario: solo el Gobierno (o el autonómico si delega la Asamblea autonómica).
+- Debe ser expresa, para materia concreta y con plazo para su ejercicio.
+- La delegación para Textos Articulados debe contener los principios y criterios a seguir.
+- La delegación para Textos Refundidos debe determinar el ámbito de la refundición (y si incluye aclarar/armonizar los textos).
+- Requieren consulta no vinculante del Pleno del Consejo de Estado.
+
+4.5.4. Textos articulados: desarrollo de una Ley de Bases mediante texto articulado con valor de ley ordinaria. Las leyes de bases: delimitan con precisión objeto/alcance y principios/criterios; NO pueden autorizar la modificación de la propia ley de bases ni facultar para dictar normas retroactivas.
+
+4.5.5. Textos Refundidos: mediante ley ordinaria, el Gobierno reúne en un texto único disposiciones dispersas sobre una materia; rango de ley ordinaria. La autorización determina el ámbito normativo (mera formulación de texto único, o también regular/aclarar/armonizar).
+
+4.5.6. Limitación (art. 84 CE): si una proposición de ley o enmienda fuera contraria a una delegación legislativa en vigor, el Gobierno puede oponerse a su tramitación; cabe entonces una proposición de ley para derogar total o parcialmente la ley de delegación.
+
+4.5.7. Denominación (art. 85 CE): "Decretos Legislativos" — Reales (firmados por el Rey), Decretos (aprobados por el Gobierno), Legislativos (fuerza/rango de ley). Refrendados por el Presidente del Gobierno.
+
+4.6. Decretos-ley
+
+4.6.1. Regulación: art. 86 CE.
+4.6.2. Concepto: disposiciones legislativas provisionales dictadas por el Gobierno en casos de extraordinaria y urgente necesidad, sin control previo ni delegación de las Cámaras. Estatutos que reconocen Decretos-Ley autonómicos: Cataluña (art. 64), Comunidad Valenciana (art. 44.4), Illes Balears (art. 49), Andalucía (art. 110), Aragón (art. 44), Castilla y León (art. 25.4), Extremadura (art. 33.4).
+4.6.3. Presupuesto habilitante: la "extraordinaria y urgente necesidad" la aprecia el Gobierno, controlada después por el Congreso.
+4.6.4. Límites materiales: no pueden afectar al ordenamiento de las instituciones básicas del Estado, a los derechos/deberes/libertades del Título I CE, al régimen de las CCAA, ni al Derecho electoral general. La doctrina y el TC mantienen una interpretación flexible del término "afectar".
+4.6.5. Intervención parlamentaria: en los 30 días siguientes a su promulgación, el Decreto-Ley se somete a debate y votación en el Congreso (no en las Cortes) para su convalidación o derogación (procedimiento especial y sumario del Reglamento del Congreso).
+- Si se convalida (ratifica), sigue siendo formalmente un Decreto-Ley, aunque con rango de ley.
+- Si se deroga, los efectos producidos durante sus 30 días de vida no se ven afectados.
+- Además, durante esos 30 días, las Cortes pueden tramitarlo como proyecto de ley por procedimiento de urgencia, convirtiéndose entonces en ley ordinaria (publicada en el BOE). La práctica habitual (aceptada por el TC y el Reglamento del Congreso) es seguir primero la vía de convalidación/derogación, y solo después, como segunda alternativa, la tramitación como proyecto de ley.
+
+4.7. Mecanismos de control
+
+4.7.1. Control de la legislación delegada: art. 82.6 CE permite a las leyes de delegación establecer fórmulas adicionales de control, sin perjuicio de la competencia de los Tribunales (jurisdicción contencioso-administrativa para enjuiciar extralimitaciones). Sobre el efecto de la extralimitación: tesis mayoritaria (GARCÍA DE ENTERRÍA, ENTRENA CUESTA) — la norma extralimitada mantiene vigencia pero con rango reglamentario; tesis minoritaria (SANTAMARÍA PASTOR) — la sanción es la nulidad. El art. 1.1 LJCA (Ley 29/1998) atribuye a la jurisdicción contencioso-administrativa las pretensiones sobre Decretos Legislativos que excedan los límites de la delegación (se consideran de naturaleza reglamentaria, no legal, en ese exceso).
+
+4.7.2. Control de los Decretos-ley: corresponde al Gobierno apreciar el presupuesto habilitante, con control posterior del Congreso; al ser norma con rango/fuerza de ley, la última palabra corresponde al Tribunal Constitucional.
+
+===========================================================
+5. EL REGLAMENTO: CONCEPTO, CLASES Y LÍMITES
+===========================================================
+
+5.1. Concepto
+GARRIDO FALLA: "disposición jurídica de carácter general, dictada por la Administración, en materias propias de su competencia y con valor subordinado a la ley". Notas: carácter normativo, general, gubernamental, secundario (subordinado a la ley), fiscalizable judicialmente (art. 106.1 CE).
+
+5.2. Distinción de figuras afines
+
+5.2.1. Diferencias con el acto administrativo:
+- Función: el reglamento crea/innova el ordenamiento; el acto lo aplica.
+- Destinatarios: el reglamento suele ser impersonal y abstracto; el acto suele ir dirigido a destinatario(s) concreto(s).
+- Efectos: el reglamento tiene vocación de permanencia (efectos duraderos); el acto se agota en su cumplimiento (efectos consuntivos).
+- Órgano competente: la potestad reglamentaria solo la tienen los órganos a quienes se atribuye específicamente; dictar actos es cualidad general de todo órgano administrativo.
+- Revocación: el reglamento es revocable ad nutum (derogación/modificación/sustitución libre); el acto tiene límites legales de revocación.
+- Ilegalidad: la del reglamento implica nulidad de pleno derecho; la del acto, por regla general, anulabilidad.
+- Impugnación: vías distintas.
+
+5.2.2. Diferencias con los Decretos-ley y Decretos Legislativos (ENTRENA CUESTA): todos son actos normativos del Ejecutivo, pero los Decretos-Ley y Legislativos actúan en sustitución del Legislativo (fuerza de ley, pueden modificar leyes ordinarias), mientras que el reglamento es competencia propia del Ejecutivo y está subordinado a la ley.
+
+5.2.3. Los reglamentos de los órganos constitucionales:
+A) Reglamentos de las Cámaras (Congreso y Senado): manifestación de su poder de autoorganización (art. 72 CE) según GARCÍA DE ENTERRÍA — más bien auténticas leyes que enlazan directamente con la Constitución. Aprobación/reforma: mayoría absoluta en votación final de totalidad. Son susceptibles de recurso de inconstitucionalidad (LOTC), propio de las leyes y normas con rango de ley.
+B) Reglamentos de los órganos constitucionales: solo tienen potestad reglamentaria propiamente dicha el Tribunal Constitucional y el Consejo General del Poder Judicial (no el Tribunal de Cuentas, el Defensor del Pueblo ni el Consejo de Estado).
+
+5.3. Clases (siguiendo a GARCÍA DE ENTERRÍA)
+
+5.3.1. Por su relación con la Ley (clasificación de LORENZ VON STEIN):
+A) Reglamentos ejecutivos (secundum legem): desarrollan/completan una ley que enuncia principios básicos; se dictan por remisión normativa de la ley; requieren dictamen previo de la Comisión Permanente del Consejo de Estado.
+B) Reglamentos independientes (extra legem): no desarrollan ninguna ley; dictados en uso libre de la potestad reglamentaria. Se relacionan con la "reserva reglamentaria" (de la Constitución francesa de 1958), que NO existe en el Derecho español, por lo que teóricamente no cabrían. Polémica doctrinal: GARCÍA DE ENTERRÍA — solo caben en materias de organización administrativa (efectos ad intra); COSCULLUELA MONTANER — caben también con efectos ad extra (normativos), pues el art. 97 CE no lo restringe, con dos límites: la reserva de ley y la congelación de rango.
+C) Reglamentos de necesidad (contra legem): justificados por estado de necesidad o emergencia ("salus populi suprema lex esto"), excepcionando transitoriamente la primacía de la ley (SANTAMARÍA PASTOR: "teoría clásica de las circunstancias excepcionales"). Ejemplos: art. 21.m LRBRL (medidas del Alcalde en catástrofe); estados de alarma/excepción/sitio (art. 116 CE, LO de 1981); Ley General de Sanidad 1986; Ley del Sistema Nacional de Protección Civil 2015. Límite esencial: temporalidad de su vigencia.
+
+5.3.2. Por sus efectos: reglamentos jurídicos o normativos (relaciones de supremacía general, efectos ad extra, inciden en derechos/deberes de los ciudadanos) frente a reglamentos administrativos u organizativos (carácter orgánico, o relaciones de supremacía especial — servicio militar, hospitalización, funcionarios, concesionarios — efectos ad intra).
+
+5.3.3. Por la Administración que los dicta:
+A) Administración estatal (art. 24 LG): Reales Decretos Legislativos y Reales Decretos-leyes (arts. 82 y 86 CE); Reales Decretos del Presidente del Gobierno; Reales Decretos acordados en Consejo de Ministros; Acuerdos del Consejo de Ministros (no forma de Real Decreto, se publican como Resoluciones); Acuerdos de Comisiones Delegadas del Gobierno (forma de Orden del Ministro competente o de Presidencia); Órdenes ministeriales.
+B) Administración autonómica: sin regulación constitucional expresa; sigue pautas similares (decretos y órdenes), según cada Estatuto.
+C) Administración local (art. 4 LRBRL): potestades reglamentaria y de autoorganización de municipios, provincias e islas.
+D) Administración institucional (GARRIDO FALLA): Estatutos (organización propia del ente — ej. Universidades, Colegios Profesionales) y reglamentos (relaciones con funcionarios/terceros — ej. Ordenanzas fiscales, Ordenanzas de riegos).
+
+Titularidad de la potestad reglamentaria y forma:
+- Estatal: Presidente del Gobierno (Real Decreto); Consejo de Ministros (Real Decreto); Comisiones Delegadas (Orden del Ministro competente o de Presidencia); Ministros (Orden Ministerial).
+- Autonómica: Presidente de la Comunidad (Decreto); Consejo de Gobierno (Decreto); Consejeros (Orden del Consejero).
+- Local: Pleno de la Corporación (Reglamentos y Ordenanzas).
+- Institucional: propias normas.
+
+5.4. Potestad reglamentaria
+
+5.4.1. Concepto: poder/facultad del Gobierno y las Administraciones Públicas, conferida por el ordenamiento, para dictar normas de rango inferior a la ley (reglamentos).
+
+5.4.2. Justificación: (1) la composición política (no técnica) de las Cámaras; (2) la movilidad de las normas administrativas; (3) la amplia esfera discrecional del Ejecutivo; (4) el legislador no puede preverlo todo.
+
+5.4.3. Fundamento — teorías doctrinales:
+a) Teoría de la delegación: requiere delegación expresa del Legislativo.
+b) Teoría de la discrecionalidad: se funda en el poder discrecional de la Administración.
+c) Teoría de los poderes propios (mayoritaria): potestad propia, sin necesidad de autorización expresa; procede de una habilitación (expresa o genérica) derivada de la ley o de la Constitución/ordenamiento en su conjunto.
+
+5.5. Límites (GARCÍA DE ENTERRÍA y TOMÁS RAMÓN FERNÁNDEZ)
+
+5.5.1. Límites formales
+A) La competencia:
+- Nivel estatal: potestad reglamentaria originaria del Gobierno (art. 97 CE, art. 22 LG); potestad derivada de los Ministros (art. 61.a Ley 40/2015).
+- Nivel autonómico: potestad reglamentaria originaria de las CCAA (art. 153.c CE), según su normativa propia.
+- Nivel local: potestad reglamentaria originaria de las Entidades Locales (LRBRL; Ley de Modernización del Gobierno Local de 2003, Título X sobre municipios de gran población). Los Bandos, según la doctrina mayoritaria, NO tienen naturaleza reglamentaria.
+- Administración institucional: cada ente determina el órgano con potestad reglamentaria.
+- Art. 129.4 LPA: las habilitaciones para el desarrollo reglamentario de una ley se confieren con carácter general al Gobierno o Consejo de Gobierno; la atribución directa a Ministros/Consejeros u órganos subordinados es excepcional y debe justificarse (nota: incisos declarados inconstitucionales por la STC 55/2018). Las leyes pueden habilitar directamente a Autoridades Independientes.
+
+B) La programación de la actividad reglamentaria: Plan Anual Normativo (art. 25 LG) — doble función de planificación y control. Elaborado/coordinado por el Ministerio de la Presidencia, Justicia y Relaciones con las Cortes, elevado al Consejo de Ministros antes del 30 de abril, publicado en el Portal de la Transparencia. Propuesta no contemplada en el Plan: debe justificarse en la Memoria de Impacto Normativo.
+
+C) El procedimiento de elaboración (art. 26 LG, tras la Ley 40/2015) — fases:
+1. Estudios y consultas previas.
+2. Consulta pública (mínimo 15 días naturales), salvo excepciones motivadas (normas presupuestarias/organizativas, razones graves de interés público, escaso impacto, tramitación urgente).
+3. Memoria del Análisis de Impacto Normativo (MAIN): oportunidad/alternativas; contenido y análisis jurídico (con listado de normas derogadas); adecuación al reparto de competencias; impacto económico/presupuestario (incluye test Pyme); cargas administrativas; impacto por razón de género; resumen de aportaciones de la consulta pública; impacto por cambio climático; cualquier otro extremo relevante.
+4. Consultas, dictámenes e informes preceptivos: informe de la Secretaría General Técnica; informe del Ministerio de Política Territorial y Memoria Democrática (si afecta al reparto de competencias Estado-CCAA); aprobación previa del Ministerio de Función Pública (organización administrativa, régimen de personal, procedimientos/inspección de servicios) — silencio positivo a los 15 días. Plazos de informes preceptivos: 10 días (general), 1 mes (otra Administración u Organismo con especial independencia), mitad de plazo si se motiva urgencia.
+5. Audiencia a los ciudadanos e información pública: plazo mínimo 15 días hábiles (reducible a 7 días hábiles por motivación o tramitación urgente); puede omitirse por graves razones de interés público (justificadas en la MAIN) o en disposiciones presupuestarias/organizativas.
+6. Dictamen del Consejo de Estado (u órgano equivalente — en Madrid, la Comisión Jurídica Asesora): preceptivo para reglamentos de desarrollo; lo emite la Comisión Permanente del Consejo de Estado.
+7. Aprobación: por el Ministro (Orden, o del Ministro de Presidencia si afecta a varios Departamentos) o por el Consejo de Ministros (previa Comisión General de Secretarios de Estado y Subsecretarios; aprobación mediante Real Decreto, expedido por el Rey con refrendo del Ministro competente).
+El Ministerio de la Presidencia supervisa la correcta aplicación del procedimiento (calidad técnica, congruencia con el ordenamiento, necesidad de derogaciones/refundiciones, contenido de la MAIN, cumplimiento de principios, coherencia con reducción de cargas, no extralimitación en la transposición de normas UE).
+
+D) Tramitación de urgencia: acordada por el Consejo de Ministros a propuesta del titular del departamento, cuando sea necesaria para cumplir plazos de transposición de directivas u otras normas UE, o por circunstancias extraordinarias imprevisibles. Efectos: plazos reducidos a la mitad; no es preciso el trámite de consulta pública previa (pero sí audiencia/información pública, mínimo 7 días); la falta de un informe/dictamen preceptivo en plazo no impide continuar el procedimiento.
+
+E) Publicación y entrada en vigor: doble sistema (art. 131 LPA) — oficial y preceptiva en el diario oficial correspondiente (mandato del art. 9.3 CE), y adicional voluntaria en la web. La publicación electrónica del BOE tiene carácter oficial y auténtico. Novedad del art. 23 LG: las normas del Gobierno que impongan nuevas obligaciones a actividades económicas/profesionales entran en vigor el 2 de enero o el 1 de julio siguientes a su aprobación (salvo Reales Decretos-leyes, o razones de transposición de directivas u otras justificadas). En defecto de previsión: 20 días desde la publicación (art. 2.1 CC).
+
+5.5.2. Límites sustanciales o materiales
+A) La jerarquía normativa (art. 9.3 CE; art. 128.3 LPA): orden — 1) Constitución; 2) Tratados Internacionales; 3) Leyes y normas con rango de ley; 4) Reglamentos (dentro de estos: a) disposiciones por Real Decreto del Presidente del Gobierno o del Consejo de Ministros; b) disposiciones por Orden Ministerial).
+B) La materia reglamentaria: la reserva de ley (art. 128.2 LPA) impide al reglamento vulnerar la Constitución/leyes o regular materias reservadas a las Cortes/Asambleas, tipificar delitos/infracciones, establecer sanciones o tributos.
+C) Respeto a los límites de la potestad discrecional y principios generales del Derecho: interdicción de la arbitrariedad, seguridad jurídica, confianza legítima, proporcionalidad, y especialmente el principio de igualdad (SÁNCHEZ MORÓN) — el reglamento no puede introducir diferencias de trato sin habilitación legal expresa.
+D) Principios de buena regulación (art. 129 LPA): necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia, eficiencia; justificación en la exposición de motivos/preámbulo.
+E) Evaluación normativa y adaptación a los principios de buena regulación: control y evaluación periódica de las normas vigentes; resultado publicado en informe.
+F) Control de la ilegalidad de los reglamentos:
+- Revisión de oficio (art. 106 LPA): la propia Administración (nunca a instancia de parte) revisa un reglamento nulo de pleno derecho; efectos ex tunc (a diferencia de la mera derogación/modificación, que es ex nunc); subsisten los actos firmes dictados en aplicación del reglamento anulado.
+- Vía contencioso-administrativa: recurso directo (contra la norma reglamentaria, dentro de plazo desde su publicación) e indirecto (contra los actos de aplicación, sin plazo predeterminado desde la publicación). Art. 73 LJCA: las sentencias firmes que anulen un reglamento no afectan, por sí mismas, a sentencias o actos firmes previos que lo aplicaron, salvo exclusión/reducción de sanciones no ejecutadas (retroactividad favorable). Los reglamentos NO pueden ser objeto de recurso administrativo alguno, ni siquiera de reposición (art. 112 LPA).
+- Conflictos de competencias (LOTC): ante el Tribunal Constitucional, para reglamentos que invadan competencias.
+- Art. 161.2 CE: permite al Gobierno (no a las CCAA) impugnar disposiciones de órganos autonómicos por vicio de inconstitucionalidad (no de legalidad ordinaria). Ejemplo: STC de 6 de febrero de 1984 (Resolución del Presidente de Navarra).
+- Art. 6 LOPJ (LO 6/1985): los Jueces y Tribunales no aplicarán los reglamentos u otras disposiciones contrarios a la Constitución, la ley o el principio de jerarquía normativa (inaplicación de oficio).
+
+5.6. La inderogabilidad singular de los reglamentos
+Art. 37 LPA: las resoluciones administrativas de carácter particular no pueden vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía. La Administración está sometida al principio de legalidad y a sus propios reglamentos (GARCÍA DE ENTERRÍA); si el propio reglamento autoriza dispensas, rige el principio de igualdad (SANTAMARÍA PASTOR).
+
+5.7. Irretroactividad de los reglamentos
+Debate doctrinal: unos consideran que no tienen límite específico de retroactividad (salvo las disposiciones sancionadoras no favorables, art. 9.3 CE); otros consideran que, a diferencia de las leyes, no pueden tener efectos retroactivos ni siquiera favorables (apoyándose en el art. 83.b CE sobre Decretos Legislativos, y el art. 39.3 LPA sobre actos administrativos). La jurisprudencia, inicialmente favorable a la primera tesis, se orienta después hacia la irretroactividad.
+
+===========================================================
+6. OTRAS FUENTES
+===========================================================
+
+6.1. La costumbre
+
+6.1.1. Introducción: fuente directa pero subsidiaria (art. 1.1 y 1.3 CC — solo rige en defecto de ley aplicable, si no es contraria a la moral/orden público y resulta probada). Papel reducido en el Derecho Administrativo (escrito, rígido y formalista).
+
+6.1.2. Clases:
+A) Praeter legem (supletoria): la norma escrita se remite a ella (ej. bandos locales — art. 7.3 Reglamento de Servicios de Corporaciones Locales de 1955; Concejo Abierto — art. 29.3 LRBRL). Si no hay norma escrita, debe aplicarse la costumbre en su defecto.
+B) Secundum legem (interpretativa): la doctrina es unánime en negarle valor vinculante.
+C) Contra legem (contraria): sin validez en nuestro Derecho.
+
+6.1.3. Precedente administrativo: comportamiento adoptado por la Administración aplicando un criterio para supuestos idénticos. Se diferencia de la costumbre porque no requiere reiteración (basta un único comportamiento — PARADA VÁZQUEZ). No es fuente del Derecho ni vincula a la Administración, que puede apartarse de él (no arbitrariamente). Límites: debe motivar los actos que se aparten del criterio precedente (art. 35.1.c LPA); no puede eludir principios constitucionalizados (seguridad jurídica, interdicción de la arbitrariedad, igualdad, objetividad). Requisitos jurisprudenciales para invocarlo: identidad/semejanza de casos; ausencia de razón de interés público para el cambio; que el precedente sea ajustado a Derecho (prevalece la legalidad sobre la igualdad si es ilegal).
+
+6.2. Los principios generales del Derecho
+
+6.2.1. Significado: fuente directa y subsidiaria (art. 1.4 CC: "se aplicarán en defecto de ley o costumbre").
+6.2.2. Funciones: directiva (creación/desarrollo del Derecho), interpretativa (doctrina y jurisprudencia), integradora (colma lagunas).
+6.2.3. Enumeración: la CE positiviza principios como supremacía material de la Constitución, legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica, responsabilidad, interdicción de la arbitrariedad, igualdad, objetividad de la Administración. La jurisprudencia aplica además: conservación de actos/normas, tipicidad, culpabilidad e imputabilidad en sanciones, non bis in idem, legalidad presupuestaria, proporcionalidad, racionalidad; y en relaciones con particulares: razonabilidad, interpretación favorable al acceso jurisdiccional, non venire contra factum proprium, favor accionis, pro actione, buena fe.
+6.2.4. Importancia: creciente, por la complejidad de las materias y la ampliación de la potestad discrecional de la Administración.
+6.2.5. La jurisprudencia: fuente indirecta; complementa el ordenamiento declarando el sentido de las normas (labor creativa); requiere doctrina reiterada (2 sentencias del TS en supuestos análogos) para vincular; las sentencias contrarias pueden ser casadas por infracción de jurisprudencia. Los Tribunales económico-administrativos y el Consejo de Estado generan "doctrina", no "jurisprudencia" en sentido propio.
+6.2.6. La doctrina científica: no es fuente del Derecho en sentido propio, aunque contribuye a la interpretación y aplicación de la norma (estímulo/criterio inductor para legislador y jueces).
+
+6.3. Los Tratados Internacionales
+
+6.3.1. Concepto: convenios entre Estados u organizaciones supranacionales para disciplinar sus relaciones.
+6.3.2. Regulación y naturaleza: arts. 96 CE y 1.5 CC — "válidamente celebrados, una vez publicados oficialmente en España, formarán parte del ordenamiento interno". Antes de publicarse son fuente indirecta; una vez integrados, si contienen normas administrativas, son fuente directa y primaria.
+6.3.3. Clases (art. 94 CE):
+- Los que exigen previa autorización de las Cortes: de carácter político o militar; los que afecten a la integridad territorial o a los derechos/deberes del Título I; los que impliquen obligaciones financieras para la Hacienda Pública; los que supongan modificación/derogación de una ley o exijan medidas legislativas.
+- Los restantes: se informa al Congreso y al Senado.
+- Los que atribuyen a una organización internacional el ejercicio de competencias derivadas de la Constitución (art. 93 CE, ej. ingreso en la CEE): requieren ley orgánica.
+- Tratados sobre derechos fundamentales y libertades públicas (art. 10.2 CE): valor interpretativo de los preceptos constitucionales (no valor constitucional en sí — SÁNCHEZ MORÓN).
+6.3.4. Art. 95 CE: si un Tratado contiene estipulaciones contrarias a la CE, exige previa revisión constitucional; el Gobierno o cualquiera de las Cámaras puede requerir al TC que se pronuncie. Ejemplo: Declaración del TC de 1 de julio de 1992 (Tratado de Maastricht y art. 13.2 CE, que hubo de reformarse).
+
+6.4. El Derecho de la Unión Europea
+
+6.4.1. Introducción: ordenamiento jurídico autónomo, distinto del Derecho Internacional Público y del Derecho interno de los Estados miembros (STJCE, sentencia Costa/c. ENEL, 1964). Diferencias con el orden internacional (MOLINA DEL POZO): la UE se basa en la "integración" (no en la "cooperación"), y su Derecho, aunque asentado sobre Tratados (Derecho originario), es "desarrollado" ampliamente por las instituciones (Derecho derivado o secundario) — no es meramente "convencional".
+
+6.4.2. Derecho originario y derivado:
+A) Derecho originario: los Tratados constitutivos y sus modificaciones. Características: naturaleza jurídico-internacional; dimensión constitucional (principios, poderes, sistema institucional, procedimientos, preeminencia sobre cualquier otra norma); regulaciones materiales específicas (libertades, competencia, políticas comunes).
+B) Derecho derivado: normas dictadas por los órganos institucionales con competencia para ello, en base a los Tratados.
+
+6.4.3. Jerarquía de normas: en el Derecho de la UE NO existe jerarquía entre sus normas (reglamento, directiva, etc.); predomina el principio de competencia.
+
+6.4.4. Aspectos a considerar:
+- Aplicabilidad directa: las normas comunitarias que gozan de esta cualidad se aplican sin intermediación (ej. los reglamentos comunitarios); más dudosa en las directivas.
+- Efecto directo: posibilidad de que los destinatarios invoquen las normas comunitarias ante las jurisdicciones nacionales; claro en los reglamentos, más dudoso en las directivas (que deben reunir determinadas condiciones).
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+- Según el art. 1.1 CC, las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del Derecho.
+- Las leyes son irretroactivas salvo disposición expresa (art. 2.3 CC); la CE garantiza la irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos (art. 9.3 CE). "La ignorancia de las leyes no excusa de su cumplimiento" (art. 6.1 CC).
+- Fuentes directas: gran importancia del reglamento, reducido ámbito de la costumbre, importancia creciente de los principios generales del Derecho (control de la discrecionalidad). Fuentes indirectas: importancia de la jurisdicción contencioso-administrativa, la doctrina y los Tratados internacionales (UE).
+- Las leyes entran en vigor a los 20 días naturales de su completa publicación en el BOE, salvo disposición en contrario (art. 2.1 CC). Solo se derogan por otras posteriores (art. 2.2 CC).
+- Leyes orgánicas: desarrollo de derechos fundamentales/libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la CE; aprobación por mayoría absoluta del Congreso en votación final de conjunto.
+- Leyes ordinarias: instrumento normal de la función legislativa; tipos — de Pleno, de Comisión, marco, de armonización, autonómicas, y disposiciones normativas con fuerza de ley.
+- Decretos Legislativos: normas con rango de ley por delegación de las Cortes; dos modalidades — Texto Refundido (reduce varios textos legales a uno) y Texto Articulado (desarrolla unas bases previas).
+- Decretos-leyes: disposiciones legislativas provisionales del Gobierno por extraordinaria y urgente necesidad; se someten a debate y votación del Congreso en 30 días para su convalidación o derogación.
+- El reglamento es la disposición normativa de carácter general dictada por la Administración, con rango inferior a la ley.
+- Los reglamentos se clasifican según el órgano que los dicta, su rango jerárquico, su contenido o su relación con la ley.
+- El procedimiento de elaboración de reglamentos (art. 26 Ley 50/1997) sigue las fases: estudios y consultas previas; consulta pública; Memoria del Análisis de Impacto Normativo (MAIN); consultas, dictámenes e informes preceptivos y convenientes; audiencia a los ciudadanos e información pública; dictamen del Consejo de Estado; aprobación.
