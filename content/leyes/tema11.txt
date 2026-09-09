@@ -1,1 +1,213 @@
+TEMA 11 - La Seguridad Social: Características generales y principales Entidades gestoras. Afiliación, cotización y recaudación. Acción protectora: Contingencias y prestaciones.
 
+Referencias legislativas: Real Decreto Legislativo 8/2015, de 30 de octubre, Texto Refundido de la Ley General de la Seguridad Social (TRLGSS). Real Decreto 1415/2004, de 11 de junio, Reglamento General de Recaudación de la Seguridad Social (RGR).
+
+===========================================================
+1. LA SEGURIDAD SOCIAL: CARACTERÍSTICAS GENERALES Y PRINCIPALES ENTIDADES GESTORAS
+===========================================================
+
+1.1. Generalidades. Los dos modelos de sistema de Seguridad Social
+
+La Seguridad Social nace como derecho del trabajador tras la Revolución Industrial. España promulgó la primera Ley de Accidentes de Trabajo el 30 de enero de 1900 (modelo francés). Alemania fue pionera en 1883 (Canciller Bismarck) con el Seguro de Enfermedad: el modelo bismarckiano concibe la Seguridad Social como derecho derivado de las relaciones laborales, financiado por trabajadores y empresarios, con técnicas indemnizatorias y pluralidad de entes gestores. En 1941, la Comisión Beveridge (Reino Unido) definió la Seguridad Social como "el conjunto de medidas adoptadas por el Estado para proteger a los ciudadanos contra riesgos de concreción individual"; propugnó un Seguro Nacional único, generalizado a todos los ciudadanos, cobertura de todos los riesgos y financiación estatal.
+
+Dos modelos resultantes:
+a) Modelo laboralista o contributivo (bismarckiano/profesional): recursos de cuotas de empresarios y trabajadores; prestaciones diferenciales próximas al aseguramiento.
+b) Modelo universalista o fiscal (beveridgiano/asistencial): protege a toda la población; financiado por los Presupuestos Generales del Estado; servicio público.
+
+1.2. El proceso español: evolución desde el régimen de seguros sociales hasta el actual sistema de Seguridad Social
+
+Tres etapas: antes del 1 de enero de 1967 (Seguros Sociales Obligatorios); a partir del 1 de enero de 1967 (sistema contributivo); Constitución de 1978 (perfila un sistema de Seguridad Social asistencial). Ley de Accidentes de Trabajo de 30 de enero de 1900 (responsabilidad objetiva). El tránsito de seguros sociales a Sistema de Seguridad Social se produce con la Ley de Bases de la Seguridad Social de 28 de diciembre de 1963, ante los defectos de los seguros sociales (protección insuficiente y desigual, salarios reales distintos de los de cotización, regímenes deficitarios, recursos escasos). Reforma recogida en: Ley de Bases (1963); textos articulados (Decreto de 21 de abril de 1966); Ley de Financiación y Perfeccionamiento (Ley 24/1972). Refundidos en el Texto Refundido de la LGSS (Decreto 2065/1974); sustituido por el RDL 1/1994 (en vigor desde el 1 de septiembre de 1994); actualmente derogado por el RDL 8/2015. Pervive el SOVI (D.T. 2ª TRLGSS) para quienes tuvieran cubierto su período de cotización a 1 de enero de 1967 y no tengan derecho a otra pensión del sistema (salvo viudedad).
+
+1.3. Regulación
+- Constitución de 1978: art. 41 (régimen público de Seguridad Social para todos los ciudadanos, con asistencia y prestaciones suficientes ante situaciones de necesidad, especialmente desempleo; la asistencia y prestaciones complementarias son libres); art. 149.1.17ª (competencia exclusiva del Estado sobre legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de servicios por las CCAA).
+- RDL 8/2015, de 30 de octubre (TRLGSS).
+
+1.4. Contenido de la protección: la Constitución no determina el contenido ni la intensidad de la protección, pero enumera estados de necesidad en el Capítulo III del Título I (desempleo, salud -art. 43-, protección a personas con discapacidad -art. 49-, pensiones adecuadas y actualizadas para la tercera edad -art. 50-, protección de la familia -art. 39-, formación profesional y seguridad e higiene -art. 40-). El RDL 36/1978 separó la gestión del desempleo (posteriormente reincorporada al Título III de la LGSS). El art. 41 CE define: nivel público de protección exclusivo de los poderes públicos; universalidad de destinatarios; suficiencia de prestaciones (aproximación al SMI).
+
+1.5. Competencias del Estado y las CCAA: el art. 129 CE remite a la ley ordinaria la participación de los interesados en la gestión. Arts. 148 y 149 CE: las CCAA pueden asumir competencias en asistencia social y sanidad e higiene; el Estado tiene competencia exclusiva sobre sanidad exterior, bases y coordinación general de la sanidad, legislación de productos farmacéuticos y legislación básica y régimen económico de la Seguridad Social (sin perjuicio de la ejecución de servicios por las CCAA). Las transferencias se aprueban por Real Decreto del Gobierno y Decreto del Consejo Ejecutivo autonómico.
+
+1.6. Los dos niveles del sistema: nivel básico/mínimo/público (universalidad, obligatoriedad, gestión estatal, gratuidad, financiación redistributiva) y nivel complementario (liberalización, iniciativa privada de sujetos protegidos y gestores; regulado por la Ley 20/2015 de entidades aseguradoras y el RDL 1/2002 de Planes y Fondos de Pensiones). Vías de mejora: incremento de prestaciones del nivel básico o reconocimiento de complementarias; prestaciones distintas para las mismas contingencias (a tanto alzado); mejoras de nuevos riesgos y necesidades sociales.
+
+1.7. Características del sistema español: gestión pública (con colaboración privada en el nivel complementario); participación de los interesados en la gestión (Administración, empresa, trabajadores); financiación tripartita (empresario, trabajador, Estado; régimen financiero de reparto); tendencia a la unidad (integración de Regímenes Especiales en el Régimen General); supresión del ánimo de lucro.
+Caracteres del sistema: gestión pública con colaboración privada; participación de los interesados; principios de universalidad, unidad, solidaridad e igualdad; afiliación única con altas en uno o varios Regímenes (uno General y los demás Especiales); prestaciones sujetas a requisitos (no hay protección automática); proporcionalidad en el nivel contributivo, uniformidad en el no contributivo; financiación por cotizaciones (contributivas) o recursos estatales (no contributivas); comunicabilidad de cuotas entre Regímenes; funcionamiento sin ánimo de lucro y con solidaridad coactiva.
+
+1.8. Principales Entidades gestoras
+
+1.8.1. Concepto y naturaleza: Organismos de Derecho Público, con personalidad jurídica propia, bajo dirección y tutela del Estado, cuyas funciones son reconocer el derecho y dispensar las prestaciones (arts. 66.1 y 68 TRLGSS, Cap. V Título I, arts. 66-72). El Instituto Social de la Marina tiene régimen propio (Ley 47/2015).
+
+1.8.2. Características generales: capacidad jurídica para sus fines (art. 68.1); prerrogativas: reserva de nombre (ni siquiera "Seguridad Social" sin autorización); beneficio de justicia gratuita (Ley 1/1996); exención tributaria absoluta (igual que el Estado); franquicia postal y tasa telegráfica.
+
+1.8.3. Tutela administrativa: en general, Ministerio de Inclusión, Seguridad Social y Migraciones (Secretaría de Estado de la Seguridad Social y Pensiones); INGESA por el Ministerio de Sanidad; IMSERSO por el Ministerio de Derechos Sociales, Consumo y Agenda 2030.
+
+1.8.4. Entidades gestoras y funciones:
+- INSS (Instituto Nacional de la Seguridad Social): gestión y administración de las prestaciones económicas del nivel contributivo.
+- INGESA (Instituto Nacional de Gestión Sanitaria): administración y gestión de servicios sanitarios (Ceuta y Melilla, Centro Nacional de Dosimetría, adquisición centralizada de medicamentos).
+- IMSERSO (Instituto de Mayores y Servicios Sociales): pensiones no contributivas de invalidez y jubilación, y servicios complementarios.
+- ISM (Instituto Social de la Marina): doble dimensión (problemática social del sector marítimo-pesquero y Entidad Gestora del Régimen Especial de los Trabajadores del Mar): gestión/reconocimiento de prestaciones, afiliación/altas/bajas/recaudación (con la TGSS), asistencia sanitaria a bordo/en el extranjero, formación profesional, prestaciones de desempleo, asistencia en apresamientos/naufragios, estudios y convenios internacionales.
+D.A. 7ª Ley 27/2011: se autoriza la creación de la Agencia Estatal de la Administración de la Seguridad Social, que integrará al INSS, ISM (en su parte de Seguridad Social), Tesorería General de la Seguridad Social, Gerencia de Informática y Servicio Jurídico; se constituirá cuando se apruebe su Estatuto por RD en Consejo de Ministros.
+
+1.8.5. Organización
+A) Órganos directivos:
+- De participación (control y vigilancia de la gestión): Consejo General (INSS, IMSERSO, ISM) integrado por 13 representantes de la AGE, 13 de sindicatos y 13 de organizaciones empresariales más representativos (en el ISM, 3 más de Cofradías de Pescadores y 1 del Colegio de la Marina Mercante); reunión trimestral (o a petición del 20% de sus miembros, o de un tercio en el IMSERSO). Consejo de Participación (INGESA): 6 sindicatos, 6 empresariales, 1 de consumidores/usuarios, 6 de la AGE; funciones de criterios de actuación, memoria anual, seguimiento y propuestas; reunión semestral. Comisiones Ejecutivas de los Consejos Generales: 9 miembros a tercios (10 en el ISM). Comisiones Ejecutivas Territoriales (Ceuta y Melilla, INGESA): 10 vocales (3 sindicatos, 3 empresarios, 3 AGE, 1 consumidores); reuniones mensuales.
+- Órganos centrales de dirección y gestión: Director General (INSS, ISM, IMSERSO), nombrado por Real Decreto; representación legal y dirección/gestión/inspección; Secretaría General (rango de Subdirección General), nombrada/cesada libremente por el Ministro/Secretario de Estado.
+
+===========================================================
+2. AFILIACIÓN
+===========================================================
+
+2.1. Concepto y características: acto administrativo mediante el cual la TGSS reconoce la condición de incluida en el sistema a la persona física que por primera vez realiza una actividad determinante de su inclusión (art. 6 RD 84/1996). Características: obligatoria; única y general para todos los Regímenes; vitalicia; exclusiva (art. 8 LGSS). Constituye título jurídico para adquisición de derechos y nacimiento de obligaciones.
+
+2.2. Procedimiento de afiliación
+
+2.2.1. Formas de promoverla: a instancia del empresario (obligado a solicitarla; su incumplimiento es infracción grave y genera responsabilidad empresarial de las prestaciones; modelo TA.1, habitualmente por el sistema RED); a instancia del trabajador (si el empresario incumple); de oficio (por las Direcciones Provinciales de la TGSS, tras actuación de la Inspección de Trabajo, datos de las Entidades Gestoras u otro procedimiento).
+
+2.2.2. Lugar y plazo: solicitud dirigida a la Dirección Provincial de la TGSS de la provincia donde esté domiciliada la empresa (o el establecimiento/domicilio del autónomo); también presentable en otros registros (remisión el mismo día o el hábil siguiente). Debe formularse con anterioridad al inicio de la prestación de servicios o actividad.
+
+2.3. Reconocimiento del derecho a la afiliación: competente la Dirección Provincial de la TGSS de la provincia de la cuenta de cotización del empresario (o del establecimiento/domicilio del autónomo). Regla: reconocimiento en el acto de presentación (posibles actos de instrucción hasta 45 días para resolver y notificar). Desestimación mediante resolución motivada, con forma y plazo de impugnación. Recurribles ante la Jurisdicción Contencioso-Administrativa (no la Social).
+NUSS (Número de la Seguridad Social): asignado por la TGSS a cada ciudadano (obligatorio antes de la afiliación/alta, y para beneficiarios de pensiones); consta en una tarjeta con nombre, apellidos y DNI; coincide con el número de afiliación.
+
+===========================================================
+3. COTIZACIÓN Y RECAUDACIÓN
+===========================================================
+
+3.1. Cotización
+
+Recursos de financiación (art. 109 TRLGSS): aportaciones progresivas del Estado; cuotas de las personas obligadas (principal recurso, carácter contributivo del sistema); recargos y sanciones; frutos/rentas de recursos patrimoniales; otros ingresos.
+
+3.1.1. Normativa aplicable: LGSS; Ley de Presupuestos Generales del Estado (anual); Reglamento General sobre Cotización y Liquidación (RD 2064/1995); Orden Ministerial anual de cotización.
+
+3.1.2. Carácter: acto obligatorio en todos los Regímenes (art. 18.1 LGSS); en el Régimen General, obligados empresario y trabajador (salvo AT/EP, a cargo exclusivo del empresario).
+
+3.1.3. Nacimiento, duración y extinción: nace con el comienzo de la actividad (incluido período de prueba), aunque se incumplan afiliación/alta. Se mantiene durante toda la actividad y en situaciones asimiladas al alta (deberes públicos y cargos sindicales sin excedencia, convenio especial, traslado al extranjero, desempleo contributivo/asistencial) y durante incapacidad temporal (incluidas situaciones especiales: menstruación incapacitante, interrupción del embarazo, gestación desde la semana 39ª, donación de órganos/tejidos), nacimiento y cuidado de menor, riesgo por embarazo/lactancia. Reducción del 75% de cuotas empresariales por contingencias comunes durante IT de trabajadores ≥62 años. Se suspende durante huelga y cierre patronal. Se extingue con el cese comunicado en plazo (3 días naturales); si se comunica fuera de plazo, se extingue cuando la TGSS conozca el cese (salvo prueba de fecha distinta); no se extingue si se continúa trabajando.
+
+3.1.4. Sujetos obligados y responsables
+A) Obligados: trabajadores y empresarios (art. 141 TRLGSS); solo el empresario en AT/EP; nulo el pacto que traspase al trabajador la cuota del empresario (art. 143 LGSS, art. 26.4 ET). Supuestos especiales: convenio especial (solo el trabajador); desempleo (el SEPE asume la parte empresarial).
+B) Responsables: el empresario ingresa ambas aportaciones (art. 142.1), descontando al trabajador en el momento del pago (si no lo hace, no puede hacerlo después). Si descuenta y no ingresa, incurre en responsabilidad (civil, penal, administrativa). Responsabilidad solidaria, subsidiaria o mortis causa en supuestos especiales.
+
+3.1.5. Elementos de la cotización: bases, tipos y cuotas.
+A) Bases de cotización: remuneración total mensual (o la efectivamente percibida si es mayor), prorrateando las percepciones de vencimiento superior al mensual. Incluye retribuciones en especie (vivienda, vehículos, préstamos, manutención, planes de pensiones, etc.). Excluidos (art. 147.2): gastos de locomoción justificados; indemnizaciones por fallecimiento/traslado/suspensión/despido (exentas según los límites del ET); prestaciones de la Seguridad Social y mejoras; gastos de estudios para actualización/capacitación; horas extraordinarias (salvo para AT/EP).
+B) Determinación: contingencias comunes = retribución mensual + parte proporcional de pagas extra, entre bases mínima y máxima del grupo de cotización (11 grupos, con topes fijados anualmente por Ley de Presupuestos; tope mínimo = SMI + 1/6, salvo disposición contraria; tope máximo actualizado según revalorización de pensiones). Contingencias profesionales = igual + horas extraordinarias, entre topes absolutos (mínimo 1.381,20€/mes, máximo 4.909,50€/mes, cifras vigentes desde 2025). Cotización adicional por horas extraordinarias (fuerza mayor: tipo reducido; no fuerza mayor: tipo general), no computable para la base reguladora de prestaciones.
+Exención de cotización a partir de la edad de jubilación (art. 152 TRLGSS): empresas y trabajadores por cuenta ajena/socios de cooperativas quedan exentos de cotizar por contingencias comunes (salvo IT) tras alcanzar la edad de jubilación; incluye desempleo, FOGASA y formación profesional; no aplicable al sector público; los períodos computan como cotizados.
+Cotización en contratos de corta duración (<30 días): cotización adicional a cargo del empresario (base mínima diaria del grupo 8 x 3 x tipo general), salvo Sistemas Especiales agrarios/empleados de hogar, Régimen de la Minería del Carbón, artistas y contratos de sustitución.
+
+3.1.6. Tipos de cotización: porcentaje único para todo el Régimen General, fijado en la Ley de Presupuestos (distribuido entre empresario y trabajador). Se reduce por: reducción de contingencias protegidas, colaboración voluntaria en la gestión, incentivos al empleo. Tarifa de primas de AT/EP (Ley 42/2006): reducible hasta un 10% o incrementable hasta un 20% según medidas de prevención/incumplimientos.
+
+3.2. Recaudación en período voluntario y en la vía ejecutiva
+
+3.2.1. Concepto: potestad administrativa para la realización de los créditos y derechos de la Seguridad Social (art. 1 RGR): cuotas, aportaciones, sanciones, recargos, capitales coste de pensiones, reaseguro, reintegros, costas procesales, etc. La TGSS también recauda cuotas de desempleo, formación profesional y FOGASA en tanto se liquiden conjuntamente.
+
+3.2.2. Competencia: exclusiva de la TGSS, bajo dirección del Ministerio competente, con posibilidad de conciertos con otras Administraciones (en especial, la AEAT). Ejercida por las Direcciones Provinciales (Subdirección Provincial, Administraciones de la Seguridad Social, Unidades de Recaudación Ejecutiva).
+
+3.2.3. Órganos: de recaudación (centrales: Director General, Secretario General, Subdirector de la TGSS; periféricos: Direcciones Provinciales, Administraciones, Unidades de Recaudación Ejecutiva) y colaboradores (entidades financieras, agentes autorizados, AAPP y servicios de la AEAT).
+
+3.2.4. Recaudación en período voluntario
+A) Plazo: reglamentario (dentro del mes siguiente al devengo, salvo otro plazo) o fuera de plazo (recargos): si se cumplieron las obligaciones de liquidación, 10% (primer mes) o 20% (a partir del segundo mes); si no se cumplieron, 20% (antes del fin del plazo de la reclamación/acta) o 35% (después). Reclamación de deuda por la TGSS (falta de cotización de trabajadores en alta, errores aritméticos, diferencias de importe): plazos de ingreso según fecha de notificación (día 5 o día 20 del mes siguiente). Actas de liquidación por la Inspección de Trabajo (falta de afiliación/alta, diferencias de cotización, derivación de responsabilidad, bonificaciones indebidas); requerimiento previo (plazo entre 1 y 4 meses); ingreso hasta el último día del mes siguiente a la notificación del acto definitivo.
+B) Lugar: a través de colaboradores autorizados en la cuenta de la TGSS.
+C) Forma: sistemas de pago establecidos por la TGSS, incluida domiciliación y medios electrónicos.
+D) Liquidación e ingreso (art. 22 TRLGSS): sistema de autoliquidación por el sujeto responsable; sistema de liquidación directa por la TGSS (Cret@); sistema de liquidación simplificada (autónomos, Trabajadores del Mar, Sistemas Especiales de Empleados de Hogar y Agrarios en inactividad, Seguro Escolar, convenios especiales).
+
+3.2.5. Recaudación en vía ejecutiva
+A) Regulación: arts. 37-41 TRLGSS y arts. 84-126 RGR.
+B) Títulos ejecutivos: se inicia automáticamente tras el impago en período voluntario. Providencia de apremio: título ejecutivo con la misma fuerza que las sentencias judiciales; su omisión hace improcedente la vía de apremio; debe contener datos del deudor, concepto/importe/período de la deuda, indicación de impago, fecha, advertencia de intereses de demora (15 días naturales), advertencia de embargo, y mención de que solo cabe recurso de alzada por los motivos del art. 86 (pago, prescripción, error material/aritmético, condonación/aplazamiento/suspensión, falta de notificación); dicho recurso suspende el procedimiento sin garantías. Se dicta sin previa reclamación/acta en casos de falta de ingreso de cuotas correctamente liquidadas de trabajadores en alta, o cuotas fijas de autónomos/convenios especiales/Trabajadores del Mar/Sistemas Especiales.
+Embargo de bienes: acumulación de providencias en un solo procedimiento; incremento de hasta el 10% por previsión de costas e intereses (costas máximo 3% de la deuda); restitución del exceso de cobro.
+Enajenación de bienes embargados.
+Terminación: solvencia total del débito; insolvencia total/parcial; aplazamiento; extinción por otra causa legal. Costas a cargo del apremiado.
+Impugnación de actos de gestión recaudatoria: legitimación de los responsables del pago y cualquier interesado afectado; vía de recursos administrativos (alzada, reposición, revisión) y contencioso-administrativo.
+
+3.2.6. Prescripción de la obligación de pago: prescriben a los 4 años: el derecho de la Administración a determinar deudas por cuotas; la acción para exigir el pago; la acción para imponer sanciones. Se interrumpe por actuación administrativa con conocimiento formal del responsable (reclamación de deuda o acta de liquidación).
+
+===========================================================
+4. ACCIÓN PROTECTORA: CONTINGENCIAS Y PRESTACIONES
+===========================================================
+
+4.1. Acción protectora: conjunto de beneficios que los sujetos protegidos pueden obtener con cargo a los fondos de la Seguridad Social. Dos cuestiones: qué situaciones de necesidad se protegen (contingencias) y qué contenido/clase de prestación se dispensa.
+
+4.2. Contingencias cubiertas (art. 42 TRLGSS): asistencia sanitaria (maternidad, enfermedad común/profesional, accidente); recuperación profesional; prestaciones económicas (IT, nacimiento y cuidado de menor, riesgo embarazo/lactancia, corresponsabilidad del lactante, cuidado de menores con cáncer, incapacidad permanente contributiva/no contributiva, jubilación contributiva/no contributiva, desempleo contributivo/asistencial, cese de actividad, viudedad, orfandad, favor de familiares, auxilio por defunción, indemnización por muerte por AT/EP, ingreso mínimo vital); prestaciones familiares (contributiva/no contributiva); servicios sociales (discapacidad, mayores); asistencia social complementaria.
+Causas o riesgos:
+- Profesionales: accidente de trabajo (lesión corporal con ocasión o consecuencia del trabajo por cuenta ajena; presunción salvo prueba en contrario si ocurre en tiempo y lugar de trabajo; excluidos fuerza mayor extraña y dolo/imprudencia temeraria del trabajador; no excluyen la calificación la imprudencia profesional habitual ni la concurrencia de culpa de terceros); enfermedad profesional (contraída por el trabajo, causada por elementos/sustancias del cuadro reglamentario); riesgo durante embarazo/lactancia natural.
+- Comunes/no profesionales: enfermedad común y accidente no laboral; suspensión del contrato por baja médica o riesgo en el embarazo; cese por jubilación; desempleo; hijos a cargo.
+- Riesgos catastróficos: nunca objeto de protección al amparo de legislación especial.
+
+4.3. Concepto y clases de prestaciones
+4.3.1. Concepto: conjunto de medidas técnicas o económicas para prever, reparar o superar estados de necesidad.
+4.3.2. Clases: por efectos (preventivas, reparadoras, rehabilitadoras); por naturaleza (sanitarias, económicas); por tipo/duración de compensación (pensión -vitalicia-, subsidio -temporal-, asignación -compensa cargas-, indemnización -a tanto alzado-); por cuantía (fija/variable); por percepción (pago directo/delegado); por título (derecho propio/derivado); por financiación (contributivas/no contributivas). Prestaciones rehabilitadoras: recuperación (estimulación precoz, recuperación médico-funcional, tratamientos psicoterapéuticos), integración social (atención personal/domiciliaria/institucionalizada), integración laboral/ocupacional.
+
+4.3.3. Características de las prestaciones
+A) Indisponibilidad: no retenibles/cedibles/compensables/descontables (art. 44.1), salvo obligaciones alimenticias a favor de cónyuge/hijos u obligaciones con la propia Seguridad Social.
+B) Tributación: sujetas a tributación (art. 44.2), pero exentas por el art. 7 Ley 35/2006 IRPF: prestaciones por incapacidad permanente absoluta/gran incapacidad; prestaciones por nacimiento/cuidado de menor y familiares no contributivas; pensiones de orfandad/favor de nietos y hermanos <22 años o incapacitados; prestaciones equivalentes de mutualidades alternativas (con límite); prestaciones por nacimiento/parto/adopción múltiple/hijos a cargo/orfandad; prestaciones por maternidad/paternidad de CCAA/entidades locales; prestaciones extraordinarias por terrorismo; desempleo en pago único; Ingreso Mínimo Vital.
+C) Prohibición de tasas por certificaciones e informaciones (art. 44.3).
+D) Irrenunciabilidad: salvo en caso de opción (temporal, no definitiva).
+E) Créditos privilegiados (art. 162.2): prestaciones a cargo de empresarios responsables o Mutuas en liquidación, con el régimen de garantías salariales del art. 32 ET.
+F) Prescripción: derecho al reconocimiento prescribe a los 5 años desde el hecho causante (art. 53.1), con efectos retroactivos máximos de 3 meses desde la solicitud; imprescriptibles: pensión de jubilación y prestaciones por muerte y supervivencia (salvo auxilio por defunción).
+G) Caducidad: derecho al percibo de prestaciones a tanto alzado, 1 año desde la notificación; percibo de cada mensualidad en prestaciones periódicas, 1 año desde su vencimiento.
+H) Incompatibilidades: pensiones del Régimen General incompatibles entre sí (salvo disposición contraria; se abona la de mayor cuantía, con opción de revocación); no rige entre Regímenes distintos; excepción: viudedad compatible con vejez/invalidez. Compatibilidad con trabajo: jubilación incompatible (salvo parcial/flexible, trabajo por cuenta propia con ingresos ≤SMI anual, o envejecimiento activo; siempre incompatible con puesto público salvo eméritos); IT y nacimiento/cuidado de menor incompatibles con trabajo; incapacidad permanente compatible con trabajo compatible con su estado (con obligación de comunicarlo); viudedad y orfandad compatibles con rentas de trabajo (orfandad con límites de ingresos entre 21-25 años); favor de familiares incompatible salvo hermanos/nietos <22 años con ingresos ≤75% SMI anual.
+I) Cuantía: contributivas proporcionales a cotizaciones, no contributivas de cuantía uniforme. Límite máximo anual (Ley de Presupuestos, art. 57); revalorización anual según IPC (art. 58); complementos a mínimos; pensiones extraordinarias por terrorismo sin límites; pensiones no contributivas actualizadas al menos en el mismo porcentaje que las contributivas; 14 pagas (junio y noviembre, por sextas partes en altas/bajas del año); recargo del 30-50% por falta de medidas de seguridad e higiene en AT/EP (a cargo del empresario, no asegurable, declarado por el INSS).
+
+4.4. Incapacidad Temporal
+4.4.1. Concepto: situación de incapacidad para trabajar por enfermedad común/profesional o accidente (sea o no de trabajo), mientras se recibe asistencia sanitaria, incluidos períodos de observación por enfermedad profesional.
+4.4.2. Causas: enfermedad común/profesional; accidente (sea o no de trabajo); período de observación por enfermedad profesional; situaciones especiales por contingencias comunes (menstruación incapacitante secundaria, interrupción del embarazo, gestación desde la semana 39ª, donación de órganos/tejidos). Duración máxima de observación: 180 días, prorrogables 180 días más.
+4.4.3. Beneficiarios: afiliados/en alta o asimilada, con 180 días cotizados en los 5 años anteriores (enfermedad común); sin período previo (accidente/enfermedad profesional).
+4.4.4. Prestación económica: 60% de la base reguladora entre el 4º y 20º día (enfermedad común/accidente no laboral), 75% desde el día 21; 75% desde el día siguiente a la baja (AT/EP); 100% en donación de órganos/tejidos.
+4.4.5. Nacimiento: día siguiente a la baja en AT/EP (empresario paga el día de la baja); a partir del día 16 en enfermedad común/accidente no laboral (empresario paga del día 4 al 15); desde el mismo día de baja en menstruación incapacitante y donación de órganos; desde el día siguiente en interrupción del embarazo y gestación semana 39ª (empresario paga el día de la baja).
+4.4.6. Base reguladora: cociente de la base de cotización por contingencias comunes (o profesionales, sin horas extra, más la media de horas extra del año anterior/365) del mes anterior a la baja, entre los días correspondientes.
+4.4.7. Reconocimiento y pago: reconocimiento por el INSS o la Mutua colaboradora (según opción del empresario); pago delegado por la empresa.
+4.4.8. Duración: máximo 365 días, prorrogables 180 días más si se presume curación; observación por enfermedad profesional máximo 180+180 días. Tras 365 días, solo la inspección médica del INSS puede dar el alta (por curación, mejoría, propuesta de incapacidad permanente o incomparecencia) o nueva baja en 180 días posteriores. Colaboración obligatoria en el pago hasta el alta o hasta 545 días máximo. Procedimiento de disconformidad ante la inspección médica del servicio público de salud (4 días para manifestarla, 7 días de reconsideración, 11 días de plazo para pronunciamiento). Agotados los 545 días, examen de calificación en 90 días (ampliable hasta 730 días totales entre IT y prolongación).
+4.4.9. Extinción: fallecimiento; transcurso de 545 días; alta con/sin incapacidad permanente; alta por curación/mejoría; reconocimiento de jubilación; incomparecencia injustificada a reconocimientos médicos.
+4.4.10. Pérdida o suspensión: por fraude; por trabajar por cuenta propia/ajena; por rechazo/abandono injustificado del tratamiento; suspensión cautelar por incomparecencia a reconocimientos.
+
+4.5. Nacimiento y cuidado de menor
+4.5.1. Supuesto general: A) situaciones protegidas: nacimiento, adopción, guarda con fines de adopción y acogimiento familiar, durante los períodos de descanso del art. 48 ET / art. 49 TREBEP. B) beneficiarios: trabajadores por cuenta ajena de cualquier sexo, afiliados/en alta, con períodos de cotización según edad: <21 años, sin período exigido; 21-26 años, 90 días en los 7 años anteriores (o 180 días en toda la vida laboral); ≥26 años, 180 días en los 7 años anteriores (o 360 días en toda la vida laboral). C) cuantía: 100% de la base reguladora (base de cotización por contingencias comunes del mes anterior al previo al hecho causante, entre los días correspondientes; reglas especiales si hay ingreso reciente en la empresa; resolución provisional/definitiva). D) pérdida/suspensión: fraude; trabajo durante el descanso.
+4.5.2. Supuesto especial (no contributivo): A) beneficiarias: trabajadoras por cuenta ajena que cumplan todos los requisitos salvo el período de cotización. B) cuantía: 100% del IPREM (o la base reguladora si es inferior). C) duración: 42 días naturales desde el parto, incrementable 14 días más (familia numerosa/monoparental, parto múltiple, discapacidad ≥65% de madre o hijo; incremento único).
+
+4.6. Corresponsabilidad en el cuidado del lactante
+4.6.1. Situación protegida: reducción de jornada en media hora por ambos progenitores/adoptantes/guardadores/acogedores (art. 37.4 ET), desde que el lactante cumple 9 hasta 12 meses.
+4.6.2. Beneficiarios: mismos requisitos que nacimiento y cuidado de menor; solo uno de los progenitores puede percibirla; no aplicable a funcionarios públicos (se rigen por el art. 48.f TREBEP).
+4.6.3. Prestación: 100% de la base reguladora de IT por contingencias comunes, en proporción a la reducción de jornada; se extingue a los 12 meses del menor.
+
+4.7. Riesgo durante el embarazo
+4.7.1. Situación protegida: suspensión del contrato cuando el cambio de puesto no sea técnica/objetivamente posible o razonablemente exigible; naturaleza de contingencia profesional.
+4.7.2. Prestación: en los términos de la IT por contingencias profesionales; nace con la suspensión del contrato y finaliza con la suspensión por nacimiento o la reincorporación; 100% de la base reguladora de IT por contingencias profesionales. Gestión de la Entidad Gestora o Mutua según cobertura de riesgos profesionales; pago por meses vencidos.
+
+4.8. Riesgo durante la lactancia natural
+4.8.1. Situación protegida: suspensión del contrato por imposibilidad de cambio de puesto (art. 26.4 Ley 31/1995).
+4.8.2. Prestación: en los mismos términos que riesgo durante el embarazo; se extingue cuando el hijo cumple 9 meses (o reincorporación anterior).
+
+4.9. Incapacidad permanente
+4.9.1. Concepto: tras tratamiento prescrito, reducciones anatómicas/funcionales graves, objetivables y previsiblemente definitivas, que disminuyen/anulan la capacidad laboral (no obsta la posibilidad incierta o a largo plazo de recuperación); en discapacitados, cabe calificación por agravación posterior a la afiliación.
+4.9.2. Grados: parcial para la profesión habitual; total para la profesión habitual; absoluta para todo trabajo; gran invalidez.
+4.9.3. Parcial: disminución ≥33% del rendimiento sin impedir las tareas fundamentales. A) requisitos: alta o asimilada; enfermedad común: 1.800 días en los 10 años anteriores a la extinción de la IT (menores de 21: la mitad de los días entre los 16 años y el inicio de la IT); accidente/enfermedad profesional: sin período exigido. B) cuantía: 24 mensualidades de la base reguladora de la IT.
+4.9.4. Total: inhabilita para todas o las fundamentales tareas de la profesión, permitiendo otra distinta. A) requisitos: enfermedad común: <31 años, 1/3 del tiempo entre los 16 años y el hecho causante; ≥31 años, 1/4 del tiempo entre los 20 años y el hecho causante (mínimo 5 años, 1/5 dentro de los últimos 10 años); accidente/enfermedad profesional: sin período. B) cuantía: 55% de la base reguladora (+20% con 55 años sin trabajo); mínimo el 55% de la base mínima de cotización; sustituible por indemnización a tanto alzado si <60 años, se solicita en 3 años y se acredita trabajo. C) base reguladora: enfermedad común, cociente de dividir por 112 las bases de los 96 meses anteriores (24 últimos a valor nominal, resto actualizado por IPC), aplicando el porcentaje de la escala de jubilación según años cotizados (50% si <15 años); accidente no laboral, cociente de dividir por 28 la suma de bases de 24 meses ininterrumpidos elegidos en los 7 años anteriores; AT/EP, cociente de dividir por 12 el salario real anual.
+4.9.5. Absoluta: inhabilita para toda profesión u oficio. A) requisitos: en alta, igual que total (enfermedad común) o sin período (accidente/EP); sin alta: 15 años cotizados (1/5 en los 10 años anteriores). B) cuantía: 100% de la base reguladora. C) base reguladora: igual que la total si está en alta; sin alta, cociente de dividir por 112 las bases de los 96 meses anteriores.
+4.9.6. Gran invalidez: necesita asistencia de otra persona para los actos esenciales de la vida. A) requisitos: igual que absoluta/total. B) cuantía: 100% de la base reguladora + complemento (45% de la base mínima + 30% de la última base de cotización de la contingencia; mínimo 45% de la pensión sin complemento). C) base reguladora: igual que la total (también desde situación de no alta).
+
+4.10. Jubilación
+4.10.1. Concepto: pensión vitalicia única para cada beneficiario, cuando cese en el trabajo alcanzada la edad establecida.
+4.10.2. Requisitos (modalidad contributiva): A) afiliación y alta (o situaciones asimiladas: excedencia forzosa, traslado al extranjero, convenio especial, desempleo, vacaciones no disfrutadas, excedencia por cuidado de hijos/familiares, ayudas de jubilación anticipada, inactividad entre temporadas, IT que subsista, maternidad/paternidad, violencia de género, huelga/cierre patronal como alta especial). B) edad mínima: regla general 67 años, o 65 años con 38 años y 6 meses cotizados; aplicación gradual según D.T. 7ª (tabla 2013-2027); excepciones/anticipaciones (mutualistas desde 60 años, no mutualistas desde 61, jubilación parcial, colectivos especiales -minero, vuelo, ferroviario, artistas, taurinos, bomberos, Ertzaintza-, jubilación flexible, discapacidad ≥45%/65%); nunca por debajo de 52 años (salvo coeficientes reconocidos a 1-1-2008 en Minería del Carbón y Trabajadores del Mar). C) período mínimo de cotización: 15 años (carencia genérica), de los cuales 2 dentro de los 15 años anteriores al hecho causante (carencia específica); no computan las pagas extraordinarias; aplicación gradual según D.T. 7ª.
+4.10.3. Cuantía: base reguladora = cociente de dividir por 350 las bases de cotización de los 300 meses anteriores al hecho causante (art. 209). Porcentaje: 50% por los primeros 15 años; +0,19% por mes entre el 16 y el mes 248, +0,18% desde el mes 249 (máximo 100%). Complemento por demora tras la edad ordinaria: porcentaje adicional del 4% por año completo (2% por período de 6 meses a un año desde el segundo año) o cantidad a tanto alzado (fórmulas según años cotizados) o combinación; elección única e irrevocable; incompatible con envejecimiento activo; no aplicable en jubilación parcial/flexible ni desde situación asimilada. Cobro: 14 pagas (mensual + junio y noviembre), con retención IRPF, abonado por el INSS.
+
+4.11. Modalidades no contributivas de las pensiones de invalidez y jubilación
+4.11.1. Invalidez: A) concepto: deficiencias previsiblemente permanentes, físicas o psíquicas, congénitas o no. B) requisitos: mayor de 18 y menor de 65 años; residencia legal en España durante 5 años (2 inmediatamente anteriores a la solicitud); minusvalía/enfermedad crónica ≥65%; carencia de rentas suficientes.
+4.11.2. Jubilación: A) concepto: prestación periódica por edad y carencia de rentas. B) requisitos: 65 años; residencia legal 10 años entre los 16 años y el devengo (2 consecutivos e inmediatamente anteriores a la solicitud); carencia de rentas suficientes.
+4.11.3. Cuantía: fijada en la Ley de Presupuestos Generales del Estado, en 14 pagas.
+
+4.12. Prestación por cuidado de menores afectados por cáncer u otra enfermedad grave
+4.12.1. Situación protegida (art. 190 TRLGSS): reducción de jornada de progenitores/guardadores/acogedores (ambos si trabajan, o uno en familias monoparentales) para el cuidado de menores con cáncer u otra enfermedad grave con hospitalización de larga duración, acreditada por el servicio público de salud; se mantiene hasta los 23 años si persiste (diagnosticada antes de la mayoría de edad) o hasta los 26 años si hay discapacidad ≥65%.
+4.12.2. Beneficiarios: trabajadores por cuenta ajena o propia que reduzcan la jornada al menos un 50%, afiliados y en alta; solo uno de los progenitores puede percibirla (salvo nulidad/separación/divorcio/violencia de género, en que se reconoce a quien convive con el menor).
+4.12.3. Períodos mínimos de cotización: los mismos que para la prestación por nacimiento y cuidado de menor.
+4.12.4. Prestación económica: 100% de la base reguladora de IT por contingencias profesionales, en proporción a la reducción de jornada.
+4.12.5. Duración: 1 mes, prorrogable por 2 meses y luego por períodos de 4 meses mientras subsista la necesidad, hasta los 23 o 26 años.
+4.12.6. Extinción: reincorporación plena al trabajo; desaparición de la necesidad de cuidado (mejoría/alta); cese en la actividad laboral del progenitor beneficiario; cumplimiento de 23 años (salvo discapacidad ≥65%) o 26 años; fallecimiento del causante o del beneficiario.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+
+El Sistema de la Seguridad Social es un conjunto de regímenes a través de los cuales el Estado garantiza la protección adecuada en las situaciones protegidas por la ley. Los españoles residentes y los extranjeros con residencia legal están dentro de su campo de aplicación a efectos de prestaciones no contributivas. El sistema se integra por el Régimen General y los Regímenes Especiales.
+
+La afiliación es previa al inicio de la prestación de servicios o de cualquier actividad. Formas de practicarla: a instancia del empresario, del trabajador o de oficio (las mismas vías rigen para altas y bajas).
+
+La base de cotización, para todas las contingencias del Régimen General (incluidas AT y EP), es la remuneración total mensual que tenga derecho a percibir el trabajador (o la efectivamente percibida si es mayor); las percepciones de vencimiento superior al mensual se prorratean a lo largo del año.
+
+Las percepciones derivadas de la acción protectora de la Seguridad Social están sujetas a tributación según las normas de cada impuesto (con numerosas exenciones en el IRPF).
+
+Características de las prestaciones: públicas; intransmisibles e irrenunciables; con garantía frente a terceros (créditos privilegiados e indisponibilidad); y tratamiento fiscal específico (sujeción con exenciones tasadas).
