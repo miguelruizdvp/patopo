@@ -1,0 +1,288 @@
+TEMA 10 - El Texto Refundido de la Ley del Estatuto Básico del Empleado Público. Personal al servicio de las Administraciones Públicas. Adquisición y pérdida de la condición de funcionario. Derechos, deberes e incompatibilidades. Situaciones administrativas. Sistema de retribuciones. Régimen disciplinario. Especial referencia a la Ley de la Función Pública de la Comunidad de Madrid.
+
+Referencias legislativas: Real Decreto Legislativo 5/2015, de 30 de octubre, TREBEP (Texto Refundido del Estatuto Básico del Empleado Público). Ley 1/1986, de 10 de abril, de la Función Pública de la Comunidad de Madrid. Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al servicio de las AAPP. Ley 30/1984, de 2 de agosto, de medidas para la Reforma de la Función Pública. Real Decreto 365/1995, de 10 de marzo (Reglamento de Situaciones Administrativas). Real Decreto 33/1986, de 10 de enero (Reglamento de Régimen Disciplinario).
+
+===========================================================
+1. EL ESTATUTO BÁSICO DEL EMPLEADO PÚBLICO: OBJETO Y ÁMBITO DE APLICACIÓN
+===========================================================
+
+1.1. Estructura del RDL 5/2015: Preámbulo, 8 Títulos, 100 artículos, 17 Disposiciones adicionales, 9 transitorias, 1 derogatoria, 4 finales.
+- Título I. Objeto y ámbito de aplicación.
+- Título II. Personal al servicio de las AAPP (Cap. I Clases de personal; Cap. II Personal directivo).
+- Título III. Derechos y deberes. Código de conducta (Cap. I Derechos; Cap. II Carrera profesional, promoción interna y evaluación del desempeño; Cap. III Derechos retributivos; Cap. IV Negociación colectiva, representación, participación institucional y derecho de reunión; Cap. V Jornada, permisos y vacaciones; Cap. VI Deberes y Código de Conducta).
+- Título IV. Adquisición y pérdida de la relación de servicio (Cap. I Acceso y adquisición; Cap. II Pérdida).
+- Título V. Ordenación de la actividad profesional (Cap. I Planificación de RRHH; Cap. II Estructuración del empleo público; Cap. III Provisión de puestos y movilidad).
+- Título VI. Situaciones administrativas.
+- Título VII. Régimen disciplinario.
+- Título VIII. Cooperación entre AAPP.
+
+1.2. Objeto: establecer las bases del régimen estatutario de los funcionarios públicos y determinar las normas aplicables al personal laboral al servicio de las AAPP.
+
+1.3. Ámbito de aplicación
+a) Aplicación directa (personal funcionario y, en lo que proceda, laboral): AGE; Administraciones de las CCAA, Ceuta y Melilla; Administraciones de las Entidades Locales; Organismos Públicos, Agencias y entidades de derecho público vinculadas/dependientes; Universidades Públicas.
+b) Personal con legislación específica propia (el TREBEP solo se aplica si lo dispone esa legislación): personal funcionario de Cortes Generales y Asambleas Legislativas autonómicas; de otros órganos constitucionales/estatutarios; Jueces, Magistrados, Fiscales y personal de la Administración de Justicia; personal militar de las FFAA; Fuerzas y Cuerpos de Seguridad; personal retribuido por arancel; personal del CNI; personal del Banco de España y Fondos de Garantía de Depósitos.
+c) Personal investigador: normas singulares por sus peculiaridades.
+d) Aplicación supletoria: para todo el personal de las AAPP no incluido en su ámbito.
+e) Personal funcionario de Entidades Locales: legislación estatal (incluido el TREBEP) y autonómica, con respeto a la autonomía local (incluidos Cuerpos de Policía Local, salvo lo específico de la LO 2/1986).
+f) Personal laboral: legislación laboral y normas convencionales, más los preceptos del TREBEP que así lo dispongan; en permisos de nacimiento/adopción/progenitor diferente/lactancia se rige por el TREBEP (no por las suspensiones del Estatuto de los Trabajadores).
+g) Otros colectivos: personal funcionario de Correos y Telégrafos (normas específicas, supletoriamente TREBEP); personal docente y estatutario de los Servicios de Salud (legislación específica y TREBEP, salvo el Cap. II del Título III, arts. 22.3, 24 y 84 — sí les aplica la evaluación del desempeño). El personal estatutario de los Servicios de Salud se entiende comprendido cuando el Estatuto menciona al funcionario de carrera.
+
+1.4. Entrada en vigor: al día siguiente de su publicación en el BOE (publicado el 31 de octubre de 2015). Hasta las Leyes de Función Pública de desarrollo, se mantienen vigentes las normas sobre ordenación/planificación/gestión de RRHH que no se opongan al Estatuto (D.F. 4ª).
+
+1.5. Desarrollo: leyes de Función Pública aprobadas por las Cortes Generales y las Asambleas Legislativas de las CCAA.
+
+1.6. Fundamentos de actuación: servicio a los ciudadanos e intereses generales; igualdad, mérito y capacidad; sometimiento pleno a la ley y al Derecho; igualdad de trato entre mujeres y hombres; objetividad/profesionalidad/imparcialidad (con inamovilidad del funcionario de carrera); eficacia en la planificación de RRHH; desarrollo y cualificación permanente; transparencia; evaluación y responsabilidad en la gestión; jerarquía; negociación colectiva y participación; cooperación entre AAPP.
+
+===========================================================
+2. EL PERSONAL AL SERVICIO DE LAS ADMINISTRACIONES PÚBLICAS: CLASES DE PERSONAL
+===========================================================
+
+Son empleados públicos quienes desempeñan funciones retribuidas en las AAPP al servicio de los intereses generales. Se clasifican en: funcionarios de carrera; funcionarios interinos; personal laboral (fijo, indefinido o temporal); personal eventual.
+
+2.1. Funcionarios de carrera
+
+2.1.1. Concepto: vinculados a una Administración Pública, en virtud de nombramiento legal, por una relación estatutaria regulada por el Derecho Administrativo, para servicios profesionales retribuidos de carácter permanente. Notas: permanencia, profesionalidad, retribución con cargo a los Presupuestos, sometimiento al Derecho Administrativo (vía contencioso-administrativa).
+
+2.1.2. Reserva de funciones: el ejercicio de funciones que impliquen participación directa/indirecta en potestades públicas o salvaguardia de intereses generales corresponde exclusivamente a los funcionarios públicos (de carrera e interinos).
+
+2.1.3. Clasificación según titulación: Grupo A (Subgrupos A1 y A2, título universitario de Grado); Grupo B (título de Técnico Superior); Grupo C (Subgrupos C1 -bachiller/técnico- y C2 -graduado en ESO-). Equivalencias transitorias (D.T. 3ª): antiguo Grupo A→A1; B→A2; C→C1; D→C2; E→Agrupaciones Profesionales. Los del Subgrupo C1 con titulación pueden promocionar a A sin pasar por B.
+
+2.1.4. Clasificación por funciones: Cuerpos Generales (funciones comunes/burocráticas: Cuerpo Superior de Administradores Civiles del Estado -A1-, Cuerpo de Gestión -A2-, Cuerpo General Administrativo -C1-, Cuerpo General Auxiliar -C2-, Cuerpo General Subalterno -Agrupaciones Profesionales-) y Cuerpos Especiales (actividades de una peculiar carrera, profesión, arte u oficio).
+
+2.1.5. Creación de Cuerpos y Escalas: por Ley de las Cortes Generales, indicando denominación, grupo/titulación/sistema de selección y funciones (no coincidentes con las de un órgano administrativo). No se pueden crear Cuerpos con titulación y funciones idénticas a otros existentes.
+
+2.1.6. Dependencia: dependencia orgánica del Ministerio competente en función pública, sin perjuicio de la funcional de cada Departamento.
+
+2.2. Funcionarios interinos
+
+2.2.1. Concepto y causas: nombramiento temporal por necesidad y urgencia justificadas: existencia de plazas vacantes no cubribles por funcionarios de carrera (máximo 3 años); sustitución transitoria de titulares; ejecución de programas temporales (máximo 3 años, ampliable 12 meses más); exceso/acumulación de tareas (máximo 9 meses en 18 meses).
+2.2.2. Selección: pública, principios de igualdad/mérito/capacidad/publicidad/celeridad; no genera condición de funcionario de carrera.
+2.2.3. Nombramiento: Subsecretario del Departamento o Director General de la Función Pública.
+2.2.4. Cese: cobertura reglada por funcionario de carrera; razones organizativas (supresión/amortización); fin del plazo autorizado; fin de la causa del nombramiento (sin compensación). Transcurridos 3 años, fin de la interinidad (salvo proceso desierto); posible permanencia excepcional hasta la resolución de la convocatoria si esta se publicó dentro del plazo.
+2.2.5. Requisitos: los generales de titulación exigidos para el Cuerpo/Escala correspondiente.
+2.2.6. Retribuciones: básicas (incluidos trienios) del grupo/subgrupo, más complementarias del puesto (excluidas las vinculadas a la condición de funcionario de carrera).
+2.2.7. Régimen jurídico: el general de los funcionarios de carrera en lo adecuado a su condición temporal (salvo derechos inherentes a la carrera); incluidos en el Régimen General de la Seguridad Social, con derecho a prestación por desempleo.
+
+2.3. Personal eventual
+2.3.1. Concepto: nombramiento no permanente, funciones de confianza o asesoramiento especial, retribuido con cargo a créditos presupuestarios.
+2.3.2. Nombramiento y cese: determinado por las leyes de Función Pública (actualmente, en el Estado, nombramiento y cese libres por el Subsecretario, art. 63 LRJSP); número máximo fijado por los órganos de gobierno (público); cesa en todo caso cuando cesa la autoridad a la que sirve.
+2.3.3. Régimen jurídico: el general de los funcionarios de carrera en lo adecuado; no puede constituir mérito para el acceso o la promoción interna.
+2.3.4. Retribuciones: básicas (sin trienios) según asimilación de funciones, y complementarias del puesto.
+
+2.4. Personal laboral
+2.4.1. Concepto y clases: mediante contrato de trabajo por escrito; fijo, indefinido o temporal.
+2.4.2. Puestos que puede desempeñar: los determinados por las Leyes de Función Pública (respetando el art. 9.2); mientras no se aprueben, puestos no permanentes o periódicos/discontinuos, oficios/vigilancia/custodia, conocimientos técnicos especializados sin Cuerpo/Escala idóneo, mantenimiento/artes gráficas/encuestas/protección civil/comunicación social/expresión artística/servicios sociales, puestos en el extranjero auxiliares, funciones auxiliares de apoyo administrativo; los organismos de investigación pueden contratar personal laboral. Selección pública (igualdad/mérito/capacidad, y celeridad si es temporal).
+2.4.3. Otras consideraciones: no cabe convertir en fija una relación temporal (sí en indefinida); contratación irregular genera responsabilidad personal de quien la autorizó; funcionarización del personal laboral fijo en puestos de funcionarios (Ley 23/1988) mediante concurso-oposición.
+
+Personal directivo: no tiene la consideración de empleado público (Cap. II Título II). El Gobierno y órganos de gobierno de las CCAA pueden establecer su régimen jurídico específico: funciones directivas profesionales; designación por mérito/capacidad/idoneidad con publicidad y concurrencia; evaluación por eficacia/eficiencia/responsabilidad/resultados; sus condiciones de empleo no son objeto de negociación colectiva; si es personal laboral, relación laboral especial de alta dirección.
+
+===========================================================
+3. ADQUISICIÓN Y PÉRDIDA DE LA CONDICIÓN DE FUNCIONARIO
+===========================================================
+
+3.1. Adquisición: cumplimiento sucesivo de: superación del proceso selectivo; nombramiento por el órgano competente (publicado en el Diario Oficial correspondiente; en el Estado, el Secretario de Estado competente en función pública; en la CM, el Consejero de Economía, Hacienda y Empleo); acto de acatamiento de la Constitución y el ordenamiento jurídico; toma de posesión en plazo (Estado: 15 días naturales, o 1 mes si hay cambio de residencia; posesión dada por Subsecretarios o Delegados del Gobierno). Quienes no acrediten los requisitos tras superar el proceso, quedan sin efecto.
+
+3.2. Causas de pérdida: renuncia; pérdida de la nacionalidad; jubilación total; sanción disciplinaria de separación del servicio firme; pena de inhabilitación absoluta/especial firme. En pérdida por nacionalidad o jubilación por incapacidad, cabe rehabilitación (se concederá al desaparecer la causa); en inhabilitación, rehabilitación excepcional según circunstancias (silencio: desestimatorio). La pérdida no afecta a los derechos pasivos causados.
+
+3.3. La jubilación: voluntaria, forzosa, o por incapacidad permanente.
+3.3.1. Forzosa: de oficio a los 65 años; prolongación posible hasta los 70 (resolución motivada; silencio positivo si faltan 15 días para la edad de jubilación sin resolución); solicitud con 2 meses de antelación; resolución en 1 mes; fin de la prolongación con 3 meses de antelación; posible cesación progresiva de actividades.
+3.3.2. Voluntaria: a solicitud, con requisitos del régimen de Seguridad Social (Clases Pasivas: 60 años y 30 de servicios).
+3.3.3. Voluntaria incentivada: para funcionarios en expectativa de destino/excedencia forzosa por Plan de Empleo (60 años, 30 de servicios); indemnización única fijada por el Gobierno; acordada por el Ministerio competente en función pública.
+3.3.4. Por incapacidad permanente: de oficio o a instancia de parte; cabe rehabilitación en caso de recuperación.
+
+3.4. Renuncia: por escrito, aceptada expresamente; no cabe si hay expediente disciplinario o proceso penal en curso; no inhabilita para nuevo ingreso.
+
+3.5. Pérdida de la nacionalidad española o de país que posibilite el acceso: determina la pérdida de la condición (salvo adquisición simultánea de otra nacionalidad habilitante); cabe rehabilitación (se concederá) al recuperarla.
+
+3.6. Separación del servicio: sanción disciplinaria por falta muy grave; carácter definitivo, sin nuevo ingreso posible (requisito de acceso: no haber sido separado mediante expediente disciplinario).
+
+3.7. Pena de inhabilitación absoluta o especial: absoluta (todos los empleos/cargos) o especial (los especificados en sentencia); rehabilitación excepcional posible (no automática, a diferencia de nacionalidad/incapacidad).
+
+3.8. Procedimiento de rehabilitación: iniciación a instancia del interesado; contenido (causa/fecha de pérdida, puesto, situación, causa de rehabilitación); documentación según la causa (certificación de nacimiento, reconocimiento médico del EVI, extinción de responsabilidad penal/civil). Instrucción: comprobación de requisitos (subsanación en 10 días); criterios de resolución (automáticos en nacionalidad/incapacidad; ponderados —antecedentes, daño, relación delito-cargo, gravedad, tiempo transcurrido, informes— en inhabilitación); vista del expediente (15 días); propuesta de resolución. Duración: 6 meses. Órganos competentes: Subsecretarios/Delegados del Gobierno (nacionalidad/incapacidad) o Consejo de Ministros (inhabilitación judicial, instruido por la Secretaría de Estado). Puesto asignado: provisional del Cuerpo/Escala. Motivación obligatoria si es desestimatoria o si la rehabilitación sigue a inhabilitación. Recurso: contencioso-administrativo. Efectos: el período entre pérdida y rehabilitación no computa a ningún efecto. Nuevas peticiones: no antes de 2 años si la desestimación fue por inhabilitación judicial (en otros supuestos, cuando varíen las circunstancias).
+
+===========================================================
+4. DERECHOS, DEBERES E INCOMPATIBILIDADES
+===========================================================
+
+4.1. Derechos de los funcionarios
+
+4.1.1. Derechos de contenido no económico
+A) De carácter individual (art. 14 TREBEP): inamovilidad en la condición de funcionario de carrera; desempeño efectivo de funciones según su progresión; progresión en la carrera y promoción interna con evaluación objetiva; retribuciones e indemnizaciones; participación en objetivos e información de tareas; defensa jurídica y protección de la Administración; formación continua; respeto a intimidad/orientación e identidad sexual/imagen/dignidad frente al acoso; no discriminación; conciliación de la vida personal, familiar y laboral; intimidad digital y desconexión digital; libertad de expresión; protección en seguridad y salud; vacaciones/descansos/permisos/licencias; jubilación; prestaciones de Seguridad Social; libre asociación profesional; demás derechos del ordenamiento.
+B) Individuales ejercidos colectivamente: libertad sindical; negociación colectiva y participación; huelga (con servicios esenciales garantizados); conflictos colectivos; reunión.
+
+4.1.2. Vacaciones, permisos y licencias
+Regulación general: TREBEP y Ley 1/1986 de la CM.
+Principales permisos del TREBEP: por accidente/enfermedad grave/hospitalización propia o de familiares (duración según grado de parentesco y distancia); por traslado de domicilio sin cambio de residencia (1 día); por funciones sindicales; para exámenes; para exámenes prenatales y preparación al parto (incluidas personas trans gestantes); por lactancia (1 hora fraccionable hasta los 12 meses, sustituible por reducción de jornada o por acumulación en jornadas completas); visitas a hijos hospitalizados; reducción de jornada por guarda legal (menores de 12 años, discapacidad, mayores dependientes); reducción hasta el 50% por enfermedad muy grave de familiar de primer grado (máximo 1 mes); por deber inexcusable; por asuntos particulares (6 días/año, incrementables por trienios a partir del sexto); por matrimonio o registro de pareja de hecho (15 días); por donación de órganos/tejidos.
+Permisos de conciliación, violencia de género y terrorismo (mínimos garantizados): permiso por nacimiento para la madre biológica (16 semanas, 6 obligatorias tras el parto, ampliable por discapacidad/parto múltiple/hospitalización del neonato); permiso por adopción/guarda/acogimiento (16 semanas, 6 obligatorias); permiso del progenitor diferente de la madre biológica (16 semanas, 6 obligatorias); permiso por violencia de género o sexual (reducción/reordenación de jornada, retribuciones íntegras si la reducción es ≤1/3); permiso por cuidado de hijo menor con cáncer u otra enfermedad grave (reducción ≥50% con retribuciones íntegras, hasta los 23 años, ampliable a 26 con discapacidad ≥65%); permiso para víctimas del terrorismo; permiso parental (hasta 8 semanas, continuas o discontinuas, hasta que el menor cumpla 8 años, derecho individual no transferible).
+Otros permisos de la Comunidad de Madrid (Acuerdo de la Mesa Sectorial 2025-2028): régimen detallado de días por matrimonio, fallecimiento/enfermedad grave, exámenes, cambio de domicilio, actividades sindicales, reservistas voluntarios, asuntos particulares (6 días/año) y deber inexcusable (máximo 1/5 de las horas laborales trimestrales); permisos de conciliación adicionales (enfermedad muy grave de familiar, enfermedad de hijos menores de 16 años, fuerza mayor); permiso por nacimiento/adopción (122 días, ampliable); progenitor diferente (16 semanas); lactancia (1 hora durante 12 meses o acumulación pactada). El período de devengo de vacaciones coincide con el año natural.
+
+4.1.3. Derechos generales de los funcionarios de la CM (art. 67 Ley 1/1986): información sobre fines/organización/funciones; permanencia en el puesto e indemnizaciones por desplazamiento temporal; retribución y previsión social; carrera administrativa y formación; libertades sindicales y huelga; información y participación; anticipos a cuenta; asistencia sanitaria y prestaciones sociales; conservación de la condición de funcionario; seguridad e higiene. La Ley 5/2005 (CM) reconoce a la funcionaria víctima de violencia de género derecho a reducción/reordenación de jornada, movilidad geográfica y excedencia, acreditados mediante resolución judicial, administrativa o informe del Ministerio Fiscal.
+
+4.2. Deberes de los funcionarios
+
+4.2.1. Regulación estatal: además de leyes específicas, el Reglamento de Régimen Disciplinario (RD 33/1986) y el Código Penal (Título XIX del Libro II: prevaricación, abandono de destino, desobediencia, infidelidad en la custodia de documentos, cohecho, tráfico de influencias, malversación, fraudes, negociaciones prohibidas). El TREBEP establece un Código de Conducta:
+A) Deberes/Código de conducta: diligencia, sujeción a la Constitución y al ordenamiento, con arreglo a objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, ejemplaridad, austeridad, accesibilidad, eficacia, honradez, promoción del entorno cultural/medioambiental e igualdad.
+B) Principios éticos: respeto a la Constitución; satisfacción del interés general con imparcialidad; lealtad y buena fe; no discriminación; abstención en conflictos de interés; no contraer obligaciones económicas conflictivas; no aceptar tratos de favor; eficacia/economía/eficiencia; no influir indebidamente en trámites; diligencia en plazos; dedicación al servicio público; secreto de materias clasificadas.
+C) Principios de conducta: trato con atención y respeto; diligencia y cumplimiento de jornada; obediencia (salvo infracción manifiesta, que se pone en conocimiento de inspección); información a los ciudadanos; administración austera de recursos; rechazo de regalos/favores; conservación de documentos; formación actualizada; seguridad y salud laboral; propuestas de mejora; atención en la lengua oficial solicitada.
+
+4.2.2. Deberes de los funcionarios de la CM (Ley 1/1986): cumplimiento de la Constitución/Estatuto/ordenamiento; servicio con objetividad e imparcialidad; eficacia y perfeccionamiento; respeto y obediencia a superiores; trato correcto; sigilo; residencia en el municipio de destino u otro compatible con el horario; disponibilidad fuera de horario por necesidades excepcionales; atención de servicios mínimos en huelga.
+
+4.3. Las incompatibilidades. Principios generales. Ámbito de aplicación
+Se aplica a los funcionarios de la CM el régimen básico de la Ley 53/1984, desarrollable reglamentariamente por el Gobierno de la CM. Fundamento: art. 103 CE (estatuto de funcionarios, sistema de incompatibilidades y garantías de imparcialidad).
+
+4.3.2. Ley 53/1984
+A) Principios generales: no cabe compatibilizar con un segundo puesto/cargo/actividad en el sector público, salvo excepciones legales; no cabe percibir más de una remuneración con cargo a presupuestos públicos; el desempeño de un puesto es incompatible con cualquier cargo/actividad que menoscabe deberes o comprometa imparcialidad/independencia (existe además la Ley 3/2015 de Altos Cargos de la AGE).
+B) Ámbito de aplicación: personal civil y militar del Estado y sus Organismos Públicos; personal de las CCAA y sus organismos, Asambleas Legislativas e instituciones; personal de Corporaciones Locales; personal de Entes exceptuados de la Ley de Entidades Estatales Autónomas; personal retribuido por arancel; personal de la Seguridad Social; personal de entidades/corporaciones/fundaciones/consorcios subvencionados en >50%; personal de empresas con participación pública >50%; personal del Banco de España; resto de personal con régimen estatutario. Extendido (LO 1/1985) al personal del Tribunal Constitucional, CGPJ, Tribunal de Cuentas, Consejo de Estado, Poder Judicial y Administración de Justicia.
+C) Incompatibilidades con actividades públicas: solo cabe segundo puesto en supuestos tasados (docencia, sanidad, interés público por RD del Consejo de Ministros —a tiempo parcial, régimen laboral—), con autorización previa expresa (sin modificar jornadas de ambos puestos). Incompatible con pensión de jubilación/retiro (salvo jubilación parcial con puesto a tiempo parcial). Reglas específicas para profesorado universitario. Cargos electivos compatibles (miembros de Asambleas autonómicas sin retribución periódica incompatible; miembros de Corporaciones Locales sin dedicación exclusiva); solo se percibe la retribución de una actividad (salvo dietas). Límite retributivo: suma no puede superar la de Director General ni el sueldo principal incrementado en 30% (A1), 35% (A2), 40% (C1), 45% (C2), 50% (Agrupaciones Profesionales). Investigación/asesoramiento excepcional autorizable. Servicios en el segundo puesto no computan a trienios ni derechos pasivos; pagas extraordinarias solo por un puesto. Consejos de Administración: máximo 2, solo dietas/indemnizaciones (excedentes a la Tesorería pública). Autorización: Ministerio competente en función pública (a propuesta de la Subsecretaría) o Consejero de Economía, Hacienda y Empleo en la CM (silencio positivo a los 3 meses). Opción entre dos puestos incompatibles: en el plazo de toma de posesión (a falta de opción, se entiende por el nuevo, pasando a excedencia voluntaria en el anterior).
+D) Incompatibilidades con actividades privadas: prohibición general de actividades privadas relacionadas con las del Departamento/Organismo. Prohibiciones específicas: asuntos en que intervenga o haya intervenido en los 2 últimos años; pertenencia a Consejos de Administración de empresas relacionadas; cargos en empresas concesionarias/contratistas; participación >10% en su capital. Actividades ≥1/2 jornada semanal: solo si la actividad pública es a tiempo parcial. Reconocimiento de compatibilidad: resolución motivada en 2 meses, por el Ministro competente (o Consejero de Economía, Hacienda y Empleo en la CM; silencio positivo a los 3 meses); sin modificación de jornada; se anula con cambio de puesto.
+E) Disposiciones comunes: no cabe compatibilidad si las retribuciones incluyen el factor de incompatibilidad (salvo complementos específicos ≤30% de la retribución básica, excluida antigüedad); inscripción obligatoria en los Registros de Personal.
+F) Actividades exceptuadas: administración del patrimonio personal/familiar; dirección de seminarios/cursos/conferencias (≤75 horas/año); participación en tribunales de selección; participación docente en exámenes distintos de los habituales; cargos no retribuidos en Mutualidades/Patronatos; creación literaria/artística/científica/técnica no derivada de empleo; participación ocasional en medios de comunicación; colaboración ocasional en congresos/seminarios.
+G) Carácter básico: bases del régimen estatutario (art. 149.1.18 CE), salvo D.A. 5ª y D.T. 7ª (Delegados del Gobierno, Guardia Civil y médicos del Registro Civil).
+
+===========================================================
+5. SITUACIONES ADMINISTRATIVAS DE LOS FUNCIONARIOS
+===========================================================
+
+5.1. Concepto: posiciones jurídicas del funcionario con efectos sobre retribuciones y cómputo de servicios (trienios, derechos pasivos).
+
+5.2. Regulación legal: TREBEP, Ley 30/1984 y RD 365/1995 (supletorio); en la CM, Ley 1/1986.
+
+5.3. Clases (según la Ley 1/1986): servicio activo; excedencia voluntaria (por incompatibilidad, interés particular, agrupación familiar); excedencia por cuidado de familiares; excedencia forzosa; servicios en otras AAPP; servicios especiales; suspensión; excedencia por violencia de género/sexual.
+
+5.4. Servicio activo: supuestos (desempeño del puesto con carácter definitivo/provisional/comisión de servicios; disposición del órgano competente en determinados ceses; plazo posesorio; servicios en la Cámara de Cuentas/Cortes/Tribunal de Cuentas; Gabinetes ministeriales si se opta por permanecer). Efectos: todos los derechos, prerrogativas, deberes y responsabilidades.
+
+5.5. Reingreso al servicio activo: por participación en convocatorias de provisión (si no hay reserva de puesto) o por adscripción provisional (convocatoria de provisión definitiva en máximo 1 año, con obligación de participar).
+
+5.6. Servicios especiales
+5.6.1. Supuestos: misión internacional >6 meses; funcionario de organizaciones internacionales; miembro del Gobierno/Altos Cargos; elegido para órganos constitucionales/estatutarios; adscrito al Tribunal Constitucional/Defensor del Pueblo/Tribunal de Cuentas/CGPJ; Diputado/Senador; Diputado autonómico con retribución periódica; cargos electivos retribuidos de dedicación exclusiva local; personal eventual de alto nivel que no opte por servicio activo; Parlamento Europeo; reservistas activados; otros previstos por ley.
+5.6.2. Efectos: A) cómputo del tiempo a efectos de ascensos/grado/trienios/derechos pasivos/excedencia voluntaria (salvo funcionarios que ejerciten el derecho de transferencia a instituciones europeas); B) reserva de puesto de igual nivel y retribución si procedía de una situación con reserva; C) retribuciones del puesto/cargo efectivo desempeñado (más trienios reconocidos); D) reingreso obligatorio en el plazo de 1 mes desde el cese en la causa (si no, excedencia voluntaria por interés particular).
+
+5.7. Excedencia voluntaria
+5.7.1. Efectos: cese temporal, sin retribución ni cómputo a efectos de ascensos/grado/trienios/derechos pasivos (salvo servicios en el sector público, excepto sociedades mercantiles de participación pública mayoritaria, que sí computan a trienios).
+5.7.2. Tipos: A) por incompatibilidad (activo en otro Cuerpo/Escala o como laboral fijo sin compatibilidad); B) por interés particular (5 años de servicios previos, mínimo 2 años continuados, subordinada a necesidades del servicio, no si hay expediente disciplinario); C) por agrupación familiar (cónyuge con destino definitivo en otro municipio; duración de 2 a 15 años).
+
+5.8. Excedencia por cuidado de hijos y de familiares: 5.8.1. hasta 3 años por cada hijo (natural, adopción, guarda o acogimiento); 5.8.2. hasta 3 años por familiar hasta 2º grado que no pueda valerse por sí mismo; 5.8.3. efectos comunes: período único por sujeto causante, derecho individual, computable a trienios/grado/derechos pasivos/excedencia por interés particular; reserva de puesto durante 2 años (después, puesto de igual nivel en la misma Consejería); posibilidad de formación.
+
+5.9. Excedencia forzosa: 5.9.1. causa: suspenso firme sin reserva de puesto al que no se concede el reingreso en 6 meses; 5.9.2. obligación de participar en concursos y aceptar reingreso (incumplimiento → excedencia voluntaria por interés particular); 5.9.3. retribuciones básicas y prestaciones familiares, computable a derechos pasivos y trienios; 5.9.4. no puede desempeñar puestos en el sector público bajo ninguna relación.
+
+5.10. Servicios en otras Administraciones (CM): 5.10.1. funcionario de la CM que pasa a otra Administración por concurso/libre designación: sometido al régimen de la Administración de destino (salvo la sanción de separación, que corresponde a la CM); conserva su condición sin retribución de la CM; 5.10.2. funcionario propio que reingresa al Estado: excedencia voluntaria en la CM; 5.10.3. funcionario de otra Administración que cesa en la CM con destino definitivo en otra: cesa totalmente en su vinculación con la CM.
+
+5.11. Excedencia por razón de violencia de género o sexual: sin tiempo mínimo de servicios ni plazo de permanencia; reserva de puesto los 6 primeros meses (prorrogable por 3 meses hasta 18 meses según tutela judicial), computable a ascensos/trienios/derechos pasivos; retribuciones íntegras los 2 primeros meses.
+
+5.12. Excedencia por violencia terrorista: mismas condiciones que la anterior, para víctimas con daños físicos/psíquicos o amenazadas (reconocimiento del Ministerio del Interior o sentencia firme).
+
+5.13. La suspensión de funciones: privación del ejercicio de funciones y derechos; provisional o firme.
+5.13.2. Provisional: acordada preventivamente en expediente disciplinario (no más allá del plazo máximo de resolución, salvo paralización imputable al interesado) o en proceso judicial (mientras dure la prisión provisional u otra medida); derecho a retribuciones básicas y prestación familiar; si se eleva a firme, devolución de lo percibido; si no se declara firme, cómputo como servicio activo con reincorporación inmediata.
+5.13.3. Firme: por condena penal o sanción disciplinaria; pérdida del puesto si excede de 6 meses; solicitud de reingreso con 1 mes de antelación al fin de la suspensión (si no, excedencia voluntaria por interés particular); si no se concede el reingreso en 6 meses, excedencia forzosa.
+
+5.14. La reasignación de efectivos y sus situaciones derivadas
+5.14.1. Causa: supresión del puesto por Plan de Empleo, con criterios objetivos (aptitudes, formación, experiencia, antigüedad); adscripción definitiva.
+5.14.2. Indemnizaciones: por cambio de residencia.
+5.14.3. Fases: A) primera (departamental, 6 meses, obligatoria en el mismo municipio); B) segunda (interdepartamental, 3 meses); C) encomienda de tareas durante ambas fases.
+5.14.4. Expectativa de destino: retribuciones básicas + complemento de destino del grado + 50% del complemento específico; obligación de aceptar destinos similares, participar en concursos y cursos; duración máxima 1 año (después, excedencia forzosa); equiparada a servicio activo a otros efectos.
+5.14.5. Excedencia forzosa por expectativa de destino: por transcurso del plazo o incumplimiento de obligaciones; retribuciones básicas y prestaciones familiares (cómputo a derechos pasivos y trienios); prohibición de trabajar en el sector público; reingreso obligatorio en puestos similares.
+5.14.6. Excedencia voluntaria incentivada: para funcionarios en las dos primeras fases de reasignación o en expectativa de destino/excedencia forzosa; duración 5 años (después, excedencia voluntaria por interés particular si no se reingresa); indemnización de 1 mensualidad por año completo de servicio (máximo 12 mensualidades); mismos efectos que la excedencia voluntaria general.
+
+===========================================================
+6. SISTEMA DE RETRIBUCIONES
+===========================================================
+
+6.1. Retribuciones de los funcionarios públicos (art. 23 Ley 30/1984): retribuciones básicas, complementarias, e indemnizaciones por residencia y por razón del servicio.
+
+6.1.1. Retribuciones básicas
+A) Clases: sueldo (según índice de proporcionalidad del Grupo/Subgrupo; el de A1 no puede exceder 3 veces el de Agrupaciones Profesionales); trienios (cantidad igual por cada 3 años de servicio en el Cuerpo/Escala, computando todos los servicios previos bajo cualquier relación y en cualquier Administración, incluida la UE); pagas extraordinarias (2 al año, junio y diciembre, mínimo 1 mensualidad de sueldo+trienios; actualmente sueldo+trienios+100% del complemento de destino), con reducción proporcional en determinados supuestos (servicios parciales, licencias sin retribución, cambio de Administración, cese).
+B) Cuantías: iguales para todas las AAPP por Cuerpo/Escala/Categoría/Clase, fijadas en la Ley de Presupuestos.
+
+6.1.2. Retribuciones complementarias
+- Complemento de destino: según el nivel del puesto (30 niveles); vinculado al grado personal (consolidado por 2 años continuados o 3 con interrupción en un nivel); intervalos por Grupo (D.T. 6ª RD-ley 6/2023): A1 24-30, A2 20-26, B 18-24, C1 16-22, C2 14-18.
+- Complemento específico: por dificultad técnica, dedicación, responsabilidad, incompatibilidad, peligrosidad, penosidad; solo uno por puesto (pudiendo combinar factores); 14 pagas anuales (12 mensuales + 2 extra en junio/diciembre); compatible con actividades privadas si no supera el 30% de la retribución básica (excluida antigüedad).
+- Complemento de productividad: rendimiento especial, dedicación extraordinaria, iniciativa, contribución a objetivos; no genera derecho para valoraciones futuras; límite porcentual sobre costes de personal fijado en la Ley de Presupuestos; cuantías individuales de conocimiento público (funcionarios y sindicatos).
+- Gratificaciones por servicios extraordinarios: excepcionales, fuera de jornada, no fijas ni periódicas.
+
+6.1.3. Retribuciones de otros colectivos: interinos (básicas con trienios + complementarias del puesto, excluidas las de carrera); eventuales (básicas sin trienios del grupo de asimilación + complementarias del puesto); funcionarios en prácticas (mínimo el sueldo del Grupo/Subgrupo al que aspiran; RD 456/1986: sueldo y pagas extra, incrementado si desempeñan puesto; opción entre esa retribución o la de su puesto de origen si ya prestaban servicios).
+
+6.1.4. Retribuciones en la CM: básicas (sueldo, trienios -en Grupo distinto se computa en el superior-, pagas extraordinarias) y complementarias (destino, específico -todos los puestos lo tienen, con mínimos por Grupo-, productividad, gratificaciones); no cabe retribuir por otros conceptos; indemnizaciones según legislación estatal; cuantías aprobadas anualmente en los Presupuestos de la CM.
+
+6.1.5. Retribuciones de funcionarios en prácticas en la CM: art. 70 Ley 1/1986 (licencia para prácticas); regulación coincidente con la estatal (Orden de 26 de enero de 2006).
+
+6.2. Indemnizaciones
+6.2.1. Régimen jurídico: RD 462/2002, de 24 de mayo, sobre indemnizaciones por razón de servicio; aplicable al personal civil/militar de la AGE y organismos vinculados, Seguridad Social, Organismos Públicos, Administración de Justicia, Corporaciones Locales y UNED. Comprenden gastos de manutención (importe fijo, sin justificación), alojamiento (gasto real con límite) y desplazamiento (taxi, peajes, etc., según condiciones).
+
+6.3. Otras cuestiones retributivas: normas de devengo, liquidación por días en determinados supuestos, y demás aspectos regulados en la normativa presupuestaria anual.
+
+===========================================================
+7. RÉGIMEN DISCIPLINARIO
+===========================================================
+
+7.1. Introducción: potestad disciplinaria de la Administración por la situación de sujeción especial del funcionario. Regulado en el Título VII TREBEP y, supletoriamente, en el RD 33/1986. Aplicable también, en lo procedente, a los funcionarios en prácticas. Sin perjuicio de la responsabilidad civil o penal.
+
+7.2. Faltas: muy graves, graves y leves.
+7.2.1. Muy graves (art. 95 TREBEP y RD 33/1986): incumplimiento del deber de respeto a la Constitución/Estatutos de Autonomía; discriminación o acoso; abandono del servicio; acuerdos manifiestamente ilegales con perjuicio grave; publicación/utilización indebida de información; negligencia en la custodia de secretos oficiales; incumplimiento notorio de funciones esenciales; violación de la imparcialidad en procesos electorales; desobediencia abierta (salvo infracción manifiesta); prevalencia de la condición de empleado para beneficio indebido; obstaculización de libertades públicas/derechos sindicales; coartar el derecho de huelga; incumplir servicios esenciales en huelga; incumplimiento de incompatibilidades que genere situación de incompatibilidad; incomparecencia injustificada en Comisiones de Investigación parlamentarias; acoso laboral; las tipificadas como tales por ley o convenio colectivo.
+7.2.2. Graves: fijadas por Ley de Función Pública o convenio colectivo, atendiendo a la vulneración de la legalidad, gravedad del daño y descrédito de la imagen pública; hasta su desarrollo, rigen las del RD 33/1986: falta de obediencia; abuso de autoridad; conductas de delito doloso relacionadas con el servicio; tolerancia de los superiores; grave desconsideración; daños graves en locales/material; intervenir con causa de abstención; informes/acuerdos ilegales con perjuicio (sin ser muy grave); falta de rendimiento; falta de sigilo con perjuicio; incumplimiento de plazos de incompatibilidades (sin situación de incompatibilidad); incumplimiento de jornada ≥10 horas/mes; tercera falta injustificada en 3 meses; grave perturbación del servicio; atentado a la dignidad; grave falta de consideración con administrados; evasión de sistemas de control horario.
+7.2.3. Leves (RD 33/1986, hasta desarrollo): incumplimiento injustificado de horario (sin ser grave); falta de asistencia injustificada de 1 día; incorrección; descuido o negligencia; incumplimiento de deberes no calificable como grave/muy grave.
+
+7.3. Personas responsables: funcionarios y personal laboral sujetos al régimen disciplinario; responsabilidad también de quien induzca o encubra faltas muy graves/graves con daño grave.
+
+7.4. Sanciones: separación del servicio (solo por faltas muy graves; en interinos, revocación del nombramiento); despido disciplinario (personal laboral, solo faltas muy graves, con inhabilitación para nuevo contrato similar); suspensión firme de funciones/empleo y sueldo (máximo 6 años); traslado forzoso (con o sin cambio de residencia); demérito (penalización en carrera/promoción/movilidad); apercibimiento; otras por ley. Suspensión: 3-6 años por falta muy grave, hasta 3 años por falta grave; si no excede el tiempo de suspensión provisional, no implica necesariamente pérdida del puesto. Traslado con cambio de residencia: prohibición de nuevo destino en esa localidad 3 años (muy grave) o 1 año (grave). Leves: solo apercibimiento. Faltas graves/muy graves requieren expediente instruido; leves solo trámite de audiencia. Las Juntas/Delegados de Personal deben ser informados de sanciones por faltas muy graves.
+
+7.5. Extinción de la responsabilidad disciplinaria
+7.5.1. Causas: cumplimiento de la sanción, muerte, prescripción, indulto o amnistía; pérdida de la condición de funcionario durante el procedimiento extingue este (sin perjuicio de responsabilidad civil/penal), salvo que se inste su continuación.
+7.5.2. Prescripción de faltas: muy graves 3 años, graves 2 años, leves 6 meses (desde su comisión o cese si son continuadas); se interrumpe con la incoación (vuelve a correr si el expediente se paraliza más de 6 meses por causa no imputable al funcionario).
+7.5.3. Prescripción de sanciones: muy graves 3 años, graves 2 años, leves 1 año (desde la firmeza de la resolución).
+
+7.6. Procedimiento disciplinario
+7.6.1. Principios: legalidad y tipicidad; irretroactividad desfavorable/retroactividad favorable; proporcionalidad; culpabilidad; presunción de inocencia.
+7.6.2. Procedimiento y medidas provisionales: separación entre instrucción y sanción; faltas leves por procedimiento sumario con audiencia; suspensión provisional cautelar máximo 6 meses (salvo paralización imputable); en proceso judicial, mientras dure la prisión/medida; retribuciones básicas y prestación familiar durante la suspensión; devolución si se eleva a firme; restitución si no se convierte en sanción; cómputo para la suspensión firme; reincorporación inmediata si no se declara firme.
+7.6.3. Ordenación: impulso de oficio en todos los trámites.
+7.6.4. Iniciación: siempre de oficio (propia iniciativa, orden superior, moción de subordinados o denuncia, comunicándose al denunciante); posible información reservada previa; competencia del Subsecretario del Departamento (o Directores Generales/Delegados del Gobierno en su ámbito); nombramiento de Instructor (Cuerpo/Escala igual o superior al inculpado) y, si procede, Secretario.
+7.6.5. Desarrollo: diligencias y pruebas; declaración del inculpado; pliego de cargos en máximo 1 mes; contestación en 10 días; práctica de pruebas en 1 mes (denegación motivada, sin recurso); vista del expediente (10 días); propuesta de resolución (10 días); nueva alegación tras la propuesta (10 días).
+7.6.6. Terminación: resolución en 10 días (salvo separación del servicio), motivada, sin hechos distintos a los del pliego de cargos; posible devolución al Instructor para diligencias imprescindibles (con nueva vista de 10 días). Órganos competentes: separación del servicio → Ministro del Departamento; suspensión/traslado → Subsecretario (o Ministro de Función Pública si afecta a varios Ministerios en incompatibilidades); apercibimiento → Subsecretario/Directores Generales/Delegados del Gobierno.
+
+7.7. Responsabilidad y régimen disciplinario en la Comunidad de Madrid
+7.7.1. Responsabilidades: el funcionario responde de la buena gestión; la Administración puede repetir contra el funcionario por culpa grave o ignorancia inexcusable; los particulares pueden exigir indemnización por daños causados por culpa grave o ignorancia inexcusable.
+7.7.2. Faltas y sanciones: clasificación en muy graves, graves y leves (art. 81 Ley 1/1986). Faltas muy graves (art. 83): incumplimiento de fidelidad a la Constitución/Estatuto; discriminación; abandono del servicio; acuerdos ilegales con perjuicio grave; publicación de secretos oficiales; falta notoria de rendimiento; violación de imparcialidad política; incumplimiento de incompatibilidades; obstaculización de libertades sindicales; coartar la huelga; participación en huelga prohibida; incumplir servicios mínimos; limitar la libre expresión; daños muy graves por negligencia inexcusable/mala fe; reincidencia (3 faltas graves en 1 año). Graves y leves: remisión supletoria al RD 33/1986. Graduación: intencionalidad, atentado a la legalidad/interés público, perturbación del servicio, daños, reincidencia, reiteración. Órganos competentes: separación del servicio → Gobierno de la CM (o de la Administración de origen si es funcionario incorporado por concurso/libre designación/reasignación; previo dictamen del Consejo de Estado si es funcionario transferido); resto de muy graves y graves → Consejeros; leves → Secretarios Generales Técnicos; en Organismos Autónomos/Órganos de Gestión: muy graves → Consejos de Administración; graves y leves → Gerentes.
+
+===========================================================
+8. LA LEY DE FUNCIÓN PÚBLICA DE LA COMUNIDAD DE MADRID
+===========================================================
+
+Objeto: regular la Función Pública de la CM y el régimen jurídico de su personal, en el marco del Estatuto de Autonomía y la legislación básica estatal.
+
+8.1. Estructura: 7 Títulos (I Personal al servicio de la CM; II Relaciones de Puestos de Trabajo; III Oferta de Empleo; IV De los funcionarios de la CM; V Personal Laboral; VI Colaboración Temporal; VII Personal de la Administración Institucional), 14 Disposiciones Adicionales (la 14ª derogada), 10 Transitorias, 1 Derogatoria, 3 Finales.
+
+8.2. Personal al servicio de la CM
+Ámbito: todo el personal de la Administración regional y demás Instituciones (excepto el de la Asamblea de Madrid).
+8.2.1. Personal: funcionarios de carrera, funcionarios interinos, personal laboral. Personal eventual (D.A. 8ª): nombramiento/cese libre por el Presidente y Consejeros dentro de las consignaciones presupuestarias; funciones de confianza/asesoramiento; cesa con la autoridad; no genera mérito para el acceso ni la promoción interna.
+8.2.2. Órganos superiores de la Función Pública (art. 6): Consejo de Gobierno (política de personal y potestad reglamentaria); Consejero de Economía, Hacienda y Empleo (desarrollo, coordinación y control); Consejo Regional de la Función Pública (consulta y asesoramiento, hoy suprimido por la Ley 9/2010).
+8.2.3. Registro de Personal: banco de datos a cargo de la Consejería de Economía, Hacienda y Empleo, coordinado con los demás registros (en especial, el Registro Central de la Administración del Estado).
+
+8.3. Relaciones de puestos de trabajo
+8.3.1. Concepto: instrumento técnico para racionalizar y ordenar las plantillas, determinando efectivos y requisitos de cada puesto; carácter público; aprobación por el Consejo de Gobierno a propuesta del Consejero de Economía, Hacienda y Empleo.
+8.3.2. Criterios de clasificación: Servicios Centrales → funcionarios (asesoramiento/autoridad/inspección/control); Órganos Especiales de Gestión y Organismos Autónomos → naturaleza laboral (salvo puestos de autoridad/inspección/control reservados a funcionarios); Empresas Públicas → personal laboral.
+8.3.3. Requisitos: denominación, características esenciales, posición en la organización, requisitos de desempeño; para funcionarios, además: Grupo/Cuerpo/Escala, nivel, complemento específico (factores y valoración), forma de provisión.
+8.3.4. Plantillas presupuestarias: dotaciones por retribuciones básicas, complementos de destino, específicos, productividad y gratificaciones.
+
+8.4. Oferta de Empleo de la CM: publicada en el primer trimestre del año natural, tras la Ley de Presupuestos; comprende plazas de funcionarios y laborales dotadas y no cubiertas; propuesta por Consejería, elaborada por el Consejero de Economía, Hacienda y Empleo y aprobada por el Consejo de Gobierno; incluye plazas vacantes clasificadas, las que deban cubrirse, previsiones de evolución/cobertura y demás extremos reglamentarios. Oferta adicional excepcional posible, previo informe del Consejo Regional de la Función Pública (hoy suprimido).
+
+8.5. De los funcionarios de la Comunidad
+8.5.1. Concepto: vinculados por nombramiento legal, relación de servicios profesional y permanente (ocupando puesto o en situaciones administrativas).
+8.5.2. Grupos de clasificación (art. 27 Ley 1/1986): A (Doctor/Licenciado/Ingeniero/Arquitecto), B (Ingeniero Técnico/Diplomado/FP3), C (Bachiller/FP2), D (Graduado Escolar/FP1), E (Certificado de Escolaridad); equivalencias transitorias con los Subgrupos del TREBEP (A→A1, B→A2, C→C1, D→C2, E→Agrupaciones Profesionales).
+8.5.3. Adquisición y pérdida: adquisición por superación del sistema de selección, nombramiento del Consejero de Economía, Hacienda y Empleo, juramento/promesa y toma de posesión. Pérdida por: renuncia escrita (aceptación tácita si no hay declaración expresa en 15 días); sanción de separación firme; inhabilitación absoluta/especial; pérdida de la nacionalidad; jubilación forzosa o voluntaria.
+8.5.4. Cuerpos de funcionarios: se clasifican en Cuerpos de Administración General (tareas administrativas: Técnicos Superiores/Cuerpo Superior de Gestión -A-, Técnicos de Gestión -B-, Administrativos -C-, Auxiliares -D-, uno por grupo) y Cuerpos de Administración Especial (oficio/profesión/titulación específica: Técnicos Superiores de Salud Pública, Ingenieros y Arquitectos Superiores, Letrados, Inspectores de Hacienda, Agentes Forestales, Prevención y Extinción de Incendios, etc., organizados por Grupo). Creación/modificación/supresión solo por Ley de la Asamblea de Madrid (denominación, funciones, titulación); especialidades por Decreto del Consejo de Gobierno.
+8.5.5. Niveles de los puestos de trabajo: los reservados a funcionarios se clasifican según niveles del complemento de destino, conforme a las relaciones de puestos de trabajo.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+
+Los empleados públicos se clasifican en: funcionarios de carrera (reserva exclusiva de funciones de potestad pública/intereses generales); funcionarios interinos (nombramiento temporal por vacante -máx. 3 años-, sustitución transitoria, programa temporal -máx. 3 años + 12 meses- o exceso de tareas -máx. 9 meses en 18-); personal laboral (fijo/indefinido/temporal); personal eventual (funciones de confianza/asesoramiento, no permanente).
+
+Personal con legislación específica propia (aplicación directa del TREBEP solo si su legislación lo dispone): personal de las Cortes Generales y Asambleas Legislativas autonómicas; de otros órganos constitucionales/estatutarios; Jueces/Magistrados/Fiscales y personal de la Administración de Justicia; personal militar; Fuerzas y Cuerpos de Seguridad; personal retribuido por arancel; personal del CNI; personal del Banco de España y Fondos de Garantía de Depósitos.
+
+Incompatibilidades: reguladas en la Ley 53/1984 y el RD 598/1985. Como norma general no cabe un segundo puesto público sin autorización expresa; suma de percepciones limitada al sueldo de Director General e incrementos del 30/35/40/45/50% según Subgrupo. Las actividades privadas requieren reconocimiento previo de compatibilidad.
+
+Régimen disciplinario: el TREBEP fija los principios y las faltas muy graves; para el resto (graves, leves, sanciones moduladas, procedimiento) se acude supletoriamente al RD 33/1986. La prescripción se rige exclusivamente por el TREBEP.
+
+Situaciones administrativas (Ley 1/1986 CM): servicio activo; excedencia voluntaria (incompatibilidad, interés particular, agrupación familiar); excedencia por cuidado de familiares; excedencia forzosa; servicios en otras AAPP; servicios especiales; suspensión; excedencia por violencia de género/sexual.
+
+Órganos superiores de la Función Pública de la CM (art. 6 Ley 1/1986): Consejo de Gobierno; Consejero de Economía, Hacienda y Empleo; Consejo Regional de la Función Pública (hoy suprimido).
