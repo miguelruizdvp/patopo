@@ -1,0 +1,311 @@
+TEMA 8 - La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno: ámbito de actuación, publicidad activa y derecho de acceso a la información pública. Especial referencia a la Comunidad de Madrid. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: principios y derechos de las personas. Referencia al Delegado de Protección de Datos, y al responsable y encargado del tratamiento. Especialidades en el Sector Público.
+
+Referencias legislativas: Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno. Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPD). Reglamento (UE) 2016/679 (RGPD).
+
+===========================================================
+1. INTRODUCCIÓN
+===========================================================
+
+El "open government" es una actitud de apertura hacia el ciudadano que la Ley 19/2013 pretende favorecer. El concepto de "Gobierno abierto" se construye sobre tres pilares:
+- Transparencia: puesta a disposición de los ciudadanos de información y datos objetivos, sencillos, comprensibles y ordenados sobre la actividad, actuaciones, decisiones, planes e intenciones del Gobierno y la Administración (no es un canal de noticias oficial).
+- Participación: apertura de canales de comunicación entre Administración y ciudadano para que este pueda hacer aportaciones a la toma de decisiones.
+- Colaboración: puesta en común de medios y recursos con otras personas y entidades para mayor eficiencia y eficacia.
+
+===========================================================
+2. LA LEY 19/2013, DE 9 DE DICIEMBRE, DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA Y BUEN GOBIERNO
+===========================================================
+
+2.1. Motivación de la Ley
+
+La transparencia, el acceso a la información pública y las normas de buen gobierno deben ser ejes fundamentales de la acción política: favorecen instituciones más fuertes, mejor fiscalización de la actividad pública, regeneración democrática y crecimiento económico. La Ley tiene un triple alcance:
+- Incrementa y refuerza la transparencia mediante obligaciones de publicidad activa.
+- Reconoce y garantiza el acceso a la información como derecho de amplio ámbito subjetivo y objetivo.
+- Establece obligaciones de buen gobierno y sus consecuencias jurídicas.
+
+2.2. Introducción
+
+Publicada en el BOE de 10 de diciembre de 2013. Entrada en vigor: las disposiciones sobre buen gobierno, al día siguiente de la publicación; el resto, al año de la publicación. A CCAA y Entidades Locales se les concedió un plazo máximo de 2 años para adaptarse.
+
+Consta de 40 artículos en 4 Títulos:
+- Título Preliminar (art. 1).
+- Título I. Transparencia de la actividad pública (arts. 2-24): Cap. I Ámbito subjetivo; Cap. II Publicidad activa; Cap. III Derecho de acceso a la información pública (Secc. 1ª Régimen general; Secc. 2ª Ejercicio del derecho; Secc. 3ª Régimen de impugnaciones).
+- Título II. Buen gobierno (arts. 25-32).
+- Título III. Consejo de Transparencia y Buen Gobierno (arts. 33-40).
+- 8 Disposiciones Adicionales; 9 Disposiciones Finales.
+
+Objeto de la Ley: ampliar y reforzar la transparencia de la actividad pública, regular y garantizar el derecho de acceso a la información de esta actividad, y establecer las obligaciones de buen gobierno de los responsables públicos y sus consecuencias por incumplimiento.
+
+2.3. Ámbito de actuación, publicidad activa y derecho de acceso a la información pública
+
+2.3.1. Ámbito subjetivo de aplicación
+
+1. Aplicación total:
+a) AGE, Administraciones de las CCAA, Ceuta y Melilla, y entidades de la Administración Local.
+b) Entidades gestoras y servicios comunes de la Seguridad Social, y mutuas de accidentes de trabajo y enfermedades profesionales colaboradoras.
+c) Organismos autónomos, Agencias Estatales, entidades públicas empresariales y entidades de Derecho Público con independencia funcional o especial autonomía y funciones de regulación/supervisión externa.
+d) Entidades de Derecho Público con personalidad jurídica propia vinculadas/dependientes de las AAPP, incluidas las Universidades públicas.
+e) Corporaciones de Derecho Público, en sus actividades sujetas a Derecho Administrativo.
+f) Casa de S.M. el Rey, Congreso, Senado, Tribunal Constitucional, CGPJ, Banco de España, Consejo de Estado, Defensor del Pueblo, Tribunal de Cuentas, Consejo Económico y Social e instituciones autonómicas análogas, en sus actividades sujetas a Derecho Administrativo.
+g) Sociedades mercantiles con participación pública (directa o indirecta) superior al 50%.
+h) Fundaciones del sector público.
+i) Asociaciones constituidas por las Administraciones, organismos y entidades anteriores.
+Constituyen Administraciones Públicas los incluidos en los incisos a) a d).
+
+2. Aplicación parcial (solo Capítulo II del Título I, publicidad activa):
+a) Partidos políticos, organizaciones sindicales y organizaciones empresariales.
+b) Entidades privadas que perciban ayudas/subvenciones públicas superiores a 100.000€ anuales, o cuando al menos el 40% de sus ingresos anuales sean de ayuda/subvención pública (mínimo 5.000€).
+
+Las personas físicas/jurídicas distintas de las anteriores que presten servicios públicos o ejerzan potestades administrativas deben suministrar, previo requerimiento, toda la información necesaria a la Administración a la que estén vinculadas (incluidos adjudicatarios de contratos del sector público).
+
+2.3.2. Publicidad activa
+
+A) Principios generales: publicación periódica y actualizada de información relevante para garantizar la transparencia, en sedes electrónicas/páginas web, de manera clara, estructurada, entendible y en formatos reutilizables. Cuando contenga datos especialmente protegidos, publicidad previa disociación. Entidades sin ánimo de lucro con fines de interés social/cultural y presupuesto inferior a 50.000€ pueden usar los medios electrónicos de la Administración de la que reciban la mayor parte de ayudas. Información accesible para personas con discapacidad.
+
+B) Tipos de información:
+1. Institucional, organizativa y de planificación: funciones, normativa aplicable, estructura organizativa (organigrama actualizado), planes y programas anuales/plurianuales con objetivos, evaluación y publicación periódica de resultados; inventario de actividades de tratamiento (art. 77.1 LOPD).
+2. Información de relevancia jurídica: directrices, instrucciones, acuerdos, circulares o respuestas a consultas con efectos jurídicos; Anteproyectos de Ley y proyectos de Decretos Legislativos (al solicitarse dictámenes, o al aprobarse si no es preceptivo); proyectos de Reglamentos; memorias e informes de elaboración normativa (memoria de análisis de impacto normativo); documentos sometidos a información pública.
+3. Información económica, presupuestaria y estadística (mínimo):
+a) Todos los contratos (objeto, duración, importe de licitación/adjudicación, procedimiento, licitadores, adjudicatario, modificaciones, desistimiento/renuncia); contratos menores publicables trimestralmente; estadísticas de adjudicación por procedimiento y de participación de pymes (publicación semestral).
+b) Convenios suscritos (partes, objeto, plazo, modificaciones, obligaciones económicas); encomiendas de gestión y subcontrataciones.
+c) Subvenciones y ayudas públicas concedidas (importe, finalidad, beneficiarios).
+d) Presupuestos (partidas, ejecución, estabilidad presupuestaria y sostenibilidad financiera).
+e) Cuentas anuales e informes de auditoría/fiscalización.
+f) Retribuciones anuales de altos cargos y máximos responsables; indemnizaciones por abandono del cargo.
+g) Resoluciones de compatibilidad de empleados públicos y de actividad privada al cese de altos cargos.
+h) Declaraciones anuales de bienes y actividades de representantes locales (omitiendo localización de inmuebles).
+i) Información estadística sobre calidad de los servicios públicos.
+Los sujetos de aplicación parcial publican a)/b) solo si son contratos/convenios con una Administración Pública, y c) si el concedente es una Administración Pública. Las AAPP publican la relación de bienes inmuebles propios.
+
+C) Control: el cumplimiento por la AGE es controlado por el Consejo de Transparencia y Buen Gobierno, que puede dictar resoluciones para el cese del incumplimiento e iniciar actuaciones disciplinarias. El incumplimiento reiterado de publicidad activa es infracción grave.
+
+D) Portal de Transparencia: desarrollado por la AGE, dependiente del Ministerio para la Transformación Digital y de la Función Pública. AGE, CCAA, Ceuta, Melilla y Entidades Locales pueden adoptar medidas complementarias.
+
+E) Principios técnicos del Portal: a) Accesibilidad; b) Interoperabilidad (Esquema Nacional de Interoperabilidad, RD 4/2010); c) Reutilización (Ley 37/2007).
+
+2.3.3. Derecho de acceso a la información pública
+
+A) Régimen general
+1. Derecho de acceso: todas las personas tienen derecho a acceder a la información pública (art. 105.b CE), sin perjuicio de la normativa autonómica.
+2. Información pública: contenidos o documentos, cualquiera que sea su formato o soporte, en poder de sujetos del ámbito de aplicación, elaborados o adquiridos en el ejercicio de sus funciones.
+3. Límites al derecho de acceso (perjuicio para): a) seguridad nacional; b) defensa; c) relaciones exteriores; d) seguridad pública; e) prevención/investigación/sanción de ilícitos penales, administrativos o disciplinarios; f) igualdad de partes en procesos judiciales y tutela judicial efectiva; g) funciones de vigilancia, inspección y control; h) intereses económicos y comerciales; i) política económica y monetaria; j) secreto profesional y propiedad intelectual/industrial; k) confidencialidad en procesos de toma de decisión; l) protección del medio ambiente. Aplicación justificada y proporcionada, atendiendo a la concurrencia de interés público o privado superior.
+4. Protección de datos personales: si la información revela ideología, afiliación sindical, religión o creencias, el acceso solo se autoriza con consentimiento expreso y escrito del afectado (salvo que este los hubiera hecho públicos). Si incluye origen racial, salud, vida sexual, datos genéticos/biométricos o infracciones sin amonestación pública, solo con consentimiento expreso o norma con rango de ley. Con carácter general se concede el acceso a datos meramente identificativos relacionados con la organización/funcionamiento/actividad pública del órgano. Si no hay datos especialmente protegidos, se concede el acceso previa ponderación razonada entre el interés público en la divulgación y los derechos de los afectados, considerando: a) menor perjuicio por el transcurso de plazos del art. 57 Ley 16/1985 de Patrimonio Histórico; b) justificación del solicitante en el ejercicio de un derecho o su condición de investigador con fines históricos/científicos/estadísticos; c) menor perjuicio si son datos meramente identificativos; d) mayor garantía si afectan a intimidad, seguridad o menores. No aplicable si se disocian los datos personales.
+5. Acceso parcial: si el límite no afecta a toda la información, se concede el acceso parcial omitiendo la parte afectada (salvo que resulte distorsionada o sin sentido).
+
+B) Ejercicio del derecho de acceso
+1. Solicitud: dirigida al titular del órgano/entidad que posea la información (o a la Administración vinculada, si la posee un particular que presta servicios públicos). Debe permitir constancia de: identidad, información solicitada, dirección de contacto, y modalidad preferida de acceso. No es obligatorio motivarla. Puede presentarse en cualquier lengua cooficial del territorio.
+2. Causas de inadmisión (mediante resolución motivada): a) información en curso de elaboración o publicación general; b) información de carácter auxiliar o de apoyo (notas, borradores, opiniones, resúmenes, comunicaciones e informes internos); c) información que requiera reelaboración; d) dirigida a órgano sin la información y sin conocerse el competente; e) solicitudes manifiestamente repetitivas o abusivas.
+3. Tramitación: remisión al órgano competente si no obra en el destinatario; 10 días para concretar solicitudes imprecisas (con apercibimiento de desistimiento, suspendiendo el plazo); 15 días de alegaciones a terceros afectados (suspendiendo el plazo); remisión a quien elaboró la información si es distinta del poseedor. La Secretaría General de la Presidencia del Gobierno tramita el acceso a información de la Casa de S.M. el Rey.
+4. Resolución: plazo máximo de 1 mes desde la recepción (ampliable por otro mes por volumen/complejidad, con notificación previa). Motivadas: las que deniegan, conceden acceso parcial o en modalidad distinta, o permiten el acceso habiendo oposición de tercero (indicando que el acceso solo procede tras el plazo de recurso contencioso sin formalizar o tras confirmación judicial). Silencio: desestimatorio. Recurribles directamente ante la Jurisdicción Contencioso-administrativa, sin perjuicio de la reclamación potestativa. El incumplimiento reiterado del plazo de resolución es infracción grave.
+5. Formalización del acceso: preferentemente por vía electrónica; si no puede darse en el momento de la notificación, plazo máximo de 10 días. Si hubo oposición de tercero, el acceso se demora hasta agotarse el plazo de recurso contencioso (sin formalizar) o su resolución confirmatoria. Si ya está publicada, la resolución puede limitarse a indicar cómo acceder. El acceso es gratuito (salvo tasas por copias o cambio de formato).
+
+C) Régimen de impugnaciones
+1. Recursos: la reclamación ante el Consejo de Transparencia y Buen Gobierno sustituye a los recursos administrativos. Contra resoluciones de Casa Real, Congreso, Senado, Tribunal Constitucional, CGPJ, Banco de España, Consejo de Estado, Defensor del Pueblo, Tribunal de Cuentas, Consejo Económico y Social e instituciones autonómicas análogas, solo cabe recurso contencioso-administrativo.
+2. Reclamación ante el Consejo de Transparencia y Buen Gobierno: potestativa y previa a la vía contencioso-administrativa; plazo de 1 mes desde la notificación o desde el silencio. Se tramita conforme a la LPA (materia de recursos). Si la denegación se funda en protección de terceros, trámite de audiencia previo. Plazo máximo de resolución: 3 meses (silencio: desestimatorio). Las resoluciones se publican (previa disociación de datos personales) tras notificarse; el Presidente comunica al Defensor del Pueblo las resoluciones del art. 24. Competencia del Consejo de Transparencia y Buen Gobierno, salvo que las CCAA la atribuyan a un órgano específico. Contra resoluciones de Asambleas Legislativas e instituciones análogas al Consejo de Estado, CES, Tribunal de Cuentas y Defensor del Pueblo, solo cabe recurso contencioso-administrativo.
+
+===========================================================
+3. ESPECIAL REFERENCIA A LA COMUNIDAD DE MADRID
+===========================================================
+
+3.1. Ley 10/2019, de 10 de abril, de Transparencia y Participación de la Comunidad de Madrid
+
+3.1.1. Introducción
+La transparencia es un valor esencial regido por el principio de servicio (derecho de la ciudadanía, no condición accesoria). Constituye salvaguarda frente a la mala administración. La Ley se ajusta a la legislación básica (Ley 19/2013) pero la desarrolla, especialmente en publicidad de la información. Establece un mecanismo de selección del Consejo de Transparencia y Protección de Datos (antes Consejo de Transparencia y Participación) y, a diferencia de la legislación básica, un régimen de infracciones y sanciones propio.
+
+Estructura: 88 artículos en 6 Títulos, 13 Disposiciones adicionales, 2 transitorias, 1 derogatoria, 3 finales y 2 anexos:
+- Título I: Disposiciones generales.
+- Título II: Publicidad activa.
+- Título III: Derecho de acceso a la información pública.
+- Título IV: Participación y colaboración ciudadana en los asuntos públicos.
+- Título V: Consejo de Transparencia y Protección de Datos.
+- Título VI: Infracciones y sanciones en materia de transparencia y participación.
+
+3.1.2. Objeto y ámbito de aplicación
+Objeto: regular, en la CM, la transparencia (publicidad activa y derecho de acceso) y la participación/colaboración ciudadana.
+Ámbito de aplicación (art. 2): a) Administración Pública de la CM; b) organismos autónomos, empresas públicas, órganos de gestión sin personalidad jurídica y entidades institucionales (Ley 1/1984); c) fundaciones públicas, consorcios, entidades de derecho público del sector público de la CM (Ley 9/1990); d) asociaciones constituidas por la Administración de la CM; e) empresas públicas con posición dominante adscritas al sector público autonómico; f) entidades de la Administración local, asociaciones/fundaciones locales y empresas públicas locales con posición dominante (D.A. octava). También universidades públicas y sus entes vinculados (D.A. octava). En actividad sujeta a Derecho administrativo: Asamblea de Madrid, Cámara de Cuentas, Corporaciones de Derecho público madrileñas, federaciones y clubes deportivos.
+Otros sujetos obligados (art. 3): partidos políticos, sindicatos, organizaciones empresariales (en todo caso) y entidades privadas que perciban ayudas/subvenciones superiores a 60.000€ o al menos el 30% de sus ingresos anuales (mínimo 5.000€), sujetos a exigencias específicas de publicidad.
+Personas obligadas a suministrar información: quienes presten servicios públicos, ejerzan potestades administrativas o actúen como agentes colaboradores, en 10 días desde el acuse de recibo (también adjudicatarios de contratos).
+
+3.1.3. Principios técnicos (art. 6): transparencia pública; libre acceso a la información pública; veracidad; accesibilidad; gratuidad; reutilización; participación ciudadana; inscripción única; neutralidad tecnológica (software de código abierto y estándares abiertos).
+
+3.1.4. Publicidad activa
+Los sujetos obligados deben disponer de portal/página web con información comprensible, estructurada y actualizada (art. 8.1 mínimo). Cada sujeto es responsable de su información. Límites del derecho de acceso aplicables (protección de datos); si contiene datos especialmente protegidos, anonimización (disociación o agregación estadística), a criterio del Consejo de Transparencia y Participación.
+Tipos de información sujeta a publicación: institucional (art. 10); organizativa (art. 11); altos cargos y personal directivo (art. 12); personal eventual (art. 13); empleo en el sector público (art. 14); económica (art. 15); normativa (art. 16); servicios y procedimientos (art. 17); económico-financiera (art. 18); patrimonio (art. 19); planificación y programación (art. 20); obras públicas (art. 21); contratos (art. 22); convenios, encomiendas de gestión y encargos a medios propios (art. 23); concesión de servicios públicos (art. 24); ayudas y subvenciones (art. 25); ordenación del territorio (art. 26); estadística (art. 27).
+
+3.1.5. Órganos responsables de la información pública (art. 28)
+Oficina de Coordinación de la Transparencia (dependiente de la Consejería competente en información pública): coordina las Consejerías, elabora directrices, gestiona el Portal de Transparencia de la CM, hace seguimiento de solicitudes, asesora, elabora informe anual.
+Unidades de transparencia (en cada Consejería, adscritas a la Secretaría General Técnica): coordinan órganos dependientes, requieren información, hacen seguimiento de solicitudes/reclamaciones, asesoran, elaboran memoria anual.
+Resto de sujetos obligados: deben establecer órgano/unidad responsable con funciones análogas.
+
+3.1.6. Portal de Transparencia (art. 29)
+Sistema integral de información y conocimiento en formato electrónico, fundamentado en el Portal de Transparencia de la CM y en los portales/sedes/sitios web enlazados. Incluye Registro de acceso y reclamaciones, instrumentos de participación y Registro de Transparencia, y procedimiento de reclamaciones ante el Consejo. Objetivos: acceso a toda la información obligada; facilitar identificación y localización; ofrecer acceso electrónico y procedimientos de reclamación; formatos reutilizables; estadísticas trimestrales de consultas más frecuentes; mecanismos de participación ciudadana. Información en formatos abiertos y reutilizables, interoperable (Esquema Nacional de Interoperabilidad), con buscador y alertas; sin caducidad.
+
+3.1.7. Derecho de acceso a la información pública
+
+A) Disposiciones generales
+- Titulares: todas las personas.
+- Registro de solicitudes de acceso y reclamaciones (obligatorio en la CM): fecha, identidad, descripción y motivación, forma/formato de acceso, datos de contacto, tiempo de atención y razones de demora, tipo de respuesta y motivos de denegación. Otros sujetos pueden adherirse o tener registro propio.
+- Órganos competentes: el titular del órgano/entidad que posea la información; o el órgano con competencias en el servicio/materia si es información de particulares que prestan servicios públicos.
+- Derechos: acceder a la información; ser informado de si obra en poder del órgano; ser asistido; recibir asesoramiento; recibir la información en plazo y forma elegida; conocer las razones de denegación; obtener la información gratuitamente (salvo tasas de copias/formato); usar, reutilizar y compartir la información.
+- Obligaciones: concretar la petición; buena fe e interdicción del abuso de derecho; cumplir condiciones de acceso; respetar licencias de reutilización; abonar tasas cuando procedan.
+- Límites y protección de datos: solo limitable en los supuestos de normativa UE y legislación básica estatal; datos de categoría especial según RGPD y LOPD; acceso general a datos meramente identificativos; ponderación razonada si no hay datos especialmente protegidos; no aplicable con disociación/anonimización.
+
+B) Procedimiento
+- Inicio: solicitud dirigida al órgano/entidad competente, con constancia de identidad, información solicitada, contacto y modalidad preferida (también de forma oral, recogida en formato electrónico). No es obligatorio motivarla.
+- Solicitudes imprecisas: 10 días para concretar (con apercibimiento de desistimiento y suspensión del plazo).
+- Inadmisión: según causas de la legislación básica, con precisiones: debe indicarse el órgano y tiempo previsto si es información en curso; no se considera auxiliar los informes preceptivos ni documentos que hayan servido de motivación; no se considera reelaboración la obtenible mediante tratamiento informatizado de uso corriente.
+- Remisión al órgano competente: en 5 días si se conoce; si no se conoce, se intenta averiguar (5 días); transcurridos 5 días sin conocerlo, se inadmite.
+- Plazo de resolución: 20 días desde la recepción (ampliable 20 días más por volumen/complejidad). Inadmisiones: máximo 5 días hábiles. Silencio: desestimatorio.
+- Resolución: motivada cuando inadmita, deniegue, conceda acceso parcial, conceda en modalidad distinta, o permita el acceso con oposición de tercero. Pone fin a la vía administrativa; recurrible ante la jurisdicción contencioso-administrativa, sin perjuicio de la reclamación potestativa.
+- Acceso: preferentemente electrónico (formato electrónico original si es electrónico); en la modalidad solicitada salvo imposibilidad técnica, coste desproporcionado o alternativa más económica; derecho a copias (salvo coste desproporcionado, motivadamente denegado); gratuito salvo tasas por copias.
+
+C) Régimen de impugnación
+Reclamación ante el Consejo de Transparencia y Protección de Datos, potestativa y previa a la vía contencioso-administrativa; plazo de 1 mes desde la notificación o el silencio. Presentable presencial, telemáticamente, por correo postal o electrónico. Tramitación según legislación básica estatal. Resolución motivada, estimatoria o desestimatoria total/parcial; si estima, fija la información, modalidad, plazo y condiciones de acceso.
+
+3.1.8. Participación y colaboración ciudadana en la dirección de los asuntos públicos
+Título IV: Cap. I Participación y colaboración ciudadana; Cap. II Registro de Transparencia.
+
+3.1.9. Consejo de Transparencia y Protección de Datos
+Órgano administrativo colegiado adscrito a la Consejería de Presidencia, Justicia y Administración Local, con autonomía y plena independencia funcional. Competencias en transparencia (fomento, análisis, control, protección) y en protección de datos (deliberación, consulta, participación, coordinación).
+Composición: Comisión de Transparencia y Participación; Comisión de Protección de Datos; Presidente (preside ambas). Solo el Presidente percibe retribución.
+Presidente: nombrado por 4 años (renovable), mediante Decreto del Consejo de Gobierno a propuesta del titular de la Consejería de Presidencia, entre personas de reconocido prestigio, previa comparecencia ante la Comisión correspondiente de la Asamblea de Madrid (refrendo por mayoría absoluta, o simple en segunda votación, en 1 mes natural). Cesa por expiración del mandato, petición propia, o separación acordada por el Consejo de Gobierno (previa instrucción por incumplimiento grave, incapacidad permanente, incompatibilidad sobrevenida o condena por delito doloso).
+Memoria anual: elevada a la Comisión correspondiente de la Asamblea de Madrid dentro del primer trimestre del ejercicio siguiente, publicada en el Portal de Transparencia.
+
+3.1.10. Infracciones y sanciones en materia de transparencia y participación
+Tras la reforma de la Ley 16/2023, de 27 de diciembre, se aplica el régimen de infracciones y sanciones de la Ley 19/2013, de 9 de diciembre.
+
+===========================================================
+4. LEY ORGÁNICA 3/2018, DE 5 DE DICIEMBRE, DE PROTECCIÓN DE DATOS PERSONALES Y GARANTÍA DE LOS DERECHOS DIGITALES: PRINCIPIOS Y DERECHOS DE LAS PERSONAS
+===========================================================
+
+4.1. Introducción
+Entró en vigor el 7 de diciembre de 2018, sustituyendo a la LO 15/1999. Adapta el ordenamiento español al Reglamento (UE) 2016/679 (RGPD) y completa sus disposiciones. El derecho fundamental a la protección de datos (art. 18.4 CE) se ejerce conforme al RGPD y la LO 3/2018.
+
+4.2. Estructura de la ley
+97 artículos en 10 Títulos, 23 Disposiciones adicionales, 6 transitorias, 1 derogatoria y 16 finales:
+- Preámbulo.
+- Título I. Disposiciones generales.
+- Título II. Principios de protección de datos.
+- Título III. Derechos de las personas (Cap. I Transparencia e información; Cap. II Ejercicio de los derechos).
+- Título IV. Disposiciones aplicables a tratamientos concretos.
+- Título V. Responsable y encargado del tratamiento (Cap. I Disposiciones generales, medidas de responsabilidad activa; Cap. II Encargado del tratamiento; Cap. III Delegado de protección de datos; Cap. IV Códigos de conducta y certificación).
+- Título VI. Transferencias internacionales de datos.
+- Título VII. Autoridades de protección de datos (Cap. I AEPD; Cap. II Autoridades autonómicas).
+- Título VIII. Procedimientos en caso de posible vulneración de la normativa de protección de datos.
+- Título IX. Régimen sancionador.
+- Título X. Garantía de los derechos digitales.
+
+4.3. Ámbito de aplicación y excepciones al ámbito de aplicación
+Ámbito de aplicación: cualquier tratamiento total o parcialmente automatizado de datos personales, y el tratamiento no automatizado de datos contenidos o destinados a un fichero.
+Excepciones (art. 2):
+a) Tratamientos excluidos del RGPD: actividades fuera del ámbito del Derecho de la UE; actividades de política exterior y seguridad común de los Estados miembros; tratamientos por persona física en actividades exclusivamente personales/domésticas; tratamientos de autoridades competentes con fines de prevención/investigación/detección/enjuiciamiento de infracciones penales o ejecución de sanciones penales.
+b) Tratamientos de datos de personas fallecidas.
+c) Tratamientos sometidos a normativa sobre materias clasificadas.
+Los tratamientos no directamente sujetos al RGPD se rigen por su legislación específica y, supletoriamente, por el RGPD y la LO 3/2018 (p.ej.: legislación electoral, instituciones penitenciarias, Registro Civil, Registros de la Propiedad y Mercantiles). El tratamiento por órganos judiciales y por el Ministerio Fiscal se rige por el RGPD y la LO 3/2018, sin perjuicio de la LOPJ y el Estatuto del Ministerio Fiscal respectivamente.
+
+4.4. Datos de las personas fallecidas
+La LO 3/2018 no se aplica a los difuntos, pero personas vinculadas por razones familiares/de hecho y herederos pueden solicitar acceso, rectificación o supresión de sus datos (salvo prohibición expresa en vida o por ley); esta prohibición no afecta al acceso de los herederos a datos patrimoniales. En caso de menores fallecidos, también pueden ejercerlo representantes legales o el Ministerio Fiscal. En caso de personas con discapacidad fallecidas, también quienes ejercieran funciones de apoyo.
+
+4.5. Principios de protección de datos (RGPD y LO 3/2018)
+
+A) Lealtad, licitud y transparencia: el tratamiento es lícito cuando concurre al menos uno de estos requisitos: consentimiento del interesado; necesario para ejecución de contrato; cumplimiento de obligación legal (art. 9.1 LOPD: solo si lo prevé norma de la UE o norma con rango de ley); protección de intereses vitales; cumplimiento de misión de interés público o ejercicio de poderes públicos (art. 8.2 LOPD: solo si deriva de competencia atribuida por norma con rango de ley); satisfacción de intereses legítimos del responsable o de un tercero (no aplicable a autoridades públicas en ejercicio de sus funciones). El consentimiento, cuando sea necesario, debe ser manifestación de voluntad libre, específica, informada e inequívoca (se excluye el consentimiento tácito o por omisión).
+
+B) Limitación de la finalidad: datos recogidos con fines determinados, explícitos y legítimos, no tratados de forma incompatible (el tratamiento ulterior con fines de archivo de interés público, investigación científica/histórica o estadísticos no se considera incompatible).
+
+C) Minimización de datos: adecuados, pertinentes y limitados a lo necesario.
+
+D) Exactitud: exactos y actualizados, con medidas razonables de supresión/rectificación sin dilación. No imputable al responsable la inexactitud cuando (art. 4.2 LOPD): a) obtenidos directamente del afectado; b) obtenidos de un mediador/intermediario; c) recibidos de otro responsable por portabilidad (art. 20 RGPD); d) obtenidos de un registro público.
+
+E) Limitación del plazo de conservación: mantenidos solo el tiempo necesario para los fines (salvo archivo de interés público, investigación o fines estadísticos, con medidas técnicas y organizativas apropiadas).
+
+F) Integridad y confidencialidad: seguridad adecuada frente a tratamiento no autorizado/ilícito y pérdida/destrucción/daño accidental. Deber de confidencialidad de responsables, encargados y todo interviniente (complementario del secreto profesional), que se mantiene tras finalizar la relación.
+
+G) Responsabilidad proactiva: el responsable debe cumplir y poder demostrar el cumplimiento de los principios anteriores (rendición de cuentas).
+
+4.6. Derechos de protección de datos
+
+4.6.1. Plazo del responsable para responder al interesado
+El responsable facilita información sin dilación y, en cualquier caso, en el plazo de 1 mes (prorrogable 2 meses más por complejidad/número de solicitudes, informando en el plazo de 1 mes de los motivos). Si no atiende la solicitud, informa en 1 mes de las razones y de la posibilidad de reclamar ante la autoridad de control y ejercer acciones judiciales. Actuaciones a título gratuito, salvo solicitudes manifiestamente infundadas o excesivas (canon razonable o negativa a actuar, con la carga de la prueba en el responsable).
+
+4.6.2. Derecho a la información
+A) Datos obtenidos del interesado (art. 13 RGPD): identidad y contacto del responsable/representante; contacto del DPD; fines y base jurídica del tratamiento; intereses legítimos si aplica; destinatarios; intención de transferencia internacional; plazo de conservación; existencia de los derechos de acceso, rectificación, supresión, limitación, oposición y portabilidad; derecho a retirar consentimiento; derecho a reclamar ante autoridad de control; carácter legal/contractual de la comunicación de datos; existencia de decisiones automatizadas/elaboración de perfiles. El art. 11 LOPD permite facilitar información básica (identidad del responsable, finalidad, posibilidad de ejercer derechos) con remisión a información adicional accesible electrónicamente; si hay elaboración de perfiles, debe indicarse también el derecho a oponerse.
+B) Datos no obtenidos del interesado (art. 14 RGPD): información similar, más categorías de datos, fuente de los datos y plazos de comunicación (plazo razonable, máximo 1 mes; o en la primera comunicación/cesión). Excepciones: el interesado ya dispone de la información; comunicación imposible o esfuerzo desproporcionado (con medidas adecuadas de protección); obtención/comunicación establecida por Derecho de la UE/Estados miembros; obligación de secreto profesional.
+
+4.6.3. Derecho de acceso
+El interesado tiene derecho a confirmación de si se tratan sus datos y a acceder a ellos y a información sobre: fines, categorías de datos, destinatarios, plazo de conservación, derechos de rectificación/supresión/limitación/oposición, derecho a reclamar, origen de los datos si no se obtuvieron del interesado, existencia de decisiones automatizadas. Derecho a copia (canon razonable por copias adicionales). El art. 13 LOPD permite al responsable pedir que se especifiquen los datos/actividades cuando trate gran cantidad de datos; se considera otorgado el derecho si se facilita un sistema de acceso remoto, directo y seguro. Repetitivo: más de una vez en 6 meses (salvo causa legítima). Coste desproporcionado por elección de medio distinto: la solicitud es excesiva y el afectado asume el exceso de coste.
+
+4.6.4. Derecho de rectificación
+Derecho a obtener sin dilación indebida la rectificación de datos inexactos y a completar los incompletos. El art. 14 LOPD exige que el afectado indique en su solicitud a qué datos se refiere y la corrección, acompañando documentación justificativa cuando sea preciso.
+
+4.6.5. Derecho de supresión (derecho al olvido)
+El responsable debe suprimir sin dilación indebida cuando: a) ya no sean necesarios; b) se retire el consentimiento sin otro fundamento jurídico; c) el interesado se oponga y no prevalezcan otros motivos legítimos; d) tratamiento ilícito; e) supresión exigida por obligación legal; f) datos obtenidos en relación con servicios de la sociedad de la información (art. 8.1). Si son datos públicos, medidas razonables para informar a otros responsables de la solicitud de supresión de enlaces/copias. No aplicable cuando el tratamiento sea necesario por: libertad de expresión e información; obligación legal o misión de interés público; razones de interés público en salud pública; fines de archivo/investigación/estadísticos; formulación/ejercicio/defensa de reclamaciones. Si la supresión deriva del derecho de oposición (art. 21.2 RGPD), el responsable puede conservar datos identificativos para impedir tratamientos futuros de mercadotecnia directa.
+
+4.6.6. Derecho de limitación del tratamiento
+Aplicable cuando: a) el interesado impugna la exactitud (mientras se verifica); b) tratamiento ilícito y el interesado se opone a la supresión pidiendo limitación; c) el responsable ya no necesita los datos pero el interesado los necesita para reclamaciones; d) el interesado se ha opuesto (mientras se verifica la prevalencia de motivos). Datos limitados solo tratables (salvo conservación) con consentimiento, para reclamaciones, protección de derechos de terceros o interés público importante. Debe constar claramente en los sistemas de información. Obligación de comunicar rectificación/supresión/limitación a los destinatarios (salvo imposibilidad o esfuerzo desproporcionado).
+
+4.6.7. Derecho a la portabilidad de los datos
+Derecho a recibir los datos en formato estructurado, de uso común y lectura mecánica, y a transmitirlos a otro responsable, cuando el tratamiento se base en consentimiento o contrato y se efectúe por medios automatizados. Transmisión directa entre responsables cuando sea técnicamente posible.
+
+4.6.8. Derecho de oposición
+Derecho a oponerse en cualquier momento, por motivos relacionados con su situación particular, al tratamiento (incluida elaboración de perfiles); el responsable cesa el tratamiento salvo motivos legítimos imperiosos o para reclamaciones. En mercadotecnia directa, oposición sin condiciones (cesa el tratamiento para ese fin). Debe mencionarse explícitamente en la primera comunicación. En investigación científica/histórica/estadística, oposición salvo necesidad por interés público.
+
+4.6.9. Derecho a decisiones individuales automatizadas, incluida la elaboración de perfiles
+Derecho a no ser objeto de decisiones basadas únicamente en tratamiento automatizado (incluida elaboración de perfiles) con efectos jurídicos o que afecten significativamente, salvo que: sea necesaria para un contrato; esté autorizada por el Derecho de la UE/Estados miembros con medidas de salvaguarda; se base en consentimiento explícito. En estos casos, medidas de salvaguarda mínimas: intervención humana, expresar el punto de vista, impugnar la decisión. No se basará en categorías especiales de datos salvo consentimiento explícito o interés público esencial con medidas adecuadas.
+
+===========================================================
+5. REFERENCIA AL DELEGADO DE PROTECCIÓN DE DATOS Y AL RESPONSABLE Y ENCARGADO DEL TRATAMIENTO
+===========================================================
+
+5.1. Delegado de Protección de Datos (DPD)
+
+Designación obligatoria (RGPD) cuando: el tratamiento lo realice una autoridad u organismo público (salvo tribunales en función judicial; posible DPD único para varias); las actividades principales requieran observación habitual y sistemática de interesados a gran escala; las actividades principales consistan en tratamiento a gran escala de categorías especiales de datos o de condenas/infracciones penales.
+La LO 3/2018 añade obligación de designar DPD para: colegios profesionales y consejos generales; centros docentes y universidades públicas/privadas; operadores de comunicaciones electrónicas con tratamiento habitual a gran escala; prestadores de servicios de la sociedad de la información con elaboración de perfiles a gran escala; entidades de crédito (Ley 10/2014); establecimientos financieros de crédito; aseguradoras y reaseguradoras; empresas de servicios de inversión; distribuidores/comercializadores de energía eléctrica y gas natural; entidades de ficheros de solvencia patrimonial/prevención de fraude/blanqueo de capitales; entidades de publicidad y prospección comercial con perfiles; centros sanitarios obligados a historias clínicas (excepto profesionales individuales); entidades de informes comerciales sobre personas físicas; operadores de juego online; empresas de seguridad privada; federaciones deportivas que tratan datos de menores. El resto puede designar DPD voluntariamente.
+Comunicación a la AEPD (o autoridad autonómica) en 10 días de designaciones, nombramientos y ceses. Designación según cualidades profesionales, titulación universitaria y conocimientos especializados en Derecho y práctica de protección de datos.
+
+5.1.1. Posición del DPD
+Actúa como interlocutor ante la AEPD/autoridades autonómicas; puede inspeccionar procedimientos y emitir recomendaciones. Si es persona física integrada en la organización, no puede ser removido ni sancionado por desempeñar sus funciones (salvo dolo o negligencia grave); se garantiza su independencia. Acceso a datos y procesos sin que se le oponga confidencialidad. Debe comunicar de inmediato a los órganos de administración/dirección las vulneraciones relevantes que aprecie.
+El RGPD exige que el responsable/encargado: garanticen su participación adecuada y oportuna; le respalden con recursos; garanticen que no recibe instrucciones ni es destituido/sancionado por sus funciones (rinde cuentas al más alto nivel jerárquico). Deber de secreto/confidencialidad. Puede actuar a tiempo completo o parcial, integrado en plantilla o mediante contrato de servicios, y desempeñar otras funciones sin conflicto de intereses.
+
+5.1.2. Funciones del DPD: informar y asesorar al responsable/encargado y empleados; supervisar el cumplimiento del RGPD y las políticas de protección de datos (incluida formación y auditorías); asesorar sobre evaluación de impacto y supervisar su aplicación; cooperar con la autoridad de control; actuar como punto de contacto de la autoridad de control; intervenir en la reclamación potestativa previa (art. 37 LO 3/2018); atender cuestiones de los interesados.
+
+5.1.3. Intervención en caso de reclamación ante las autoridades de protección de datos
+El afectado puede dirigirse al DPD antes de reclamar ante la AEPD/autoridades autonómicas; el DPD comunica la decisión en el plazo máximo de 2 meses. Si el afectado reclama directamente ante la AEPD, esta puede remitir la reclamación al DPD para que responda en 1 mes; si no responde, continúa el procedimiento según el Título VIII de la LO 3/2018.
+
+5.2. Responsable y encargado del tratamiento
+
+5.2.1. Medidas de responsabilidad activa
+
+A) Obligaciones generales: los responsables y encargados determinan las medidas técnicas y organizativas apropiadas (arts. 24 y 25 RGPD), valorando la procedencia de la evaluación de impacto y la consulta previa. La evaluación de impacto (art. 35 RGPD) es obligatoria cuando el tratamiento entrañe alto riesgo, en particular: evaluación sistemática/exhaustiva basada en tratamiento automatizado con decisiones de efectos jurídicos; tratamiento a gran escala de categorías especiales de datos o infracciones penales; observación sistemática a gran escala de zona de acceso público. El art. 28.2 LOPD añade supuestos de mayor riesgo a considerar: discriminación, usurpación de identidad, fraude, pérdidas financieras, daño reputacional, pérdida de confidencialidad, reversión de seudonimización u otro perjuicio significativo; privación de derechos/control de datos; tratamiento no incidental de categorías especiales o infracciones administrativas; evaluación de aspectos personales para perfiles; colectivos vulnerables (menores, discapacidad); tratamiento masivo; transferencias habituales a terceros países sin nivel adecuado; otros relevantes en códigos de conducta/certificación.
+
+B) Corresponsabilidad en el tratamiento: cuando dos o más responsables determinen conjuntamente objetivos y medios, son corresponsables y deben acordar de modo transparente sus responsabilidades respectivas (art. 26.1 RGPD; art. 29 LOPD).
+
+C) Representantes de responsables/encargados no establecidos en la UE: responsabilidad solidaria del representante (novedad de la LOPD, art. 30) cuando el tratamiento afecte a personas en España; la AEPD/autoridades autonómicas pueden imponer al representante, solidariamente con el responsable/encargado, las medidas del RGPD (sin perjuicio de la acción de repetición). En exigencia de responsabilidad (art. 82 RGPD), responden solidariamente de los daños y perjuicios.
+
+5.2.2. Derecho a conocer el registro de actividades de tratamiento de datos personales de las organizaciones públicas (art. 31 LOPD, remite al art. 30 RGPD)
+Cada responsable/representante lleva un registro con: nombre y contacto del responsable/corresponsable/representante/DPD; fines del tratamiento; categorías de interesados y de datos; categorías de destinatarios; transferencias internacionales; plazos de supresión; descripción de medidas de seguridad. El encargado lleva registro análogo de las categorías de tratamiento efectuadas por cuenta de cada responsable. Deben constar por escrito (incluido formato electrónico) y ponerse a disposición de la autoridad de control. No se aplica a empresas/organizaciones con menos de 250 empleados, salvo que el tratamiento entrañe riesgo, no sea ocasional, o incluya categorías especiales de datos o infracciones penales.
+
+5.2.3. Bloqueo de los datos (art. 32 LOPD)
+El responsable debe bloquear los datos al proceder a su rectificación o supresión: identificación y reserva con medidas técnicas/organizativas que impidan su tratamiento (incluida visualización), excepto puesta a disposición de jueces, Ministerio Fiscal o AAPP competentes para exigencia de responsabilidades, y solo por el plazo de prescripción. Transcurrido el plazo, destrucción. Si la configuración del sistema no permite el bloqueo o exige esfuerzo desproporcionado, copiado seguro con evidencia de autenticidad, fecha y no manipulación. La AEPD y autoridades autonómicas pueden fijar excepciones a la obligación de bloqueo (por naturaleza de los datos, número elevado de afectados o coste desproporcionado).
+
+5.2.4. Encargado del tratamiento
+El acceso del encargado a los datos necesarios para prestar el servicio no se considera comunicación de datos si se cumple el RGPD y la LOPD. Es responsable (no encargado) quien establece relaciones con los afectados en su propio nombre sin actuar por cuenta de otro (salvo encargos en el marco de la contratación del sector público), o quien utiliza los datos para fines propios figurando como encargado. Al finalizar la prestación, el responsable determina si los datos se destruyen, devuelven o entregan a un nuevo encargado (salvo previsión legal de conservación); el encargado puede conservar los datos bloqueados mientras puedan derivarse responsabilidades. En el sector público pueden atribuirse competencias de encargado a un órgano de la AGE, CCAA, Entidades Locales u organismos vinculados mediante norma reguladora con el contenido del art. 28.3 RGPD.
+
+===========================================================
+6. ESPECIALIDADES EN EL SECTOR PÚBLICO
+===========================================================
+
+El RGPD (art. 37.1.a) exige designar un DPD cuando el tratamiento lo lleve a cabo una autoridad u organismo público (excepto tribunales en función judicial), tanto como responsable como en funciones de tratamiento. Puede designarse un único DPD para varias autoridades/organismos según su estructura y tamaño (p.ej. un Ministerio, Consejería o Ayuntamiento). Puede desarrollar su actividad a tiempo completo o parcial, integrado en plantilla o mediante contrato de servicios (art. 37.6 RGPD). En entidades de menor tamaño puede compaginar funciones, evitando conflicto de intereses (art. 38.6 RGPD): el DPD, como asesor y supervisor interno, no puede ocupar a la vez puestos con decisiones sobre la existencia o el modo de los tratamientos (p.ej. responsable de seguridad de la información), según ha señalado la AEPD. Es posible la contratación externa del DPD (p.ej. municipios pequeños mediante Diputación Provincial, CCAA o entidades privadas especializadas). La designación atiende a cualidades profesionales, conocimientos especializados en Derecho y práctica de protección de datos, y capacidad para desempeñar las funciones del art. 39 RGPD (informar/asesorar, supervisar el cumplimiento). En las AAPP, dado que sus órganos competentes son de composición política (con condición de autoridad) y en todo caso organismos públicos, la obligación de disponer de un DPD es indiscutible.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+
+Transparencia y acceso a la información pública:
+- Publicidad activa: los entes públicos deben publicar de forma periódica y actualizada la información relevante para garantizar la transparencia de su actividad, especialmente: información institucional, organizativa y de planificación; información de relevancia jurídica; información económica, presupuestaria y estadística.
+- Acceso a la información pública: derecho de todas las personas, con límites tasados (art. 14 Ley 19/2013: seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención de ilícitos, etc.). Ejercicio: solicitud al titular del órgano/entidad, sin obligación de motivarla; 10 días para subsanar; 15 días de alegaciones a terceros afectados; resolución en 1 mes (ampliable 1 mes más); silencio desestimatorio; acceso preferentemente electrónico, en 10 días si no es inmediato, demorado si hay oposición de tercero hasta agotar la vía contenciosa. Reclamación potestativa ante el Consejo de Transparencia y Buen Gobierno en 1 mes, resuelta en 3 meses (silencio desestimatorio).
+- Comunidad de Madrid: la Ley 10/2019, de 10 de abril, regula la transparencia (publicidad activa y derecho de acceso) y la participación/colaboración ciudadana en la CM.
+
+Principios de protección de datos (RGPD y LO 3/2018): lealtad, licitud y transparencia; limitación de la finalidad; minimización de datos; exactitud; limitación del plazo de conservación; integridad y confidencialidad; responsabilidad proactiva.
+
+Derecho de rectificación: derecho a obtener sin dilación indebida la rectificación de datos inexactos y la integración de los incompletos (art. 16 RGPD); el afectado debe indicar en su solicitud a qué datos se refiere y la corrección, acompañando documentación justificativa cuando sea preciso (art. 14 LOPD).
+
+Delegado de Protección de Datos: obligatorio para autoridades/organismos públicos (excepto tribunales en función judicial) y para determinadas entidades privadas listadas en la LOPD; funciones de información, asesoramiento, supervisión y de interlocución con la autoridad de control; goza de independencia funcional dentro de la organización.
