@@ -1,0 +1,165 @@
+TEMA 12: HACIENDA PÚBLICA: NORMATIVA BÁSICA. LA LEY REGULADORA DE LA HACIENDA DE LA COMUNIDAD DE MADRID: ESTRUCTURA Y PRINCIPIOS GENERALES. LOS PRESUPUESTOS GENERALES DE LA COMUNIDAD DE MADRID. EL CICLO PRESUPUESTARIO.
+
+REFERENCIAS LEGISLATIVAS
+- Constitución española de 1978.
+- Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera.
+- Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid.
+- Ley 9/2024, de 26 de diciembre, de Presupuestos Generales de la Comunidad de Madrid para 2025.
+- Reglamento de la Asamblea de Madrid de 7 de febrero de 2019.
+- Orden de 30 de mayo de 2024, de la Consejería de Economía, Hacienda y Empleo, normas de elaboración de los Presupuestos Generales de la CAM para 2025.
+
+1. HACIENDA PÚBLICA: NORMATIVA BÁSICA
+
+1.1. Concepto
+La Hacienda Pública admite tres acepciones:
+- Subjetiva: la Hacienda como "alguien" — el propio Estado y demás entes públicos en cuanto obtienen ingresos y realizan gastos (Fisco, Erario, Tesoro; técnicamente, Administración Financiera).
+- Objetiva: la Hacienda como "algo" — conjunto de medios económicos de titularidad pública. El art. 5 de la Ley 47/2003, General Presupuestaria, la define como "el conjunto de derechos y obligaciones de contenido económico cuya titularidad corresponde a la Administración General del Estado y a sus Organismos Autónomos" (extensible a otras Entidades Públicas, como las CCAA).
+- Funcional: conjunto de actuaciones administrativas dirigidas a obtener ingresos y realizar gastos.
+
+1.2. Normativa financiera
+Por su estructura jurídica, el Derecho Financiero consta de:
+- Normas sustantivas: determinan las relaciones jurídicas de la actividad financiera.
+- Normas procedimentales: regulan el procedimiento para ejecutar los mandatos sustantivos (ej. procedimientos de recaudación e inspección).
+
+Por su contenido material, se distingue entre:
+- Normas presupuestarias (vertiente de gastos), con doble encuadre: una ley permanente (Ley General Presupuestaria, Ley 47/2003) y una ley anual (Ley de Presupuestos Generales del Estado).
+- Normas tributarias (vertiente de ingresos), también con doble encuadre: una ley permanente de aplicación común (Ley 58/2003, General Tributaria) y leyes individuales de cada tributo.
+
+1.3. La Hacienda Pública en la Constitución española
+Las Constituciones modernas se preocupan por los ingresos y gastos públicos regulando la organización del poder financiero y estableciendo principios básicos. El art. 53 CE otorga eficacia limitativa directa a los derechos y libertades del Cap. II del Título I sobre las normas financieras; entre ellos, el art. 31 CE (bases del sistema tributario).
+
+1.3.1. Principios generales del Derecho Financiero
+A) Principio de legalidad: las normas importantes del Derecho Financiero deben tener rango de Ley (arts. 31.3, 133.1, 133.3, 133.4, 135.3 y 134.1 CE).
+B) Principio de justicia financiera: en gastos, asignación equitativa de recursos con eficiencia y economía (art. 31.2 CE); en ingresos, sistema tributario justo, con igualdad y progresividad, sin alcance confiscatorio (art. 31.1 CE).
+C) Principio de control de la actividad financiera: ejercido por las Cortes, el Defensor del Pueblo, los Tribunales de Justicia y el Tribunal de Cuentas.
+D) Principio de redistribución de la renta y la riqueza: equilibrio económico entre territorios (art. 138 CE) y digna calidad de vida para todos.
+E) Principio de solidaridad y coordinación entre Hacienda Central y Autonómicas: Fondo de Compensación Interterritorial (art. 158 CE) y autonomía financiera de las CCAA coordinada con la Hacienda estatal (art. 156 CE).
+
+1.3.2. Principios específicos del Derecho Tributario
+A) Irretroactividad de las sanciones (arts. 9.3 y 25.1 CE).
+B) No privación de libertad por sanciones administrativas (art. 25 CE).
+C) Principio de territorialidad: las CCAA no pueden adoptar medidas tributarias sobre bienes fuera de su territorio ni obstaculizar la libre circulación (art. 157 CE).
+D) Principio de sistematización: no está recogido expresamente, pero se deduce de los arts. 31 y 156 CE.
+
+1.3.3. Principios relativos al Derecho Presupuestario (arts. 134 y 136 CE)
+A) Anualidad: los PGE tendrán carácter anual (art. 134.2).
+B) Universalidad: los Presupuestos incluirán la totalidad de ingresos y gastos del sector público estatal (art. 134.2).
+C) Unidad: comprende todos los ingresos y gastos, aunque agregando distintos presupuestos.
+D) Competencia: elaboración por el Gobierno, examen/enmienda/aprobación por las Cortes Generales (art. 134).
+E) Contabilidad: obligación de contabilizar todas las operaciones, censuradas por el Tribunal de Cuentas (art. 136).
+
+2. LEY REGULADORA DE LA HACIENDA DE LA COMUNIDAD DE MADRID: ESTRUCTURA Y PRINCIPIOS GENERALES
+
+2.1. Exposición de motivos
+Hasta la Ley 9/1990 regía en la CAM la Ley General Presupuestaria estatal (Ley 11/1977) por remisión del Estatuto de Autonomía. La STC 14/1986 clarificó el ámbito básico reservado al Estado frente a las CCAA, y sobre esos criterios se asienta la Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid, que busca dar contenido amplio, permanencia y servir de referencia única a la gestión económico-financiera de la Comunidad, dentro del marco de la Ley Orgánica 8/1980 de Financiación de las CCAA (LOFCA).
+
+2.2. Estructura
+La Ley 9/1990 consta de un Título Preliminar y siete Títulos:
+- Título Preliminar: principios generales.
+- Título I: Del Régimen de la Hacienda de la Comunidad.
+- Título II: De los Presupuestos.
+- Título III: De la Intervención.
+- Título IV: Del Endeudamiento y los Avales.
+- Título V: De la Tesorería.
+- Título VI: De la Contabilidad Pública.
+- Título VII: De las Responsabilidades.
+Cuenta con 134 artículos, 11 Disposiciones Adicionales, 3 Transitorias, una Final y una Derogatoria.
+
+2.3. Contenido
+- Título Preliminar (arts. 1-20): define ámbito y conceptos (Administración, Organismos Autónomos, Empresas y Entes Públicos). El art. 2 define la Hacienda de la Comunidad como el conjunto de derechos y obligaciones de contenido económico de la CAM, sus Organismos Autónomos, Empresas Públicas y demás Entes Públicos.
+- Título I (arts. 21-43): régimen jurídico de derechos (Cap. I) y obligaciones (Cap. II) de la Hacienda.
+- Título II (arts. 44-81): ciclo presupuestario según Universalidad y Unidad. Cap. I: Presupuestos Generales de la Comunidad (Sección 1ª contenido y aprobación; Sección 2ª régimen de créditos y modificaciones; Sección 3ª ejecución y liquidación). Cap. II: Presupuestos de las Empresas y Entes Públicos.
+- Título III (arts. 82-89): fiscalización previa, formal y material, y comprobación de la inversión, en Administración (Cap. I) y Organismos Autónomos (Cap. II).
+- Título IV (arts. 90-103): endeudamiento (inferior o superior a un año) y avales (exterior/interior), con sus límites.
+- Título V (arts. 104-112): Tesorería (dinero, valores o créditos), Comunidad y Organismos Autónomos.
+- Título VI (arts. 113-128): contabilidad pública, incluyendo la Cuenta General.
+- Título VII (arts. 129-134): responsabilidades por incumplimiento de la Ley.
+
+2.4. Principios generales (Título Preliminar)
+- Reserva de Ley (art. 7): PGCM, Créditos Extraordinarios y Suplementos, elementos básicos tributarios, recargos sobre impuestos estatales, Patrimonio, contratación, endeudamiento y obligaciones financieras, y demás materias que exijan rango de Ley.
+- Competencia: elaboración por el Gobierno (art. 8), aprobación por la Asamblea (art. 7), ejecución por el poder ejecutivo. El art. 10 detalla funciones de los Órganos Superiores de Gobierno y Administración; el art. 11, de los Organismos Autónomos; el art. 9, de la Consejería de Economía, Hacienda y Empleo como Órgano Superior.
+- Unidad de caja (art. 13): centralización de fondos y valores en la Tesorería General, inspirada en el principio de caja única.
+- Presupuesto anual, de unidad y de universalidad (art. 14): presupuesto único, por programas, con todos los ingresos y gastos del sector público; limitativo para gastos y estimativo para ingresos en Administración/Organismos Autónomos; estimativo en ambos para Empresas y Entes Públicos (art. 44).
+- Control (arts. 16-18): función interventora, control financiero, control de eficacia, control de auditoría y control financiero permanente, principalmente a través de la Intervención General, sin perjuicio de la Cámara de Cuentas y el Tribunal de Cuentas.
+- Contabilidad (art. 19): sometimiento de toda la actividad al régimen de contabilidad.
+- Responsabilidad (art. 20): civil, penal o disciplinaria de autoridades y personal por dolo, culpa o negligencia que perjudique a la Hacienda.
+
+3. LOS PRESUPUESTOS GENERALES DE LA COMUNIDAD DE MADRID
+
+3.1. Concepto
+Según el art. 44 de la Ley 9/1990, los PGCM son la expresión cifrada, conjunta y sistemática de: a) las obligaciones máximas que puedan reconocer las Instituciones y la Administración de la Comunidad y sus Organismos Autónomos, y los derechos que se prevean reconocer; b) las estimaciones de gastos e ingresos de Empresas y demás Entes (arts. 5 y 6 de la Ley 9/1990). Deben consignarse también los beneficios fiscales, y presentarse y aprobarse equilibrados conforme al principio de estabilidad presupuestaria.
+
+3.2. Principios presupuestarios
+Además de los del Título Preliminar:
+- No afectación (art. 24): los recursos satisfacen el conjunto de obligaciones, salvo afectación legal a fines determinados.
+- Temporalidad (art. 45): el ejercicio coincide con el año natural; se imputan derechos reconocidos en el ejercicio y obligaciones reconocidas hasta fin de diciembre; los créditos no afectados a obligaciones reconocidas quedan anulados de pleno derecho (art. 56), salvo excepciones del art. 67.
+- Presupuesto bruto (art. 53): derechos y obligaciones se aplican por su importe íntegro, sin minorar salvo autorización legal expresa (excepciones: devoluciones de ingresos indebidos y reembolso de avales).
+- Especialidad cualitativa: los créditos se destinan solo a la finalidad autorizada.
+- Especialidad cuantitativa: no puede comprometerse gasto por encima del crédito autorizado (nulidad de pleno derecho de los actos que lo infrinjan).
+- Principios de la Ley Orgánica 2/2012, de Estabilidad Presupuestaria y Sostenibilidad Financiera: estabilidad presupuestaria (equilibrio o superávit estructural), sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de recursos públicos, responsabilidad en la estabilidad presupuestaria, y lealtad institucional (art. 9 LO 2/2012).
+
+3.3. Contenido e integración
+Contenido (art. 46 Ley 9/1990): estados de gastos (Instituciones/Administración/Organismos Autónomos), estados de ingresos (idem) y estados de recursos (Empresas y Entes Públicos, para gastos de explotación y de capital).
+Según jurisprudencia del TC (SSTC 27/1981, 63/1986, 65/1987, 126/1987, 76/1992, 195/1994, entre otras), la Ley de Presupuestos tiene un contenido mínimo, necesario e indisponible (previsión de ingresos y autorización de gastos) y puede añadir un contenido eventual estrictamente delimitado y conectado con dicho contenido necesario; el resto son materias ajenas a la Ley de Presupuestos.
+Integración (art. 1 Ley 9/2024, Presupuestos 2025): Presupuesto de la Asamblea, de la Cámara de Cuentas, de la Administración de la CAM, de los organismos autónomos administrativos y mercantiles, de entes públicos con presupuesto limitativo, de empresas públicas (entidad de derecho público y sociedad mercantil), de otros entes públicos, de Consorcios adscritos, y de Fundaciones del Sector Público autonómico.
+
+3.4. Regulación jurídica
+Norma básica: Ley 9/1990, Reguladora de la Hacienda de la CAM. Se complementa con: Leyes de Presupuestos Generales de cada año; Órdenes de elaboración de presupuestos; Órdenes de delegación del Consejero en materia presupuestaria; Órdenes del Plan de Disposición de Fondos de la Tesorería; Órdenes sobre créditos incorporables; y el Decreto Legislativo 1/2002, Texto Refundido de la Ley de Tasas y Precios Públicos de la CAM. Además, Ley 1/1983 de la CAM y Ley Orgánica 8/1980 (LOFCA).
+
+3.5. La estructura presupuestaria
+Determinada por la Consejería de Economía, Hacienda y Empleo (art. 47.1 Ley 9/1990), atendiendo a la organización de la Comunidad, la naturaleza de ingresos/gastos y la normativa estatal para facilitar la consolidación.
+
+Estado de Ingresos: clasificación orgánica (Centros Presupuestarios/Gestores) y económica (9 capítulos: 1-5 operaciones corrientes, 6-7 de capital, 8-9 financieras).
+- Cap. 1 Impuestos Directos; Cap. 2 Impuestos Indirectos; Cap. 3 Tasas y otros ingresos; Cap. 4 Transferencias corrientes; Cap. 5 Ingresos Patrimoniales; Cap. 6 Enajenación de Inversiones Reales; Cap. 7 Transferencias de capital; Cap. 8 Activos financieros; Cap. 9 Pasivos financieros.
+
+Estado de Gastos (art. 47.2): clasificación orgánica, funcional/por programas y económica.
+- Orgánica: por Secciones (Asamblea, Cámara de Cuentas, Presidencia, las distintas Consejerías, Deuda pública, Créditos Centralizados, Fondo de Contingencia) y por Servicios.
+- Funcional/programas: áreas de gasto 1 (Servicios Públicos Básicos), 2 (Protección y Promoción Social), 3 (Bienes Públicos de Carácter Preferente), 4 (Actuaciones de Carácter Económico) y 9 (Actuaciones de Carácter General).
+- Económica (9 capítulos, art. 47.3): Cap. 1 Gastos de Personal; Cap. 2 Gastos corrientes en bienes y servicios; Cap. 3 Gastos financieros; Cap. 4 Transferencias corrientes; Cap. 5 Fondo de contingencia (0,5% del presupuesto no financiero, art. 31 LO 2/2012); Cap. 6 Inversiones Reales; Cap. 7 Transferencias de capital; Cap. 8 Activos financieros; Cap. 9 Pasivos financieros.
+
+4. EL CICLO PRESUPUESTARIO
+El ciclo presupuestario, conforme al art. 61 del Estatuto de Autonomía, consta de cuatro fases: Elaboración, Aprobación, Ejecución y Control.
+
+4.1. Elaboración
+Corresponde al Consejero de Economía, Hacienda y Empleo elaborar y someter el anteproyecto al Consejo de Gobierno (art. 9.b Ley 9/1990); la estructura la determina la Consejería (art. 47) y el procedimiento lo desarrolla el Consejero (art. 48). Cada año se dicta una Orden de elaboración (para 2025: Orden de 30 de mayo de 2024) que regula el ámbito institucional, criterios de presupuestación, estructura de estados, documentación justificativa (memoria de créditos, memoria por programa), procedimiento y plazos (remisión a Dirección General de Presupuestos, a Recursos Humanos, y finalmente al Consejo de Gobierno). Como documentación anexa al proyecto de ley se remite a la Asamblea: memoria justificativa de créditos, memoria de programas, estados consolidados, plantilla presupuestaria, anexo de inversiones, créditos plurianuales, liquidación del año anterior, estados financieros de Empresas y Entes, informe económico-financiero y memoria de beneficios fiscales, entre otros (art. 49).
+
+4.2. Aprobación
+Corresponde al Gobierno la elaboración y ejecución, y a la Asamblea el examen, enmienda, aprobación y control (art. 61.1 Estatuto de Autonomía, modificado por LO 5/1998); el proyecto se presenta con antelación mínima de dos meses al inicio del ejercicio. El art. 50 de la Ley 9/1990 fija el envío a la Asamblea antes del 1 de noviembre de cada año. El Reglamento de la Asamblea (arts. 158-164) regula la tramitación: preferencia procedimental, publicación en el BOAM, apertura de plazos de enmiendas, solo enmiendas a la totalidad de devolución, enmiendas parciales sujetas a condiciones (compensación de bajas, límites sobre fondo de contingencia, deuda pública, etc.), debate y votación en Pleno por secciones, y publicación final como Ley en el BOAM, BOCM y BOE.
+Si la Ley no se aprueba antes del primer día del ejercicio, se prorrogan automáticamente los presupuestos del año anterior hasta la publicación de los nuevos (art. 51 Ley 9/1990), sin afectar a créditos de programas que deban terminar en el ejercicio prorrogado.
+
+4.3. Ejecución
+Corresponde al Presidente y a cada Consejero, respecto de los gastos de sus servicios, los actos del proceso del gasto (art. 69 Ley 9/1990), y a los Consejos de Administración de los Órganos de Gestión dependientes. Está reservada al Gobierno de la Comunidad la autorización o compromiso del gasto en supuestos como: gastos de cuantía indeterminada, gastos plurianuales que requieran modificación de porcentajes/anualidades, gastos que superen los importes fijados en la Ley de Presupuestos (para 2025: 1.500.000 € en gastos de capital y operaciones financieras, 500.000 € en gastos corrientes), gastos de contratos de obra con abono total del precio, adquisición de inmuebles/suministro de bienes muebles en ciertos supuestos, y arrendamiento financiero con más de cuatro anualidades. En Organismos Autónomos, corresponde a sus Gerentes y a los Consejos de Administración de sus Órganos de Gestión.
+
+4.4. Control
+A diferencia de las otras tres fases (secuenciales), el control es atemporal, presente en todo momento:
+- Durante la elaboración: control del poder ejecutivo hasta remitir el proyecto a la Asamblea.
+- Durante la aprobación: máximo control, ejercido por la Asamblea.
+- Durante la ejecución: Intervención General de la Comunidad y la Asamblea (interpelaciones y consultas).
+- A posteriori: Cámara de Cuentas, sin perjuicio del Tribunal de Cuentas y de la Asamblea, con examen, dictamen y aprobación de la Cuenta General.
+
+Según el órgano que lo ejerce, el control puede ser:
+- Administrativo o interno: Intervención General de la CAM.
+- Externo: jurisdiccional (Tribunal de Cuentas) y fiscalizador (Cámara de Cuentas).
+- Parlamentario o político: Asamblea de la CAM (también de carácter externo).
+
+IDEAS CLAVE
+
+Principios generales del Derecho Financiero: legalidad, justicia financiera, control de la actividad financiera, redistribución de la renta y la riqueza, solidaridad y coordinación entre Hacienda Central y Autonómicas.
+
+Principios específicos del Derecho Tributario: irretroactividad de las sanciones, no privación de libertad, territorialidad, sistematización.
+
+Principios relativos al Derecho Presupuestario: anualidad, universalidad, unidad, competencia, contabilidad.
+
+Principios generales de la Ley 9/1990 (Título Preliminar): Reserva de Ley, Competencia, Unidad de Caja, Presupuesto Anual/Unidad/Universalidad, Control, Contabilidad, Responsabilidad.
+
+Los PGCM son la expresión cifrada, conjunta y sistemática de las obligaciones máximas y derechos previstos de Instituciones/Administración/Organismos Autónomos, y de las estimaciones de gastos e ingresos de Empresas y Entes (art. 44 Ley 9/1990), incluyendo beneficios fiscales.
+
+Principios presupuestarios (Ley 9/1990): no afectación, temporalidad, presupuesto bruto, especialidad cualitativa, especialidad cuantitativa.
+
+Principios de la LO 2/2012 (Estabilidad Presupuestaria y Sostenibilidad Financiera): estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia en la asignación y utilización de recursos públicos, responsabilidad en la estabilidad presupuestaria, lealtad institucional.
+
+La estructura de los Presupuestos Generales la determina la Consejería de Economía, Hacienda y Empleo (art. 47 Ley 9/1990); el procedimiento de elaboración lo desarrolla el Consejero de Economía, Hacienda y Empleo (art. 48).
+
+El ciclo presupuestario tiene cuatro fases: Elaboración, Aprobación, Ejecución y Control. La elaboración corresponde al Consejero de Economía, Hacienda y Empleo; la aprobación, al Consejo de Gobierno (anteproyecto) y a la Asamblea (Ley).
+
+El control según el órgano que lo ejerce: Administrativo o interno (Intervención General de la CAM); Externo (Tribunal de Cuentas -jurisdiccional- y Cámara de Cuentas -fiscalizador-); Parlamentario o Político (Asamblea de la CAM, también externo).
