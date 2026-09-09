@@ -1,0 +1,235 @@
+TEMA 7 - La Jurisdicción Contencioso-Administrativa: Su organización. Las partes. Actos impugnables. Las fases principales del procedimiento contencioso-administrativo.
+
+Referencias legislativas: Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPA). Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa (LJCA).
+
+===========================================================
+1. LA JURISDICCIÓN CONTENCIOSO-ADMINISTRATIVA
+===========================================================
+
+1.1. Introducción
+
+La jurisdicción contencioso-administrativa está integrada por un conjunto de órganos judiciales, encuadrados en el poder judicial, que ejercen competencias especializadas en materia contencioso-administrativa, conociendo de los recursos que interpongan particulares o entes del sector público contra la actividad presuntamente ilícita de las diversas Administraciones Públicas (estatal, autonómica, local e institucional).
+
+El recurso contencioso, en su modalidad tradicional, se interpone contra actos administrativos (habitualmente resoluciones) expresos o presuntos, requiriendo agotar previamente la vía administrativa (recurso de alzada de la Ley 39/2015). Junto a esta modalidad, también cabe plantear el recurso contra disposiciones de carácter general (reglamentos y, en ciertos supuestos, reales decretos legislativos), contra la inactividad de la Administración y contra actuaciones materiales constitutivas de vía de hecho.
+
+1.2. Concepto y significado del recurso contencioso-administrativo
+
+La jurisdicción contencioso-administrativa es un mecanismo de fiscalización o control de la legalidad de la actuación administrativa por los órganos judiciales. Su origen deriva de la Constitución:
+- Los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de esta a los fines que la justifican (art. 106.1 CE).
+- El control de la actividad de los órganos de las CCAA se ejerce por la Jurisdicción Contencioso-Administrativa [art. 153.c) CE].
+
+El art. 9.4 LOPJ establece que los jueces y tribunales del orden contencioso-administrativo conocerán de las pretensiones relacionadas con los actos de la Administración Pública sujetos al Derecho administrativo y con las disposiciones generales de rango inferior a la ley.
+
+Según el art. 1 LJCA, el recurso contencioso-administrativo es un auténtico procedimiento jurisdiccional que se ejercita en relación con la actuación de las AAPP sujeta al Derecho administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos legislativos cuando excedan los límites de la delegación.
+
+1.3. Régimen jurídico actual
+
+Además de los principios constitucionales, debe tenerse en cuenta la LOPJ, y la regulación específica constituida por la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa (LJCA).
+
+La Ley Orgánica 1/2025, de 2 de enero, de medidas en materia de eficiencia del Servicio Público de Justicia, ha modificado la LOPJ introduciendo los Tribunales de Instancia y el Tribunal Central de Instancia. La LJCA mantiene su literalidad sin modificar estas referencias, por lo que, una vez constituidos dichos Tribunales, las referencias a los Juzgados y Juzgados Centrales deberán entenderse hechas a esos Tribunales (Disposición Adicional 1ª de la LO 1/2025).
+
+Objetivos de la reforma (según su exposición de motivos): a) Adecuación a los principios constitucionales; b) Continuidad y profunda renovación (mantiene la naturaleza estrictamente judicial y el carácter de juicio entre partes, con doble finalidad de garantía individual y control del sometimiento de la Administración al Derecho).
+
+1.4. Ámbito y extensión
+
+1.4.1. Objeto del recurso contencioso-administrativo: planteamiento general
+
+Los juzgados y tribunales del orden contencioso-administrativo conocerán de las pretensiones relacionadas con la actuación de las AAPP sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos legislativos cuando excedan los límites de la delegación.
+
+Se entiende por Administraciones Públicas a estos efectos: a) AGE; b) Administraciones de las CCAA; c) Entidades de la Administración Local; d) Entidades de Derecho público dependientes o vinculadas al Estado, CCAA o Entidades Locales.
+
+En resumen, el recurso contencioso se puede plantear contra un acto o un reglamento de cualquier Administración Pública. Además, conocerán también de pretensiones relacionadas con:
+a) Actos y disposiciones en materia de personal, administración y gestión patrimonial sujetos al Derecho público de los órganos competentes del Congreso, Senado, Tribunal Constitucional, Tribunal de Cuentas y Defensor del Pueblo, así como de las Asambleas Legislativas autonómicas e instituciones análogas.
+b) Actos y disposiciones del Consejo General del Poder Judicial.
+c) Actuación de la Administración electoral.
+d) Protección jurisdiccional de los derechos fundamentales.
+e) Contratos administrativos y actos de preparación y adjudicación de contratos sujetos a la Ley 9/2017, de Contratos del Sector Público.
+f) Responsabilidad patrimonial de las AAPP.
+
+1.4.2. Materias excluidas del ámbito contencioso-administrativo (art. 3 LJCA)
+
+No corresponden a este orden jurisdiccional:
+a) Cuestiones expresamente atribuidas a los órdenes civil, penal y social, aunque relacionadas con la actividad administrativa.
+b) El recurso contencioso-disciplinario militar.
+c) Los conflictos de jurisdicción entre Juzgados/Tribunales y la Administración, y los conflictos de atribuciones entre órganos de una misma Administración.
+d) Los recursos directos o indirectos contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya (competencia exclusiva del Tribunal Constitucional).
+
+1.5. Organización jurisdiccional
+
+1.5.1. Órganos de la Jurisdicción Contencioso-Administrativa (art. 6 LJCA)
+
+a) Juzgados de lo Contencioso-Administrativo.
+b) Juzgados Centrales de lo Contencioso-Administrativo.
+c) Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia.
+d) Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+e) Sala de lo Contencioso-Administrativo del Tribunal Supremo.
+
+Nota (tras la LO 1/2025): las referencias a los Juzgados de lo Contencioso-administrativo se entienden hechas a las Secciones de lo Contencioso-administrativo de los Tribunales de Instancia; las referencias a los Juzgados Centrales de lo Contencioso-administrativo se entienden hechas a la Sección de lo Contencioso-administrativo del Tribunal Central de Instancia.
+
+Jerarquía actual: Secciones de lo Contencioso-Administrativo de los Tribunales de Instancia (base) → Sección de lo Contencioso-Administrativo del Tribunal Central de Instancia → Sala de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia → Sala de lo Contencioso-Administrativo de la Audiencia Nacional → Sala 3ª del Tribunal Supremo (cúspide).
+
+Los órganos competentes para conocer de un asunto lo serán también para todas sus incidencias y para ejecutar las sentencias (art. 103.1). La competencia no es prorrogable y debe apreciarse incluso de oficio, previa audiencia de las partes y del Ministerio Fiscal por plazo común de 10 días. La declaración de incompetencia adopta forma de auto y debe efectuarse antes de la sentencia, remitiéndose las actuaciones al órgano competente con emplazamiento a las partes por 10 días.
+
+1.5.2. Competencias
+
+A) Los Juzgados de lo Contencioso-Administrativo (art. 8 LJCA) — tres bloques:
+a) Recursos contra actos de entidades locales o entidades/corporaciones dependientes o vinculadas, excluidas impugnaciones de instrumentos de planeamiento urbanístico.
+b) Recursos contra actos administrativos de las CCAA (salvo del Consejo de Gobierno), en: cuestiones de personal (salvo nacimiento/extinción de la relación de funcionarios de carrera); sanciones ≤60.000€ y ceses/privación de derechos ≤6 meses; responsabilidad patrimonial ≤30.050€.
+c) Recursos contra disposiciones y actos de la Administración periférica del Estado y de las CCAA, de organismos con competencia no extendida a todo el territorio nacional, y contra resoluciones de órganos superiores que confirmen íntegramente en vía de recurso/fiscalización/tutela. Se exceptúan actos de cuantía >60.000€ o sobre dominio público, obras públicas del Estado, expropiación forzosa y propiedades especiales. Conocen también todas las resoluciones en materia de extranjería.
+d) Recursos contra actos de las Juntas Electorales de Zona y proclamación de candidaturas.
+e) Autorización de medidas restrictivas de derechos fundamentales: entrada en domicilios para ejecución forzosa (salvo protección de menores); autorización/ratificación de medidas sanitarias urgentes que limiten derechos fundamentales en actos singulares individualizados; autorizaciones de entrada e inspección solicitadas por la CNMC; entrada solicitada por la Administración Tributaria.
+
+B) Los Juzgados Centrales de lo Contencioso-Administrativo (art. 9 LJCA):
+1. Materias de personal por actos de Ministros y Secretarios de Estado (salvo que confirmen actos de órganos inferiores, o afecten al nacimiento/extinción de funcionarios de carrera, o personal militar de la Audiencia Nacional).
+2. Actos de órganos centrales de la AGE: sanciones ≤60.000€ y ceses/privación de derechos ≤6 meses.
+3. Disposiciones generales y actos de organismos públicos con personalidad jurídica propia y entidades del sector público estatal con competencia en todo el territorio nacional.
+4. Recursos contra resoluciones de Ministros/Secretarios de Estado en responsabilidad patrimonial ≤30.050€.
+5. Resoluciones que acuerden la inadmisión de peticiones de asilo político.
+6. Resoluciones del Tribunal Administrativo del Deporte en disciplina deportiva.
+Además: autorización art. 8.2 Ley 34/2002; ejecución de actos de la Comisión de Propiedad Intelectual; procedimiento del art. 12 bis de la LO 6/2002 de Partidos Políticos.
+
+C) Salas de lo Contencioso-Administrativo de los Tribunales Superiores de Justicia (art. 10 LJCA):
+a) En única instancia: actos de Entidades locales y CCAA no atribuidos a los Juzgados; disposiciones generales de CCAA y Entidades locales; actos de órganos de gobierno de asambleas legislativas autonómicas e instituciones análogas al Tribunal de Cuentas/Defensor del Pueblo en personal/administración/gestión patrimonial; actos de Tribunales Económico-Administrativos regionales y locales; resoluciones del TEAC en tributos cedidos; actos de Juntas Electorales Provinciales/CCAA; convenios entre AAPP de ámbito autonómico; prohibición de reuniones (LO reguladora del derecho de reunión); actos de la AGE de ámbito nacional con nivel inferior a Ministro/Secretario de Estado en personal, propiedades especiales y expropiación forzosa; actos de CCAA en Defensa de la Competencia; resoluciones de recursos de contratación (art. 46 Ley 9/2017) autonómicos/locales; resoluciones de Tribunales Administrativos Territoriales de Recursos Contractuales; actos de autoridades independientes autonómicas en materia de protección de informantes; cualesquiera otras actuaciones no atribuidas a otros órganos.
+b) En vía de recurso: apelación contra sentencias/autos de los Juzgados de lo Contencioso; recurso de revisión contra sentencias firmes de tales Juzgados; casación para unificación de doctrina y casación en interés de ley en determinados supuestos; solicitud de autorización de conformidad de decisión de la Comisión Europea en transferencia de datos (formulada por la autoridad autonómica de protección de datos); cuestiones de competencia entre Juzgados de lo Contencioso de la CA.
+
+D) Sala de lo Contencioso-Administrativo de la Audiencia Nacional (sede en Madrid, jurisdicción en toda España) (art. 11 LJCA):
+a) En única instancia: disposiciones generales y actos de Ministros/Secretarios de Estado en general, y en personal cuando afecten al nacimiento/extinción de funcionarios de carrera; actos de órganos centrales del Ministerio de Defensa (ascensos, orden, antigüedad, destinos); actos de Ministros/Secretarios de Estado que rectifiquen en vía de recurso/fiscalización/tutela actos de órganos con competencia nacional; convenios entre AAPP no atribuidos a los TSJ; actos económico-administrativos del Ministro de Hacienda y del TEAC (salvo tributos cedidos); actos de la Comisión de Vigilancia de Actividades de Financiación del Terrorismo; resoluciones del Tribunal Administrativo Central de Recursos Contractuales (excepto lo dispuesto en el art. 10.1.k); actos del Banco de España, CNMV y FROB (Ley 11/2015); recursos de la CNMC en defensa de la unidad de mercado.
+b) En vía de recurso: apelación contra autos/sentencias de los Juzgados Centrales; revisión contra sentencias firmes de tales Juzgados; solicitud de autorización de conformidad de decisión de la Comisión Europea en transferencia de datos (formulada por la AEPD); cuestiones de competencia entre Juzgados Centrales.
+
+E) Sala de lo Contencioso-Administrativo del Tribunal Supremo (sede Madrid, órgano jurisdiccional superior salvo garantías constitucionales, jurisdicción en toda España) (art. 12 LJCA):
+a) En única instancia: actos y disposiciones del Consejo de Ministros y Comisiones Delegadas del Gobierno; actos y disposiciones del CGPJ y del Fiscal General del Estado; actos en materia de personal, administración y gestión patrimonial de órganos del Congreso, Senado, Tribunal Constitucional, Tribunal de Cuentas y Defensor del Pueblo.
+b) Recurso de casación y revisión: recursos de casación de cualquier modalidad; recursos de casación y revisión contra resoluciones del Tribunal de Cuentas; recursos de revisión contra sentencias firmes de las Salas de lo Contencioso de TSJ, Audiencia Nacional y Tribunal Supremo (salvo art. 61.1.1º LOPJ); solicitud de autorización de conformidad de decisión de la Comisión Europea en transferencia de datos (formulada por el CGPJ).
+
+1.6. Las partes: capacidad, legitimación y representación
+
+1.6.1. Dualidad de partes
+El proceso contencioso-administrativo se fundamenta en el principio de dualidad de partes e igualdad entre ellas. Normalmente, demandante: el ciudadano o administrado; demandada: la Administración. Sin perjuicio de que la Administración pretenda anular sus propios actos (demandante) o que una Administración demande a otra. La Administración Pública será siempre parte necesaria en el proceso.
+
+1.6.2. Capacidad procesal (art. 18 LJCA)
+Tendrán capacidad procesal las personas que la ostenten según la Ley de Enjuiciamiento Civil (art. 7 LEC): los menores de edad no emancipados comparecen mediante representación, asistencia o autorización exigidos por la ley; las personas con medidas de apoyo para su capacidad jurídica, según alcance y contenido de estas; por los concebidos y no nacidos comparecerán quienes legítimamente los representarían si hubieran nacido; los grupos de afectados, uniones sin personalidad o patrimonios independientes/autónomos, cuando la Ley lo declare expresamente.
+
+1.6.3. Legitimación
+
+A) Concepto: relación entre la persona que demanda y el objeto del proceso (legitimación activa), o entre el objeto del proceso y la persona demandada (legitimación pasiva).
+
+B) Clases de legitimación
+
+a) Legitimación activa (art. 19 LJCA): personas físicas/jurídicas con derecho o interés legítimo; corporaciones, asociaciones, sindicatos y grupos afectados o legalmente habilitados; la Administración del Estado (para impugnar actos de CCAA/Entidades Locales cuando tenga interés legítimo); la Administración de las CCAA (para impugnar actos que afecten a su autonomía); las Entidades locales territoriales (ídem); el Ministerio Fiscal; las Entidades de Derecho público con personalidad jurídica propia; cualquier ciudadano en ejercicio de la acción popular en los casos previstos; para la defensa del derecho a la igualdad de trato y no discriminación, la Autoridad Independiente para la Igualdad de Trato y la No Discriminación y otras entidades legitimadas (con autorización de la persona afectada); para intereses difusos de pluralidad indeterminada, legitimación específica de dichas entidades; la persona acosada es la única legitimada en litigios sobre acoso sexual y discriminatorio; para víctimas de discriminación por orientación/identidad sexual, legitimación de partidos políticos, sindicatos y asociaciones específicas (con autorización); los sindicatos, en nombre e interés de personal afiliado que lo autorice.
+La Administración autora de un acto está legitimada para impugnarlo, previa declaración de lesividad para el interés público. Las Administraciones y particulares pueden recurrir decisiones de órganos de recursos especiales de contratación sin necesidad de declaración de lesividad en el primer caso.
+No pueden interponer recurso (art. 20, aspecto negativo): los órganos de la propia Administración y miembros de sus órganos colegiados (salvo ley expresa); los particulares que obren por delegación o como agentes/mandatarios de la Administración; las Entidades de Derecho público dependientes o vinculadas al Estado/CCAA/Entidades locales respecto de la actividad de la Administración de la que dependan (salvo estatuto específico de autonomía).
+
+b) Legitimación pasiva: se considera parte demandada: las AAPP o los órganos del art. 1.3 LJCA contra cuya actividad se dirige el recurso; personas/entidades cuyos derechos/intereses legítimos pudieran resultar afectados; las aseguradoras de las AAPP (siempre codemandadas); personas/Administraciones favorecidas por el acto objeto del recurso especial en contratación. Si el demandante funda sus pretensiones en la ilegalidad de una disposición general, también es parte demandada la Administración autora de la misma.
+
+1.6.4. Representación y defensa de las partes
+
+A) Representación y defensa de los particulares (art. 23 LJCA): ante órganos unipersonales (Juzgados), las partes pueden conferir representación a Procurador (potestativo) y serán asistidas siempre por Abogado (obligatorio). Ante órganos colegiados (Salas), deben conferir representación a Procurador y ser asistidas por Abogado (ambos obligatorios), salvo que los funcionarios públicos comparezcan por sí mismos en defensa de sus derechos estatutarios en cuestiones de personal que no impliquen separación de empleados públicos inamovibles.
+
+B) Representación y defensa de la Administración (art. 551 LOPJ): la representación y defensa del Estado y sus organismos autónomos corresponde a los Abogados del Estado; la de entidades gestoras y Tesorería General de la Seguridad Social a los Letrados de la Administración de la Seguridad Social; la de las Cortes Generales, Congreso, Senado, Junta Electoral Central a los Letrados de las Cortes Generales; la de las CCAA y entes locales a los letrados de sus servicios jurídicos (salvo que designen abogado colegiado o soliciten la Abogacía del Estado).
+
+1.7. Actos impugnables objeto del recurso
+
+Cuatro modalidades del recurso, en razón de su objeto:
+- Recurso contra actos administrativos, expresos o presuntos.
+- Recurso contra disposiciones generales.
+- Recurso contra la inactividad de la Administración.
+- Recurso contra actuaciones materiales constitutivas de vía de hecho.
+
+1.7.1. Recurso contra actos administrativos
+
+A) Actos impugnables (art. 25.1): son admisibles los actos expresos y presuntos que pongan fin a la vía administrativa, definitivos o de trámite (estos últimos si deciden directa o indirectamente el fondo del asunto, determinan la imposibilidad de continuar el procedimiento, producen indefensión o perjuicio irreparable). Para ser recurrible en vía contenciosa, el acto debe poner fin a la vía administrativa; en caso contrario, debe interponerse recurso de alzada previamente.
+
+B) Actos inimpugnables (art. 28): actos que reproduzcan otros anteriores definitivos y firmes; actos confirmatorios de otros consentidos por no haber sido recurridos en tiempo y forma.
+
+1.7.2. Recurso contra disposiciones de carácter general
+Son recurribles los reglamentos y los Decretos Legislativos cuando excedan los límites de la delegación. Contra las disposiciones generales no cabe recurso en vía administrativa (art. 112.3 LPA). Es admisible la impugnación directa de disposiciones generales y también la de los actos de aplicación fundada en la ilegalidad de aquellas (impugnación indirecta) (arts. 26-27 LJCA). La falta de impugnación directa o su desestimación no impide impugnar los actos de aplicación. Si un Juez/Tribunal dicta sentencia firme estimatoria por ilegalidad del contenido de una disposición general, debe plantear cuestión de ilegalidad ante el Tribunal competente para el recurso directo, salvo que sea el mismo órgano competente para ambos (en cuyo caso la sentencia declara la validez/nulidad) o el Tribunal Supremo (que puede anular directamente sin plantear cuestión de ilegalidad).
+
+1.7.3. Recurso contra la inactividad administrativa y contra actuaciones en vía de hecho
+Es admisible el recurso contra la inactividad de la Administración y contra actuaciones materiales constitutivas de vía de hecho (art. 25.2). Cuando la Administración esté obligada a realizar una prestación concreta (por disposición general que no precise actos de aplicación, o por acto/contrato/convenio) en favor de personas determinadas, estas pueden reclamar su cumplimiento; si en 3 meses desde la reclamación no se cumple ni se llega a acuerdo, cabe recurso contencioso contra la inactividad. Si la Administración no ejecuta sus actos firmes, los afectados pueden solicitar su ejecución y, si no se produce en 1 mes, formular recurso contencioso (tramitado por procedimiento abreviado, art. 29.2). En caso de vía de hecho, el interesado puede formular requerimiento intimando su cesación; si no se atiende en 10 días (o no se formula requerimiento), puede deducir directamente recurso contencioso (art. 30).
+
+1.8. Fases principales del proceso contencioso-administrativo
+
+1.8.1. Diligencias preliminares
+- Declaración previa de lesividad (art. 43): cuando la propia Administración autora de un acto pretenda demandar su anulación, deberá previamente declararlo lesivo para el interés público (regulado en el art. 107 LPA). Órgano competente: Pleno (o en su defecto el órgano colegiado superior) si es Administración Local; el ministro correspondiente si es AGE; el órgano previsto en la legislación autonómica si es CA.
+- Requerimiento previo entre Administraciones (art. 44): en litigios entre AAPP no cabe recurso en vía administrativa; una Administración puede requerir previamente a otra (potestativo) para que derogue, anule/revoque, cese/modifique la actuación o inicie la actividad debida. Plazo del requerimiento: 2 meses desde la publicación de la norma o desde que se conoció/pudo conocer el acto/actuación/inactividad. Se entiende rechazado si no se contesta dentro del mes siguiente a su recepción.
+
+Trámites previos según los casos: interposición y resolución del recurso de alzada (actos que no ponen fin a la vía administrativa); reclamación previa (inactividad administrativa); requerimiento previo potestativo (vía de hecho).
+
+1.8.2. Interposición del recurso y reclamación del expediente
+
+A) Escrito de interposición (art. 45): escrito reducido a citar la disposición/acto/inactividad/actuación de vía de hecho y solicitar que se tenga por interpuesto el recurso. El recurso de lesividad se inicia por demanda (con declaración de lesividad y expediente administrativo). El recurso sin terceros interesados puede iniciarse directamente por demanda.
+
+B) Plazos para interponer el recurso:
+a) Regla general: 2 meses desde el día siguiente a la publicación/notificación del acto expreso que ponga fin a la vía administrativa; 6 meses si es acto presunto.
+b) Recurso contra actuaciones en vía de hecho: 10 días desde el día siguiente a la terminación del plazo de 10 días del requerimiento; 20 días desde el inicio de la actuación si no hubo requerimiento.
+c) Recurso de lesividad: 2 meses desde el día siguiente a la declaración de lesividad.
+d) Litigios entre Administraciones: 2 meses (salvo otra cosa por ley); si hubo requerimiento, desde el día siguiente a la comunicación del acuerdo expreso o rechazo presunto.
+e) Inactividad de la Administración: 2 meses desde el vencimiento de los plazos del art. 29 (3 meses o 1 mes según el supuesto).
+
+C) Publicación del anuncio de interposición: el letrado de la Administración de Justicia (LAJ) acuerda, si lo solicita el recurrente (o de oficio), que se anuncie la interposición en el periódico oficial correspondiente.
+
+D) Requerimiento del expediente a la Administración: el LAJ requiere el expediente administrativo al órgano autor, ordenando los emplazamientos del art. 49. Plazo improrrogable: 20 días desde la entrada de la comunicación judicial. El expediente se envía completo, en soporte electrónico, foliado, autentificado y con índice. Recibido, se entrega a las partes por 5 días para alegaciones. Si no se remite en plazo, se reitera la reclamación; si no se envía en 10 días adicionales, tras apercibimiento, el juez/tribunal impone multa coercitiva de 300 a 1.200€ a la autoridad/empleado responsable, reiterable cada 20 días.
+
+1.8.3. Emplazamiento de las partes y admisión del recurso
+La resolución de remisión del expediente se notifica en 5 días a los interesados, emplazándoles para personarse como demandados en 9 días. El emplazamiento de la Administración se entiende efectuado por la reclamación del expediente (las AAPP se entienden personadas por el envío del expediente). El emplazamiento de demandados en recurso de lesividad se hace personalmente por 9 días. Si no fue posible emplazar en el domicilio, se inserta edicto en el Tablón Edictal Judicial Único.
+El Juzgado/Sala declarará no haber lugar a la admisión del recurso cuando conste de modo inequívoco y manifiesto: a) falta de jurisdicción o incompetencia; b) falta de legitimación del recurrente; c) actividad no susceptible de impugnación; d) caducidad del plazo de interposición.
+
+1.8.4. Demanda y contestación
+Recibido y comprobado el expediente, se entrega al recurrente para formalizar la demanda en 20 días. Si no se presenta en plazo, se declara por auto la caducidad del recurso (admitiéndose si se presenta el mismo día de la notificación del auto). Presentada la demanda, se da traslado a los demandados (con el expediente) para contestar en 20 días. Si la Administración demandada estima que la actuación pudiera no ajustarse a Derecho, puede solicitar suspensión del procedimiento por 20 días. La contestación la formula primero la Administración demandada.
+
+1.8.5. Prueba
+Se puede pedir el recibimiento a prueba por otrosí en demanda, contestación y alegaciones complementarias. Se recibe a prueba cuando exista disconformidad en los hechos de trascendencia para la resolución (obligatorio si el objeto es una sanción administrativa/disciplinaria y hay disconformidad en los hechos). Plazo para practicarla: 30 días, con arreglo a las normas del proceso civil. Las Salas pueden delegar la práctica en Magistrados o Juzgados. En procedimientos con alegaciones de discriminación por sexo, orientación/identidad sexual, corresponde a la parte demandada la justificación objetiva y razonable de las medidas adoptadas.
+
+1.8.6. Vista o escrito de conclusiones (art. 62)
+Las partes pueden solicitar vista, presentación de conclusiones, o que el pleito quede concluso sin más trámites. Solicitud por otrosí en demanda/contestación o por escrito en 5 días desde la diligencia que declara concluso el período de prueba. El LAJ acuerda vista o conclusiones cuando lo soliciten coincidentemente las partes, o cuando lo solicite el demandante, o cualquiera de las partes si hubo prueba. Si se acuerda vista, se señala fecha por riguroso orden de antigüedad de los asuntos (salvo preferencias legales). Cuando se acuerde el trámite de conclusiones, plazo de 10 días sucesivos para demandantes y demandados.
+
+1.8.7. Terminación del proceso
+La sentencia es el medio normal, pero el proceso también puede concluir por desistimiento, allanamiento, reconocimiento en vía administrativa de las pretensiones del demandante, y por acuerdo entre las partes.
+
+A) La sentencia: se dicta en plazo de 10 días desde que el pleito quede concluso, decidiendo todas las cuestiones controvertidas. Fallos posibles:
+a) Inadmisibilidad: falta de jurisdicción; interposición por persona incapaz/no representada/no legitimada; objeto no susceptible de impugnación; cosa juzgada o litispendencia; presentación fuera de plazo.
+b) Estimación o desestimación: se desestima cuando la disposición/acto/actuación se ajusten a Derecho; se estima cuando incurran en cualquier infracción del ordenamiento jurídico (incluida la desviación de poder: ejercicio de potestades administrativas para fines distintos de los fijados por el ordenamiento). Al estimar: 1º declara no ser conforme a Derecho y anula total/parcialmente o dispone el cese/modificación de la actuación; 2º si se pretendía el reconocimiento de una situación jurídica individualizada, la reconoce y adopta las medidas de restablecimiento; 3º puede establecer plazo de cumplimiento; 4º si se estima el resarcimiento de daños, declara el derecho a la reparación, fijando la cuantía si es posible (si no, difiere su determinación a la ejecución de sentencia).
+c) Pronunciamiento sobre costas.
+Efectos: la inadmisibilidad/desestimación solo produce efectos entre las partes; la anulación de una disposición o acto produce efectos para todas las personas afectadas (las sentencias firmes que anulen disposiciones generales tienen efectos generales desde su publicación); el reconocimiento/restablecimiento de una situación individualizada solo produce efectos entre las partes (salvo extensión a terceros, arts. 110-111).
+
+B) El desistimiento: el recurrente puede desistir en cualquier momento anterior a la sentencia. Si desiste el representante, necesita ratificación del recurrente. Si desiste la Administración, requiere testimonio del acuerdo del órgano competente. El LAJ da traslado por 5 días; si hay conformidad, dicta decreto declarando terminado el procedimiento. No implica necesariamente condena en costas.
+
+C) El allanamiento: lo realiza el demandado. Producido, el Juez/Tribunal dicta sentencia de conformidad con las pretensiones del demandante, salvo infracción manifiesta del ordenamiento jurídico (en cuyo caso oye a las partes por 10 días y dicta la sentencia ajustada a Derecho).
+
+D) Reconocimiento en vía administrativa de las pretensiones del demandante: si la Administración reconoce totalmente las pretensiones, se oye a las partes por 5 días y se dicta auto declarando terminado el procedimiento (o sentencia si el reconocimiento infringe manifiestamente el ordenamiento).
+
+E) Acuerdo entre las partes: en procedimientos en primera/única instancia, el Juez/Tribunal puede someter a las partes la posibilidad de acuerdo cuando el juicio verse sobre materias transigibles (en particular, estimación de cantidad). Los representantes de las AAPP necesitan autorización oportuna. Si hay acuerdo que ponga fin a la controversia, se dicta auto declarando terminado el procedimiento (salvo que sea manifiestamente contrario al ordenamiento o lesivo del interés público/terceros).
+
+1.8.8. Ejecución de las sentencias
+La potestad de ejecutar sentencias corresponde exclusivamente a los Juzgados/Tribunales de este orden, y compete al que conoció en primera/única instancia. Las partes están obligadas a cumplir las sentencias; todas las personas y entidades deben colaborar. Son nulos de pleno derecho los actos/disposiciones contrarios a las sentencias dictados para eludir su cumplimiento. Tras la firmeza, el LAJ comunica en 10 días al órgano responsable del cumplimiento. Transcurridos 2 meses desde la comunicación (o el plazo fijado), cualquier parte puede instar la ejecución forzosa. No puede suspenderse el cumplimiento ni declararse la inejecución total/parcial. Si la Administración es condenada al pago de cantidad líquida, se acuerda el pago con cargo al crédito correspondiente (ampliable); si requiere modificación presupuestaria, debe concluirse en 3 meses desde la notificación; se añade el interés legal del dinero. Si la sentencia anula total/parcialmente un acto, se dispone la inscripción del fallo en registros públicos y su publicación si procede. Si anula una disposición general o acto que afecte a pluralidad indeterminada, se ordena su publicación en diario oficial en 10 días desde la firmeza.
+
+1.9. Especial referencia al procedimiento abreviado
+
+Los Juzgados de lo Contencioso-administrativo y, en su caso, los Juzgados Centrales conocen por procedimiento abreviado de: cuestiones de personal al servicio de las AAPP; extranjería; inadmisión de peticiones de asilo político; disciplina deportiva en materia de dopaje; y asuntos cuya cuantía no supere los 30.000€.
+
+Tramitación:
+- Iniciación: por demanda, con documentos que funden el derecho (art. 45.2). El LAJ, apreciada jurisdicción y competencia, admite la demanda; en otro caso, da cuenta al Tribunal. Admitida, se traslada al demandado, citando a las partes para vista y requiriendo a la Administración el expediente con al menos 15 días de antelación a la vista. Si el actor pide en su demanda que se falle sin recibimiento a prueba ni vista, se traslada a los demandados para contestar en 20 días; contestada, se declara concluso el pleito (salvo que el juez use la facultad del art. 61). Dentro de los 10 primeros días para contestar, los demandados pueden solicitar vista argumentando los hechos de disconformidad; el juez decide por auto (no recurrible).
+- Celebración de la vista: si no comparecen las partes (o solo comparece el demandado), se tiene al actor por desistido con condena en costas; si comparece solo el actor, prosigue en ausencia del demandado. Comienza con exposición del demandante; sigue el demandado con sus alegaciones (empezando por cuestiones de jurisdicción/competencia). El juez resuelve estas cuestiones antes de continuar. Si el demandado impugna la cuantía del procedimiento, el juez exhorta a acuerdo o decide él mismo (sin recurso posible). Después se fijan los hechos, se proponen y practican las pruebas admitidas. Si hay conformidad de los demandados sin controversia jurídica y sin oposición a prescindir de prueba/conclusiones, se dicta sentencia sin más dilación (salvo oposición formulada, que el juez resuelve). Los medios de prueba siguen el régimen del juicio ordinario en lo compatible; interrogatorio de parte se propone verbalmente; no se admiten pliegos de preguntas/repreguntas para testifical; los testigos no pueden ser tachados; no rigen las reglas de insaculación de peritos. Contra denegación de pruebas o admisión de pruebas impugnadas por violación de derechos fundamentales cabe recurso de reposición inmediato.
+- Sentencia: se dicta en 10 días desde la vista; puede dictarse oralmente al concluir la vista (con los requisitos del art. 210 LEC y pronunciando el fallo conforme a los arts. 68-71 LJCA).
+- Documentación de la vista: mediante grabación (con firma electrónica) o, si no es posible, mediante acta con los extremos legalmente exigidos (lugar, fecha, juez, partes, alegaciones, pruebas, conclusiones, declaración de conclusión de autos).
+
+Novedades de la LO 1/2025 en el procedimiento abreviado: en la fase de solicitud de vista sin ella, se exige que la solicitud de vista por la parte demandada esté sustentada en argumentos que permitan al órgano jurisdiccional apreciar su conveniencia (para evitar dilaciones). En la fase de resolución, se introduce la posibilidad de que el juez dicte sentencia oral cuando lo estime procedente, coherente con el principio de oralidad del procedimiento abreviado, garantizando igualmente la motivación exigida por el art. 120 CE.
+
+===========================================================
+IDEAS CLAVE
+===========================================================
+
+Los juzgados y tribunales del orden contencioso-administrativo conocen de las pretensiones relacionadas con la actuación de las AAPP sujeta al Derecho Administrativo, con las disposiciones generales de rango inferior a la ley y con los decretos legislativos cuando excedan los límites de la delegación.
+
+Las partes:
+- Capacidad: personas con capacidad procesal según la LEC; menores de edad para la defensa de derechos que el ordenamiento les permita ejercer sin asistencia; grupos de afectados, uniones sin personalidad o patrimonios independientes/autónomos cuando la ley lo declare expresamente.
+- Legitimación: personas físicas/jurídicas con derecho o interés legítimo, AAPP, Ministerio Fiscal, cualquier ciudadano en ejercicio de la acción popular, asociaciones, partidos políticos, organizaciones sindicales y empresariales.
+- Representación y defensa: ante órganos unipersonales, Procurador potestativo y Abogado siempre obligatorio; ante órganos colegiados, ambos obligatorios (salvo funcionarios en defensa de derechos estatutarios de personal sin separación de empleados inamovibles).
+- La legitimación es la relación entre quien demanda y el objeto del proceso (activa) o entre el objeto del proceso y quien es demandado (pasiva).
+- Parte demandada: las AAPP u órganos del art. 1.3 LJCA; personas/entidades cuyos derechos pudieran verse afectados; aseguradoras de las AAPP (siempre codemandadas); personas/Administraciones favorecidas por el acto en recurso especial de contratación.
+
+Plazos para interponer el recurso:
+- Regla general: 2 meses (acto expreso) / 6 meses (acto presunto).
+- Actuaciones en vía de hecho: 10 días (con requerimiento) / 20 días (sin requerimiento).
+- Recurso de lesividad: 2 meses desde la declaración de lesividad.
+- Litigios entre Administraciones: 2 meses.
+- Inactividad de la Administración: 2 meses desde el vencimiento de los plazos del art. 29 (3 meses o 1 mes según el caso).
