@@ -1,0 +1,246 @@
+TEMA 15: LOS DOCUMENTOS ADMINISTRATIVOS: CONCEPTO, FUNCIONES, CLASIFICACIÓN Y CARACTERÍSTICAS. ESPECIAL REFERENCIA AL DOCUMENTO ELECTRÓNICO. EL REGISTRO DE DOCUMENTOS: CONCEPTO Y FUNCIONES. PRESENTACIÓN, RECEPCIÓN, ENTRADA Y SALIDA DE DOCUMENTOS. EL ARCHIVO DE DOCUMENTOS: CONCEPTO Y FUNCIONES. CLASES DE ARCHIVO Y CRITERIOS DE ORDENACIÓN. EL ACCESO A LOS DOCUMENTOS ADMINISTRATIVOS: SUS LIMITACIONES Y FORMAS DE ACCESO.
+
+REFERENCIAS LEGISLATIVAS
+- Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español.
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+- Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+- Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la Comunidad de Madrid.
+
+1. LOS DOCUMENTOS ADMINISTRATIVOS: CONCEPTO, FUNCIONES, CLASIFICACIÓN Y CARACTERÍSTICAS
+
+1.1. Definición de documento
+En sentido amplio, "cualquier testimonio de la actividad humana". En sentido restringido, un escrito que ilustra sobre un hecho o que prueba o acredita algo.
+- Definición doctrinal: del latín documentum (de docere, enseñar); "objeto corporal, producto de la actividad humana que queda en él reflejada y que conserva y transmite permanentemente la representación de un hecho ajeno a él".
+- Definición legal (art. 49 Ley 16/1985, del Patrimonio Histórico Español): "toda expresión en lenguaje natural o convencional y cualquier otra expresión gráfica, sonora o en imagen, recogidas en cualquier tipo de soporte material, incluso los soportes informáticos. Se excluyen los ejemplares no originales de ediciones". Forma parte del Patrimonio Documental: a) los de cualquier época generados por organismo público; b) los de más de 40 años de entidades políticas, sindicales, religiosas o culturales/educativas privadas; c) los de más de 100 años de entidades o personas físicas particulares; d) los que, sin esa antigüedad, se declaren constitutivos del Patrimonio Documental por la AGE.
+
+1.2. Clases de documentos
+Distinción básica entre documento privado (extendido por los interesados) y documento público u oficial (emana de una autoridad o funcionario). Dentro de los oficiales: legislativos, judiciales (de instrucción, resolutorios, de comunicación) y administrativos.
+
+1.3. Los documentos administrativos
+
+1.3.1. Concepto
+"Tienen la consideración de documento público administrativo los documentos válidamente emitidos por los órganos de las Administraciones Públicas" (art. 26.1 Ley 39/2015). Características: se produce por un órgano administrativo; debe poder incorporarse a un expediente; es normalmente de contenido escriturado, aunque puede no serlo (planos, mapas).
+
+1.3.2. Distinción de figuras afines
+- El impreso administrativo: el impreso es el medio de obtener y normalizar información; solo el impreso cumplimentado por la Administración es documento administrativo en sentido estricto.
+- El expediente administrativo: "conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, así como las diligencias encaminadas a ejecutarla".
+- Documentos producidos por los administrados (instancias, escritos de alegaciones, escritos de recurso): no son documentos administrativos porque no emanan de un órgano o funcionario de la Administración.
+
+1.3.3. Clases de documentos administrativos
+Siguiendo la clasificación de González Navarro ("Introducción al Estudio de los Documentos Administrativos", 1972): 1) Resolutorios (providencias, decretos, resoluciones, acuerdos, licencias); 2) De instrucción (denuncias, informes, dictámenes, mociones, atestados, pliegos de cargo, propuestas, traducciones oficiales); 3) De constancia (diligencias, actas, copias, certificados, títulos, documentos de identificación —DNI, pasaporte—, recibos, índices y relaciones); 4) De comunicación (oficios, notificaciones, requerimientos, emplazamientos, citaciones, telegramas, anuncios, edictos, boletines oficiales); 5) Otros (duplicados, documentos de contabilidad, de formalización de contratos, peticiones y poderes administrativos, documentos de crédito).
+
+1.3.4. Definición de los principales documentos administrativos
+- Providencia: decisión que no pone fin al asunto (acordada por el funcionario que tramita el expediente); Resolución: decide en forma definitiva (salvo recursos), procede de la autoridad competente, motivada cuando la ley lo exige; Acuerdo: resolución de un órgano colegiado.
+- Informes y dictámenes: pareceres de funcionarios u organismos distintos de quien resuelve; el dictamen se reserva para órganos importantes. Propuesta: proposición preceptiva del órgano instructor al órgano que decide. Moción: proposición voluntaria por iniciativa propia de un funcionario a su superior.
+- Diligencia: declaración de constancia de un hecho procedimental. Certificación: declaración solemne de conocimiento sobre lo que consta en archivos; distinta de la copia certificada (reproducción literal con diligencia de fe de transcripción).
+- Oficio: comunicación escrita con destinatario nominativamente determinado; según sus notas especiales se habla de notificación (comunicar una resolución o acto de singular importancia), citación (convocatoria con sitio/día/hora), emplazamiento (convocatoria dentro de un plazo) o requerimiento (intimación para entregar, hacer o dejar de hacer algo). Edicto: anuncio para dar general conocimiento cuando no es posible la notificación personal.
+
+1.3.5. Análisis documental
+Operaciones documentales: 1) Entrada (selección de fuentes); 2) Tratamiento (análisis: descripción-catalogación-indización, condensación-resumen; búsqueda); 3) Salida (comunicación del documento o de la información).
+- Descripción-catalogación: enumeración de cualidades y elementos, en dos niveles (guías/inventarios someros; inventarios analíticos, catálogos e índices).
+- Indización: retener nociones que representan el contenido del documento y adecuarlas al lenguaje documental (Coll Vinnet).
+- Condensación (resumir): 9 tipos de resúmenes —título, anotación del contenido, resumen telegráfico, resumen indicativo (50-200 palabras), resumen informativo (100-300 palabras, el más completo), extracto, reseña, compendio (20-50% del original) y el texto mismo.
+
+1.3.6. Reglas de elaboración de documentos y material impreso (RD 1465/1999, de 17 de septiembre)
+Establece criterios de imagen institucional para la AGE, Organismos Autónomos y Seguridad Social. Imagen institucional: uso del Escudo de España junto a la denominación del Departamento. Formalización: acreditación de la autenticidad de la voluntad del órgano emisor mediante firma manuscrita o símbolos/códigos electrónicos. Todo documento con actos administrativos, incluidos los de mero trámite, debe estar formalizado. El encabezamiento debe incluir título del documento y número/clave de expediente. El documento formalizado debe contener: denominación del cargo y nombre del firmante, constancia de la delegación en su caso, lugar y fecha, identificación del destinatario.
+
+1.3.7. Validez y eficacia de los documentos administrativos
+A) De los emitidos por medios electrónicos: para ser válidos deben contener información en soporte electrónico identificable, datos de identificación, referencia temporal, metadatos mínimos y las firmas electrónicas correspondientes.
+B) De las copias auténticas: cada Administración determina los órganos competentes para expedirlas (art. 48.1 RD 203/2021): los órganos emisores del original, los de custodia y archivo, los que prevean sus normas de competencia y las oficinas de asistencia en materia de registros. Las copias auténticas tienen la misma validez y eficacia que los originales y valen ante todas las Administraciones. Pueden expedirse mediante funcionario habilitado o actuación administrativa automatizada, debiendo mantenerse un registro interoperable de funcionarios habilitados. Los interesados pueden solicitar copias auténticas en cualquier momento; el órgano emisor debe expedirlas en el plazo de 15 días desde la recepción de la solicitud en el registro electrónico.
+
+1.3.8. El material impreso
+Distinto del documento administrativo (es un medio de obtener información normalizada). Los impresos puestos a disposición del ciudadano en CCAA con lengua cooficial serán bilingües; el material impreso interno de la CA figurará en ambas lenguas si es para uso dentro de su ámbito territorial, y en castellano si es para uso fuera de él. Categorías: oficios (externo), notas interiores (interno) y cartas (personal/protocolario). Los modelos normalizados de solicitud incluyen: datos del solicitante, datos de la solicitud (con casillas para opciones, hechos y razones, documentos a acompañar) y datos de la notificación (medio y lugar preferentes); deben incluir la advertencia sobre protección de datos personales (LO 3/2018) e instrucciones de cumplimentación.
+
+2. EXPEDIENTE ADMINISTRATIVO ELECTRÓNICO
+
+2.1. Documento Electrónico Administrativo
+
+2.1.1. Características
+Según el art. 46.1 RD 203/2021, es la información de cualquier naturaleza en forma electrónica, archivada en soporte electrónico según un formato susceptible de identificación y tratamiento diferenciado admitido por el Esquema Nacional de Interoperabilidad, generada, recibida o incorporada por las Administraciones en el ejercicio de sus funciones sujetas a Derecho administrativo. Requisitos de validez: información archivada identificable, datos de identificación, referencia temporal, metadatos mínimos y firmas electrónicas correspondientes. No requieren firma electrónica los documentos meramente informativos ni los que no formen parte de un expediente, pero siempre debe identificarse su origen.
+
+2.1.2. Efectos jurídicos de los documentos electrónicos
+Según el art. 3 de la Ley 6/2020, de 11 de noviembre, los documentos electrónicos públicos, administrativos y privados tienen el valor y eficacia jurídica de su respectiva naturaleza. La prueba de los documentos electrónicos privados con servicio de confianza no cualificado se rige por el art. 326.3 LEC, y con servicio cualificado, por el art. 326.4 LEC.
+
+2.1.3. Normalización de documentos administrativos
+La Ley 39/2015 obliga a establecer modelos y sistemas de presentación masiva de uso voluntario, disponibles en sedes electrónicas y oficinas de registro, admitiendo comprobaciones automáticas y formularios precumplimentados. Cuando la Administración establezca modelos específicos para un procedimiento concreto, su uso será obligatorio.
+
+2.1.4. Formalización de documentos administrativos
+Se exige que todo documento con actos administrativos, incluidos los de mero trámite, esté formalizado (acreditación de la autenticidad de la voluntad del órgano emisor mediante firma manuscrita o medios electrónicos).
+
+2.1.5. Referencia temporal de los documentos administrativos electrónicos
+Modalidades: marca de tiempo (asignación electrónica de fecha y hora) y sello electrónico cualificado de tiempo (con intervención de un prestador cualificado de servicios de confianza). La marca de tiempo se usa cuando la norma reguladora no exige sello cualificado.
+
+2.1.6. Configuración del expediente administrativo electrónico
+El foliado se realiza mediante un índice electrónico autenticado que garantiza su integridad y recuperación. Un mismo documento puede formar parte de distintos expedientes. El índice será firmado por el titular del órgano que conforma el expediente o sellado electrónicamente si se forma de manera automática.
+
+2.1.7. Ejercicio del derecho de acceso al expediente electrónico y obtención de copias
+Conforme al art. 53.1.a) Ley 39/2015, el derecho de acceso se entiende satisfecho mediante la puesta a disposición del expediente en el Punto de Acceso General electrónico o en la sede electrónica correspondiente, remitiendo al interesado la dirección electrónica o localizador de acceso.
+
+2.1.8. Tiempo de conservación y destrucción de documentos
+Los documentos en papel o soporte electrónico presentados por el interesado que no puedan devolverse en el momento se conservan a su disposición 6 meses (salvo plazo mayor reglamentario), tras lo cual se destruyen conforme a las competencias del Ministerio de Cultura u órgano autonómico correspondiente, salvo que tengan valor histórico, artístico u otro relevante.
+
+2.2. Archivo electrónico de documentos
+
+2.2.1. Conservación de documentos electrónicos
+Según el art. 46 Ley 40/2015, las Administraciones deben conservar en soporte electrónico todos los documentos de un expediente administrativo y los de valor probatorio. La copia electrónica auténtica (art. 27 Ley 39/2015) tiene la consideración de patrimonio documental a efectos de la Ley 16/1985. Cada Administración regula los períodos mínimos de conservación. Si existen procedimientos judiciales, los documentos deben conservarse hasta la terminación firme del procedimiento. La conservación comprende identificación, contenido, metadatos, firma, estructura y formato, permitiéndose la migración a otros formatos y soportes cuando sea necesario.
+
+2.2.2. Archivo electrónico único
+Conjunto de sistemas y servicios que sustenta la gestión, custodia y recuperación de los documentos y expedientes electrónicos finalizados. En el de la AGE son accesibles todos los documentos y expedientes electrónicos del sector público estatal una vez finalizados los procedimientos, en los plazos que determine la Comisión Superior Calificadora de Documentos Administrativos. Debe garantizar autenticidad, conservación, integridad, confidencialidad, disponibilidad y cadena de custodia.
+
+3. EL REGISTRO DE DOCUMENTOS: CONCEPTO Y FUNCIONES. PRESENTACIÓN, RECEPCIÓN, ENTRADA Y SALIDA DE DOCUMENTOS
+
+3.1. Concepto de registro
+En sentido restringido, los registros administrativos son libros en los que se hace constar, fundamentalmente, la entrada y salida de documentos en los organismos públicos. Las oficinas de registro son unidades administrativas con consideración de órgano administrativo por tener atribuidas funciones con efectos jurídicos frente a terceros.
+
+3.2. Tipos de registros
+Comunes a todos los organismos: Registro General, Registro de Entrada y Registro de Salida de Documentos. Específicos, según el objeto: Registro de Personal, de Intervención, de la Propiedad, etc.
+
+3.3. Unidades de Registro
+Cada Administración dispone de un Registro Electrónico General, donde se anotan los documentos presentados o recibidos en cualquier órgano, y también las salidas dirigidas a otros órganos o particulares. Los Organismos vinculados o dependientes pueden tener su propio registro electrónico, interoperable con el Registro Electrónico General, que funciona como portal de acceso. Las disposiciones de creación de registros electrónicos se publican en el diario oficial y especifican el órgano responsable, la fecha/hora oficial y los días inhábiles. Admiten documentos normalizados y cualquier otra solicitud, escrito o comunicación.
+
+3.4. Contenido de la anotación registral
+Según el art. 16.3 Ley 39/2015, en la anotación consta: número de orden; epígrafe expresivo de su naturaleza; fecha y hora de presentación; identificación del interesado; órgano remitente, si procede; persona u órgano al que se envía; y referencia al contenido. Se emite automáticamente un recibo con copia autenticada, fecha, hora y número de entrada. Concluido el trámite, los documentos se cursan sin dilación a sus destinatarios. Los asientos respetan el orden temporal de recepción o salida.
+
+3.5. Registros en los que se podrán presentar documentos dirigidos a la Administración
+
+3.5.1. Registros y otros lugares de presentación
+Los documentos pueden presentarse: a) en el registro electrónico de la Administración destinataria o en cualquier otro registro electrónico del sector público; b) en oficinas de Correos; c) en representaciones diplomáticas u oficinas consulares; d) en oficinas de asistencia en materia de registros; e) en cualquier otro que establezcan las disposiciones vigentes. Los documentos presentados presencialmente deben ser digitalizados por la oficina de registro, devolviéndose los originales al interesado (salvo custodia obligatoria o documentos no digitalizables).
+
+3.5.2. Los Registros electrónicos
+Deben ser plenamente interoperables entre Administraciones. Las oficinas de asistencia en materia de registros (art. 40.3 RD 203/2021) desarrollan funciones como: digitalización de documentos en papel, anotación de asientos, emisión de recibos, expedición de copias electrónicas auténticas, información sobre identificación y firma electrónica, identificación o firma electrónica de interesados no obligados a relacionarse electrónicamente, práctica de notificaciones cuando el interesado comparezca espontáneamente, comunicación del código de identificación del órgano destinatario, e iniciación del apoderamiento apud acta.
+
+3.5.3. Cómputo de plazos en los registros
+El registro electrónico permite la presentación de documentos todos los días del año durante las 24 horas. Un día inhábil se entiende presentado a primera hora del siguiente día hábil, salvo que la norma permita la recepción en día inhábil. El inicio del cómputo de plazos para las Administraciones viene determinado por la fecha y hora de presentación en el registro electrónico. El calendario de días inhábiles aplicable es el de la sede electrónica del registro de cada Administración, sin aplicarse la regla del art. 30.6 LPA.
+
+3.6. Las funciones del registro
+El registro da fe en un triple sentido: positivo (el documento ha entrado o salido), negativo (el no registrado no ha entrado o salido) y cronológico (fecha de presentación). Funciones: análisis o descripción del documento; control y tramitación de expedientes; garante legal para Administración y administrados; función inventarial y estadística. Las oficinas de registro desarrollan, entre otras: recepción de solicitudes; expedición de recibos; anotación de asientos de entrada/salida; remisión a destinatarios; expedición de copias selladas; realización de cotejos y expedición de copias compulsadas.
+
+3.7. Presentación y tratamiento de documentos en registro
+Las Administraciones pueden determinar los formatos y estándares de los documentos, conforme al Esquema Nacional de Interoperabilidad. Si se detecta código malicioso, se requiere subsanación al interesado. Los documentos digitalizados tienen la consideración de copia electrónica auténtica de documento en papel con la misma validez. Si el tamaño excede la capacidad del Sistema de Interconexión de Registros (SIR), su remisión puede sustituirse por la puesta a disposición en un repositorio de intercambio de ficheros.
+
+3.8. Los Registros en la Administración de la Comunidad de Madrid
+
+3.8.1. La actividad del Registro
+Integran la actividad de registro: recepción de solicitudes, escritos, comunicaciones y documentos que las acompañen; expedición de copias selladas; compulsa de copias; expedición de recibos; anotación de asientos de entrada/salida; remisión a destinatarios; otras funciones legal o reglamentariamente atribuidas. Los registros no pueden usarse para difusión de información comercial privada.
+
+3.8.2. Lugares de presentación de solicitudes, escritos y comunicaciones
+Los ciudadanos pueden presentar documentos dirigidos a cualquier Administración (estatal, autonómica o local) en cualquiera de los Registros de la Administración de la CAM. Además, pueden presentar documentos dirigidos a la CAM en Registros de la AGE y de otras CCAA, oficinas de Correos, representaciones diplomáticas o consulares, y en Registros de Entidades Locales madrileñas que hayan suscrito el correspondiente convenio.
+
+3.8.3. Recepción de solicitudes y documentos a través de entidades colaboradoras
+Las Consejerías fomentan convenios de colaboración con entidades públicas para facilitar la recogida de solicitudes y documentación.
+
+3.8.4. Los medios de presentación
+En soporte papel o por medios informáticos, electrónicos o telemáticos. Cuando se presenten más de diez solicitudes simultáneamente dirigidas al mismo órgano, se facilita un impreso para relacionarlas.
+
+3.8.5. Los efectos de la presentación
+La fecha de recepción por el órgano competente, a efectos de plazos del ciudadano, es la fecha de entrada en cualquiera de los lugares de presentación. A efectos de los plazos de la Administración, se computan desde la entrada en el Registro del órgano competente para tramitar.
+
+3.8.6. La aportación de solicitudes, documentos, etc., a la Administración
+A) Modelos normalizados de solicitud: obligatorios cuando se trate de procedimientos que impliquen resolución numerosa; deben publicarse en el BOCM.
+B) Sistemas normalizados de solicitud: integran los modelos para transmisión telemática.
+C) Aportación de documentos originales: el ciudadano tiene derecho a que le sellen copias aportando una copia junto al original; el Registro coteja, une el original a la solicitud y entrega la copia sellada, que acredita que el original obra en poder de la Administración y sirve para el derecho a no aportar documentos ya presentados.
+D) Aportación de copias y compulsa: el ciudadano puede presentar copias, con derecho a que se compulsen si la normativa lo requiere y se acompañan los originales; la compulsa comprueba la identidad entre original y copia (sello con Registro, fecha e identificación del compulsante); la copia compulsada tiene la misma validez que el original en ese procedimiento, sin acreditar la autenticidad del original.
+
+3.8.7. La expedición de los recibos de presentación
+El recibo acredita número de asiento, identidad del remitente, órgano destinatario, lugar y fecha de presentación y extracto del contenido.
+
+3.8.8. El contenido de los asientos registrales
+Se anotan respetando el orden temporal, con fecha, hora y minuto de entrada/salida, número asignado, identificación del remitente y destinatario y breve referencia del contenido. En soporte papel se estampa sello o validación mecánica; si hay imposibilidad técnica, se procede a validación manual. Los documentos se cursan a sus destinatarios de inmediato, y en ningún caso después del día siguiente.
+
+3.8.9. La expedición de las copias auténticas de los documentos públicos administrativos
+Se rige por el art. 27 Ley 39/2015. Cualquier ciudadano puede solicitarlas; si contienen datos nominativos, solo el titular o un tercero con interés legítimo, o exclusivamente el titular si afectan a su intimidad (con consentimiento de otros afectados en su caso). Tienen la misma validez y eficacia que los documentos originales. Si el funcionario habilitado no tiene la potestad de expedirla, debe remitir la solicitud al órgano emisor, que la expedirá en 5 días. Puede denegarse por resolución motivada por razones de protección del interés público, de terceros o norma legal/reglamentaria.
+
+3.8.10. Los Registros de la Comunidad de Madrid
+Existe un Registro en cada Consejería, Organismo Autónomo, Entidad de Derecho público y Ente Público vinculado o dependiente; un mismo Registro puede servir a varias unidades; pueden crearse Registros auxiliares. Se instalan en soporte informático sobre una aplicación única e interconectada, con numeración automática y secuencial. Se crean, modifican o suprimen mediante Orden del Consejero de Presidencia, Justicia y Administración Local (delegado en la Dirección General de Atención al Ciudadano y Transparencia por Orden de 20 de febrero de 2024), publicada en el BOCM, previendo al menos localización, horario y, en su caso, el carácter de auxiliar.
+
+4. EL ARCHIVO DE DOCUMENTOS: CONCEPTO Y FUNCIONES
+
+4.1. Definición doctrinal
+Antonia Heredia define el archivo como "uno o más conjuntos de documentos, sea cual sea su fecha, su forma y su soporte material, acumulados en un proceso natural por una persona o institución pública o privada en el transcurso de su gestión, conservados, respetando aquel orden, para servir como testimonio e información, para la persona o institución que los produce, para los ciudadanos o para servir de fuentes de historia" (Archivística: Estudios Básicos, 1983).
+
+4.2. Definición de la Ley del Patrimonio Histórico Español
+Son archivos "los conjuntos orgánicos de documentos, o la reunión de varios de ellos, reunidos por las personas jurídicas, públicas o privadas, en el ejercicio de sus actividades, al servicio de su utilización para la investigación, la cultura, la información y la gestión administrativa"; también las instituciones culturales que reúnen, conservan, ordenan y difunden dichos conjuntos. Según el art. 61.2, los Archivos, Bibliotecas y Museos de titularidad estatal y carácter nacional se crean mediante Real Decreto.
+
+4.3. Funciones del archivo
+4.3.1. Adquisición o recogida de la documentación (etapa prearchivística: preparación —activa— y recepción —pasiva—).
+4.3.2. Conservación: control del medio ambiente para crear un microclima artificial ideal (humedad, temperatura, insectos, etc.).
+4.3.3. Difusión de la documentación: mediante publicaciones o sistemas informatizados. El art. 105.b) CE establece que la ley regulará el acceso a los archivos y registros administrativos, salvo lo que afecte a la seguridad y defensa del Estado, la averiguación de delitos y la intimidad de las personas (desarrollado por la Ley 39/2015 y la Ley 19/2013).
+
+5. CLASES DE ARCHIVOS Y CRITERIOS DE ORDENACIÓN
+
+5.1. Idea general de la tipología de archivos
+Archivos privados (empresas, asociaciones, eclesiásticos) y archivos públicos, que se subdividen en: Históricos (Nacional, General de Indias, de la Corona de Aragón, etc.) y Administrativos (estatales, autonómicos, locales).
+
+5.2. Criterios de ordenación de los Archivos
+Orgánico (según el órgano de procedencia), Funcional (según competencias), Alfabético (sencillo pero con problemas de homónimos), Numérico (pone de manifiesto la falta de un documento), Decimal (variante numérica, Clasificación Decimal Universal en bibliotecas), Cronológico (prioritario en documentos económicos), Geográfico o Topográfico, y Mixto (el más utilizado, combina varios criterios).
+
+5.3. Archivos Históricos
+a) Archivo Histórico Nacional: creado por RD de 28 de marzo de 1866, a partir de la documentación de la Desamortización eclesiástica; el más joven pero de mayor volumen y amplitud.
+b) Archivo de la Corona de Aragón: en Barcelona, primer archivo español con fecha conocida (escritura de 25 de octubre de 1180); junto con el del Vaticano, el más completo archivo medieval.
+c) Archivo General de Simancas: fundado por Real Cédula de Carlos V en 1549; "Instrucción para el Archivo Real de Simancas" (1588, Felipe II); fondos del siglo XV al XVIII, 70.000 legajos.
+d) Archivo General de Indias: en Sevilla, creado por Carlos III en 1785, para la documentación de América y Filipinas.
+e) Centro Documental de la Memoria Histórica: creado por RD 697/2007, de 1 de junio, sobre el periodo 1936-1978; integra el Archivo General de la Guerra Civil Española.
+f) Archivo de la Real Chancillería de Valladolid: creado a raíz de las Cortes de Toro de 1371.
+
+5.4. Los Archivos administrativos de la Administración General del Estado
+Conservan documentos útiles para el funcionamiento de la Administración; forman parte del Patrimonio Documental.
+5.4.1. Archivos de gestión: existe uno en cada unidad administrativa ("archivo de oficina"); no de libre consulta; primera edad de los documentos; custodian documentos en trámite; remisión anual al archivo central/provincial.
+5.4.2. Archivos centrales: uno en cada Departamento; de libre consulta; segunda edad de los documentos; custodian expedientes resueltos con resolución firme; remisión anual, con permanencia de 15 años (Decreto 914/1969) antes de pasar al Archivo General de la Administración.
+5.4.3. Archivos intermedios: reciben y custodian documentos procedentes de los archivos centrales hasta pasar, en su caso, a los históricos; en España, el Archivo General de la Administración (Alcalá de Henares, creado por Decreto 914/1969, dependiente de la Subdirección General de los Archivos Estatales) y el Depósito Regional de Cervera; también los Archivos Provinciales (documentos de servicios periféricos). Tercera edad de los documentos; permanencia de 25 años antes de pasar, si procede, al Archivo Histórico Nacional.
+5.4.4. Especial consideración del Archivo de Gestión: primera edad de los documentos; archivo de documentos corrientes cercano al funcionario responsable; prevalece el valor primario o administrativo; etapa prearchivística; no recibe transferencias de otros archivos; conservación total sin expurgo (solo se expurgan copias, no originales); no es de libre consulta.
+
+5.5. Documentos, Archivos y Sistema de Archivos de la Comunidad de Madrid
+
+5.5.1. Conceptos y tipos de documentos (Ley 6/2023, de 30 de marzo)
+Documento: toda información producida por personas físicas o jurídicas como testimonio de sus actos, en cualquier soporte y formato. Documento de titularidad pública (incluye el documento público, autorizado por funcionario competente) y de titularidad privada. Archivo: conjunto orgánico de documentos, o la unidad/servicio que los custodia, conserva, organiza y difunde. Archivo público y archivo privado. Documento electrónico (con firmas y metadatos del Esquema Nacional de Interoperabilidad) y documento convencional. Expediente electrónico: conjunto ordenado, completo, foliado y autentificado de documentos y actuaciones, con índice electrónico numerado y copia electrónica certificada de la resolución. Metadato de gestión de documentos. Digitalización.
+
+5.5.2. Archivos Madrileños
+A) Archivos públicos: los de entidades públicas ubicadas en la CAM (Asamblea, Cámara de Cuentas, Gobierno y Administración, Justicia, Entidades Locales, Universidades Públicas), los de titularidad estatal gestionados por la CAM, y los de empresas públicas, entes, consorcios y fundaciones del sector público autonómico/local y de la Cámara de Comercio de Madrid. Se organizan en archivos de gestión, centrales, intermedios e históricos. Quedan integrados automáticamente en el Subsistema de Archivos correspondiente (salvo Asamblea y Cámara de Cuentas).
+B) Archivos privados: custodian documentos de personas físicas o jurídicas privadas radicadas en la CAM; pueden integrarse voluntariamente en el Sistema de Archivos, previo informe del Consejo de Archivos.
+
+5.5.3. Sistema de Archivos de la Comunidad de Madrid
+Conjunto ordenado de órganos, centros y servicios, agrupados o no en Subsistemas, cuyas finalidades son servir a la gestión administrativa, garantizar el derecho de acceso y proteger, conservar y difundir el Patrimonio Documental Madrileño. Principios de coordinación y descentralización.
+
+5.5.4. Órganos del Sistema de Archivos de la Comunidad de Madrid
+Consejería competente en archivos (formulación y ejecución de la política de tutela del Patrimonio Documental); Consejo de Archivos de la CAM (órgano consultivo); Comisión de Acceso y Valoración de Documentos de la CAM (determina régimen de acceso y valoración, salvo documentos judiciales y de la Asamblea); Comisión de Archivo de la Asamblea de Madrid; Junta de Expurgo de Documentos Judiciales de la CAM.
+
+5.5.5. Archivos y Subsistemas de Archivos que conforman el Sistema
+El Archivo o Subsistema de la Asamblea de Madrid; el Archivo de la Cámara de Cuentas; el Subsistema de Archivos del Gobierno y la Administración de la CAM; el Subsistema de la Administración de Justicia de la CAM; los Subsistemas de las Entidades Locales; los Subsistemas de las Universidades Públicas de la CAM; y cualesquiera otros creados por Decreto del Consejo de Gobierno.
+
+5.5.6. El acceso a los documentos
+Todas las personas tienen derecho a acceder a los documentos de titularidad pública custodiados en archivos del Sistema (arts. 20.1.d y 105.b CE; Ley 10/2019, de Transparencia y Participación de la CAM), sin necesidad de interés personal, motivación ni invocación de norma. El acceso puede denegarse o restringirse solo por las causas de los arts. 34 y 35 de la Ley 10/2019, interpretadas restrictivamente y sin analogía. Si no hay Tabla de Valoración, las exclusiones desaparecen a los 30 años. El acceso se realiza preferentemente por vía electrónica y es gratuito si se consulta en el archivo o existe en formato electrónico; la expedición de copias o certificaciones puede sujetarse a tasa.
+
+5.5.7. Tipos de documentos que forman parte del Patrimonio Documental Madrileño
+Documentos de titularidad pública (Asamblea, Cámara de Cuentas, Administración de la CAM, Entidades Locales, Universidades Públicas, etc.), inalienables, imprescriptibles e inembargables, y documentos de titularidad privada. El Patrimonio Documental Madrileño lo forman los documentos de valor permanente: los de titularidad pública dictaminados como de conservación permanente; los de titularidad privada informados como tal por el Consejo de Archivos; los de titularidad pública con más de 30 años (sin valorar); los de titularidad privada de entidades políticas/sindicales/culturales con más de 40 años; los de otras personas privadas con más de 50 años; y los incluidos en el Inventario de Bienes Reconocidos o en el Registro de Bienes de Interés Cultural o Patrimonial (Ley 3/2013).
+
+6. EL ACCESO A LOS DOCUMENTOS ADMINISTRATIVOS: SUS LIMITACIONES Y FORMAS DE ACCESO
+
+6.1. Introducción
+Según el art. 105.b) CE, la ley regulará el acceso a los archivos y registros administrativos, salvo lo que afecte a la seguridad y defensa del Estado, la averiguación de delitos y la intimidad de las personas. Regulado por la Ley 16/1985 (LPH), la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, y, a nivel autonómico, por la Ley 6/2023.
+
+6.2. El acceso a la información pública
+Según el art. 12 Ley 19/2013, todas las personas tienen derecho a acceder a la información pública (art. 105.b CE). El art. 13 define información pública como los contenidos o documentos que obren en poder de los sujetos incluidos en el ámbito de la ley, elaborados o adquiridos en el ejercicio de sus funciones.
+
+6.2.1. Límites al derecho de acceso
+El acceso puede limitarse cuando suponga perjuicio para: seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención/investigación/sanción de ilícitos, igualdad de las partes en procesos judiciales y tutela judicial efectiva, funciones de vigilancia/inspección/control, intereses económicos y comerciales, política económica y monetaria, secreto profesional y propiedad intelectual/industrial, confidencialidad en procesos de toma de decisión, y protección del medio ambiente. La aplicación debe ser justificada y proporcionada. Datos que revelen ideología, afiliación sindical, religión o creencias: solo con consentimiento expreso y escrito del afectado (salvo que los haya hecho públicos). Datos de origen racial, salud, vida sexual, genéticos, biométricos o de infracciones sin amonestación pública: solo con consentimiento expreso o norma con rango de Ley.
+
+6.2.2. Forma de acceso
+El procedimiento se inicia con solicitud dirigida al titular del órgano o entidad que posea la información (o a la Administración de la que dependa, si la información está en poder de un prestador de servicios públicos). La solicitud debe permitir constancia de: identidad del solicitante, información solicitada, dirección de contacto (preferentemente electrónica) y, en su caso, modalidad de acceso preferida. No es obligatorio motivar la solicitud, aunque puede exponerse el motivo; la ausencia de motivación no es por sí sola causa de rechazo. Los solicitantes pueden dirigirse a las Administraciones en cualquiera de las lenguas cooficiales del territorio.
+
+IDEAS CLAVE
+
+Para ser considerados válidos, los documentos electrónicos administrativos deberán: contener información archivada en soporte electrónico según formato identificable y susceptible de tratamiento diferenciado; disponer de datos de identificación que permitan su individualización; incorporar una referencia temporal del momento de emisión; incorporar los metadatos mínimos exigidos; e incorporar las firmas electrónicas correspondientes.
+
+Según el Real Decreto 203/2021, los registros electrónicos admitirán documentos electrónicos normalizados correspondientes a los servicios, procedimientos y trámites especificados en la norma de creación del registro, y cualquier otra solicitud, escrito o comunicación dirigida a cualquier Administración Pública.
+
+Los documentos que los ciudadanos dirijan a las Administraciones Públicas podrán presentarse en el registro electrónico de la Administración u Organismo destinatario o de cualquier otro sujeto del sector público, en las oficinas de Correos, en representaciones diplomáticas u oficinas consulares de España en el extranjero, en las oficinas de asistencia en materia de registros, o en cualquier otro lugar que establezcan las disposiciones vigentes.
+
+Los ciudadanos tienen derecho a presentar, en cualquiera de los Registros de la Administración de la Comunidad de Madrid, las solicitudes, escritos, comunicaciones y documentación dirigidas a las Administraciones Públicas de ámbito estatal, autonómico o local. Existe un Registro en cada Consejería, Organismo Autónomo, Entidad de Derecho público y Ente Público vinculado o dependiente de la CAM, pudiendo crearse Registros auxiliares.
+
+Son archivos administrativos: de Gestión, Centrales e Intermedios.
+
+La Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la Comunidad de Madrid define documento como toda información producida por las personas físicas o jurídicas de cualquier naturaleza como testimonio de sus actos, recogida en un soporte y en cualquier formato, con independencia de la forma de expresión o contexto tecnológico en que se haya generado. Los Archivos Madrileños se dividen en archivos públicos y archivos privados.
+
+Todas las personas, individualmente o en representación de otras, tienen derecho a acceder a los documentos de titularidad pública custodiados en archivos del Sistema de Archivos de la Comunidad de Madrid, sin que el ejercicio de este derecho esté condicionado a la concurrencia de un interés personal, ni sujeto a motivación, ni requiera la invocación de ninguna norma.
+
+Según el art. 105.b) de la Constitución, la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos, salvo en lo que afecte a la seguridad y defensa del Estado, la averiguación de los delitos y la intimidad de las personas. Esta materia se regula en la Ley del Patrimonio Histórico Español (1985), en la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno, y, a nivel autonómico, en la Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la Comunidad de Madrid.
