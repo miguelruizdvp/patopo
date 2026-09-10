@@ -1,0 +1,261 @@
+BANCO DE PREGUNTAS — TEMA 15 (LEYES): Archivos, documentos administrativos y procedimiento electrónico
+Fuente: ADAMS, Tema15-Cuestionario1 (25 preguntas) — PENDIENTE test2 si existe, para fusionar
+Normativa base: Ley 6/2023 CAM (Archivos y Documentos), Ley 39/2015 (LPACAP), Ley 16/1985 (Patrimonio
+Histórico Español), RD 1708/2011 (Sistema Español de Archivos), RD 203/2021 (actuación electrónica sector
+público), Decreto 21/2002 CAM (atención al ciudadano)
+Origen: banco propio (ADAMS)
+
+---
+ID: 464702
+Pregunta: Para ordenar las actas de los diversos ayuntamientos de la Comunidad por orden temporal, el criterio más adecuado es:
+a) Funcional
+b) Orgánico-Cronológico
+c) Geográfico-cronológico
+d) Decimal
+Respuesta correcta: c
+Referencia: Ley 16/1985 (Patrimonio Histórico Español)
+
+---
+ID: 12097481
+Pregunta: Una diligencia es un:
+a) Documento administrativo resolutorio
+b) Documento administrativo
+c) Documento administrativo de constancia
+d) Documento administrativo de comunicación
+Respuesta correcta: c
+Explicación: El enunciado original del test tenía una errata ("contancia"); la palabra correcta es "constancia".
+
+---
+ID: 12098465
+Pregunta: ¿Cuál es la norma que regula en la actualidad los Archivos y Documentos de la Comunidad de Madrid?
+a) Ley 4/1993, de 21 de abril
+b) Ley 3/1983, de 25 de febrero
+c) Ley 6/2023, de 30 de marzo
+d) Ley 1/1983, de 30 de marzo
+Respuesta correcta: c
+Referencia: Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la CAM
+
+---
+ID: 464696
+Pregunta: En los Archivos de Gestión de la CAM se custodian los documentos sometidos a continua utilización y consulta administrativa y, en defecto de plazos de las Tablas de Valoración, los documentos carentes de vigencia durante un máximo de:
+a) Dos años desde el final de su tramitación
+b) Cinco años desde el final de su tramitación
+c) Diez años desde el final de su tramitación
+d) Quince años desde el final de su tramitación
+Respuesta correcta: b
+Referencia: Art. 51.2.a) Ley 6/2023 CAM
+
+---
+ID: 12098956
+Pregunta: La convocatoria para comparecer dentro de un plazo es:
+a) Una resolución administrativa
+b) Una citación
+c) Un requerimiento
+d) Un emplazamiento
+Respuesta correcta: d
+
+---
+ID: 464699
+Pregunta: El artículo 27 de la Ley 39/2015 no establece sobre las copias auténticas:
+a) Los interesados podrán solicitar, en cualquier momento, copias auténticas de documentos públicos administrativos válidamente emitidos
+b) Los ciudadanos podrán solicitar, en cualquier momento, copias auténticas de documentos públicos administrativos válidamente emitidos
+c) La expedición de copias auténticas de documentos públicos notariales se rige por su legislación específica
+d) La expedición de copias auténticas de diarios oficiales se rige por su legislación específica
+Respuesta correcta: b
+Referencia: Art. 27.4 y 27.6 Ley 39/2015
+Explicación: El texto legal habla de "los interesados" (no "los ciudadanos"); por eso la formulación b) es la que no recoge la ley.
+
+---
+ID: 12099202
+Pregunta: Señale la incorrecta respecto a las copias auténticas:
+a) Las AAPP están obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados
+b) Las copias en soporte papel de documentos electrónicos no requerirán que figure la condición de copia
+c) Las copias auténticas realizadas por una AP tendrán validez en las restantes Administraciones
+d) Las copias auténticas tendrán la misma validez y eficacia que los documentos originales
+Respuesta correcta: b
+Referencia: Art. 27.4 Ley 39/2015
+Explicación: Las copias en papel de documentos electrónicos SÍ deben indicar la condición de copia y llevar un código de verificación.
+
+---
+ID: 464695
+Pregunta: ¿Cuál de las siguientes afirmaciones es correcta?
+a) El documento administrativo se produce por un órgano administrativo o legislativo
+b) El documento administrativo no debe ser susceptible de incorporarse a un expediente
+c) El documento administrativo debe ser de contenido escriturado
+d) El documento administrativo debe ser necesariamente emitido por un órgano de la Administración
+Respuesta correcta: d
+Referencia: Art. 26.1 Ley 39/2015
+
+---
+ID: 464701
+Pregunta: Los archivos existentes en los órganos y unidades de la AGE para custodia de documentos en fase de tramitación o continua utilización, mientras el expediente no ha sido resuelto, reciben el nombre de:
+a) Archivos de gestión
+b) Archivos centrales
+c) Archivos intermedios
+d) Archivos primarios
+Respuesta correcta: a
+Referencia: Art. 9 RD 1708/2011
+
+---
+ID: 12098711
+Pregunta: La Ley 6/2023 CAM define como conjunto orgánico de documentos producidos o reunidos por una persona física o jurídica, pública o privada, en el ejercicio de sus funciones o actividades a:
+a) El fondo documental
+b) La serie documental
+c) El archivo
+d) La colección
+Respuesta correcta: a
+Referencia: Art. 3.e) Ley 6/2023 CAM
+
+---
+ID: 464694
+Pregunta: Los documentos válidamente emitidos por los órganos de las AAPP, según la Ley 39/2015, tienen la consideración de documentos:
+a) Públicos Administrativos
+b) Privados
+c) Públicos
+d) Oficiales
+Respuesta correcta: a
+Referencia: Art. 26.1 Ley 39/2015
+
+---
+ID: 12097727
+Pregunta: A la acción de eliminar documentos que no deban pasar a una siguiente fase de archivos se le denomina:
+a) Expurgo
+b) Digitalización
+c) Traspaso de documentos
+d) Transferencias documentales
+Respuesta correcta: a
+
+---
+ID: 464697
+Pregunta: Como norma general, la permanencia de la documentación en los Archivos Centrales de la CAM tendrá lugar:
+a) Hasta cinco años desde el fin de su tramitación, salvo excepciones razonadas
+b) Una vez concluidos los plazos de las correspondientes Tablas de Valoración
+c) Hasta diez años máximo desde la fecha de ingreso en el archivo
+d) Hasta quince años desde la fecha de ingreso en el archivo
+Respuesta correcta: b
+Referencia: Art. 51.1-2 Ley 6/2023 CAM
+Explicación: La norma general es "hasta que concluyan los plazos de las Tablas de Valoración"; en su defecto, el plazo supletorio de los archivos centrales es de 10 años desde el ingreso.
+
+---
+ID: 1388
+Pregunta: Un resumen a base de frases extraídas del propio texto resumido, sin el valor del resumen informativo y con riesgo de elección equivocada de frases no significativas, recibe el nombre de:
+a) Extracto
+b) Compendio
+c) Reseña
+d) Título
+Respuesta correcta: a
+
+---
+ID: 12096251
+Pregunta: No es un archivo administrativo:
+a) Un archivo de Gestión
+b) Un archivo de Oficina
+c) El archivo General de Indias
+d) Un archivo Central
+Respuesta correcta: c
+Referencia: RD 1708/2011
+Explicación: El Archivo General de Indias es un archivo histórico, no un archivo de la fase administrativa (gestión/oficina/central).
+
+---
+ID: 12096990
+Pregunta: Los Archivos Generales de la AGE remiten al Archivo Histórico Nacional los documentos con valor histórico cuando hayan cumplido:
+a) Cinco años
+b) Diez años
+c) Quince años
+d) Veinticinco años
+Respuesta correcta: d
+Referencia: Normativa del Sistema Español de Archivos
+
+---
+ID: 12097972
+Pregunta: Los Archivos de titularidad estatal y de carácter nacional serán creados mediante:
+a) Real Decreto
+b) Decreto
+c) Acuerdo del Consejo de Ministros
+d) Real Decreto Ley
+Respuesta correcta: a
+Referencia: Art. 61.2 Ley 16/1985 (Patrimonio Histórico Español)
+
+---
+ID: 12097235
+Pregunta: En la Comunidad de Madrid, los Registros se crean:
+a) Por Orden del Consejero competente en materia de Registros
+b) Por Acuerdo del Gobierno
+c) Por Orden del Vicepresidente
+d) Por Acuerdo del Consejo de Archivos
+Respuesta correcta: a
+Referencia: Art. 28 Decreto 21/2002 CAM
+Explicación: El decreto original habla del "Consejero de Presidencia" (competencia de la época); la opción a) generaliza como "Consejero competente en materia de Registros", pero es la considerada correcta por ADAMS.
+
+---
+ID: 12098219
+Pregunta: En la Comunidad de Madrid son inalienables:
+a) Los documentos de titularidad pública o privada, en su condición de bienes de dominio público
+b) Los documentos de titularidad pública, en su condición de bienes de dominio público
+c) Los documentos de titularidad privada, en su condición de bienes de dominio público
+d) Solo los documentos de titularidad pública en posesión de una persona jurídica, en su condición de bienes de dominio público
+Respuesta correcta: b
+Referencia: Art. 71.1 Ley 6/2023 CAM
+
+---
+ID: 464700
+Pregunta: Según el art. 16.4 de la Ley 39/2015, los documentos que los ciudadanos dirijan a los órganos de las AAPP podrán presentarse en:
+a) El registro electrónico de la Administración a la que se dirijan, aunque no en los restantes registros electrónicos del sector público
+b) En las oficinas de Correos, en la forma que por medio de ley se establezca
+c) En las representaciones diplomáticas u oficinas consulares del extranjero en España
+d) En las oficinas de asistencia en materia de registros
+Respuesta correcta: d
+Referencia: Art. 16.4 Ley 39/2015
+Explicación: También matiza otras opciones: el registro electrónico SÍ vale junto con los del resto del sector público (a es incorrecta tal como está formulada); las oficinas de Correos se rigen por vía reglamentaria, no por ley (b es incorrecta); las representaciones son de España en el extranjero, no "del extranjero en España" (c es incorrecta). Solo d) es literalmente correcta.
+
+---
+ID: 464698
+Pregunta: Señale la incorrecta. Para ser considerados válidos, los documentos electrónicos administrativos deberán:
+a) Contener información archivada en soporte electrónico según formato susceptible de identificación y tratamiento diferenciado
+b) Disponer de datos de identificación que permitan su individualización, sin perjuicio de su incorporación a un expediente electrónico
+c) Incorporar los metadatos mínimos exigidos y las firmas electrónicas correspondientes
+d) Incorporar los metadatos máximos exigidos y las firmas electrónicas correspondientes
+Respuesta correcta: d
+Referencia: Art. 26.2 Ley 39/2015
+Explicación: La ley exige metadatos "mínimos", no "máximos"; también se exige incorporar una referencia temporal del momento de emisión (no mencionada en las opciones).
+
+---
+ID: 12096743
+Pregunta: ¿Cuál de los siguientes es un documento administrativo?
+a) Instancia
+b) Solicitud del interesado
+c) Escrito de alegaciones
+d) Propuesta de resolución
+Respuesta correcta: d
+Explicación: Instancia, solicitud y alegaciones son documentos que presenta el ciudadano; la propuesta de resolución es producida por la propia Administración, por lo que es la que encaja como "documento administrativo" en sentido estricto.
+
+---
+ID: 12096497
+Pregunta: Señale la afirmación falsa en relación con el expediente administrativo electrónico:
+a) El foliado se llevará a cabo mediante un índice electrónico, firmado por la Administración y por el interesado
+b) El foliado se llevará a cabo mediante un índice electrónico autenticado que garantizará la integridad del expediente
+c) Un mismo documento electrónico podrá formar parte de distintos expedientes administrativos
+d) El índice electrónico autenticado será firmado por el titular del órgano que conforme el expediente
+Respuesta correcta: a
+Referencia: Art. 51 RD 203/2021
+Explicación: El índice se firma solo por el titular del órgano (o se sella electrónicamente si el expediente se forma automáticamente); no interviene la firma del interesado.
+
+---
+ID: 12099446
+Pregunta: Prevé la Ley 39/2015 que podrán realizar copias auténticas mediante funcionario habilitado:
+a) La AGE exclusivamente
+b) La AGE y las Comunidades Autónomas
+c) La AGE, las Comunidades Autónomas y las Entidades Locales
+d) La AGE y las Entidades Locales exclusivamente
+Respuesta correcta: c
+Referencia: Art. 27.1 Ley 39/2015
+
+---
+ID: 12096007
+Pregunta: En los archivos de gestión de la CAM se custodian:
+a) Documentos en proceso de tramitación
+b) Documentos ya tramitados
+c) Expedientes en los que se haya dictado resolución firme
+d) Expedientes en los que se haya ejecutado resolución firme
+Respuesta correcta: a
+Referencia: Art. 9.1 Ley 6/2023 CAM
