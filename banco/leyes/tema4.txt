@@ -1,0 +1,604 @@
+BANCO DE PREGUNTAS - TEMA 4 (LEYES)
+Las fuentes del ordenamiento jurídico; la Constitución; las Leyes; Decretos-leyes y Decretos legislativos; los Reglamentos; otras fuentes
+Fuente: ADAMS Formación - Cuestionario 1 y Cuestionario 2 (50 preguntas distintas)
+Origen: banco_propio
+
+---
+
+P1
+Texto: ¿Quién puede requerir al Tribunal Constitucional para que declare si existe o no contradicción de un Tratado Internacional con la Constitución española?:
+a) El Gobierno o cualquiera de las Cámaras.
+b) El Gobierno.
+c) El Gobierno o el Congreso de los Diputados.
+d) El Congreso o el Senado.
+Respuesta correcta: a
+Referencia: Artículo 95.2 CE
+Explicación: El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que declare si existe o no contradicción entre un tratado internacional y la Constitución.
+
+---
+
+P2
+Texto: Conforme al artículo 1.5 del Código Civil, los tratados internacionales ratificados por España pasarán a formar parte del ordenamiento jurídico interno mediante:
+a) Su promulgación por el Rey.
+b) Su sanción por el Rey.
+c) Su publicación íntegra en el BOE.
+d) Ninguna respuesta es correcta.
+Respuesta correcta: c
+Referencia: Artículo 1.5 Código Civil
+Explicación: Las normas jurídicas contenidas en los tratados internacionales no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el BOE.
+
+---
+
+P3
+Texto: De conformidad al artículo 129 de la L.P.A., en la exposición de motivos o en el preámbulo, según se trate, respectivamente, de anteproyectos de ley o de proyectos de reglamentos, deberá quedar suficientemente justificada su adecuación a una serie de principios; ¿Cuál de los siguientes que se señalan no se enumera en el citado precepto?
+a) Principio de necesidad.
+b) Principio de transparencia.
+c) Principio de estabilidad financiera y sostenibilidad presupuestaria.
+d) Todos son enumerados en la citada norma.
+Respuesta correcta: c
+Referencia: Artículo 129.1 y 129.7 Ley 39/2015
+Explicación: El apartado 1 del art. 129 enumera necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia como principios cuya adecuación debe justificarse en la exposición de motivos/preámbulo; la estabilidad presupuestaria y sostenibilidad financiera se menciona en un apartado distinto (129.7), referido a la cuantificación de repercusiones sobre gastos/ingresos, no a los principios que deben justificarse en el preámbulo.
+
+---
+
+P4
+Texto: La posibilidad de que el Consejo de Ministros pueda acordar la tramitación urgente del procedimiento de elaboración y aprobación de Anteproyectos de Ley, Reales Decretos Legislativos y de Reales Decretos, en determinados supuestos, se establece en:
+a) La Constitución española.
+b) La Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas.
+c) La Ley 50/97, del Gobierno.
+d) Ninguna es correcta.
+Respuesta correcta: c
+Referencia: Artículo 27 Ley 50/1997, del Gobierno
+Explicación: El Consejo de Ministros, a propuesta del titular del departamento correspondiente, podrá acordar la tramitación urgente en los casos previstos en el art. 27 de la Ley del Gobierno.
+
+---
+
+P5
+Texto: La aprobación de una Ley Orgánica exige:
+a) Mayoría absoluta del Congreso de los Diputados.
+b) Mayoría de 2/3 del Congreso de los Diputados.
+c) Mayoría de 3/5 del Congreso de los Diputados.
+d) Mayoría absoluta de las Cortes Generales.
+Respuesta correcta: a
+Referencia: Artículo 81.2 CE
+Explicación: La aprobación, modificación o derogación de las leyes orgánicas exigirá mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto.
+
+---
+
+P6
+Texto: Según el artículo 87.2 de la Constitución, las Asambleas Legislativas de las Comunidades Autónomas podrán tomar la iniciativa legislativa:
+a) Solicitando al Gobierno la adopción de un proyecto de ley.
+b) Remitiendo a la Mesa del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de seis miembros de la Asamblea para su defensa.
+c) Solicitando al Congreso la adopción de un proyecto de ley.
+d) Remitiendo a la Diputación Permanente del Congreso una proposición de ley, delegando ante dicha Cámara un máximo de tres miembros de la Asamblea para su aprobación.
+Respuesta correcta: a
+Referencia: Artículo 87.2 CE
+Explicación: Las Asambleas de las CCAA podrán solicitar del Gobierno la adopción de un proyecto de Ley, o remitir a la Mesa del Congreso una proposición de Ley delegando ante dicha Cámara un máximo de TRES (no seis) miembros para su defensa.
+
+---
+
+P7
+Texto: La técnica jurídica en virtud de la cual una ley, sin entrar a regular materialmente un asunto, abre la posibilidad de que el mismo hasta entonces regulado por ley, pase en el futuro a ser regulado por reglamento, recibe el nombre de:
+a) Reserva reglamentaria.
+b) Congelación de rango.
+c) Deslegalización.
+d) Reserva formal.
+Respuesta correcta: c
+Referencia: Doctrina jurídica
+Explicación: Esta técnica recibe el nombre de deslegalización.
+
+---
+
+P8
+Texto: El Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente, es aprobado:
+a) Por el Gobierno, cada dos años.
+b) Por el Ministerio de la Presidencia anualmente.
+c) Por el Gobierno, anualmente.
+d) Por el Ministerio de Hacienda, anualmente.
+Respuesta correcta: c
+Referencia: Artículo 25.1 Ley 50/1997
+Explicación: El Gobierno aprobará anualmente un Plan Normativo que contendrá las iniciativas legislativas o reglamentarias que vayan a ser elevadas para su aprobación en el año siguiente.
+
+---
+
+P9
+Texto: El Plan Anual Normativo estará coordinado por:
+a) El Ministerio de la Presidencia.
+b) El Ministerio de Hacienda.
+c) El Ministerio de Economía, Comercio y Empresa.
+d) Ninguna respuesta es correcta.
+Respuesta correcta: a
+Referencia: Artículo 25.4 Ley 50/1997
+Explicación: El Plan Anual Normativo estará coordinado por el Ministerio de la Presidencia, que elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.
+
+---
+
+P10
+Texto: ¿A quién corresponde apreciar la necesidad para que el Estado dicte leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas?:
+a) Al Gobierno.
+b) Al Tribunal Constitucional.
+c) A las Cortes Generales, por mayoría absoluta de cada Cámara.
+d) A las Cortes Generales mediante ley orgánica.
+Respuesta correcta: c
+Referencia: Artículo 150.3 CE
+Explicación: Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de la necesidad de dictar leyes de armonización.
+
+---
+
+P11
+Texto: Señala la opción incorrecta en relación a la tramitación por vía de urgencia del procedimiento de elaboración y aprobación de anteproyectos de ley, reales decretos legislativos y de reales decretos:
+a) Los plazos previstos se reducirán a la mitad de su duración.
+b) No será preciso el trámite de consulta pública previa.
+c) No será preciso el trámite de audiencia pública.
+d) El trámite de información pública sobre el texto será, como mínimo, de 7 días.
+Respuesta correcta: c
+Referencia: Artículo 27.2 Ley 50/1997
+Explicación: En tramitación urgente los plazos se reducen a la mitad y no es preciso el trámite de consulta pública previa, pero SÍ es preciso el trámite de audiencia pública o información pública sobre el texto, con un plazo mínimo de siete días; por eso c) es la afirmación incorrecta.
+
+---
+
+P12
+Texto: La Constitución española establece que se podrá autorizar la celebración de tratados por los que se atribuya a una organización o institución internacional el ejercicio de competencias derivadas de la misma, mediante:
+a) Ley ordinaria.
+b) Ley orgánica.
+c) Autorización previa de las Cortes Generales.
+d) Informando inmediatamente al Congreso y al Senado.
+Respuesta correcta: b
+Referencia: Artículo 93 CE
+Explicación: Mediante Ley Orgánica se podrá autorizar la celebración de tratados que atribuyan a una organización o institución internacional el ejercicio de competencias derivadas de la Constitución.
+
+---
+
+P13
+Texto: Señale la respuesta correcta, de acuerdo con lo dispuesto en la Constitución Española:
+a) La Constitución española reconoce la iniciativa legislativa popular para la presentación de proyectos de ley.
+b) Para el ejercicio de dicha iniciativa popular se exigirán no menos de 500.000 firmas acreditadas, exclusivamente cuando afecte a los derechos fundamentales reconocidos en la Constitución.
+c) Tendrá que ser una Ley Orgánica la que regule las formas del ejercicio y requisitos de la iniciativa popular, no procediendo su ejercicio, entre otras, en materias propias de leyes tributarias.
+d) Ninguna de las anteriores respuestas es correcta.
+Respuesta correcta: c
+Referencia: Artículo 87.3 CE
+Explicación: Una Ley Orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular (para PROPOSICIONES, no proyectos, de ley); se exigen no menos de 500.000 firmas en todo caso (no solo para derechos fundamentales); no procede en materias de Ley Orgánica, tributarias, de carácter internacional, ni en la prerrogativa de gracia.
+
+---
+
+P14
+Texto: Conforme al artículo 25 de la Ley del Gobierno, el Gobierno aprobará un Plan Anual Normativo; dicha aprobación deberá haberse efectuado antes del:
+a) 1 de abril.
+b) 1 de mayo.
+c) 30 de abril.
+d) 30 de junio.
+Respuesta correcta: c
+Referencia: Artículo 25.4 Ley 50/1997
+Explicación: El Ministro de la Presidencia elevará el Plan al Consejo de Ministros para su aprobación antes del 30 de abril.
+
+---
+
+P15
+Texto: Para tramitar un Decreto-Ley como proyecto de ley por el procedimiento de urgencia, las Cortes Generales disponen de un plazo de:
+a) Treinta días siguientes a su promulgación.
+b) Treinta días desde su convalidación.
+c) Un mes desde su convalidación o derogación.
+d) Ninguna respuesta es correcta.
+Respuesta correcta: a
+Referencia: Artículo 86.2 y 86.3 CE
+Explicación: Durante el plazo de treinta días siguientes a la promulgación del Decreto-Ley (plazo en el que el Congreso debe pronunciarse sobre su convalidación o derogación), las Cortes podrán tramitarlo como proyecto de Ley por el procedimiento de urgencia.
+
+---
+
+P16
+Texto: En relación con las fuentes del Derecho y, de conformidad con lo establecido en el artículo 1 del Código Civil, señale cuál de las siguientes opciones es la correcta:
+a) La costumbre solo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y que resulte probada.
+b) Los Principios Generales del Derecho no son fuente del Derecho.
+c) Las normas jurídicas contenidas en los Tratados Internacionales siempre serán de aplicación directa en España.
+d) La jurisprudencia es una fuente directa del Derecho Administrativo.
+Respuesta correcta: a
+Referencia: Artículo 1.3 Código Civil
+Explicación: La costumbre solo regirá en defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y que resulte probada.
+
+---
+
+P17
+Texto: ¿A quién corresponde la iniciativa legislativa en las Cortes Generales?:
+a) Al Presidente de la Cámara.
+b) En el Congreso, a un Grupo Parlamentario o a 15 Diputados y, en el Senado, a un Grupo Parlamentario o 25 Senadores.
+c) En el Congreso, a la Mesa de la Cámara o a 25 Diputados y, en el Senado, a un Grupo Parlamentario o 15 Senadores.
+d) A las Comisiones Legislativas de las Cámaras.
+Respuesta correcta: b
+Referencia: Reglamentos del Congreso y del Senado
+Explicación: En el Congreso, la iniciativa legislativa corresponde a un Grupo Parlamentario o a 15 Diputados; en el Senado, a un Grupo Parlamentario o a 25 Senadores.
+
+---
+
+P18
+Texto: Las disposiciones de entrada en vigor de las leyes o reglamentos, cuya aprobación o propuesta corresponda al Gobierno o a sus miembros, y que impongan nuevas obligaciones a las personas físicas o jurídicas que desempeñen una actividad económica o profesional como consecuencia del ejercicio de ésta, preverán el comienzo de su vigencia:
+a) El 1 de enero o el 1 de julio siguiente a su aprobación.
+b) El 2 de enero o el 1 de julio siguiente a su aprobación.
+c) El 2 de enero o el 1 de julio siguiente a su publicación.
+d) El 1 de enero o el 1 de julio siguiente a su publicación.
+Respuesta correcta: b
+Referencia: Artículo 23 Ley 50/1997
+Explicación: Estas disposiciones preverán el comienzo de su vigencia el 2 de enero o el 1 de julio siguientes a su APROBACIÓN (no a su publicación); no se aplica a los reales decretos-leyes ni cuando razones justificadas lo aconsejen.
+
+---
+
+P19
+Texto: Teniendo en cuenta lo dispuesto en el artículo 82 de la Constitución, relativo a la delegación legislativa de las Cortes Generales en el Gobierno para dictar normas con rango de ley, señale la respuesta incorrecta:
+a) Habrá de otorgarse de forma expresa para materia concreta.
+b) Podrá permitir la subdelegación a autoridades distintas del Gobierno.
+c) La Constitución exige que se fije un plazo para su ejercicio.
+d) Si una proposición fuera contraria a una delegación legislativa en vigor, el Gobierno puede oponerse a su tramitación.
+Respuesta correcta: b
+Referencia: Artículo 82.3 CE
+Explicación: La delegación legislativa NO podrá permitir la subdelegación a autoridades distintas del propio Gobierno; por eso b) es la afirmación incorrecta.
+
+---
+
+P20
+Texto: Cuando el artículo 37.1 de la Ley 39/2015, de 1 de octubre, establece que las resoluciones administrativas de carácter particular no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas tengan grado igual o superior a éstas, ¿a qué principio está haciendo referencia?:
+a) Al principio de reserva de ley.
+b) Al principio de congruencia.
+c) Al principio de inderogabilidad singular de los reglamentos por actos administrativos singulares.
+d) Al principio de jerarquía.
+Respuesta correcta: c
+Referencia: Artículo 37.1 Ley 39/2015
+Explicación: Esta regla es la expresión del principio de inderogabilidad singular de los reglamentos por actos administrativos singulares.
+
+---
+
+P21
+Texto: De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común, señale la respuesta correcta:
+a) Son nulas las resoluciones administrativas que vulneren lo establecido en un reglamento, salvo las que hayan sido dictadas por órganos de igual o superior jerarquía que el que lo haya aprobado.
+b) Los reglamentos no podrán regular materias objeto de reserva de ley, ni infringir normas con dicho rango. Además, sin perjuicio de su función de desarrollo o colaboración con respecto a la ley, no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas, salvo prestaciones personales o patrimoniales de carácter público.
+c) Ninguna disposición administrativa podrá vulnerar preceptos de otro órgano de jerarquía superior.
+d) Todos los actos y omisiones del Gobierno están sometidos al control de legalidad de las Cortes Generales.
+Respuesta correcta: b
+Referencia: Artículo 128.2 Ley 39/2015
+Explicación: Los reglamentos no podrán regular materias objeto de reserva de ley ni infringir normas con dicho rango, ni tipificar delitos, faltas o infracciones administrativas, ni establecer penas, sanciones, tributos, exacciones parafiscales u otras cargas o prestaciones patrimoniales de carácter público.
+
+---
+
+P22
+Texto: De conformidad a la Ley del Gobierno, Ley 50/1997, de 27 de noviembre, para la elaboración de los proyectos de ley, de reales decretos legislativos, como de reglamentos, se procederá a una consulta pública previa a su elaboración; señale cuál no sería una causa justificada para poder prescindir de la misma:
+a) Normas presupuestarias u organizativas de la Administración General del Estado o sus organizaciones dependientes o vinculadas.
+b) Cuando la propuesta tenga un impacto significativo en la actividad económica, imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia.
+c) Por razones graves de interés público que lo justifiquen.
+d) En el caso de tramitación urgente.
+Respuesta correcta: b
+Referencia: Artículo 26.2 Ley 50/1997
+Explicación: La causa real de exención es la inversa: cuando la propuesta NO tenga impacto significativo en la actividad económica, NO imponga obligaciones relevantes o regule aspectos PARCIALES de una materia; tal como está formulada la opción b) (con impacto significativo e imponiendo obligaciones relevantes) no es una causa válida para prescindir de la consulta.
+
+---
+
+P23
+Texto: Una diferencia entre los Decretos-Leyes y los Decretos Legislativos es que:
+a) Sólo uno de ellos emana del Poder Ejecutivo.
+b) Sólo uno de ellos tiene rango de Ley.
+c) Sólo uno de ellos es evaluable con posterioridad a su promulgación por parte del Poder Legislativo.
+d) Ninguna es correcta.
+Respuesta correcta: c
+Referencia: Artículos 82 a 86 CE
+Explicación: El Decreto-Ley requiere convalidación posterior del Congreso (control ex post); el Decreto Legislativo se controla mediante la delegación previa (control ex ante), sin necesidad de convalidación posterior por el Poder Legislativo.
+
+---
+
+P24
+Texto: Señale la afirmación correcta respecto a la naturaleza de los Estatutos de Autonomía:
+a) Son leyes estatales, pues formalmente emanan de las Cortes Generales que los aprueban mediante ley orgánica.
+b) Son leyes autonómicas.
+c) No están subordinados a la Constitución puesto que constituyen la ley de cabecera del ordenamiento jurídico autonómico.
+d) Ninguna es correcta.
+Respuesta correcta: a
+Referencia: Artículo 81 CE
+Explicación: Los Estatutos de Autonomía son leyes orgánicas del Estado, pues formalmente emanan de las Cortes Generales que los aprueban mediante Ley Orgánica, y están subordinados a la Constitución.
+
+---
+
+P25
+Texto: Una vez redactado el proyecto de reglamento o el anteproyecto de ley, el centro directivo competente elaborará con carácter preceptivo una Memoria del Análisis de Impacto Normativo, que deberá contener:
+a) Un análisis sobre la adecuación de la norma propuesta al orden de distribución de competencias.
+b) Un resumen de las principales aportaciones recibidas en el trámite de consulta pública.
+c) Oportunidad de la propuesta y alternativas de regulación estudiadas.
+d) Todas las respuestas son correctas.
+Respuesta correcta: d
+Referencia: Artículo 26.3 Ley 50/1997
+Explicación: La Memoria del Análisis de Impacto Normativo debe contener, entre otros apartados: oportunidad de la propuesta y alternativas estudiadas, análisis sobre la adecuación al orden de distribución de competencias, y un resumen de las aportaciones recibidas en consulta pública.
+
+---
+
+P26
+Texto: El principio de jerarquía normativa supone:
+a) Que los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa.
+b) Que la Administración actúa con sometimiento a las normas.
+c) Que el Gobierno controla la actividad de la Administración.
+d) Que carecerán de validez las normas que contradigan otra de rango superior.
+Respuesta correcta: d
+Referencia: Artículo 9.3 CE
+Explicación: La Constitución garantiza el principio de jerarquía normativa, que supone que carecerán de validez las disposiciones que contradigan otra de rango superior.
+
+---
+
+P27
+Texto: Las leyes de bases, en aplicación de los artículos 82 a 85 de la Constitución española:
+a) No podrán en ningún caso facultar para dictar normas con carácter retroactivo.
+b) Son leyes ordinarias que exigen para su aprobación mayoría absoluta del Congreso.
+c) Pueden otorgar la delegación legislativa de forma expresa o implícita y, si es necesario, por tiempo no determinado.
+d) No podrán en ningún caso dictarse para la formación de textos articulados.
+Respuesta correcta: a
+Referencia: Artículo 83 CE
+Explicación: Las leyes de bases no podrán en ningún caso autorizar la modificación de la propia Ley de bases ni facultar para dictar normas con carácter retroactivo.
+
+---
+
+P28
+Texto: De conformidad con la Ley de Procedimiento Administrativo, con carácter previo a la elaboración del proyecto o anteproyecto de ley o de reglamento se efectuará un trámite de consulta pública para recabar la opinión de los sujetos potencialmente afectados. No obstante, se podrá prescindir de éste trámite:
+a) Cuando regule aspectos parciales de una materia.
+b) Cuando no tenga un impacto significativo en la actividad económica.
+c) Cuando no imponga obligaciones relevantes a los destinatarios.
+d) Todas las respuestas son correctas.
+Respuesta correcta: d
+Referencia: Artículo 133.4 Ley 39/2015
+Explicación: Podrá omitirse la consulta pública cuando la propuesta normativa no tenga un impacto significativo en la actividad económica, no imponga obligaciones relevantes a los destinatarios o regule aspectos parciales de una materia.
+
+---
+
+P29
+Texto: El Congreso de los Diputados es competente:
+a) Para el pronunciamiento sobre la convalidación o derogación del Decreto-Ley, que podrá ser presunto, en el caso de que transcurra el plazo de treinta días sin acordar su derogación.
+b) Para pronunciarse sobre la convalidación o derogación del Decreto-Ley que se le ha sometido, antes de transcurrir los treinta días siguientes a su promulgación.
+c) Para pronunciarse sobre un Decreto-Ley por un cauce especial, oral y abreviado.
+d) Para pronunciarse sobre la convalidación o derogación del Decreto-Ley y su posterior traslado al Senado.
+Respuesta correcta: b
+Referencia: Artículo 86.2 CE
+Explicación: El Congreso debe pronunciarse expresamente (no de forma presunta) sobre la convalidación o derogación del Decreto-Ley dentro del plazo de los treinta días siguientes a su promulgación.
+
+---
+
+P30
+Texto: Señale de qué plazo dispone el Rey para sancionar las leyes aprobadas por las Cortes Generales:
+a) Veinte días.
+b) Quince días.
+c) Un mes.
+d) Dos meses.
+Respuesta correcta: b
+Referencia: Artículo 91 CE
+Explicación: El Rey sancionará en el plazo de quince días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.
+
+---
+
+P31
+Texto: ¿Qué plazo se requiere para que un proyecto de ley vetado por el Senado y no ratificado por el voto favorable de la mayoría absoluta del Congreso, pueda ser sometido de nuevo a votación del Congreso para su ratificación por mayoría simple?:
+a) Veinte días desde la interposición del veto.
+b) Un mes desde la interposición del veto.
+c) Treinta días hábiles desde la interposición del veto.
+d) Dos meses desde la interposición del veto.
+Respuesta correcta: d
+Referencia: Artículo 90.2 CE
+Explicación: Transcurridos dos meses desde la interposición del veto, el proyecto podrá someterse a nueva votación del Congreso, ratificándose por mayoría simple.
+
+---
+
+P32
+Texto: Según establece el artículo 128.2 de la Ley 39/2015, los reglamentos:
+a) No podrán tipificar delitos.
+b) Sólo podrán tipificar infracciones administrativas.
+c) Sólo podrán tipificar faltas.
+d) Las respuestas a) y b) son correctas.
+Respuesta correcta: a
+Referencia: Artículo 128.2 Ley 39/2015
+Explicación: Los reglamentos no podrán tipificar delitos, faltas NI infracciones administrativas (ni establecer penas o sanciones); por tanto, ni b) ni c) son correctas en sentido afirmativo, solo a) lo es.
+
+---
+
+P33
+Texto: La delegación legislativa de las Cortes en el Gobierno:
+a) Admite la subdelegación en casos de extraordinaria e inaplazable necesidad.
+b) Es un instrumento jurídico similar a un Reglamento.
+c) Es exclusiva al Gobierno, en todo caso.
+d) Deberá otorgarse mediante una Ley de bases cuando su objeto sea refundir varios textos legales en uno solo.
+Respuesta correcta: c
+Referencia: Artículo 82.3 CE
+Explicación: La delegación legislativa no podrá permitir la subdelegación a autoridades distintas del propio Gobierno; es, por tanto, exclusiva del Gobierno en todo caso.
+
+---
+
+P34
+Texto: Según el Código Civil, ¿Qué afirmación es cierta en relación con los Tratados Internacionales?:
+a) Los Tratados Internacionales serán de aplicación directa.
+b) Los Tratados Internacionales no serán de aplicación directa hasta que formen parte del ordenamiento jurídico mediante su publicación en el BOE.
+c) Los Tratados Internacionales no serán de aplicación directa hasta que las Cortes Generales no autoricen al Rey a prestar el consentimiento del Estado.
+d) Los Tratados Internacionales son siempre de aplicación indirecta.
+Respuesta correcta: b
+Referencia: Artículo 1.5 Código Civil
+Explicación: Las normas jurídicas contenidas en los tratados internacionales no serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el BOE.
+
+---
+
+P35
+Texto: Conforme a lo establecido en el artículo 1 del Código Civil, son fuentes del ordenamiento jurídico español:
+a) La ley, la costumbre y la jurisprudencia.
+b) La ley, la costumbre, los principios generales del derecho y la jurisprudencia.
+c) La ley, la costumbre y los principios generales del derecho.
+d) La Constitución y la ley.
+Respuesta correcta: c
+Referencia: Artículo 1.1 Código Civil
+Explicación: Las fuentes del ordenamiento jurídico español son la ley, la costumbre y los principios generales del derecho (la jurisprudencia complementa el ordenamiento, pero no es fuente directa en sentido estricto según el art. 1 CC).
+
+---
+
+P36
+Texto: No es una norma con rango de ley:
+a) Los Presupuestos Generales del Estado.
+b) El Decreto-Ley.
+c) Un Real Decreto.
+d) El Decreto Legislativo.
+Respuesta correcta: c
+Referencia: Artículos 85, 86 CE
+Explicación: Un Real Decreto tiene rango reglamentario (no de ley); los Presupuestos Generales del Estado, el Decreto-Ley y el Decreto Legislativo sí tienen rango de ley.
+
+---
+
+P37
+Texto: Las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de Ley están regulados por:
+a) Un reglamento.
+b) Una ley ordinaria.
+c) Una ley orgánica.
+d) La Constitución española.
+Respuesta correcta: c
+Referencia: Artículo 87.3 CE
+Explicación: Una Ley Orgánica regulará las formas de ejercicio y requisitos de la iniciativa popular para la presentación de proposiciones de Ley.
+
+---
+
+P38
+Texto: ¿En cuál de estos supuestos el Gobierno podrá dictar un Decreto-Ley?:
+a) Régimen de las Comunidades Autónomas.
+b) Derecho laboral general.
+c) Ordenamiento de las Instituciones básicas del Estado.
+d) Derechos, deberes y libertades de los ciudadanos regulados en el Título I de la Constitución.
+Respuesta correcta: b
+Referencia: Artículo 86.1 CE
+Explicación: El Decreto-Ley no podrá afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I, al régimen de las Comunidades Autónomas ni al Derecho electoral general; el derecho laboral general, al no ser un derecho fundamental del Título I en sí mismo, no está entre los límites explícitos, por lo que sí podría regularse por Decreto-Ley (salvo que afecte a un derecho fundamental laboral concreto del Título I).
+
+---
+
+P39
+Texto: ¿Qué mayoría se requerirá para la aprobación de una Ley de Armonización?:
+a) Mayoría absoluta del Congreso de los Diputados y simple del Senado.
+b) Mayoría simple de ambas Cámaras.
+c) Mayoría absoluta en ambas Cámaras.
+d) Mayoría absoluta del Senado y simple del Congreso de los Diputados.
+Respuesta correcta: b
+Referencia: Artículo 150.3 CE
+Explicación: El artículo 150.3 CE distingue dos actos distintos: la APRECIACIÓN DE LA NECESIDAD de armonizar exige mayoría absoluta de cada Cámara ("Corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de esta necesidad"); pero la Ley de Armonización en sí es una ley ORDINARIA, cuya aprobación sigue el procedimiento legislativo común — mayoría simple en ambas Cámaras. La pregunta se refiere específicamente a la aprobación de la ley, no a la apreciación previa de la necesidad, por lo que la respuesta correcta es b).
+
+---
+
+P40
+Texto: Si un Reglamento establece la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales, dicho Reglamento es:
+a) Anulable.
+b) Nulo de pleno derecho.
+c) Irregular pero válido.
+d) Convalidable por el superior jerárquico de quien dictó el Reglamento.
+Respuesta correcta: b
+Referencia: Artículo 47.2 Ley 39/2015
+Explicación: Son nulas de pleno derecho las disposiciones administrativas que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+
+---
+
+P41
+Texto: Señale de las siguientes alternativas cuál contiene una fuente directa no escrita:
+a) La Constitución, las Leyes y los Reglamentos.
+b) Las Leyes, Reglamentos y los Tratados Internacionales no publicados en el BOE.
+c) La Constitución, las Leyes y los Principios Generales del Derecho.
+d) La Constitución, las Leyes y la Jurisprudencia.
+Respuesta correcta: c
+Referencia: Artículo 1.1 y 1.4 Código Civil
+Explicación: Los Principios Generales del Derecho son fuente directa no escrita, aplicable en defecto de ley o costumbre; la opción c) es la única que incluye esta fuente no escrita.
+
+---
+
+P42
+Texto: Cuando una proposición de ley o una enmienda fuera contraria a una delegación legislativa en vigor, el Gobierno:
+a) No está facultado para oponerse si tienen por objeto materia tributaria.
+b) No está facultado para oponerse cuando tenga su origen en el Congreso.
+c) Está facultado para oponerse a su tramitación.
+d) Someterá la cuestión a debate en sesión conjunta del Congreso y del Senado.
+Respuesta correcta: c
+Referencia: Artículo 84 CE
+Explicación: Cuando una proposición de Ley o una enmienda fuere contraria a una delegación legislativa en vigor, el Gobierno está facultado para oponerse a su tramitación.
+
+---
+
+P43
+Texto: Los textos refundidos exigen de manera previa:
+a) Una ley de bases aprobada por las Cortes Generales.
+b) La convalidación del Congreso de los Diputados.
+c) Una ley ordinaria aprobada por las Cortes Generales.
+d) Un Decreto Legislativo.
+Respuesta correcta: c
+Referencia: Artículo 82.2 CE
+Explicación: La delegación legislativa se otorga mediante una Ley de bases cuando el objeto es la formación de textos articulados, o mediante una Ley ordinaria cuando se trate de refundir varios textos legales en uno solo (textos refundidos).
+
+---
+
+P44
+Texto: Según el artículo 94 de la Constitución española, los Tratados Internacionales de carácter político:
+a) Deben ser inmediatamente informados, una vez concluidos, al Congreso y al Senado.
+b) Requieren previa autorización de las Cortes Generales.
+c) Exigen una revisión constitucional previa.
+d) Requieren ley orgánica.
+Respuesta correcta: b
+Referencia: Artículo 94.1 CE
+Explicación: Los tratados de carácter político, entre otros supuestos del art. 94.1, requieren la previa autorización de las Cortes Generales.
+
+---
+
+P45
+Texto: Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de:
+a) Decreto Legislativo.
+b) Ley Ordinaria.
+c) Decreto-Ley.
+d) Ley de Delegación.
+Respuesta correcta: a
+Referencia: Artículo 85 CE
+Explicación: Las disposiciones del Gobierno que contengan legislación delegada recibirán el título de Decretos Legislativos.
+
+---
+
+P46
+Texto: Establece el artículo 129 de la Ley de Procedimiento Administrativo que las Administraciones Públicas actuarán de acuerdo con los principios de necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia. Todo ello, en el ejercicio de:
+a) La potestad de expropiación.
+b) La potestad de autorganización.
+c) La potestad legislativa.
+d) La iniciativa legislativa.
+Respuesta correcta: c
+Referencia: Artículo 129.1 Ley 39/2015
+Explicación: Este principio se enmarca en el ejercicio de la potestad legislativa y reglamentaria de las Administraciones Públicas. (Nota: el texto literal del artículo dice "en el ejercicio de la iniciativa legislativa y la potestad reglamentaria"; se mantiene la respuesta de la clave ADAMS por defecto, aunque conviene tenerlo presente al repasar este artículo.)
+
+---
+
+P47
+Texto: El plazo de que dispone el Senado para vetar o enmendar los proyectos declarados urgentes por el Gobierno o por el Congreso, se reducirá a:
+a) Veinte días hábiles.
+b) Un mes.
+c) Veinte días naturales.
+d) Quince días naturales.
+Respuesta correcta: c
+Referencia: Artículo 90.3 CE
+Explicación: El plazo de dos meses de que el Senado dispone para vetar o enmendar el proyecto se reducirá al de veinte días naturales en los proyectos declarados urgentes por el Gobierno o por el Congreso de los Diputados.
+
+---
+
+P48
+Texto: De conformidad con la Constitución, las Leyes de Bases:
+a) Tienen por objeto la formación de textos articulados.
+b) Establecen los principios necesarios para armonizar las disposiciones normativas de las Comunidades Autónomas.
+c) Podrán facultar para dictar normas con carácter retroactivo.
+d) Tienen por objeto la formación de textos refundidos.
+Respuesta correcta: a
+Referencia: Artículo 82.2 CE
+Explicación: La delegación legislativa se otorga mediante una Ley de bases cuando su objeto es la formación de textos articulados (los textos refundidos se otorgan mediante ley ordinaria, opción b describe las leyes de armonización del art. 150.3, y c es falsa por el art. 83).
+
+---
+
+P49
+Texto: ¿Qué mayoría requieren para su aprobación las Leyes Marco?:
+a) Mayoría absoluta en el Congreso y mayoría absoluta en el Senado.
+b) Mayoría absoluta en el Congreso y mayoría simple en el Senado.
+c) Mayoría simple en el Congreso y mayoría simple en el Senado.
+d) Mayoría simple en el Congreso y mayoría absoluta en el Senado.
+Respuesta correcta: b
+Referencia: Artículo 150.1 CE
+Explicación: Según la clave de ADAMS, la aprobación de las Leyes Marco exige mayoría absoluta en el Congreso y mayoría simple en el Senado. (Nota: el texto del artículo 150.1 disponible no especifica expresamente esta mayoría; se mantiene la respuesta de la clave ADAMS por defecto.)
+
+---
+
+P50
+Texto: Señale lo incorrecto en relación a lo que establece el artículo 1 del Código Civil, respecto a las fuentes del Ordenamiento Jurídico español:
+a) La Costumbre solo rige en defecto de ley aplicable y solo si no es contraria a la moral o al orden público y resulta probada.
+b) Los Tratados Internacionales no serán de aplicación directa hasta que formen parte del ordenamiento mediante su publicación en el BOE.
+c) Las fuentes del Ordenamiento Jurídico español son la Ley, la Costumbre y los Principios Generales del Derecho.
+d) La Jurisprudencia complementa al ordenamiento con la doctrina que de modo reiterado establezcan los Tribunales al interpretar la Ley, la Costumbre y los Principios Generales del Derecho.
+Respuesta correcta: d
+Referencia: Artículo 1.6 Código Civil
+Explicación: El artículo 1.6 CC atribuye esta función complementadora específicamente al TRIBUNAL SUPREMO, no genéricamente a "los Tribunales"; por eso d) es la afirmación incorrecta.
