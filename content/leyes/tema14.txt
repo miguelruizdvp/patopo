@@ -1,0 +1,179 @@
+TEMA 14: INFORMACIÓN ADMINISTRATIVA Y ATENCIÓN AL CIUDADANO EN LA COMUNIDAD DE MADRID EN LOS CANALES PRESENCIAL, ELECTRÓNICO Y TELEFÓNICO. LA ADMINISTRACIÓN ELECTRÓNICA. LA IDENTIFICACIÓN Y AUTENTICACIÓN DE LAS PERSONAS FÍSICAS Y JURÍDICAS PARA LAS DIFERENTES ACTUACIONES EN LA GESTIÓN ELECTRÓNICA. ESPECIAL REFERENCIA A LA ADMINISTRACIÓN ELECTRÓNICA EN LA COMUNIDAD DE MADRID.
+
+REFERENCIAS LEGISLATIVAS
+- Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+- Real Decreto 208/1996, de 9 de febrero, Servicios de Información Administrativa y Atención al Ciudadano.
+- Real Decreto 951/2005, de 29 de julio, marco general para la mejora de la calidad en la AGE.
+- Real Decreto 203/2021, de 30 de marzo, Reglamento de actuación y funcionamiento del sector público por medios electrónicos.
+- Decreto 21/2002, de 24 de enero, regula la atención al ciudadano en la Comunidad de Madrid.
+
+1. LA ATENCIÓN AL PÚBLICO: ASISTENCIA EN EL USO DE MEDIOS ELECTRÓNICOS A LOS INTERESADOS E INFORMACIÓN A LOS CIUDADANOS Y USUARIOS
+Según el art. 103.1 CE, "la Administración Pública sirve con objetividad los intereses generales". La OCDE (Informe sobre la Administración al Servicio del Público, 1987) añade a los principios tradicionales (eficacia, jerarquía, sometimiento a la Ley) el de "receptividad administrativa": derecho del ciudadano a que la Administración sea comprensible, accesible (espacial, temporal y material) y facilite el acceso a las prestaciones. La OCDE reivindica el término "cliente" frente a "ciudadano", "usuario" o "administrado", por abarcar más categorías (incluidas empresas), resaltar su condición de contribuyente y sugerir una actitud más activa y exigente.
+
+2. ACOGIDA E INFORMACIÓN EN GENERAL
+
+2.1. La acogida
+Contacto personalizado de la Administración, a través de los funcionarios, con el ciudadano. Exige del funcionario escucha activa e implicación con la situación de necesidad del ciudadano (empatía).
+
+2.2. La información
+Es el objetivo de la atención. Debe ser clara (sin tecnicismos innecesarios) y fiable, orientando al ciudadano hacia la solución de su caso.
+
+3. ACOGIDA E INFORMACIÓN SEGÚN LA LEGISLACIÓN
+
+3.1. Según la Ley 40/2015, de 1 de octubre (LRJSP)
+Las Administraciones Públicas sirven con objetividad los intereses generales y actúan según los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la Constitución, la Ley y el Derecho, respetando los principios de servicio efectivo a los ciudadanos, simplicidad, claridad y proximidad, y participación, objetividad y transparencia. El art. 3.2 obliga a que las Administraciones se relacionen entre sí por medios electrónicos, garantizando interoperabilidad, seguridad y protección de datos. El art. 56 del RD 203/2021 extiende esta obligación a las entidades de derecho privado vinculadas o dependientes cuando ejerzan potestades administrativas.
+
+3.2. Según la Ley 39/2015, de 1 de octubre
+El art. 14 recoge el derecho de los ciudadanos a relacionarse con las Administraciones Públicas por medios electrónicos: las personas físicas eligen libremente el medio (electrónico o no), salvo obligación reglamentaria, y pueden modificarlo en cualquier momento. La información al administrado se realiza a través de oficinas de información, publicaciones, diagramas de procedimiento, organigramas, indicación de dependencias y horarios, etc., en Subdelegaciones del Gobierno, Delegaciones y dependencias específicas.
+
+3.3. Según el Real Decreto 208/1996, de 9 de febrero
+El art. 4 establece que la atención personalizada al ciudadano comprende: a) recepción y acogida; b) orientación e información (sin entrañar interpretación normativa ni consideración jurídica o económica, sino simple determinación de conceptos, información de opciones legales o colaboración en la cumplimentación de impresos); c) gestión de procedimientos; d) recepción de iniciativas o sugerencias; e) recepción de quejas y reclamaciones por tardanzas, desatenciones u otra actuación irregular; f) asistencia en el ejercicio del derecho de petición (arts. 29 y 77 CE).
+
+4. EL PERSONAL DE LAS ADMINISTRACIONES PÚBLICAS: SUS DEBERES Y FUNCIONES CON RESPECTO A LA SOCIEDAD Y AL CIUDADANO
+
+4.1. Deberes genéricos de los funcionarios
+Fidelidad a la Constitución; fiel desempeño del cargo (juramento o promesa); colaboración leal con jefes y compañeros; cooperación al mejoramiento de los servicios; respeto y obediencia a las autoridades; disciplina; corrección con el público; máximo decoro y sigilo profesional; asistencia puntual y permanencia en el puesto.
+
+4.2. Deberes frente a los ciudadanos según la Ley 39/2015 (arts. 13 y 53)
+Facilitar el acceso al conocimiento del estado de tramitación a los interesados y copias de documentos; deber de identificarse; facilitar información sobre requisitos jurídicos o técnicos; facilitar el acceso a los Registros; obligación de resolver expresamente; resolver respetando el orden de presentación.
+
+4.3. Responsabilidad de las autoridades y del personal al servicio de las Administraciones Públicas
+El interesado puede exigir indemnización por daños causados por la Administración o por las autoridades a su servicio, ante la propia Administración o ante los Tribunales. Si se exige ante la Administración, esta deberá repercutir de oficio la exigencia, una vez indemnizados los lesionados, al funcionario o autoridad responsable por dolo, culpa o negligencia grave, valorando el resultado dañoso, la intencionalidad, la responsabilidad profesional y la relación con el resultado dañoso.
+
+5. COLABORACIÓN Y COMPARECENCIA DE LOS CIUDADANOS (arts. 18 y 19 LPA)
+
+5.1. Colaboración de las personas
+Las personas colaborarán con la Administración facilitando informes, inspecciones y otros actos de investigación, salvo que la revelación atente contra el honor, la intimidad o suponga comunicación de datos confidenciales de terceros por servicios profesionales de diagnóstico, asesoramiento o defensa (sin perjuicio de la normativa de blanqueo de capitales). Los interesados que conozcan datos de otros interesados no comparecidos deben proporcionarlos.
+
+5.2. Comparecencia de las personas
+Solo obligatoria cuando lo prevea una norma con rango de ley. La citación debe indicar lugar, fecha, hora, medios disponibles, objeto y efectos de no atenderla. Se entrega certificación acreditativa a solicitud del interesado.
+
+6. LOS SERVICIOS DE INFORMACIÓN ADMINISTRATIVA
+
+6.1. Concepto
+Formados por las unidades de información administrativa de los Ministerios, las oficinas de información y atención al ciudadano (centrales y periféricas) y el Centro de Información Administrativa.
+
+6.2. Organización de la información administrativa
+A) Unidades Departamentales de Información Administrativa (RD 208/1996): existen en todos los Ministerios, bajo la Subdirección General competente; dirigen las oficinas de información del Departamento, crean y mantienen la base de datos, aportan apoyo documental, impulsan el intercambio de material informativo, participan en publicaciones, colaboraban con la Comisión Ministerial de Información Administrativa (suprimida por RD 776/2011) y representan al Departamento.
+B) El Centro de Información Administrativa: adscrito a la Secretaría de Estado de Función Pública del Ministerio para la Transformación Digital y de la Función Pública; mantiene bases de datos de la AGE, sostiene un sistema de información telefónico, coopera con otras unidades, actuaba como órgano ejecutivo de la Comisión Interministerial (suprimida) y promueve cursos de capacitación con el INAP.
+C) Oficinas de información y atención al ciudadano: en servicios centrales (oficinas centrales de cada Departamento; oficinas de entidades vinculadas o dependientes) y en servicios territoriales (centrales, de existencia obligada, dependientes de Delegaciones/Subdelegaciones del Gobierno y Direcciones Insulares; sectoriales, de existencia potestativa). Deben transmitir variaciones de datos al Centro de Información Administrativa, que actúa como coordinador territorial. Mediante convenio de colaboración entre Administraciones pueden crearse oficinas integradas de información.
+
+7. INFORMACIÓN GENERAL Y PARTICULAR AL CIUDADANO
+
+7.1. Concepto de información administrativa
+Cauce para que los ciudadanos accedan al conocimiento de sus derechos y obligaciones y a la utilización de bienes y servicios públicos.
+
+7.2. La información general
+Relativa a identificación, fines, competencia, estructura, funcionamiento y localización de organismos; requisitos jurídicos o técnicos; tramitación de procedimientos; servicios y prestaciones. Se facilita obligatoriamente a todos los ciudadanos, sin exigir legitimación, mediante publicaciones, sistemas telefónicos u otros medios.
+
+7.3. La información particular
+Concerniente al estado o contenido de los procedimientos en tramitación y a la identificación de autoridades y personal responsable; puede incluir datos personales, reservados a los afectados. Solo se facilita a quienes tengan la condición de interesados o a sus representantes legales.
+
+7.4. Las funciones de atención al ciudadano
+Recepción y acogida; orientación e información; gestión; recepción de iniciativas o sugerencias (tramitadas mediante el Libro de Quejas y Sugerencias, Cap. III RD 208/1996); recepción de quejas y reclamaciones; asistencia en el derecho de petición.
+
+8. INICIATIVAS, RECLAMACIONES Y QUEJAS
+El RD 951/2005, de 29 de julio (marco general para la mejora de la calidad en la AGE), deroga el Cap. III del RD 208/1996 (Libro de Quejas y Sugerencias). La Resolución de 6 de febrero de 2006 aprueba directrices de desarrollo.
+
+8.1. Definición: cada órgano determina la unidad responsable de gestionar quejas y sugerencias, que debe ofrecer respuesta e informar de las actuaciones y medidas adoptadas.
+
+8.2. Presentación y tramitación: presencial (formulario firmado, con posible auxilio de funcionarios), correo postal o medios telemáticos (con firma electrónica); se clasifican según estructura de códigos.
+
+8.3. Contestación: plazo de 20 días hábiles, suspendible 10 días hábiles para aclaraciones; si no hay respuesta, el ciudadano puede acudir a la Inspección General de Servicios (IGS) del departamento.
+
+8.4. Actuaciones de las unidades responsables: seguimiento por la IGS de cada departamento (o, para servicios periféricos en Delegaciones/Subdelegaciones, por la IGS del Ministerio de Política Territorial y Memoria Democrática); informe global anual en enero, con copia de contestaciones; informe de seguimiento semestral al Instituto para la Evaluación de Políticas Públicas.
+
+8.5. Efectos: las quejas no tienen calificación de recurso administrativo, no interrumpen plazos ni condicionan el ejercicio de otras acciones o derechos.
+
+9. PETICIONES
+Regulado por la LO 4/2001, de 12 de noviembre, que desarrolla el art. 29 CE.
+9.1. Personas que lo pueden ejercer: toda persona natural o jurídica, cualquiera que sea su nacionalidad, individual o colectivamente, sin perjuicio de responsabilidad si incurren en delito; pueden exigir confidencialidad de sus datos.
+9.2. Destinatarios: cualquier institución, administración o autoridad y órganos de organismos y entidades vinculados, respecto de sus materias de competencia.
+9.3. Contenido: cualquier asunto de competencia del destinatario, individual o colectivo; excluye solicitudes con procedimiento específico distinto.
+9.4. Formalización: individual (por escrito, incluso electrónico, con identidad, nacionalidad, lugar/medio de notificación, objeto y destinatario) y colectiva (firmada por todos, con nombre y apellidos).
+9.5. Uso de lenguas cooficiales: derecho a formular y recibir respuesta en la lengua oficial elegida ante la AGE en CCAA con cooficialidad; ante Administración autonómica y local, según legislación autonómica; traducción al castellano para efectos fuera de la CA, salvo cooficialidad compartida.
+9.6. Lugares de presentación: cualquier registro admitido por la legislación del procedimiento administrativo común.
+9.7. Acuse de recibo: en los 10 días siguientes a la recepción.
+9.8. Procedimiento: admisión o inadmisión previa comprobación; subsanación de defectos en 15 días (desistimiento si no se subsana); causas de inadmisión por falta de competencia (remisión al órgano competente en 10 días) o por procedimiento pendiente (parlamentario, administrativo o judicial); declaración de inadmisibilidad motivada en 45 días hábiles (si no, se entiende admitida); plazo de contestación de 3 meses desde la presentación, con posible audiencia especial e inserción en diario oficial; contenido de la contestación con los términos y razones de la decisión.
+9.9. Protección jurisdiccional: recurso de amparo ante el TC y recurso contencioso-administrativo (protección de derechos fundamentales, arts. 114 y ss. Ley 29/1998) frente a la inadmisibilidad, la omisión de contestar o la ausencia de requisitos mínimos.
+9.10. Legislaciones específicas: peticiones al Congreso, Senado, Asambleas Legislativas autonómicas, Defensor del Pueblo y materias penitenciarias se rigen por su propia normativa.
+
+10. LA ORGANIZACIÓN DE LOS SERVICIOS DE INFORMACIÓN Y ATENCIÓN AL CIUDADANO DE LA COMUNIDAD DE MADRID
+Regulada por el Decreto 21/2002, de 24 de enero.
+
+10.1. La Oficina de Atención al Ciudadano
+Objeto: información y orientación, registro de solicitudes, gestión de sugerencias y reclamaciones, gestión de procedimientos y prestación de servicios, desarrollados en la Oficina de Atención al Ciudadano, los Puntos de Información y Atención al Ciudadano, los Registros, las Oficinas de Información Especializada y las unidades de gestión.
+Fines: el Sistema de Información al Ciudadano de la CAM es un sistema horizontal que mejora y facilita el acceso a los servicios y las relaciones con los ciudadanos.
+Objetivos: información general y especializada; orientación sobre requisitos; estado de tramitación de procedimientos; acceso al Sistema de Sugerencias y Reclamaciones y al Sistema de Tramitación Telemática de Procedimientos; otras informaciones de interés general.
+Tipos de información: general (fines, competencias, funcionamiento, localización, horarios, OEP, subvenciones, licitaciones), especializada (mayor profundización) y particular (estado de tramitación del expediente propio, con confidencialidad de datos personales).
+Acceso a la información: acceso ordinario (personal, telefónico, escrito o Internet; compromiso de respuesta en 48 horas si es información general) y acceso mediante páginas web (sitio web de la CAM como portal de servicios). Carácter meramente ilustrativo de las informaciones: no entrañan interpretación normativa, no originan derechos ni expectativas de derecho y no tienen vinculación con el procedimiento (no interrumpen plazos ni sirven de notificación).
+
+10.2. La organización que permite acceder a la información
+- Oficina de Atención al Ciudadano: unidad coordinadora, dependiente de la Dirección General de Atención al Ciudadano y Transparencia (Consejería de Presidencia, Justicia y Administración Local); fija normas del Sistema de Información, difunde información, orienta al ciudadano, coordina Puntos y Oficinas especializadas, canaliza peticiones a la Asamblea, realiza funciones de registro, coordina la Ventanilla Única, tramita sugerencias y reclamaciones (con plazo de 4 días hábiles para las que remita el Defensor del Pueblo) y emite un informe estadístico anual.
+- Puntos de Información y Atención al Ciudadano: uno por Consejería (dependiente de su Secretaría General Técnica), pudiendo crearse otros; ofrecen información, orientan, registran, gestionan sugerencias/reclamaciones y ayudan en la cumplimentación de impresos.
+- Oficinas de Información Especializada: facilitan información específica de su ámbito, dependientes orgánica y funcionalmente del órgano al que se adscriben.
+- Coordinadores de Atención al Ciudadano: designados en cada Secretaría General Técnica; supervisan la información generada, gestionan sugerencias y reclamaciones, y coordinan el Punto de Información de su Consejería.
+- Comisión para la Coordinación de la Atención al Ciudadano: presidida por el Director General competente en Atención al Ciudadano; integrada por el Coordinador de la Oficina de Atención al Ciudadano, los Coordinadores de las Consejerías, el Defensor del Contribuyente y representantes de la Dirección General de Atención al Ciudadano y Transparencia y de la Agencia para la Administración Digital; se reúne al menos dos veces al año.
+
+10.3. Sistemas de sugerencias, quejas y reclamaciones
+Ciudadanos e instituciones públicas o privadas pueden presentar sugerencias (creación, ampliación o mejora de servicios) y reclamaciones (tardanzas, desatenciones u otras anomalías). No tienen calificación de recurso administrativo ni suspenden plazos ni condicionan otras acciones. Se formulan por escrito, fax o Internet, ante los Registros de la CAM, de la AGE u Oficinas de Correos. La Oficina de Atención al Ciudadano comunica el cauce dado en 2 días hábiles; las quejas de contribuyentes por servicios tributarios se remiten al Defensor del Contribuyente. Cualquier unidad receptora debe incorporar de inmediato el escrito al Sistema de Sugerencias y Reclamaciones. La respuesta del órgano implicado debe producirse en 15 días hábiles; transcurrido este plazo sin respuesta, el ciudadano puede acudir a la Oficina de Atención al Ciudadano para exigir responsabilidades, actuando el Director General de Gobierno Abierto y Atención al Ciudadano ante la unidad competente.
+
+11. LA ADMINISTRACIÓN ELECTRÓNICA
+
+11.1. Introducción
+La Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos, marcó un hito al construir su regulación sobre el derecho de los ciudadanos a utilizar medios electrónicos para relacionarse con la Administración, reconociendo derechos como la obtención de medios de identificación electrónica, la elección del canal de comunicación y la igualdad y accesibilidad. La Ley 39/2015 profundiza en la agilización mediante un funcionamiento íntegramente electrónico. El Real Decreto 203/2021, de 30 de marzo (Reglamento de actuación y funcionamiento del sector público por medios electrónicos), deroga el RD 1671/2009 y desarrolla las Leyes 39/2015 y 40/2015 dentro del marco de la Agenda España Digital 2025.
+
+11.2. Derecho y obligación de relacionarse electrónicamente con las Administraciones Públicas
+El art. 14 LPA (desarrollo del art. 13) permite a las personas físicas elegir libremente el medio de relación, salvo obligación. Están obligados a relacionarse electrónicamente, al menos: las personas jurídicas; las entidades sin personalidad jurídica; quienes ejerzan actividad profesional que requiera colegiación obligatoria (incluidos notarios y registradores); quienes representen a un interesado obligado; y los empleados públicos para trámites por razón de su condición. Reglamentariamente pueden ampliarse otros colectivos por capacidad económica, técnica o profesional. El art. 12 LPA regula la asistencia en el uso de medios electrónicos: las Administraciones deben garantizar canales de acceso, y asistir especialmente en identificación y firma electrónica, presentación de solicitudes y obtención de copias auténticas. Si el interesado no dispone de medios electrónicos, su identificación o firma puede realizarla un funcionario habilitado mediante su propio sistema de firma electrónica, previa identificación del interesado ante el funcionario y consentimiento expreso documentado (art. 30 RD 203/2021). Las Administraciones mantienen un registro de funcionarios habilitados, interoperable entre Administraciones.
+
+12. IDENTIFICACIÓN Y AUTENTIFICACIÓN
+
+12.1. Sistemas de identificación de los interesados en el procedimiento
+El art. 9 LPA (normativa básica del Estado) obliga a verificar la identidad de los interesados mediante nombre y apellidos o denominación/razón social que consten en el DNI o documento equivalente. Sistemas de identificación electrónica:
+a) Certificados electrónicos cualificados de firma electrónica de la "Lista de confianza de prestadores de servicios de certificación", con atributos mínimos de nombre y apellidos y DNI/NIE/NIF.
+b) Certificados electrónicos cualificados de sello electrónico, con denominación y NIF.
+c) Cualquier otro sistema válido, con registro previo de usuario y comunicación a la Agencia Estatal de Administración Digital (con declaración responsable y plazo de dos meses antes de eficacia jurídica, durante el cual cabe control por motivos de seguridad pública).
+Las Administraciones deben garantizar que los sistemas a) y b) sean siempre posibles para todo procedimiento, aunque se admita adicionalmente el c). Los recursos técnicos de los sistemas de la letra c) deben ubicarse en la UE (o en España para categorías especiales de datos del art. 9 RGPD). La aceptación de un sistema por la AGE acredita la identificación frente a todas las Administraciones, salvo prueba en contrario.
+
+12.2. Sistemas de firma admitidos por las Administraciones Públicas
+El art. 10 LPA permite firmar mediante cualquier medio que acredite la autenticidad de la voluntad y la integridad del documento. Se consideran válidos: a) sistemas de firma electrónica cualificada y avanzada; b) sistemas de sello electrónico cualificado y avanzado; c) cualquier otro sistema con registro previo y comunicación a la Agencia Estatal de Administración Digital (mismas condiciones que en la identificación). Cuando se use un sistema de firma, la identidad se entiende ya acreditada. Con carácter general basta con acreditar la identidad; solo se exige firma obligatoria para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos. Si el interesado carece de medios, puede actuar un funcionario habilitado (identificación y consentimiento expreso constando por escrito).
+
+13. ESPECIAL REFERENCIA A LA ADMINISTRACIÓN ELECTRÓNICA EN LA COMUNIDAD DE MADRID
+
+13.1. Decreto 127/2022, de 7 de diciembre
+Regula los servicios electrónicos y la Comisión de Redacción, Coordinación y Seguimiento del Portal de Internet de la CAM, actualizando la normativa autonómica a la normativa básica estatal. Se aplica a los órganos de las Consejerías, organismos autónomos y entes públicos vinculados (art. 2.3 Ley 39/2015) y a los ciudadanos en sus relaciones con ellos; excluye a las entidades sometidas al derecho privado salvo ejercicio de potestades administrativas.
+
+13.1.1. Infraestructura básica para la prestación de servicios por medios electrónicos
+A) Punto de Acceso General electrónico: el Portal de Internet institucional (www.comunidad.madrid), titularidad de la consejería competente en Administración electrónica; da acceso a servicios, trámites, información general/sectorial y a la sede electrónica.
+B) Sede electrónica: espacio para actuaciones y trámites que requieran identificación de la Administración y, en su caso, del interesado; sede principal (sede.comunidad.madrid) y sede asociada (www.sede.comunidad.madrid); titularidad de la consejería competente en Administración electrónica, responsabilidad de contenidos de cada Consejería, gestión tecnológica de la Agencia para la Administración Digital de la CAM; disponible gratuitamente los 365 días.
+C) Registro Electrónico General de la CAM: dependiente de la dirección general competente en Administración electrónica; recepción y remisión de solicitudes, escritos y comunicaciones, disponible 24 horas todos los días; interoperable con el resto de Administraciones; admite formularios normalizados y formulario genérico; emite justificante con código seguro de verificación.
+
+13.1.2. Identificación y autenticación
+A) De la Administración de la CAM: sistemas del art. 15.2 RD 203/2021; en actuación automatizada, sistemas del art. 20 RD 203/2021; fuera de ella, firma electrónica del titular del órgano o empleado público competente; certificados de empleado público conforme al Esquema Nacional de Interoperabilidad.
+B) De las personas interesadas: sistemas y términos de los arts. 9.2 y 10.2 Ley 39/2015 (desarrollados en arts. 26.2 y 29 RD 203/2021). Si el interesado no dispone de medios, interviene un funcionario público habilitado conforme al Decreto 1/2021, de 13 de enero, que crea el Registro de Funcionarios Públicos Habilitados de la CAM (adscrito a la dirección general competente en Coordinación General de la Atención al Ciudadano). Modalidades de habilitación: de carácter general (ámbito de una consejería u organismo), por unidad orgánica, o por procedimiento administrativo; ningún funcionario puede tener más de una modalidad, salvo peculiaridades de la Oficina de Atención al Ciudadano.
+
+13.1.3. Comisión de redacción, coordinación y seguimiento del portal de internet de la CAM
+Composición: Presidencia (Viceconsejería de Presidencia), Vicepresidencia (Dirección General de Medios de Comunicación), el Consejero-Delegado de la Agencia para la Administración Digital y el titular del órgano competente en Administración electrónica (vocales). Funciones: establecer estrategia y directrices de publicación/modificación/eliminación de contenidos del Portal; acordar modificaciones tecnológicas sustanciales; informar periódicamente sobre cambios relevantes. Se reúne preferentemente con periodicidad semestral.
+
+13.1.4. Procedimiento para la publicación, modificación y eliminación de contenidos
+Cada Consejería nombra un "Comisionado Web" (por su Secretaría General Técnica) como interlocutor con la Secretaría de la Comisión; los Comisionados Web coordinan las Oficinas Web de su Consejería y elevan propuestas de mejora sobre gestión de contenidos, diseño y funcionalidades del Portal.
+
+13.2. Decreto 188/2021, de 21 de julio
+Regula la obligación de relacionarse por medios electrónicos con la Administración de la CAM del personal a su servicio (funcionario, laboral, estatutario o eventual, permanente o temporal, en cualquier situación administrativa) y de los participantes en procesos selectivos. Comprende la obligación de recibir notificaciones electrónicas. Sistemas admitidos: DNI o certificados de prestadores cualificados; certificados de empleado público; clave concertada; u otros conforme a los arts. 9 y 10 Ley 39/2015 y arts. 15.3, 22, 26, 27.1, 28 y 29 RD 203/2021. Los participantes en procesos selectivos (funcionarios, laborales o estatutarios, permanentes o temporales, incluidas listas de espera y bolsas de trabajo) deben relacionarse telemáticamente en todas las fases del procedimiento, salvo habilitación excepcional motivada de medios no electrónicos.
+
+13.3. Estrategia Digital 2023-2026
+La Estrategia de Digitalización de la Comunidad de Madrid (EDCM) 2023-2026 establece 64 medidas en torno a 10 ejes estratégicos: 1) Las personas y los derechos digitales; 2) Conectividad y 5G; 3) Competencias Digitales; 4) Hacia una educación digital; 5) Digitalización de los sectores productivos; 6) Madrid, Hub Digital del sur de Europa; 7) Hacia los datos, la Inteligencia Artificial y el IoT; 8) Startups e Innovación Digital; 9) Administración 100% digital; 10) Ciberseguridad. El eje de Administración 100% Digital incluye medidas como el programa de capacitación digital de empleados y administraciones públicas, la plataforma de administración electrónica para ayuntamientos, la infraestructura y arquitecturas digitales, y la transformación de la Administración Local y digitalización.
+
+IDEAS CLAVE
+
+La información particular (art. 3 RD 208/1996) es la concerniente al estado o contenido de los procedimientos en tramitación y a la identificación de las autoridades y personal responsable; solo se facilita a quienes tengan la condición de interesados o a sus representantes legales.
+
+La atención personalizada al ciudadano comprende las funciones de: recepción y acogida; orientación e información (sin interpretación normativa ni consideración jurídica o económica); gestión de procedimientos; recepción de iniciativas o sugerencias (tramitadas mediante el Libro de Quejas y Sugerencias, Cap. III RD 208/1996); recepción de quejas y reclamaciones; y asistencia en el ejercicio del derecho de petición (arts. 29 y 77 CE).
+
+La comparecencia de las personas ante las oficinas públicas, presencial o electrónica, solo es obligatoria cuando lo prevea una norma con rango de ley; la citación debe indicar lugar, fecha, hora, medios disponibles, objeto y efectos de no atenderla, y se entrega certificación acreditativa a solicitud del interesado.
+
+El derecho de los ciudadanos a relacionarse con las Administraciones Públicas por medios electrónicos (art. 14 Ley 39/2015) es la base de la Administración electrónica; determinados sujetos (personas jurídicas, entidades sin personalidad jurídica, profesionales colegiados, representantes de obligados y empleados públicos) están obligados a ello.
+
+La identificación (art. 9 LPA) y la firma (art. 10 LPA) electrónicas de los interesados se basan en certificados cualificados de firma o sello electrónico de la Lista de confianza, o en cualquier otro sistema con registro previo comunicado a la Agencia Estatal de Administración Digital; cuando el interesado carece de medios electrónicos, puede actuar un funcionario público habilitado.
+
+En la Comunidad de Madrid, la Administración electrónica se articula sobre el Punto de Acceso General electrónico (www.comunidad.madrid), la sede electrónica (sede.comunidad.madrid) y el Registro Electrónico General, regulados por el Decreto 127/2022, con el Registro de Funcionarios Públicos Habilitados (Decreto 1/2021) para la asistencia a los interesados sin medios electrónicos.
