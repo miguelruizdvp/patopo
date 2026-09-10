@@ -1,0 +1,478 @@
+BANCO DE PREGUNTAS — TEMA 16 (OFIMÁTICA): El Explorador de archivos de Windows
+Fuente: ADAMS, "Ofimática - Cuestionario tema 16.01" + "Ofimática - Cuestionario tema 16.03" (50 preguntas,
+IDs sin solape)
+Origen: banco propio (ADAMS)
+
+---
+ID: 29720830
+Pregunta: Indique el método abreviado de teclado que nos permite acceder a la barra de comandos del Explorador de archivos de Windows:
+a) CTRL + F1
+b) F10
+c) ALT
+d) Alt + F1
+Respuesta correcta: c
+
+---
+ID: 38653846
+Pregunta: Señale la opción correcta con respecto al "Inicio" en el Explorador de archivos de Windows:
+a) Sólo aparecen en el Inicio las carpetas más utilizadas
+b) Sólo se pueden anclar al Inicio archivos, no carpetas
+c) Podemos seleccionar una carpeta y anclarla al Acceso rápido de Inicio
+d) Para anclar una carpeta al Inicio es preciso que esté en la biblioteca Documentos
+Respuesta correcta: c
+Explicación: En Inicio solo se pueden anclar carpetas y unidades (no archivos sueltos).
+
+---
+ID: 42489796
+Pregunta: ¿En qué pestaña del explorador de archivos de Windows 10 se encuentra la opción para imprimir los archivos seleccionados?
+a) Archivo
+b) Inicio
+c) Compartir
+d) Vista
+Respuesta correcta: c
+Explicación: Está en la pestaña Compartir, grupo Enviar.
+
+---
+ID: 42284335
+Pregunta: Señale cuál de las siguientes no es una carpeta predeterminada del sistema Windows 10:
+a) Descargas
+b) Vídeos
+c) Galería
+d) Música
+Respuesta correcta: c
+Explicación: Las carpetas predeterminadas son: Descargas, Documentos, Escritorio, Imágenes, Música, Objetos 3D y Vídeos. "Galería" no es una de ellas.
+
+---
+ID: 23212555
+Pregunta: ¿Es posible recuperar un archivo borrado accidentalmente en un disco duro?
+a) Siempre
+b) Nunca
+c) En algunas situaciones podremos hacerlo utilizando la papelera de reciclaje
+d) En algunas situaciones podremos utilizando el portapapeles
+Respuesta correcta: c
+
+---
+ID: 29717450
+Pregunta: ¿Qué permite la vista "Detalles" en el explorador de archivos de Windows?
+a) Ver solo iconos grandes
+b) Ocultar archivos
+c) Mostrar miniaturas de imágenes
+d) Mostrar información como nombre, tamaño, tipo y fecha de modificación
+Respuesta correcta: d
+
+---
+ID: 38108684
+Pregunta: Con respecto al "Acceso rápido" en el Explorador de archivos de Windows, señale la opción correcta:
+a) Podemos anclar una carpeta al Acceso rápido a través de su menú contextual
+b) El Acceso rápido puede mostrar los archivos usados con frecuencia
+c) El Acceso rápido puede mostrar las carpetas usadas recientemente
+d) No es posible anclar carpetas a Acceso rápido, solamente se pueden anclar los archivos
+Respuesta correcta: a
+Explicación: En Acceso rápido solo se pueden anclar carpetas, no archivos (matiz relevante para descartar b, c y d como formulaciones incorrectas).
+
+---
+ID: 39938035
+Pregunta: Si utilizamos el accesorio de Grabación de acciones de usuario y guardamos, ¿con qué extensión se guarda el archivo?
+a) .png
+b) .mp4
+c) .jpg
+d) .zip
+Respuesta correcta: d
+Explicación: Se guarda como .zip, y dentro contiene un archivo .mht.
+
+---
+ID: 29717031
+Pregunta: ¿Qué hace el comando "Comprimir en archivo ZIP" del explorador de archivos de Windows?
+a) Crea una carpeta comprimida (en un archivo) con los elementos seleccionados
+b) Descomprime archivos ZIP
+c) Cambia permisos de seguridad
+d) Elimina archivos duplicados
+Respuesta correcta: a
+
+---
+ID: 36929274
+Pregunta: Se desea desde el símbolo de sistema moverse a otro directorio, ¿cuál de los siguientes comandos utilizaría?
+a) CLS
+b) DEL
+c) IPCONFIG
+d) CD
+Respuesta correcta: d
+
+---
+ID: 42489854
+Pregunta: ¿En qué carpeta del sistema de Windows 10 se puede encontrar la opción "Liberador de espacio en disco"?
+a) Accesibilidad de Windows
+b) Accesorios de Windows
+c) Herramientas Administrativas de Windows
+d) Sistema de Windows
+Respuesta correcta: c
+Explicación: También es accesible desde las propiedades del disco.
+
+---
+ID: 38653701
+Pregunta: Para mover archivos dentro del explorador de archivos de Windows, ¿qué pasos debemos realizar?
+a) Seleccionar los archivos, pulsar Ctrl-X, navegar al destino y pulsar Ctrl-V
+b) Seleccionar los archivos, pulsar Ctrl-C, navegar al destino y pulsar Ctrl-V
+c) Seleccionar los archivos, pulsar Ctrl-E, navegar al destino y pulsar Ctrl-V
+d) Seleccionar los archivos, pulsar Ctrl-Z, navegar al destino y pulsar Ctrl-V
+Respuesta correcta: a
+Explicación: Cortar (Ctrl+X) y pegar (Ctrl+V) mueve; copiar (Ctrl+C) y pegar duplica.
+
+---
+ID: 38108567
+Pregunta: Según una captura del explorador mostrando el contenido de "Documentos" (no de la unidad D:), indique el tipo de vista utilizada en la unidad D:
+a) Mosaicos
+b) Contenido
+c) Iconos medianos
+d) No lo podemos saber
+Respuesta correcta: d
+Explicación: La imagen muestra el contenido de la carpeta Documentos, no el de la unidad D:, por lo que no se puede determinar su vista.
+
+---
+ID: 29720771
+Pregunta: Indique la zona del explorador de archivos desde la cual podemos ver la ubicación actual donde se encuentra el usuario:
+a) La barra de estado
+b) La barra de título
+c) La barra de direcciones
+d) La barra de Herramientas de acceso rápido
+Respuesta correcta: c
+
+---
+ID: 42489767
+Pregunta: Queremos que al seleccionar un archivo se muestre información sobre el mismo. En la pestaña Vista del explorador de archivos de Windows 10, seleccionamos:
+a) Panel de detalles
+b) Panel de navegación
+c) Panel de información
+d) Panel de vista previa
+Respuesta correcta: a
+
+---
+ID: 39938325
+Pregunta: ¿En qué comando de la barra de herramientas del Explorador de archivos de Windows se encuentra la opción de crear nueva carpeta?
+a) Carpeta
+b) Nuevo
+c) Ver
+d) Ver más
+Respuesta correcta: b
+
+---
+ID: 37120582
+Pregunta: Indica cuál es la vista mostrada en una imagen con iconos de tamaño mediano/grande con nombre, tipo y tamaño distribuidos en filas (formato álbum):
+a) Contenido
+b) Mosaicos
+c) Iconos medianos
+d) Iconos pequeños
+Respuesta correcta: b
+Explicación: Mosaicos organiza los iconos en filas con información adicional (tipo, tamaño); Contenido muestra información similar pero distribuida en columnas, en forma de lista.
+
+---
+ID: 39938064
+Pregunta: Para seleccionar todos los elementos de una ventana del explorador de Windows, podremos usar:
+a) Ctrl + E, o desde la barra de comandos el comando "Ver más" y luego "Seleccionar Todo"
+b) El comando "Seleccionar Todo" del grupo "Seleccionar" de la cinta de opciones Vista
+c) Clic en el primer elemento, mantener pulsado CTRL y clic en el último elemento
+d) Ctrl + S, o clic en el primer elemento manteniendo pulsada MAY y clic en el último
+Respuesta correcta: a
+Explicación: c) y d) describen selecciones parciales/erróneas (CTRL sirve para selección alterna, no para "todos"; MAY sí selecciona un rango consecutivo pero la combinación descrita en d no es la vía estándar para "seleccionar todo").
+
+---
+ID: 30369372
+Pregunta: En Windows 10, ¿qué herramienta nos permite realizar una captura de pantalla de forma rectangular, de forma libre, pantalla completa o de ventana?
+a) Herramienta Capture
+b) Herramienta Recorte
+c) Herramienta Tijeras
+d) Herramienta CUT
+Respuesta correcta: b
+Explicación: Se encuentra en Accesorios (también conocida como "Herramienta Recortes").
+
+---
+ID: 42489883
+Pregunta: ¿Qué opciones se despliegan al elegir el comando "Fácil acceso" de la pestaña Inicio del explorador de archivos de Windows 10?
+a) Acceso rápido y Bibliotecas
+b) Carpeta y Acceso directo
+c) Incluir en biblioteca y Asignar como unidad
+d) Asignar como unidad y Acceso rápido
+Respuesta correcta: c
+
+---
+ID: 44752727
+Pregunta: Con respecto al "Acceso rápido" del Explorador de archivos de Windows 10, indique la respuesta incorrecta:
+a) Se pueden anclar archivos y carpetas
+b) Solo se pueden anclar carpetas
+c) Muestra las carpetas frecuentes y los archivos recientes
+d) Su contenido se muestra de forma predeterminada al entrar al Explorador de archivos
+Respuesta correcta: a
+Explicación: En Acceso rápido solo se pueden anclar carpetas, no archivos; por eso a) es la formulación incorrecta.
+
+---
+ID: 38653933
+Pregunta: ¿Cómo se llama la herramienta de Windows que permite capturar una parte de la pantalla, tanto en imagen como en vídeo?
+a) Captura de pantalla
+b) Paint
+c) Recortes
+d) Tijeras
+Respuesta correcta: c
+
+---
+ID: 39938557
+Pregunta: ¿Cuál de los siguientes elementos aparece en el listado de programas y herramientas del menú Inicio, sin estar contenido en ninguna carpeta de aplicaciones?
+a) Lupa
+b) Editor de registro
+c) Calculadora
+d) Mapa de caracteres
+Respuesta correcta: c
+
+---
+ID: 37120611
+Pregunta: Vista del Explorador en la que se puede escoger qué campos de información se quieren mostrar, en qué orden y qué ancho dar a cada columna:
+a) Lista
+b) Detalles
+c) Contenido
+d) No existe ninguna vista con esas características
+Respuesta correcta: b
+
+---
+ID: 39937919
+Pregunta: Indique qué extensión utiliza el accesorio Paint de Windows por defecto:
+a) .png
+b) .jpg
+c) .bmp
+d) .gif
+Respuesta correcta: a
+Explicación: Por defecto guarda en .png, aunque admite también bmp, jpg y gif como formatos alternativos.
+
+---
+ID: 29285607
+Pregunta: En la ubicación Este equipo del Explorador de Archivos, ¿qué se visualiza directamente?
+a) Todas las carpetas y archivos almacenados en la unidad
+b) Las carpetas del sistema, los dispositivos conectados y las unidades
+c) Las carpetas ancladas
+d) Las carpetas de la unidad C:
+Respuesta correcta: b
+
+---
+ID: 37120466
+Pregunta: Para seleccionar elementos no consecutivos usando solo el teclado:
+a) Con tres teclas: Ctrl (selección alterna), flechas cursor (elegir nuevo elemento) y Barra espaciadora (añadir a la selección)
+b) Con tres teclas: Ctrl, flechas cursor y Enter para añadir
+c) Con dos teclas: Ctrl (alterna y marca) y Enter para añadir
+d) No es posible seleccionar elementos no consecutivos usando solo el teclado
+Respuesta correcta: a
+Explicación: Con las flechas se apunta al primer elemento; manteniendo Ctrl se desplaza al siguiente; al soltar Ctrl se pulsa Barra espaciadora para añadirlo a la selección, repitiendo el proceso.
+
+---
+ID: 34163402
+Pregunta: ¿Cómo podemos cambiar los programas predeterminados en Windows?
+a) Inicio >> Configuración >> Aplicaciones >> Aplicaciones predeterminadas
+b) Inicio >> Programas >> Predeterminados
+c) Inicio >> Configuración >> Configuración de aplicaciones
+d) En la cinta de opciones de cada programa
+Respuesta correcta: a
+
+---
+ID: 29717783
+Pregunta: ¿Qué comando de la barra de comandos del Explorador de archivos de Windows permite acceder a la opción para copiar la ruta completa de un archivo?
+a) Ver
+b) Ordenar
+c) Nuevo
+d) Ver más
+Respuesta correcta: d
+Explicación: Dentro de "Ver más" (los tres puntos) se encuentra la opción "Copiar ruta de acceso".
+
+---
+ID: 34166564
+Pregunta: Las extensiones de los archivos en el Explorador de archivos de Windows:
+a) Si están ocultas se pueden visualizar en Ver >> Mostrar
+b) Informan de las dimensiones del archivo
+c) Son utilizadas por los hackers para introducirse en un ordenador ajeno
+d) No tienen relación con los tipos de archivo
+Respuesta correcta: a
+
+---
+ID: 29718262
+Pregunta: Indique en qué zona del explorador de archivos de Windows podemos añadir una ruta de forma manual para acceder al contenido de una carpeta determinada:
+a) Barra de herramientas de acceso rápido
+b) Panel de navegación
+c) Cuadro ruta de acceso
+d) Barra de direcciones
+Respuesta correcta: d
+
+---
+ID: 29717479
+Pregunta: Indique la herramienta de Windows que permite la reorganización de los archivos almacenados en un disco duro mejorando el acceso a los datos:
+a) Comprobación de errores
+b) Formatear
+c) Desfragmentar y optimizar unidades
+d) Ordenar archivos
+Respuesta correcta: c
+
+---
+ID: 38108537
+Pregunta: Trabajando en la ventana del Explorador de archivos de Windows 10, si pulsamos Tecla de Windows + Flecha arriba, ¿qué ocurrirá con la ventana?
+a) Se minimizará
+b) Se maximizará
+c) Se cerrará
+d) No ocurrirá nada
+Respuesta correcta: b
+
+---
+ID: 38653498
+Pregunta: El uso del ? (interrogante) en una búsqueda dentro del explorador de archivos de Windows, ¿qué efecto tiene?
+a) Ninguno, es un símbolo reservado del sistema
+b) Representa cualquier carácter numérico
+c) Representa uno o más caracteres
+d) Representa un solo carácter
+Respuesta correcta: d
+Explicación: El comodín "*" representa uno o más caracteres; "?" representa exactamente un carácter.
+
+---
+ID: 34166303
+Pregunta: ¿Podemos modificar la resolución de la pantalla con el sistema operativo Windows?
+a) No, depende de las características y marca de la pantalla
+b) Sí, siempre que el procesador sea rápido y haya memoria suficiente
+c) Sí, desde el panel Configuración >> Sistema, categoría Pantalla
+d) Sólo si se conecta el ordenador con un proyector
+Respuesta correcta: c
+
+---
+ID: 29717929
+Pregunta: Cuando accedemos a las propiedades de "Este equipo" en el explorador de archivos de Windows, se abre:
+a) Configuración --> Información, donde se muestran las especificaciones del dispositivo y de Windows
+b) La configuración del menú Inicio de nuestro equipo
+c) Un cuadro de diálogo con información general del sistema y de seguridad
+d) Las opciones avanzadas de configuración del Explorador de archivos
+Respuesta correcta: a
+
+---
+ID: 29720742
+Pregunta: Estando en una carpeta con 3 carpetas y 5 archivos, seleccionamos 2 archivos y 1 carpeta. ¿Qué información mostrará la barra de estado del explorador?
+a) Número de elementos seleccionados
+b) Número de elementos
+c) Número de elementos y elementos seleccionados
+d) Número de elementos, elementos seleccionados y tamaño
+Respuesta correcta: c
+Explicación: Cuando la selección incluye una carpeta (no solo archivos), la barra de estado no informa del tamaño total; el tamaño solo se muestra si se seleccionan únicamente archivos.
+
+---
+ID: 40358581
+Pregunta: Indique el procedimiento adecuado para mostrar bibliotecas en el explorador de archivos de Windows:
+a) Ver >> Mostrar Bibliotecas
+b) Inicio >> Fácil Acceso >> Mostrar Bibliotecas
+c) Menú contextual del Panel de Navegación >> Mostrar Bibliotecas
+d) Detalles >> Mostrar Bibliotecas
+Respuesta correcta: c
+Explicación: También se puede configurar desde la pestaña Ver del cuadro de diálogo Opciones de carpeta.
+
+---
+ID: 29717175
+Pregunta: ¿A través de qué herramienta de Windows podemos obtener información de los programas y procesos que se ejecutan en nuestro ordenador?
+a) Administrador de programas
+b) Administrador de recursos
+c) Administrador de equipos
+d) Administrador de tareas
+Respuesta correcta: d
+
+---
+ID: 38653817
+Pregunta: ¿Qué tipo de archivos puede guardar el programa Paint del grupo de accesorios de Windows?
+a) bmp, jpg, gif, pdf
+b) rtf, docx, pdf, txt
+c) xml, docx, pdf, txt
+d) bmp, jpg, gif, png
+Respuesta correcta: d
+
+---
+ID: 29720713
+Pregunta: En el explorador de archivos de Windows, si selecciono un archivo y lo arrastro con el ratón de una unidad de almacenamiento a otra distinta:
+a) Moveré el archivo de una unidad a otra
+b) Realizaré una copia de una unidad a otra
+c) Crearé un acceso directo en la unidad destino
+d) No se realiza ninguna acción
+Respuesta correcta: b
+Explicación: Al arrastrar entre unidades diferentes, por defecto se copia (no se mueve); para mover habría que mantener pulsada Mayús mientras se arrastra.
+
+---
+ID: 38653991
+Pregunta: ¿Con qué sistema de almacenamiento de archivos en la nube está integrado por defecto el Explorador de archivos de Windows?
+a) OneDrive
+b) Google Drive
+c) Amazon Drive
+d) Dropbox
+Respuesta correcta: a
+
+---
+ID: 29285578
+Pregunta: Si en el panel de navegación del Explorador de Archivos aparece una carpeta con un icono de chincheta a su derecha, ¿qué información proporciona?
+a) Es una carpeta anclada al acceso rápido
+b) Es una carpeta anclada como tiles en Inicio
+c) Es una carpeta anclada a la barra de tareas
+d) Ninguna de las anteriores
+Respuesta correcta: a
+
+---
+ID: 34166361
+Pregunta: En Windows, anclar programas, ¿para qué sirve?
+a) Que se ejecuten al iniciar el ordenador
+b) Que no vuelvan a aparecer en una Jump list (Recientes)
+c) Disponer de ellos de forma más rápida, ya sea en la barra de tareas o en el menú Inicio
+d) Disponer de ellos de forma más rápida; únicamente se pueden anclar elementos a la barra de tareas
+Respuesta correcta: c
+Explicación: Se pueden anclar tanto a la barra de tareas como al menú Inicio (y también en el propio explorador de Windows).
+
+---
+ID: 42284277
+Pregunta: Indique cuál de los siguientes no es un sistema de archivos de Windows:
+a) FAT32
+b) extFAT
+c) NTFS
+d) Ext4
+Respuesta correcta: b
+Explicación: "extFAT" no existe como tal; el sistema real es exFAT, especialmente adaptado para memorias flash (Ext4 tampoco es de Windows, pero la clave marca "extFAT" como la respuesta al no ser un nombre real).
+
+---
+ID: 39937643
+Pregunta: El tipo de Vista del Explorador que es igual que Iconos pequeños pero ocupa el espacio por columnas en vez de por filas, es:
+a) Contenido
+b) Lista
+c) Detalles
+d) Mosaicos
+Respuesta correcta: b
+
+---
+ID: 38108450
+Pregunta: Indique la respuesta falsa en relación al Explorador de archivos de Windows 10:
+a) La barra de estado no se puede ocultar
+b) El Panel de navegación se puede ocultar
+c) Las extensiones de los archivos se pueden ocultar
+d) La barra de herramientas de acceso rápido se puede mostrar sobre o bajo la Cinta
+Respuesta correcta: a
+Explicación: La barra de estado SÍ se puede ocultar, desde Opciones de carpeta > Ver.
+
+---
+ID: 22384387
+Pregunta: Puedo borrar un archivo en el Explorador de archivos de Windows sin que pase por la papelera de reciclaje con la combinación de teclas...:
+a) Control+Suprimir
+b) Suprimir
+c) Mayúscula+Suprimir
+d) Alt+Suprimir
+Respuesta correcta: c
+
+---
+ID: 38408636
+Pregunta: ¿Qué ocurre si se activa la Vista compacta en el Explorador de archivos de Windows 11?
+a) Reduce el espacio entre los elementos
+b) Reduce o aumenta el número de columnas del diseño Detalles
+c) Aumenta el espacio entre los elementos
+d) Reduce el espacio entre los elementos en el panel de navegación exclusivamente
+Respuesta correcta: a
+Explicación: Reduce los espacios intermedios entre elementos, ofreciendo una vista más amplia.
+
+---
+ID: 29717812
+Pregunta: Si queremos eliminar una carpeta o un archivo de forma permanente de una unidad de almacenamiento interno sin que pase por la papelera de reciclaje, deberemos:
+a) Pulsar CTRL + Supr
+b) Desde la barra de herramientas/comandos, pulsar Eliminar con la tecla Mayús pulsada
+c) Desde la barra de herramientas/comandos, pulsar Eliminar con la tecla Ctrl pulsada
+d) Pulsar Eliminar sin más, ya que los elementos en unidades internas no pasan por la papelera
+Respuesta correcta: b
+Explicación: También son válidas: Mayús+Supr directamente, o arrastrar a la papelera manteniendo pulsada Mayús.
