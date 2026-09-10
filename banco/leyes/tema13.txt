@@ -1,0 +1,262 @@
+BANCO DE PREGUNTAS — TEMA 13 (LEYES): Igualdad efectiva, no discriminación LGTBI y violencia de género
+Fuente: ADAMS, Tema13-Cuestionario1 (25 preguntas) — PENDIENTE test2 si existe, para fusionar
+Normativa base: LO 3/2007 (igualdad efectiva mujeres y hombres), LO 1/2004 (violencia de género),
+Ley 3/2016 CAM (LGTBI), Ley 2/2016 CAM (personas transexuales e intersexuales)
+Origen: banco propio (ADAMS)
+
+---
+ID: 463643
+Pregunta: Según la Ley 3/2007, ¿qué denominación recibirá la distinción a las empresas que destaquen por políticas de igualdad de trato y de oportunidades?
+a) Distintivo empresarial en materia de igualdad
+b) Reglamentariamente se determinará su denominación
+c) Reconocimiento empresarial en materia de igualdad
+d) Distintivo empresarial en materia de conciliación
+Respuesta correcta: b
+Referencia: Art. 50 LO 3/2007
+Explicación: La ley crea el distintivo pero remite a un desarrollo reglamentario posterior la determinación de su denominación exacta.
+
+---
+ID: 463654
+Pregunta: Conforme al art. 7 de la Ley 3/2016 CAM, ¿quién tiene derecho a ser tratado conforme a su orientación sexual e identidad o expresión de género, en el ámbito público y privado?
+a) Los madrileños
+b) Los ciudadanos
+c) Los españoles
+d) Toda persona
+Respuesta correcta: d
+Referencia: Art. 7.1 Ley 3/2016 CAM
+
+---
+ID: 3071
+Pregunta: Las normas sobre personal de [determinado cuerpo] procurarán la efectividad del principio de igualdad entre mujeres y hombres, en especial en el régimen de:
+a) Acceso, formación, ascensos, destinos y situaciones administrativas
+b) Vacaciones, permisos y licencias
+c) Situaciones administrativas y régimen de incompatibilidades
+d) Acceso, destinos, jubilación y régimen disciplinario
+Respuesta correcta: a
+Referencia: Art. 65 LO 3/2007
+Explicación: El enunciado original del test dice "Fuerzas y Cuerpos de Seguridad del Estado", pero el art. 65 LO 3/2007 se refiere realmente a las Fuerzas Armadas. Se señala aquí la discrepancia; la opción correcta (a) no cambia.
+
+---
+ID: 4131102
+Pregunta: La LO 1/2004 prevé que a las trabajadoras por cuenta propia víctimas de violencia de género que cesen en su actividad para hacer efectiva su protección se les suspenderá la obligación de cotización durante:
+a) Dos meses
+b) Tres meses
+c) Cuatro meses
+d) Seis meses
+Respuesta correcta: d
+Referencia: Art. 21.5 LO 1/2004
+
+---
+ID: 1052
+Pregunta: El principio de igualdad de trato entre mujeres y hombres (LO 3/2007) supone:
+a) La ausencia de toda discriminación, directa o indirecta, por razón de sexo, y especialmente las derivadas de maternidad, obligaciones familiares y estado civil
+b) La ausencia de toda discriminación directa por razón de sexo
+c) El trato como iguales a hombres y mujeres
+d) El trato con igualdad sin consideración de las diferencias entre mujeres y hombres
+Respuesta correcta: a
+Referencia: Art. 3 LO 3/2007
+
+---
+ID: 24200
+Pregunta: En el seno del Consejo Interterritorial del SNS, una Comisión contra la violencia de género emitirá un informe al Observatorio Estatal de la Violencia sobre la Mujer:
+a) Anualmente
+b) Bianualmente
+c) Bienalmente
+d) Trimestralmente
+Respuesta correcta: a
+Referencia: Art. 30.2 LO 1/2004
+
+---
+ID: 463650
+Pregunta: Según la Ley 3/2016 CAM, se entiende por violencia intragénero:
+a) La que se produce en relaciones afectivas y sexuales entre personas del mismo sexo, como ejercicio de poder para dominar y controlar a la víctima
+b) Ídem entre personas de distinto sexo
+c) Ídem entre personas de igual o distinto sexo
+d) El comportamiento distinto respecto de las normas y roles de género impuestos socialmente
+Respuesta correcta: a
+Referencia: Art. 3.l) Ley 3/2016 CAM
+
+---
+ID: 3080
+Pregunta: Para facilitar la promoción profesional de las empleadas públicas y su acceso a puestos directivos en la AGE, en las convocatorias de cursos de formación se reservará:
+a) Un 50% de las plazas
+b) Al menos un 40% de las plazas
+c) Como máximo un 40% de las plazas
+d) Un 60% de las plazas
+Respuesta correcta: b
+Referencia: Art. 60.2 LO 3/2007
+
+---
+ID: 463647
+Pregunta: Según la LO 3/2007, estará legitimado para ejercer la acción de cesación de publicidad engañosa:
+a) La Comisión Interministerial de Igualdad
+b) El Ministerio de Igualdad
+c) El Observatorio de la Igualdad de Oportunidades
+d) El Instituto de las Mujeres
+Respuesta correcta: d
+Referencia: Art. 74 LO 3/2007
+Explicación: El texto legal cita "el Instituto de la Mujer" (denominación de la ley), actualizado hoy como "Instituto de las Mujeres".
+
+---
+ID: 463642
+Pregunta: De acuerdo con la LO 3/2007:
+a) El Gobierno atenderá el principio de presencia equilibrada de mujeres y hombres en el nombramiento de titulares de órganos directivos de la AGE
+b) Preferencia durante seis meses en cursos de formación a quienes se incorporen tras permiso de paternidad/maternidad
+c) No serán admisibles en ningún caso diferencias de trato en acceso a bienes y servicios
+d) En procesos penales, corresponde a la persona demandada probar la ausencia de discriminación
+Respuesta correcta: a
+Referencia: Art. 52 LO 3/2007
+Explicación: La preferencia en formación dura un año, no seis meses (b es falsa); la inversión de la carga de la prueba se aplica en procesos civiles/administrativos, no en los penales (d es falsa).
+
+---
+ID: 463651
+Pregunta: Conforme a la Disposición Final Segunda de la LO 3/2007, tienen carácter orgánico:
+a) Las referencias a contratos de las Administraciones Públicas
+b) Las modificaciones del Estatuto de los Trabajadores
+c) Las modificaciones del Estatuto Básico del Empleado Público
+d) Las modificaciones de la LOREG
+Respuesta correcta: d
+Referencia: Disposición Final Segunda LO 3/2007
+Explicación: Tienen carácter orgánico las disposiciones adicionales primera, segunda y tercera; entre ellas, la que modifica la LOREG.
+
+---
+ID: 463648
+Pregunta: Conforme a la Ley 2/2016 CAM, las personas trans menores de edad NO tienen derecho a:
+a) Recibir de la CAM protección y atención necesaria para su desarrollo integral
+b) Recibir el tratamiento médico oportuno relativo a su transexualidad
+c) Ser oídos y expresar en todo caso su opinión en relación con cualquier medida que se les aplique
+d) Ser oídos y expresar su opinión en relación con cualquier medida que se les aplique
+Respuesta correcta: c
+Referencia: Art. 6 Ley 2/2016 CAM
+Explicación: El derecho real es a ser oídos "en atención a su madurez y desarrollo", no "en todo caso" sin matiz.
+
+---
+ID: 463641
+Pregunta: Señale la correcta sobre la LO 3/2007:
+a) Consta de nueve Títulos numerados
+b) Contempla el deber de negociar planes de igualdad en empresas de 50 o más trabajadores
+c) Consagra el permiso de paternidad de 15 días para hijo/a con discapacidad
+d) Amplía a un año la duración máxima de la excedencia para cuidado de familiares
+Respuesta correcta: b
+Referencia: Art. 45 LO 3/2007
+
+---
+ID: 463639
+Pregunta: Conforme al art. 10 de la LO 3/2007, los actos y cláusulas de negocios jurídicos que constituyan discriminación por razón de sexo se considerarán:
+a) Anulables
+b) Nulos o anulables según el grado de invalidez
+c) Nulos y sin efectos
+d) No constituirá causa de invalidez salvo declaración judicial
+Respuesta correcta: c
+Referencia: Art. 10 LO 3/2007
+
+---
+ID: 463649
+Pregunta: De acuerdo con el art. 15 de la LO 3/2007, el principio de igualdad de trato tiene:
+a) Carácter sectorial
+b) Carácter transversal
+c) Carácter vertical
+d) Carácter elemental
+Respuesta correcta: b
+Referencia: Art. 15 LO 3/2007
+
+---
+ID: 463652
+Pregunta: La Ley 3/2016 CAM será de aplicación:
+a) Solo a la Administración de la CAM
+b) A la Administración de la CAM y a las entidades locales que la integran
+c) A la Administración de la CAM, entidades locales y entidades de Derecho público o privado vinculadas o dependientes de las mismas
+d) A todas las Administraciones Públicas
+Respuesta correcta: c
+Referencia: Art. 2 Ley 3/2016 CAM
+
+---
+ID: 463644
+Pregunta: Conforme a la Ley 3/2016 CAM, entre los principios fundamentales que rigen la actuación de las personas físicas o jurídicas NO se encuentra:
+a) El reconocimiento del derecho al disfrute de los derechos humanos
+b) La efectividad de derechos
+c) Derecho a recursos y resarcimientos efectivos
+d) Derecho a resarcimientos por daños muy graves
+Respuesta correcta: d
+Referencia: Art. 4 Ley 3/2016 CAM
+
+---
+ID: 463653
+Pregunta: De acuerdo con la LO 3/2007, tienen la obligación de elaborar y aplicar un Plan de Igualdad las empresas:
+a) Con 250 o más trabajadores
+b) Con más de 100 trabajadores
+c) Con más de 50 trabajadores
+d) Con 50 o más trabajadores
+Respuesta correcta: d
+Referencia: Art. 45.2 LO 3/2007
+
+---
+ID: 4131348
+Pregunta: La LO 1/2004 adiciona un artículo a la LOPJ según el cual existirá uno o más Juzgados de Violencia sobre la Mujer:
+a) En cada partido judicial
+b) En cada municipio
+c) En cada provincia
+d) En cada Comunidad Autónoma
+Respuesta correcta: a
+Referencia: LO 1/2004 (modificación LOPJ, art. 87 bis)
+
+---
+ID: 22753629
+Pregunta: Según la Ley 2/2016 CAM, los menores de edad trans tienen derecho a:
+a) Ser requeridos de pruebas de realización de cirugías genitales
+b) Ser requeridos de pruebas de realización de tratamientos hormonales
+c) Recibir el tratamiento médico oportuno relativo a su transexualidad que obedezca a su decisión propia
+d) Ser oídos y expresar su opinión en atención a su madurez y desarrollo en relación a toda medida que se les aplique
+Respuesta correcta: d
+Referencia: Art. 6.3 Ley 2/2016 CAM
+
+---
+ID: 463645
+Pregunta: En materia de no discriminación (Ley 3/2016 CAM), entre los diferentes ámbitos NO se encuentra:
+a) El familiar
+b) El de la Salud
+c) El militar
+d) El educativo
+Respuesta correcta: c
+Referencia: Título I Ley 3/2016 CAM
+
+---
+ID: 463638
+Pregunta: Dispone la LO 3/2007 que del informe periódico del Gobierno sobre la efectividad del principio de igualdad se dará cuenta a:
+a) Las Cortes Generales
+b) La Comisión Europea
+c) La Comisión Permanente de Igualdad de Género del Congreso
+d) El Consejo de Transparencia y Buen Gobierno
+Respuesta correcta: a
+Referencia: Art. 18 LO 3/2007
+
+---
+ID: 463646
+Pregunta: A los efectos de la Ley 2/2016 CAM, hay discriminación indirecta:
+a) Cuando una persona haya sido, sea o pueda ser tratada de modo menos favorable por orientación sexual, expresión o identidad de género o pertenencia al grupo familiar
+b) Cuando una persona es objeto de discriminación por su relación con una persona, grupo o familia trans
+c) Cuando una disposición, criterio o práctica aparentemente neutros puedan ocasionar desventaja particular por orientación sexual, expresión o identidad de género
+d) Cuando hay discriminación por apreciación errónea de la orientación sexual, identidad o expresión de género
+Respuesta correcta: c
+Referencia: Art. 1.5 Ley 2/2016 CAM
+
+---
+ID: 3086
+Pregunta: La LO 1/2004 legitima para ejercer ante los Tribunales la acción de cesación de publicidad ilícita vejatoria hacia las mujeres a (señale la incorrecta):
+a) La Delegación del Gobierno para la Violencia de Género
+b) El Observatorio Estatal de Violencia sobre la Mujer
+c) El Instituto de la Mujer
+d) El Ministerio Fiscal
+Respuesta correcta: b
+Referencia: Art. 12 LO 1/2004
+Explicación: Los legitimados reales son: Delegación Especial del Gobierno contra la Violencia sobre la Mujer, Instituto de la Mujer (u órgano autonómico equivalente), Ministerio Fiscal y asociaciones de defensa de la mujer. El Observatorio Estatal de Violencia sobre la Mujer no figura entre ellos.
+
+---
+ID: 3074
+Pregunta: Según el art. 4 de la LO 3/2007, la igualdad de trato y de oportunidades entre mujeres y hombres es:
+a) Un derecho fundamental
+b) Un valor superior del ordenamiento jurídico
+c) Un derecho y un deber
+d) Un principio informador del ordenamiento jurídico
+Respuesta correcta: d
+Referencia: Art. 4 LO 3/2007
