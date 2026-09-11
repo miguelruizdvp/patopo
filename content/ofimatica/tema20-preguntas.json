@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ID41620401",
+    "texto": "¿Cuál es el método abreviado de teclado para crear rápidamente una nota en Outlook 365, estando situados en cualquier sección o módulo del programa?",
+    "opciones": [
+      "a) Ctrl + Mayus + N",
+      "b) CRTL + U",
+      "c) Ctrl + Mayus + B",
+      "d) Ctrl + Alt + M"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Ctrl+Mayús+N crea una nueva nota desde cualquier ubicación de Outlook 365.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411213",
+    "texto": "Al escribir el nombre de un destinatario en un correo, ¿la función Autocompletar sugiere direcciones que coincidan con contactos guardados en Outlook 365?",
+    "opciones": [
+      "a) No, eso solo está disponible en el campo CCO.",
+      "b) Si, nos proporcionara aquellas direcciones coincidentes con la ingresada.",
+      "c) Outlook no dispone de la opción autocompletar.",
+      "d) Solo se autocompleta el nombre del destinatario si los caracteres escritos coinciden con una dirección de correo de un usuario perteneciente a nuestra organización."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Autocompletar está activo por defecto (\"Usar lista de Autocompletar para sugerir nombres...\") y sugiere direcciones coincidentes en los campos Para, CC y CCO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41671922",
+    "texto": "¿Cuál es el atajo de teclado para abrir un mensaje recibido en Outlook 365?",
+    "opciones": [
+      "a) Mayus + M",
+      "b) Ctrl + V",
+      "c) Alt + C",
+      "d) Ctrl + A"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Ctrl+A abre el elemento seleccionado en Outlook 365. En las aplicaciones de Windows/Office en español, Ctrl+A corresponde habitualmente a \"Abrir\" (no a \"Seleccionar todo\", que en español usa Ctrl+E), a diferencia de la convención en inglés (Ctrl+O=Open, Ctrl+A=Select All); de ahí que aquí sea coherente con la clave de ADAMS.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41620691",
+    "texto": "¿Dónde podemos encontrar la pestaña Revisar de entre las aplicaciones o elementos de Outlook 365?",
+    "opciones": [
+      "a) Es una de las pestañas predeterminadas de la cinta de opciones de la aplicación de Correo de Outlook 365.",
+      "b) Es una de las pestañas que forman parte de la cinta de opciones de la aplicación Calendario de Outlook 365.",
+      "c) Es una de las pestañas que aparecen por defecto en la cinta de opciones que se muestra en la ventana de creación de un nuevo elemento de Outlook, ya sea correo, cita, tarea o contacto.",
+      "d) Es una de las pestañas existentes en la cinta de opciones de la aplicación de Tareas de Outlook 365."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La pestaña Revisar aparece al crear cualquier elemento nuevo (correo, cita, tarea o contacto), para corregir la información introducida.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41620082",
+    "texto": "En la aplicación Calendario de Outlook 365, ¿cuál de las siguientes entradas no es un tipo de vista elegible del grupo Vista Actual, en la pestaña Vista?",
+    "opciones": [
+      "a) Vista previa",
+      "b) Lista",
+      "c) Activa",
+      "d) Reuniones"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Las vistas reales del grupo son Calendario, Vista previa, Lista y Activa; \"Reuniones\" no es una de ellas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41671510",
+    "texto": "En Outlook 365 ¿cómo se denomina la opción que permite llamar la atención de un usuario en el cuerpo de un mensaje utilizando el símbolo @?",
+    "opciones": [
+      "a) Llamada",
+      "b) Referencia",
+      "c) Mención",
+      "d) Indicador"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Se denomina Mención (@mención).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411590",
+    "texto": "¿Cómo se accede a los contenidos del Backstage en Outlook 365?",
+    "opciones": [
+      "a) Modulo Calendario / Inicio",
+      "b) Módulo Tareas / Carpeta",
+      "c) Módulo Correo / Archivo",
+      "d) Módulo Personas / Ayuda"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El acceso al Backstage se realiza desde la pestaña Archivo, disponible desde cualquier módulo de Outlook 365.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID44752233",
+    "texto": "Sobre una carpeta de Outlook, ¿qué nivel de permiso debemos dar a otro usuario si queremos que pueda crear y leer elementos, así como modificar y eliminar los elementos que él mismo cree?",
+    "opciones": [
+      "a) Autor.",
+      "b) Revisor.",
+      "c) Colaborador.",
+      "d) Editor."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El permiso \"Autor\" permite crear y leer elementos, y modificar/eliminar únicamente los elementos que el propio usuario haya creado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411445",
+    "texto": "¿Cuál de las siguientes opciones no es uno de los tres comandos que ofrece Outlook 365 en la parte superior derecha de la ventana de lectura de un mensaje?",
+    "opciones": [
+      "a) Responder.",
+      "b) Archivar.",
+      "c) Responder a todos.",
+      "d) Reenviar."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Los tres comandos son Responder, Responder a todos y Reenviar; Archivar no aparece ahí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41671481",
+    "texto": "Seleccionado Correo en el panel de navegación, ¿cuál de las siguientes Vistas es la seleccionada por defecto (según el pantallazo del enunciado)?",
+    "opciones": [
+      "a) Compacta",
+      "b) Única",
+      "c) Vista Previa",
+      "d) Unificada"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La vista Compacta es la mostrada según la captura del enunciado.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41620256",
+    "texto": "Estando en la aplicación Calendario de Outlook 365, ¿cuál es la organización por defecto que se aplica a la cuadrícula del calendario en el área de trabajo (al restablecer la vista)?",
+    "opciones": [
+      "a) Día",
+      "b) Semana laboral",
+      "c) Semana",
+      "d) Mes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Al restablecer la vista de Calendario, Outlook 365 organiza por defecto los eventos usando la cuadrícula del Mes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30581203",
+    "texto": "Teniendo en cuenta la cabecera de un mensaje (Para: CARLOSALCARAZ2022@YAHOO.COM, CC: alexiaputellas@yahoo.com, CCO: andresiniesta2011@gmail.com), ¿cuál de las siguientes afirmaciones es falsa?",
+    "opciones": [
+      "a) Carlos Alcaraz no recibirá el mensaje de correo porque su dirección se ha redactado en mayúsculas.",
+      "b) Carlos Alcaraz, Alexia Putellas y Andrés Iniesta recibirán indistintamente el correo enviado.",
+      "c) Ni Carlos Alcaraz ni Alexia Putellas tendrán conocimiento que el correo lo ha recibido también Andrés Iniesta.",
+      "d) Andrés Iniesta sabrá que Carlos Alcaraz y Alexia Putellas han recibido el correo, y Carlos Alcaraz sabrá que también lo ha recibido Alexia Putellas y viceversa ella con él."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las direcciones de correo no distinguen mayúsculas/minúsculas; Carlos Alcaraz sí recibirá el mensaje con normalidad, por lo que esta afirmación es la falsa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41431732",
+    "texto": "¿Cómo se reconoce visualmente que un correo tiene aplicado un seguimiento desde la herramienta de Etiquetas en Outlook 365?",
+    "opciones": [
+      "a) Por medio del icono una bandera de color rojo a su derecha y porque aparece un fondo de color verde en el fondo del elemento de correo.",
+      "b) Por medio del icono una bandera de color rojo a la izquierda del elemento de correo y porque dispondrá de un fondo de color azul claro.",
+      "c) Por medio del icono de una bandera de color rojo en su parte derecha y porque dicho correo aparecerá resaltado con un fondo de color amarillo claro.",
+      "d) Por medio de una bandera de color rojo en la parte derecha del elemento de correo, además de un estilo negrita en el texto del Asunto del mensaje."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Se muestra una bandera roja a la derecha del elemento y un fondo resaltado en amarillo claro.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42490521",
+    "texto": "¿Qué función tiene el comando \"Informe\" de la pestaña Inicio de la cinta de opciones de Outlook 365?",
+    "opciones": [
+      "a) Informar de phishing y de correo no deseado.",
+      "b) Informar de virus.",
+      "c) Informar de mensajes almacenados en borrador.",
+      "d) Informar de actualizaciones y complementos de la aplicación."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El comando Informe ofrece \"Informar de suplantación de identidad (phishing)\" e \"Informar de correo no deseado\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411851",
+    "texto": "¿Cuál de los siguientes no es uno de los tipos de correo electrónico según su propósito?",
+    "opciones": [
+      "a) Correo electrónico personal.",
+      "b) Correo electrónico corporativo.",
+      "c) Correo electrónico institucional.",
+      "d) Correo electrónico Investigacional."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "\"Correo electrónico Investigacional\" no es una categoría estándar; sí lo son personal, corporativo/empresarial e institucional (además del de marketing/transaccional).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42284538",
+    "texto": "Cuando se adjunta un archivo en un mensaje de correo electrónico, éste no podrá ser:",
+    "opciones": [
+      "a) Un archivo PDF.",
+      "b) Una hoja de cálculo de Excel.",
+      "c) Un vídeo o imagen.",
+      "d) Podrá ser cualquiera de los anteriores."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Cualquiera de esos tipos de archivo (PDF, hoja de cálculo, vídeo/imagen) puede adjuntarse a un correo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41389935",
+    "texto": "Al responder a un mensaje con la opción «Responder» de Outlook 365, ¿qué opción está activada por defecto?",
+    "opciones": [
+      "a) Adjuntar el mensaje original.",
+      "b) Incluir el texto del mensaje original.",
+      "c) No incluir el mensaje original.",
+      "d) Prefijo en cada línea del mensaje original."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Por defecto, Outlook incluye el texto del mensaje original al responder.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42698881",
+    "texto": "Señale cuál de las siguientes opciones se encuentra en Archivo>>Herramientas de configuración del buzón de Outlook 365:",
+    "opciones": [
+      "a) Delegar acceso.",
+      "b) Descargar libreta de direcciones.",
+      "c) Limpiar elementos antiguos.",
+      "d) Respuestas automáticas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Bajo \"Herramientas\" de configuración del buzón se agrupan Limpieza de buzón, Vaciar carpeta Elementos eliminados y Limpiar elementos antiguos; las otras opciones citadas están en otros apartados de Archivo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41431703",
+    "texto": "¿Cuál de las siguientes opciones de Seguimiento (Vista correo) de un mensaje no existe entre las opciones predeterminadas de Outlook 365 (cuenta Local o Exchange)?",
+    "opciones": [
+      "a) Hoy.",
+      "b) Mañana.",
+      "c) Sin fecha",
+      "d) El próximo mes."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Las opciones reales son Hoy, Mañana, Esta semana, La próxima semana, Sin fecha y Personalizar; \"El próximo mes\" no existe.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41431384",
+    "texto": "¿Cuál es el atajo de teclado para marcar como «No leído» un mensaje seleccionado en Outlook 365?",
+    "opciones": [
+      "a) Ctrl + G",
+      "b) Ctrl + O",
+      "c) Alt + X",
+      "d) Mayus + F1"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Ctrl+O marca como No leído el elemento o elementos seleccionados en Outlook 365.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41431761",
+    "texto": "En la ventana de redacción de nuevo mensaje de Outlook 365, ¿cuál de los siguientes comandos no aparece por defecto en la barra de herramientas de acceso rápido?",
+    "opciones": [
+      "a) Guardar.",
+      "b) Deshacer.",
+      "c) Adjuntar archivo",
+      "d) Repetir."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Por defecto solo aparecen Guardar, Deshacer y Repetir; Adjuntar archivo no está en la barra de acceso rápido por defecto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41671835",
+    "texto": "¿Cuál es el atajo de teclado para Responder a todos en Outlook 365?",
+    "opciones": [
+      "a) Ctrl + Mayus + R",
+      "b) Mayus + O",
+      "c) Ctrl + Q",
+      "d) Ctrl + Alt + S"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Ctrl+Mayús+R responde a todos los destinatarios del mensaje.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID35399868",
+    "texto": "En Outlook 365, ¿cuál de los siguientes no es un grado de confidencialidad al redactar un mensaje?",
+    "opciones": [
+      "a) Privado",
+      "b) Personal",
+      "c) Público",
+      "d) General"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los grados reales son Personal, Público, General, Confidencial y Extremadamente confidencial; \"Privado\" no es uno de ellos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID35400013",
+    "texto": "En Outlook 365, ¿en cuál de las siguientes bandejas permanecen los correos que aún no han podido salir?",
+    "opciones": [
+      "a) Bandeja de pendientes",
+      "b) Bandeja exterior",
+      "c) Bandeja de salida",
+      "d) Bandeja de excluidos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "En la Bandeja de salida permanecen los correos que, por problemas del servidor o falta de conexión, no han podido enviarse.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30580063",
+    "texto": "¿A qué diseño de la cinta de opciones pertenece el pantallazo mostrado (barra compacta de una sola línea)?",
+    "opciones": [
+      "a) Cinta de opciones clásica",
+      "b) Cinta de opciones reducida.",
+      "c) Cinta de opciones portátil.",
+      "d) Cinta de opciones simplificada."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Es la cinta de opciones simplificada de Outlook 365, que organiza las herramientas en una sola línea ocultando los comandos menos usados.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID44753365",
+    "texto": "En Outlook, ¿qué opción no está disponible en el comando \"Barra de tareas pendientes\" de la pestaña Vista?",
+    "opciones": [
+      "a) Notas.",
+      "b) Calendario.",
+      "c) Tareas.",
+      "d) Personas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las opciones reales son Calendario, Personas, Tareas y Desactivado; \"Notas\" no está entre ellas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41390233",
+    "texto": "¿Qué significado tiene el campo CC que aparece en la cabecera de un mensaje en Outlook 365?",
+    "opciones": [
+      "a) Copia Certificada.",
+      "b) Contestar con.",
+      "c) Con Copia.",
+      "d) Copia Carbón."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "CC procede de \"Carbon Copy\" (Copia Carbón), en referencia a las copias hechas con papel carbón en las máquinas de escribir.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42284480",
+    "texto": "¿Cuál de los siguientes no es un programa cliente de correo electrónico?",
+    "opciones": [
+      "a) Mailbird.",
+      "b) Thunderbird.",
+      "c) Postbox.",
+      "d) Vivaldi."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Vivaldi es un navegador web, no un cliente de correo; Mailbird, Thunderbird y Postbox sí son clientes de correo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41432023",
+    "texto": "¿Qué atajo de teclado nos lleva por defecto al módulo o sección «Personas» en Outlook 365?",
+    "opciones": [
+      "a) Alt + 3",
+      "b) Shift + 3",
+      "c) Ctrl + 3",
+      "d) Mayus + 2"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+3 está asociado por defecto a la aplicación Personas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41620285",
+    "texto": "¿Qué permiso de carpeta de Outlook 365 permite crear nuevos elementos, pero no permite leer o editar elementos existentes en dicha carpeta?",
+    "opciones": [
+      "a) Editor.",
+      "b) Colaborador.",
+      "c) Revisor.",
+      "d) Propietario."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El permiso \"Colaborador\" solo permite ver la carpeta y crear elementos, sin leer ni editar los ya existentes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30579462",
+    "texto": "¿Cuál es el formato predeterminado que utiliza Outlook en la redacción y creación de un mensaje de correo electrónico?",
+    "opciones": [
+      "a) HTML.",
+      "b) TTX.",
+      "c) DOCX.",
+      "d) RFT."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "HTML es el formato predeterminado para redactar mensajes en Outlook.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41671630",
+    "texto": "En caso de tener tareas asignadas que no se han realizado, ¿dónde las podemos encontrar en Outlook 365?",
+    "opciones": [
+      "a) Sección Tareas pendientes > carpeta Lista de tareas",
+      "b) Sección Correo > carpeta Tareas pendientes",
+      "c) Sección To Do > Control de tareas > carpeta Mis tareas pendientes",
+      "d) Sección Tareas > carpeta Lista de tareas pendientes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Las tareas pendientes se localizan en la Sección Tareas, carpeta Lista de tareas pendientes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42490608",
+    "texto": "Indique cuál es el procedimiento adecuado para acceder a la opción \"Delegar acceso\" en Outlook 365.",
+    "opciones": [
+      "a) Pestaña Inicio>>Mover.",
+      "b) Pestaña Carpeta>>Permisos de carpeta.",
+      "c) Pestaña Archivo>>Herramientas.",
+      "d) Pestaña Archivo>>Configuración de la cuenta."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Dentro de la pestaña Archivo, en el desplegable \"Configuración de la cuenta\" se incluye la opción \"Delegar acceso\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID44753394",
+    "texto": "¿Qué función de Outlook permite automatizar respuestas cuando estás ausente?",
+    "opciones": [
+      "a) Filtros de correo.",
+      "b) Mensajes de seguimiento.",
+      "c) Respuestas automáticas.",
+      "d) Delegar acceso."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Respuestas automáticas notifica a los contactos, mediante un correo automático, que no se puede responder de inmediato.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30694159",
+    "texto": "¿Cuál es el método abreviado para acceder a la Libreta de direcciones?",
+    "opciones": [
+      "a) ALT+MAYUS+B",
+      "b) CTRL+MAYUS+C",
+      "c) CTRL+MAYUS+B",
+      "d) ALT+MAYUS+C"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+Mayús+B abre la Libreta de direcciones en Outlook.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41620459",
+    "texto": "¿Qué método abreviado permite cambiar a la sección Accesos directos según el panel de navegación mostrado (opción en 7ª posición)?",
+    "opciones": [
+      "a) Ctrl + 4",
+      "b) Alt + 5",
+      "c) Ctrl + 7",
+      "d) Mayus + 7"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El número del atajo se corresponde con la posición de la entrada en la barra de navegación contada desde arriba; en el ejemplo, Accesos directos ocupa la 7ª posición, de ahí Ctrl+7.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41411764",
+    "texto": "¿Qué comando se debe escribir en el cuadro de búsqueda o en Ejecutar de Windows 10/11 para abrir Outlook 365 sin pasar por el Menú Inicio?",
+    "opciones": [
+      "a) correoutlook",
+      "b) msoutlook",
+      "c) outlook",
+      "d) outlk365"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Escribiendo \"outlook\" en el cuadro Ejecutar o de búsqueda de Windows se abre la aplicación directamente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411503",
+    "texto": "¿En qué pestaña de la cinta de opciones de Outlook 365 se ubica el comando «Comprobar accesibilidad» al redactar un nuevo mensaje?",
+    "opciones": [
+      "a) Mensaje",
+      "b) Insertar",
+      "c) Revisar",
+      "d) Opciones"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "«Comprobar accesibilidad» se encuentra en la pestaña Revisar al redactar un nuevo mensaje.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30580179",
+    "texto": "¿Cuál de los siguientes iconos representa la función «Marcar todos como leídos» para aplicar dicha etiqueta a todos los elementos de correo de la carpeta actual?",
+    "opciones": [
+      "a) (icono con sobre y línea superior)",
+      "b) (icono con sobre y check)",
+      "c) (icono con sobre abierto en la pestaña Carpeta)",
+      "d) (icono de carpeta)"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El icono correspondiente se ubica en la pestaña Carpeta, grupo Limpiar, bajo «Marcar todos como leídos».",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID35399810",
+    "texto": "En Outlook 365, ¿cuál es el método abreviado para reenviar un correo?",
+    "opciones": [
+      "a) CTRL+U",
+      "b) CTRL+A",
+      "c) CTRL+R",
+      "d) CTRL+F"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Ctrl+F reenvía (Forward) el mensaje seleccionado; Ctrl+R es Responder.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30581232",
+    "texto": "¿Cuál de los siguientes iconos representa el comando Reenviar, que permite redirigir un elemento a otros destinatarios?",
+    "opciones": [
+      "a) (icono de avión de papel)",
+      "b) (icono flecha circular morada)",
+      "c) (icono de flecha recta azul)",
+      "d) (icono de flechas circulares verdes)"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El icono de flecha recta corresponde al comando Reenviar en la pestaña Inicio, grupo Responder.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41431413",
+    "texto": "¿Cuál es el atajo de teclado para crear un nuevo mensaje de correo únicamente desde la aplicación/módulo Correo de Outlook 365?",
+    "opciones": [
+      "a) Ctrl + U",
+      "b) Alt + N",
+      "c) Mayus + M",
+      "d) Ctrl + Alt + U"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "PENDIENTE DE VERIFICAR / POSIBLE ERROR: el atajo ampliamente documentado para crear un nuevo elemento del tipo correspondiente al módulo activo en Outlook es Ctrl+N (nuevo correo si se está en el módulo Correo), que no figura entre las opciones ofrecidas; el enunciado añade que Ctrl+Mayús+M crea un mensaje nuevo desde cualquier posición de Outlook, lo cual sí es correcto y coincide con lo documentado. Se mantiene la clave de ADAMS (Ctrl+U) sin modificarla, pero no ha sido posible confirmar con seguridad ese atajo concreto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42284509",
+    "texto": "En el comando \"Limpiar\" de la pestaña Inicio de Outlook, ¿qué opción no está disponible?",
+    "opciones": [
+      "a) Limpiar mensaje.",
+      "b) Limpiar conversación.",
+      "c) Limpiar carpeta.",
+      "d) Limpiar carpeta y subcarpetas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las opciones reales son Limpiar conversación, Limpiar carpeta y Limpiar carpeta y subcarpetas; \"Limpiar mensaje\" no existe.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30691889",
+    "texto": "¿En qué pestaña de la cinta de opciones de la aplicación Correo de Outlook 365 se encuentra el icono de \"Trabajar sin conexión\" (globo con círculo rojo)?",
+    "opciones": [
+      "a) Mensaje.",
+      "b) Enviar y recibir.",
+      "c) Carpeta.",
+      "d) Inicio."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El icono de Trabajar sin conexión está en la pestaña Enviar y recibir.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411300",
+    "texto": "Al terminar de revisar los errores ortográficos/gramaticales de un correo tras ejecutar el Editor ortográfico y gramatical, ¿qué sucederá a continuación en Outlook 365?",
+    "opciones": [
+      "a) Se cerrará la ventana principal del correo electrónico y se mostrará una vista previa del correo antes de enviarlo.",
+      "b) Aparecerá un cuadro de dialogo preguntando si se desea reanudar una segunda comprobación desde el principio del documento.",
+      "c) Aparecerá un cuadro de diálogo confirmando que se ha terminado de revisar las sugerencias del editor.",
+      "d) Aparecerá un cuadro de dialogo solicitando una evaluación del funcionamiento del corrector ortográfico."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Aparece un cuadro de diálogo \"Ha terminado de revisar las sugerencias del editor\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42285206",
+    "texto": "En Outlook 365, ¿cuál de las siguientes no es una opción de \"Bloquear\"?",
+    "opciones": [
+      "a) Bloquear el dominio del remitente.",
+      "b) Bloquear remitente.",
+      "c) No bloquear al remitente nunca.",
+      "d) No bloquear a este grupo o lista de distribución de correo nunca."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las opciones reales son Bloquear remitente, No bloquear al remitente nunca, No bloquear nunca el dominio del remitente y No bloquear a este grupo o lista de distribución nunca; \"Bloquear el dominio del remitente\" (en positivo) no es una opción tal cual está redactada.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41431848",
+    "texto": "Al imprimir un elemento de correo seleccionado en Outlook 365, ¿es posible conocer el número total de páginas que se imprimirán?",
+    "opciones": [
+      "a) Si, pero para acceder a esta información se necesita ir al apartado «Opciones de impresión»...",
+      "b) Si, al acceder al comando Imprimir, en la vista previa se mostrará en la parte inferior de la ventana el número de página actual y el total de páginas.",
+      "c) No, hasta que no se complete el proceso de impresión no se podrá conocer cuantas páginas serán necesarias...",
+      "d) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "En la vista previa de impresión se muestra en la parte inferior el número de página actual y el total (p. ej. \"1 de 3\").",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41411706",
+    "texto": "El icono mostrado (silueta de dos personas) ¿a cuál de los Módulos/Aplicaciones se corresponde en Outlook 365?",
+    "opciones": [
+      "a) Módulo Correo",
+      "b) Módulo Contactos",
+      "c) Módulo Personas",
+      "d) Modulo Tareas Compartidas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Es el icono del módulo Personas.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41620343",
+    "texto": "¿Cuál es el atajo de teclado para crear nueva carpeta de búsqueda en Outlook 365?",
+    "opciones": [
+      "a) Mayus + S",
+      "b) Ctrl + S",
+      "c) Ctrl + Mayus + P",
+      "d) Ctrl + Alt + P"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+Mayús+P crea una nueva carpeta de búsqueda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID30692005",
+    "texto": "¿Cuál de los siguientes iconos de la aplicación de correo de Outlook 365 se corresponde con la función «Cancelar todo» en el proceso de descarga?",
+    "opciones": [
+      "a) (icono globo con aspa roja)",
+      "b) (icono documento tachado)",
+      "c) (icono flecha circular con aspa roja)",
+      "d) (icono globo simple)"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El icono de flecha circular con aspa roja, en la pestaña Enviar y recibir, grupo Descargar, corresponde a «Cancelar todo».",
+    "requiere_imagen": true
+  }
+]

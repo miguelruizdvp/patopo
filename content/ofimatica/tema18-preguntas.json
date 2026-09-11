@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ID40927084",
+    "texto": "¿Qué comando tiene asociado el método abreviado ALT+CTRL+K en Excel 365?",
+    "opciones": [
+      "a) Filtros.",
+      "b) Validación.",
+      "c) Vínculo.",
+      "d) Autosuma."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+Alt+K inserta un hipervínculo (Insertar>>Vínculos>>Vínculo), igual que en Word 365.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41280193",
+    "texto": "¿Cuál es el formato personalizado adecuado para ver (01)Febrero(2023) dentro de una celda de Excel 365?",
+    "opciones": [
+      "a) \"(\"dd\")\"mmmm\"(\"aa\")\".",
+      "b) \"(\"dd\")\"mmmm\"(\"aaaa\")\".",
+      "c) \"(\"d\")\"mmmm\"(\"aaaa\")\".",
+      "d) \"(d)\"+mmmm\"+\"(yyyy\")."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "dd = dos dígitos para el día, mmmm = nombre completo del mes, aaaa = cuatro dígitos del año, con las constantes de texto entre comillas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40926997",
+    "texto": "¿Dónde nos encontramos dentro de la cinta de opciones de Excel 365, el comando que tiene el mismo nombre que el comando asociado al método abreviado CTRL+INTRO en Word 365?",
+    "opciones": [
+      "a) Datos>>Herramientas de datos.",
+      "b) Disposición de página>>Configurar página.",
+      "c) Inicio>>Estilos",
+      "d) Revisar>>Comprobar accesibilidad."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Ctrl+Intro en Word inserta un salto de página; en Excel el comando equivalente (\"Saltos\" / insertar salto de página) se encuentra en Disposición de página >> Configurar página >> Saltos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40929884",
+    "texto": "¿Cómo puedo hacer visible la fila 1 de la hoja de Excel 365 de forma permanente?",
+    "opciones": [
+      "a) Bloquear fila.",
+      "b) Fijar fila.",
+      "c) Inmovilizar.",
+      "d) Visualizar fila."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Vista >> Ventana >> Inmovilizar >> Inmovilizar fila superior.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41280983",
+    "texto": "En Excel 365, ¿qué afirmación es verdadera acerca del pantallazo (rango A2:A5 con texto \"Que\" en vertical)?",
+    "opciones": [
+      "a) El rango A2:A5 además de combinar y centrar tiene activo girar el texto 90º",
+      "b) El rango A2:A5 además de centrar en la selección tiene activo girar el texto -90º",
+      "c) El rango A2:A5 además de combinar y centrar tiene activo el texto vertical",
+      "d) El rango A2:A5 además de alineado en el medio tiene activo girar el texto 0º"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Según la captura del enunciado, el rango combinado y centrado tiene aplicado \"Girar texto hacia arriba\" (90º).",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41279174",
+    "texto": "Dado el pantallazo de Excel 365 (filas 3 y 4 con \"Título\"), ¿qué afirmación es falsa?",
+    "opciones": [
+      "a) En el rango A3:D3 se ha podido utilizar \"Centrar en la selección\".",
+      "b) En el rango A4:D4 se ha tenido que utilizar \"Combinar y Centrar\".",
+      "c) En el rango A4:D4 se ha tenido que utilizar \"Centrar en la selección\".",
+      "d) En el rango A3:D3 se ha podido utilizar \"Combinar celdas\"."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "En la captura se ve seleccionada la celda D4 de forma individual, luego el rango A4:D4 no está combinado; se ha usado \"Centrar en la selección\", no \"Combinar y centrar\".",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41282232",
+    "texto": "¿Qué afirmación acerca del cuadro de nombres de Excel 365 es verdadera?",
+    "opciones": [
+      "a) Únicamente muestra los nombres que hay definidos en el ámbito de una hoja",
+      "b) Muestra los nombres que hay definidos en el ámbito de un libro",
+      "c) Muestra los nombres que hay definidos en el ámbito de más de un libro",
+      "d) Muestra únicamente los nombres definidos en la misma hoja u hojas con mismo nombre en otros libros."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El cuadro de nombres muestra los nombres definidos con ámbito de libro (y los de ámbito de hoja para la hoja activa).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281099",
+    "texto": "Si en una celda de Excel 365 tengo el valor 3,789 y pulso dos veces el botón \"Disminuir decimales\", ¿qué valor obtendré en la celda?",
+    "opciones": [
+      "a) 3,79",
+      "b) 3,78900",
+      "c) 3,8",
+      "d) 378,9"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Cada pulsación quita un decimal: 3,789 → 3,79 (primera pulsación) → 3,8 (segunda pulsación).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40927871",
+    "texto": "¿Cuál de las siguientes opciones de zoom, no tiene asociado un valor porcentual concreto en Excel 365?",
+    "opciones": [
+      "a) Ancho de página.",
+      "b) Ancho del texto.",
+      "c) No existe ninguno de los anteriores.",
+      "d) Toda la página."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El cuadro de diálogo Zoom de Excel solo ofrece 200%, 100%, 75%, 50%, 25%, \"Ajustar la selección a la ventana\" y \"Personalizado\"; las opciones \"Ancho de página\", \"Ancho del texto\" y \"Toda la página\" son propias de Word y no existen como tales en Excel — el zoom en Excel es siempre numérico/porcentual.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40829798",
+    "texto": "¿Cuál de las siguientes opciones de Excel 365 me pregunta el nombre del archivo todas las veces que quiera guardarlo?",
+    "opciones": [
+      "a) MAY+ALT+F2.",
+      "b) F12.",
+      "c) CTRL+ALT+I.",
+      "d) CTRL+ALT+G."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "F12 abre siempre el cuadro de diálogo \"Guardar como\", pidiendo nombre de archivo cada vez.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40925081",
+    "texto": "¿Qué método abreviado posee el botón de cerrar ventana de Excel 365?",
+    "opciones": [
+      "a) CTRL+F4.",
+      "b) ALTGr+F4.",
+      "c) ALT+F4.",
+      "d) MAY+F4."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Alt+F4 cierra la ventana/aplicación completa (el botón \"X\" de la ventana), mientras que Ctrl+F4 cierra solo el libro activo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42698446",
+    "texto": "En Excel 365, ¿Qué resultado de los siguientes devuelve la fórmula =NO(5>7)?",
+    "opciones": [
+      "a) VERDADERO.",
+      "b) FALSO.",
+      "c) #####.",
+      "d) #¡NULO!"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "5>7 es FALSO; NO() invierte el valor, por lo que el resultado es VERDADERO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID44752030",
+    "texto": "En una hoja de cálculo de Excel, las celdas A1, B1 y C1 contienen los valores numéricos 5, 7 y 4 respectivamente. La celda D1 contiene la fórmula =SI(Y(C1>=5;O(A1>=5;B1>=5));\"APTO\";\"NO APTO\") ¿Cuál será el valor de la celda D1?",
+    "opciones": [
+      "a) VERDADERO.",
+      "b) FALSO.",
+      "c) APTO.",
+      "d) NO APTO."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "C1=4, por lo que C1>=5 es FALSO; al estar unido con Y() a la otra condición, toda la Y() resulta FALSO, y el SI() devuelve \"NO APTO\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40929101",
+    "texto": "¿Cuántas alineaciones verticales existen en las celdas de Excel 365?",
+    "opciones": [
+      "a) 3.",
+      "b) 4.",
+      "c) 5.",
+      "d) 7."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Superior, Centrar, Inferior, Justificar y Distribuida (5 opciones).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42285003",
+    "texto": "En Excel 365, ¿Qué resultado nos devuelve la función LARGO()?",
+    "opciones": [
+      "a) El número de palabras de una cadena de texto.",
+      "b) El número de letras de una cadena de texto.",
+      "c) El número de caracteres de una cadena de texto.",
+      "d) El numero de una serie de operaciones."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "LARGO() devuelve el número de caracteres (letras, números, especiales y espacios) de un texto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40930000",
+    "texto": "¿En qué lugar no podemos encontrarnos el zoom en Excel 365?",
+    "opciones": [
+      "a) Vista>>zoom.",
+      "b) CTRL + rueda del ratón.",
+      "c) Diseño de página>>zoom.",
+      "d) En la barra de estado."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El grupo Zoom no está en la pestaña Disposición/Diseño de página; sí está en Vista, en la barra de estado (control deslizante) y mediante Ctrl+rueda del ratón.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40926794",
+    "texto": "¿Desde dónde podemos cambiar la altura de una fila en Excel 365?",
+    "opciones": [
+      "a) En el menú contextual del nombre de una fila.",
+      "b) Inicio>>Celdas>>Formato.",
+      "c) A y B son correctas.",
+      "d) Inicio>>Alineación>>Combinar y centrar."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ambos métodos (clic derecho sobre el encabezado de fila, o Inicio>>Celdas>>Formato>>Alto de fila) permiten cambiar la altura.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40926198",
+    "texto": "¿A dónde tengo que acceder para poder conocer la licencia que tengo activa con Excel 365, la versión que tengo instalada y poder cambiar la clave de dicha licencia?",
+    "opciones": [
+      "a) Revisar>>Cuenta.",
+      "b) Vista>>Cuenta.",
+      "c) Archivo>>Cuenta.",
+      "d) Datos>>Cuenta."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Archivo>>Cuenta muestra información de la licencia/producto, la versión instalada y permite cambiar la clave de producto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41282959",
+    "texto": "En Excel 365, en la fórmula =PROMEDIO(Trim1;Trim2), ¿qué son Trim1 y Trim2?",
+    "opciones": [
+      "a) Son nombres dados a grupos de celdas",
+      "b) Son Nombres de funciones que al no recibir argumentos no usan los paréntesis",
+      "c) Todas son posibles",
+      "d) Son funciones matemáticas aplicadas a un árbol de decisión"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Trim1 y Trim2 representan rangos con nombre definido (nombres asignados a grupos de celdas) usados como argumentos de la función PROMEDIO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281855",
+    "texto": "En Excel 365 y en base al pantallazo (tabla CAMPO1/CAMPO2/CAMPO3, B2=34), ¿cuál será el resultado de la fórmula =SI(B2>50;\"HOLA\")?",
+    "opciones": [
+      "a) Dará \"HOLA\"",
+      "b) No dirá nada",
+      "c) Dará FALSO",
+      "d) #!ERROR¡"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "B2=34, no es mayor que 50; al faltar el argumento \"valor_si_falso\" en la función SI, y no cumplirse la condición, el resultado es FALSO.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41282292",
+    "texto": "¿Puedo tener dos archivos de Excel 365 con el mismo nombre y en la misma carpeta?",
+    "opciones": [
+      "a) Sí",
+      "b) No",
+      "c) Sí pero solo en el caso de que tengan distinta extensión",
+      "d) No, salvo que el número y nombre de las hojas de cálculo sean diferentes"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El sistema de archivos no permite dos ficheros con idéntico nombre y extensión en la misma carpeta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40925313",
+    "texto": "¿Qué método abreviado me permite guardar un libro accediendo directamente al cuadro de diálogo llamado \"Guardar como\" en Excel 365?",
+    "opciones": [
+      "a) CTRL+Alt+F2.",
+      "b) CTRL+G.",
+      "c) F12.",
+      "d) CTRL+S."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "F12 accede directamente al cuadro de diálogo \"Guardar como\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41282174",
+    "texto": "Barras de datos, escalas de color y conjunto de iconos, ¿a qué parte de Excel 365 pertenecen?",
+    "opciones": [
+      "a) Validación de datos",
+      "b) Formatos de tabla",
+      "c) Formato condicional",
+      "d) Diseño de imagen"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Son tipos de reglas de Formato condicional (Inicio >> Estilos >> Formato condicional).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40926169",
+    "texto": "¿Cuál de los siguientes métodos abreviados no me permite acceder a la impresión de un libro en Excel 365?",
+    "opciones": [
+      "a) CTRL+P.",
+      "b) CTRL+F2.",
+      "c) CTRL+ALT+D.",
+      "d) CTRL+Mayús+F12."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+P, Ctrl+F2 y Ctrl+Mayús+F12 llevan todos a la vista de impresión/Backstage de impresión; Ctrl+Alt+D no es un atajo de impresión.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40929014",
+    "texto": "En Excel 365, ¿qué método abreviado me permite cambiar el tipo de referencia cuando estamos editando una referencia dentro de una fórmula?",
+    "opciones": [
+      "a) F2.",
+      "b) F3.",
+      "c) F4.",
+      "d) ALT+F3."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "F4 alterna entre los distintos tipos de referencia (relativa, absoluta, mixta) mientras se edita una celda de referencia en una fórmula.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40928869",
+    "texto": "¿Cuál es el método abreviado para insertar una nueva nota en Excel 365?",
+    "opciones": [
+      "a) MAY + F2.",
+      "b) CTRL+F11.",
+      "c) F11.",
+      "d) ALT+F8."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Mayús+F2 inserta una nueva nota (comentario) en la celda activa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41279522",
+    "texto": "¿Cuántas hojas se crean por defecto dentro de un libro de Excel 365?",
+    "opciones": [
+      "a) Depende de la configuración dada en la Ficha \"Diseño de Página>>Configurar Página\"",
+      "b) Tres.",
+      "c) Depende de la configuración dada en la Ficha \"Archivo>>Opciones>>General\"",
+      "d) Una."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El número de hojas del libro nuevo se configura en Archivo>>Opciones>>General>>\"Incluir este número de hojas\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID42284800",
+    "texto": "¿Cuál es el número máximo de hojas de cálculo que puede contener un libro de Excel 365?",
+    "opciones": [
+      "a) 255.",
+      "b) 3.",
+      "c) 1.",
+      "d) Depende de las características de nuestro equipo."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "No hay un límite fijo establecido por Excel; está condicionado por la memoria disponible en el sistema.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41278448",
+    "texto": "Dada la imagen de Excel 365 (D2 con fórmula =B2+C2, valor 5), si pulsamos CTRL + C en D2 y luego pulsamos CTRL + X en D4, ¿qué fórmula obtendríamos en D4?",
+    "opciones": [
+      "a) =B4+C4",
+      "b) No obtendríamos nada.",
+      "c) #!Error en la fórmula!",
+      "d) =CONCAT(D2+5)"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Al no pegar (Ctrl+V) en ningún momento y sustituir el portapapeles con la acción Cortar sobre una celda vacía (D4), no se obtiene ningún resultado; cortar por sí solo no genera ni pega ninguna fórmula.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41282785",
+    "texto": "En Excel 365, ¿qué valores obtendremos si arrastramos 1 posición hacia la derecha el controlador de relleno situado en la esquina inferior derecha de la selección (A1=1, A2=3)?",
+    "opciones": [
+      "a) 5 y 7",
+      "b) 1 y 3",
+      "c) Moveremos las celdas A1 y A2 al rango B1 y B2",
+      "d) 2 y 4"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Al arrastrar el controlador de relleno en dirección perpendicular a una selección vertical de solo dos celdas, Excel copia los valores tal cual (1 y 3), sin generar una serie.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41277868",
+    "texto": "¿Qué extensión no reconoce Excel 365 al guardar?",
+    "opciones": [
+      "a) XLSX.",
+      "b) XLPM.",
+      "c) PDF.",
+      "d) CSV."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "XLPM no es una extensión reconocida por Excel; XLSX, PDF y CSV sí figuran entre los formatos de guardado disponibles.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41277810",
+    "texto": "¿Qué método podemos utilizar en Excel 365 para crear un fichero PDF con los datos de un libro que ya ha sido guardado anteriormente como XLSX?",
+    "opciones": [
+      "a) Archivo>>Guardar.",
+      "b) Archivo>>Guardar como.",
+      "c) Archivo>>Opciones.",
+      "d) Archivo>>Información."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Desde Archivo>>Guardar como se puede elegir el tipo PDF como formato de archivo (también accesible junto a Imprimir y Compartir mediante exportar a PDF).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40929681",
+    "texto": "¿Qué afirmación es verdadera respecto a la edición en Excel 365?",
+    "opciones": [
+      "a) CTRL+L me permite reemplazar textos buscando por filas o por columnas.",
+      "b) F5 me permite seleccionar celdas que posean fórmulas.",
+      "c) Todas son verdaderas.",
+      "d) CTRL+T permite crear una tabla."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Las tres afirmaciones son ciertas: Ctrl+L (Reemplazar) permite buscar por filas o columnas desde Opciones; F5 (Ir a) con \"Especial\" permite seleccionar celdas con fórmulas; Ctrl+T crea una tabla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID44751885",
+    "texto": "Si en una hoja de Excel tenemos en la celda A1 el valor \"Opos\" y en la celda B1 el valor \"2025\", seleccionamos ambas celdas y pulsamos el botón Combinar y centrar, el resultado es:",
+    "opciones": [
+      "a) Una única celda en la que aparece el valor \"Opos 2025\".",
+      "b) Una única celda en la que aparece el valor \"Opos2025\".",
+      "c) Una única celda en la que aparece el valor \"Opos\".",
+      "d) Una única celda en la que aparece el valor \"2025\"."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Al combinar celdas, Excel conserva únicamente el valor de la celda superior izquierda (A1=\"Opos\") y descarta el resto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41279377",
+    "texto": "¿Qué opción no existe en el formato de celdas de Excel 365, pestaña alineación, control del texto?",
+    "opciones": [
+      "a) Ajustar texto.",
+      "b) Combinar celdas.",
+      "c) Centrar en la selección.",
+      "d) Orientación."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Centrar en la selección\" es una opción del desplegable de alineación horizontal, no del bloque \"Control del texto\" (que contiene Ajustar texto, Reducir hasta ajustar y Combinar celdas); \"Orientación\" es otro bloque distinto del mismo cuadro de diálogo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41279029",
+    "texto": "Si en una celda de Excel 365 vemos \"5 Tn\" y sabiendo que el campo es numérico, ¿qué valor veremos si pulsamos el botón de estilo porcentual?",
+    "opciones": [
+      "a) 5%",
+      "b) 50,00%",
+      "c) 500%",
+      "d) 50%"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El valor numérico real de la celda es 5; el estilo porcentual multiplica por 100 y añade el símbolo %, resultando en 500%.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281419",
+    "texto": "En Excel 365 y tomando como base la imagen (B1 con fórmula =A1+$C2+A$3), ¿qué resultado obtendré al copiar la celda B1 y pegarla en la celda C4?",
+    "opciones": [
+      "a) 1",
+      "b) 10",
+      "c) 0",
+      "d) 8"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Al copiar de B1 a C4 (desplazamiento +3 filas, +1 columna), la fórmula pasa a =B4+$C5+B$3; como B4, C5 y B3 están vacías, el resultado es 0.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41278013",
+    "texto": "¿Qué alineación vertical no existe en una celda de Excel 365?",
+    "opciones": [
+      "a) Superior",
+      "b) Derecha",
+      "c) Justificada",
+      "d) Distribuida"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Las alineaciones verticales reales son Superior, Centrar, Inferior, Justificar y Distribuida; \"Derecha\" es una alineación horizontal, no vertical.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281157",
+    "texto": "¿Qué fórmula de Excel 365 me permitirá realizar el cálculo √(10²)?",
+    "opciones": [
+      "a) =RAIZ(POTENCIA(10;2))",
+      "b) =RAIZ(2^10).",
+      "c) =RAIZ(POTENCIA(2;10))",
+      "d) =RAIZ.cuadrada(Potencia(10,2))"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "POTENCIA(10;2) calcula 10², y RAIZ() calcula la raíz cuadrada del resultado, replicando exactamente √(10²).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41277607",
+    "texto": "Señale la respuesta falsa con relación a la barra de herramientas de acceso rápido de Excel 365.",
+    "opciones": [
+      "a) La barra de herramientas de acceso rápido se puede personalizar para mostrarla debajo de la cinta de opciones.",
+      "b) La barra de herramientas de acceso rápido permite añadir nuevos comandos o funciones pudiendo elegir entre cualquier función de Excel sin limitación alguna.",
+      "c) La barra de herramientas de acceso rápido se puede ocultar y escoger que se muestre automáticamente cuando se pone el cursor del ratón en su posición.",
+      "d) La barra de herramientas de acceso rápido se puede ocultar y mostrar haciendo clic derecho sobre la cinta de opciones y seleccionando la opción deseada."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "No existe ninguna función de \"autoshow\" al pasar el cursor del ratón sobre la posición de la barra de acceso rápido; las otras tres afirmaciones sí son ciertas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40927783",
+    "texto": "Con F7 se abre el cuadro de diálogo de Ortografía. ¿Qué método abreviado nos permite hacer lo mismo, pero sin usar el cuadro de diálogo en Excel 365?",
+    "opciones": [
+      "a) F7.",
+      "b) CTRL+F7.",
+      "c) Ninguna es correcta.",
+      "d) CTRL+O."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "En Excel 365 no existe un atajo alternativo que ejecute la revisión ortográfica sin abrir el cuadro de diálogo; esa posibilidad (propia de otras aplicaciones) no está disponible aquí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41278971",
+    "texto": "En Excel 365, ¿cómo podemos ajustar el ancho de la columna C al ancho del mayor contenido de cualquiera de sus celdas?",
+    "opciones": [
+      "a) Sobre cualquiera de las celdas, mediante la pulsación de Mayus+F10 y eligiendo ancho de columna (no está en el menú contextual)",
+      "b) Ficha Inicio >> Celdas >> Formato >> Ancho de columnas",
+      "c) Haciendo doble clic en la línea de separación que existe entre los nombres de las columnas",
+      "d) Seleccionando la columna y pulsando Alt+F5."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El doble clic en el borde derecho del encabezado de columna autoajusta el ancho al contenido más largo; el mismo efecto se logra también con Inicio>>Celdas>>Formato>>Autoajustar ancho de columna (distinto de la opción b, que solo fija un ancho manual).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41280164",
+    "texto": "En Excel 365, si en la celda D2 tenemos la fórmula =B$2+$B4-C6, copiamos dicha celda y la pegamos en E4, ¿qué fórmula obtendríamos?",
+    "opciones": [
+      "a) =C$2+$C6-D7.",
+      "b) =D$2+$B6-C8.",
+      "c) =C$2+$B6-D8.",
+      "d) =E$2+$C8-F8."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Desplazamiento de D2 a E4: +2 filas, +1 columna. B$2 → C$2 (fila fija); $B4 → $B6 (columna fija); C6 → D8 (relativa). Resultado: =C$2+$B6-D8.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281012",
+    "texto": "En Excel 365, ¿qué afirmación es verdadera acerca del pantallazo (rango A1:D1 con \"Hola\")?",
+    "opciones": [
+      "a) El rango A1:D1 tiene centrar en la selección",
+      "b) El rango A1:D1 tiene combinar y centrar",
+      "c) El rango A1:D1 tiene una sangría izquierda",
+      "d) El rango C1:C5 tiene orientación \"Angulo ascendente\""
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Según la captura del enunciado, el rango A1:D1 tiene aplicada la opción Combinar y centrar.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID41282116",
+    "texto": "En Excel 365, poseo una serie de datos en las celdas B1 a B10. La fórmula =Contar(B1:B10) devuelve 10. ¿Qué pasará si oculto las filas de la 3 a la 8?",
+    "opciones": [
+      "a) El resultado no cambiará",
+      "b) El resultado cambiará a 4",
+      "c) No será posible ocultar la celdas de filas completas",
+      "d) Se producirá un error de referencia"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La función CONTAR no excluye las celdas ocultas de su cálculo (a diferencia de SUBTOTALES con determinados códigos de función); el resultado permanece en 10.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41280925",
+    "texto": "En Excel 365, ¿qué afirmación es verdadera acerca del pantallazo (rango A7:A7 con texto vertical)?",
+    "opciones": [
+      "a) El rango C3:C5 además de combinar y centrar tiene activo texto vertical",
+      "b) El rango A1:D1 además de combinar y centrar tiene activo texto vertical",
+      "c) El rango A7:A7 además de combinar y centrar tiene activo texto vertical",
+      "d) El rango A1:A6 se ha utilizado combinar y centrar"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Según la captura del enunciado, es el rango C3:C5 el que combina y centra con texto vertical activo.",
+    "requiere_imagen": true
+  },
+  {
+    "id": "ID40928956",
+    "texto": "¿Qué método abreviado permite borrar la palabra situada a la derecha del cursor dentro de una celda de Excel 365?",
+    "opciones": [
+      "a) Suprimir.",
+      "b) CTRL+Retroceso.",
+      "c) CTRL+Suprimir.",
+      "d) Retroceso."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ctrl+Supr borra la palabra a la derecha del cursor; Ctrl+Retroceso borra la palabra a la izquierda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID41281303",
+    "texto": "En Excel 365 y tomando como base dos imágenes (tabla con campo1-campo5), ¿qué filtro se ha aplicado en la imagen uno para obtener la imagen dos (solo filas de Ana y José)?",
+    "opciones": [
+      "a) Filtro por Ana y José por el campo1",
+      "b) Filtro por 1, 3, 6, 8 y 11 en el campo2",
+      "c) Filtro por >=Jueves en el campo4",
+      "d) Filtro por mes 10 y 11del campo3"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "En la imagen dos solo el encabezado de campo1 muestra el icono de filtro activo (embudo), y las filas resultantes corresponden únicamente a los registros de Ana y José.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40925197",
+    "texto": "¿Dónde tengo que acceder en Excel 365, si quiero comprobar que un libro no tenga información personal o comprobar la compatibilidad con otras versiones anteriores, antes de enviarlo por correo?",
+    "opciones": [
+      "a) Archivo>>Cuenta>>Proteger libro.",
+      "b) Archivo>>Opciones.",
+      "c) Archivo>>Información>>Comprobar si hay problemas.",
+      "d) Archivo>>Transformar>>Definir compatibilidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Archivo>>Información>>Comprobar si hay problemas incluye Inspeccionar documento (información personal) y Comprobar compatibilidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID40927987",
+    "texto": "¿Qué comandos nos encontramos dentro del grupo de botones Mostrar en la ficha de Vista en Excel 365?",
+    "opciones": [
+      "a) Regla, Líneas de cuadrícula y Zoom.",
+      "b) Regla, Nueva ventana y Panel de Navegación.",
+      "c) Navegación, Regla, Líneas de cuadrícula, Barra de fórmulas y Encabezados.",
+      "d) Regla, Líneas de cuadricula, Barra de fórmulas y Vistas personalizadas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El grupo Mostrar de la pestaña Vista en Excel incluye: Navegación, Regla, Líneas de cuadrícula, Barra de fórmulas y Encabezados.",
+    "requiere_imagen": false
+  }
+]

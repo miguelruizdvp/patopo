@@ -1,0 +1,702 @@
+[
+  {
+    "id": "ID45301533",
+    "texto": "¿Cuál de las siguientes no es una herramienta informática de gestión de tareas y proyectos?",
+    "opciones": [
+      "a) Slack",
+      "b) Microsoft Planner",
+      "c) Trello",
+      "d) Asana"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Slack es una aplicación de comunicación interna, no de gestión de tareas y proyectos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301562",
+    "texto": "¿Qué permiten hacer las herramientas de gestión de tareas y proyectos?",
+    "opciones": [
+      "a) Asignar responsables",
+      "b) Agregar archivos",
+      "c) Generar informes de progreso",
+      "d) Asignar responsables, agregar archivos y generar informes de progreso"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Estas herramientas combinan todas esas funciones, entre otras.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301185",
+    "texto": "Queremos añadir comentarios en un documento realizado por otra persona. ¿Cuál es la herramienta más adecuada?",
+    "opciones": [
+      "a) Google Docs",
+      "b) OneDrive",
+      "c) Google Drive",
+      "d) Dropbox"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Google Docs permite añadir comentarios, igual que Word; OneDrive, Google Drive y Dropbox son plataformas de almacenamiento, no editores con comentarios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301446",
+    "texto": "¿Cuál de los siguientes no es tipo de usuario de Teams?",
+    "opciones": [
+      "a) Propietario",
+      "b) Miembro",
+      "c) Observador",
+      "d) Invitado"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Los tipos de usuario reales son Propietario, Miembro e Invitado; \"Observador\" no existe como tal.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301301",
+    "texto": "¿Cuál de las siguientes no es una versión de Outlook 365?",
+    "opciones": [
+      "a) Outlook de escritorio",
+      "b) Aplicación móvil",
+      "c) Aplicación para tablet",
+      "d) Outlook Web"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "No existe una versión específica para tablet, distinta de la app móvil.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301678",
+    "texto": "¿Cuál de las siguientes afirmaciones es falsa con respecto a las plataformas de almacenamiento y compartición de archivos?",
+    "opciones": [
+      "a) Obliga a disponer de más espacio en los dispositivos locales",
+      "b) Mejora la accesibilidad a los archivos",
+      "c) Reduce los errores de versión",
+      "d) Mejora la continuidad del servicio ante fallos técnicos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Es justo lo contrario: al subir los archivos a la nube se necesita menos espacio en los dispositivos locales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301359",
+    "texto": "¿Cuál de las siguientes afirmaciones respecto de OneDrive es falsa?",
+    "opciones": [
+      "a) Permite la sincronización de archivos",
+      "b) Permite compartir archivos y carpetas",
+      "c) Evita problemas de acceso manteniendo una única forma de acceso: el explorador de Windows",
+      "d) Mantiene un historial de versiones"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "OneDrive tiene múltiples vías de acceso (explorador de Windows, Word/Excel, sitio web oficial, etc.), no una única forma de acceso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301649",
+    "texto": "¿Qué permiten hacer las aplicaciones de comunicación interna?",
+    "opciones": [
+      "a) Enviar mensajes instantáneos",
+      "b) Realizar videollamadas",
+      "c) Realizar llamadas de voz",
+      "d) Realizar videollamadas o llamadas de voz y enviar mensajes instantáneos, entre otras cosas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Combinan mensajería instantánea, llamadas/videollamadas, organización por canales, compartición de archivos y notificaciones, entre otras funciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301736",
+    "texto": "¿Qué afirmación es falsa respecto de las plataformas de almacenamiento y compartición de archivos?",
+    "opciones": [
+      "a) Se puede guardar diverso tipo de archivos",
+      "b) Los archivos siempre se almacenan en el ordenador del propio usuario, no en la nube.",
+      "c) El propietario de cada archivo decide quién puede acceder",
+      "d) El almacenamiento es seguro"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Los archivos se alojan en servidores remotos (en la nube), no en el ordenador local.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301620",
+    "texto": "¿Cuál de las siguientes no es una aplicación de comunicación interna?",
+    "opciones": [
+      "a) Zoom Chat",
+      "b) Google Drive",
+      "c) Microsoft Teams",
+      "d) Slack"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Google Drive es una plataforma de almacenamiento y compartición de archivos, no de comunicación interna.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301156",
+    "texto": "¿En qué servicio está integrado Google Docs?",
+    "opciones": [
+      "a) Google Meet",
+      "b) Google Workspace",
+      "c) Google Drive",
+      "d) Google Chrome"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Google Docs forma parte de la suite Google Workspace.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301475",
+    "texto": "¿Cuál de los siguientes no es uno de los 3 niveles principales de Teams?",
+    "opciones": [
+      "a) Organización",
+      "b) Equipos",
+      "c) Canales",
+      "d) Conversaciones"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los 3 niveles principales son Organización, Equipos y Canales; \"Conversaciones\" no es uno de ellos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301272",
+    "texto": "¿Cuál de las siguientes no es una plataforma para la realización de videoconferencias?",
+    "opciones": [
+      "a) Microsoft Teams",
+      "b) To Do",
+      "c) Zoom",
+      "d) Google Meet"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "To Do es una aplicación de gestión de tareas, no de videoconferencias.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301388",
+    "texto": "¿Cuál de las siguientes no es una funcionalidad de SharePoint?",
+    "opciones": [
+      "a) Almacenamiento y gestión documental",
+      "b) Automatización de procesos",
+      "c) Reparación remota de equipos en red",
+      "d) Integración con otras herramientas de Microsoft 365"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Reparación remota de equipos en red\" no es una funcionalidad de SharePoint.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301852",
+    "texto": "Las herramientas de trabajo colaborativo son...",
+    "opciones": [
+      "a) Todas asincrónicas.",
+      "b) Todas sincrónicas.",
+      "c) En unos casos sincrónicas y en otros asincrónicas.",
+      "d) Ni síncronas ni asíncronas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Pueden ser asíncronas (correo electrónico) o síncronas (chat), según la herramienta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301794",
+    "texto": "¿Qué afirmación es falsa respecto de las herramientas de edición colaborativa de documentos?",
+    "opciones": [
+      "a) No permiten que varios usuarios formateen a la vez",
+      "b) Permiten añadir comentarios",
+      "c) Se puede restaurar versiones anteriores",
+      "d) Muestran los cambios realizados en el documento"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Sí permiten que varios usuarios escriban, borren, muevan o formateen contenido simultáneamente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301504",
+    "texto": "¿Cuál de las siguientes no es una funcionalidad de Teams?",
+    "opciones": [
+      "a) Mensajería instantánea",
+      "b) Llamadas y videoconferencias",
+      "c) Creación de plantillas orientadas",
+      "d) Compartición y coautoría de archivos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Creación de plantillas orientadas\" no existe como funcionalidad de Teams.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301707",
+    "texto": "¿Cuál de las siguientes no es una plataforma de almacenamiento de archivos?",
+    "opciones": [
+      "a) OneDrive",
+      "b) Google Drive",
+      "c) Dropbox",
+      "d) Microsoft Teams"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Microsoft Teams es una aplicación de comunicación interna, no una plataforma de almacenamiento.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301765",
+    "texto": "¿Cuál de los siguientes no es un ejemplo de herramienta de edición colaborativa de documentos?",
+    "opciones": [
+      "a) Word en línea",
+      "b) Excel en línea",
+      "c) Google Docs",
+      "d) Google Chrome"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Google Chrome es un navegador, no una herramienta de edición colaborativa de documentos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301243",
+    "texto": "¿Cuál de las siguientes no es una funcionalidad habitual en las plataformas de videoconferencias?",
+    "opciones": [
+      "a) Chat integrado",
+      "b) Compartir pantalla",
+      "c) Reconocimiento óptico de caracteres",
+      "d) Control de participantes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El reconocimiento óptico de caracteres (OCR) sirve para digitalizar texto de documentos escaneados, sin relación con las videoconferencias.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301330",
+    "texto": "¿Cuál de las siguientes no es una funcionalidad de Outlook 365?",
+    "opciones": [
+      "a) Creación de calendarios",
+      "b) Creación de contactos",
+      "c) Elaboración de presentaciones",
+      "d) Registro de tareas pendientes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Elaborar presentaciones es tarea de PowerPoint, no de Outlook.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301591",
+    "texto": "¿Qué afirmación no es cierta respecto de las aplicaciones de comunicación interna?",
+    "opciones": [
+      "a) Aumentan la velocidad de respuesta interna",
+      "b) Mejoran la coordinación",
+      "c) Permiten estructurar la comunicación por temas",
+      "d) Aumentan la dependencia del correo electrónico"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Al contrario, reducen la dependencia del correo electrónico al ofrecer un canal de comunicación alternativo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301417",
+    "texto": "¿Qué tipos de sitio tiene SharePoint?",
+    "opciones": [
+      "a) Sitio de comunicación y minisito",
+      "b) Sitio de grupo y minisito",
+      "c) Sitio de grupo y sitio de comunicación",
+      "d) Sitio de grupo, sitio de comunicación y minisitio"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Los dos tipos reales son sitio de grupo (colaboración activa) y sitio de comunicación (difusión unidireccional); \"minisitio\" no existe.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301214",
+    "texto": "¿Cuál de los siguientes no es un elemento habitual en la realización de videoconferencias?",
+    "opciones": [
+      "a) Cámara",
+      "b) Micrófono",
+      "c) Digitalizador",
+      "d) Altavoces"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Un digitalizador (escáner) sirve para obtener copias digitales de documentos, no es necesario para una videoconferencia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45301823",
+    "texto": "¿Cuál de las siguientes no es una característica del trabajo colaborativo?",
+    "opciones": [
+      "a) El aumento de la productividad",
+      "b) La mejora de la comunicación interna",
+      "c) El aumento de los errores",
+      "d) La toma de decisiones más participativa"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El trabajo colaborativo reduce los errores gracias a la edición conjunta y al control de versiones, no los aumenta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339584",
+    "texto": "¿Cuál de los siguientes factores no influye en la calidad de las videoconferencias?",
+    "opciones": [
+      "a) Velocidad y estabilidad de la conexión a Internet",
+      "b) Calidad del dispositivo (procesador, RAM, tarjeta gráfica)",
+      "c) Configuración adecuada de audio y vídeo",
+      "d) Todos los factores mencionados influyen"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los tres factores mencionados (conexión, dispositivo, configuración de audio/vídeo) influyen en la calidad; no hay ninguno que no influya.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339816",
+    "texto": "¿Si queremos eliminar automáticamente los mensajes que nos llegan de un determinado usuario, cómo podemos hacerlo en Outlook 365?",
+    "opciones": [
+      "a) Mediante una macro de Outlook",
+      "b) Mediante una regla de mensajes",
+      "c) Solo se puede hacer programando en VBA",
+      "d) No se puede hacer"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Las reglas de mensajes de Outlook permiten eliminar automáticamente el correo de un remitente concreto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339671",
+    "texto": "¿Qué es BigBlueButton?",
+    "opciones": [
+      "a) Una plataforma de almacenamiento y compartición de archivos",
+      "b) Un webmail",
+      "c) Una plataforma para videoconferencias",
+      "d) Una herramienta de gestión de tareas y proyectos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "BigBlueButton es una plataforma de videoconferencia de código abierto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339932",
+    "texto": "¿Cómo se llaman los sitios de SharePoint pensados para difundir información de forma unidireccional?",
+    "opciones": [
+      "a) Sitio de comunicación",
+      "b) Sitio de grupo",
+      "c) Sitio direccional",
+      "d) Sitio único"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los sitios de comunicación están pensados para difundir información de forma unidireccional; los sitios de grupo están orientados a la colaboración activa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340048",
+    "texto": "¿Qué otro término más coloquial podemos utilizar para referirnos a la mensajería instantánea?",
+    "opciones": [
+      "a) Llamadas",
+      "b) Videoconferencias",
+      "c) Chats",
+      "d) Compartición de archivos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Chats\" es el término coloquial habitual para la mensajería instantánea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339845",
+    "texto": "¿Con qué herramienta se corresponde el icono de un check azul mostrado en el enunciado?",
+    "opciones": [
+      "a) Teams",
+      "b) Outlook",
+      "c) To Do",
+      "d) OneDrive"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El icono de check azul corresponde a Microsoft To Do.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339990",
+    "texto": "¿Con qué otras aplicaciones se puede integrar Teams?",
+    "opciones": [
+      "a) Solo con aplicaciones de Microsoft",
+      "b) Solo con aplicaciones de terceros",
+      "c) Tanto con aplicaciones de Microsoft como con aplicaciones de terceros",
+      "d) No se puede integrar con otras aplicaciones"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Teams se integra tanto con apps propias de Microsoft como con aplicaciones de terceros.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340193",
+    "texto": "¿Qué archivos no podemos subir a una plataforma de almacenamiento y compartición de archivos?",
+    "opciones": [
+      "a) Imágenes",
+      "b) Presentaciones",
+      "c) Archivos para los que no tengamos un programa con el que abrirlos",
+      "d) Podemos subir cualquier tipo de archivo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Se puede subir cualquier tipo de archivo a estas plataformas, aunque no dispongamos de un programa para abrirlo (otra cosa es poder abrirlo después).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340251",
+    "texto": "¿Si queremos insertar un comentario para otro usuario, desde dónde no podemos hacerlo en Word 365?",
+    "opciones": [
+      "a) Desde la ficha Inicio",
+      "b) Desde la ficha Insertar",
+      "c) Desde la ficha Revisar",
+      "d) Desde el margen derecho del documento"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los comentarios se insertan desde la ficha Insertar, la ficha Revisar o directamente desde el margen del documento; la ficha Inicio no ofrece esa opción.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340222",
+    "texto": "¿Qué es Google Workspace?",
+    "opciones": [
+      "a) Una suite de herramientas de colaboración",
+      "b) Una plataforma de almacenamiento y compartición de archivos",
+      "c) Una aplicación de comunicación interna",
+      "d) Una herramienta de gestión de tareas y proyectos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Google Workspace es una suite de herramientas de colaboración y productividad basada en la nube.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339874",
+    "texto": "¿Qué herramienta puede utilizarse para la automatización de ciertas tareas en el trabajo colaborativo?",
+    "opciones": [
+      "a) Power IT",
+      "b) Power Automate",
+      "c) Automatit",
+      "d) Automa"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Power Automate es la herramienta real de Microsoft para automatizar tareas; el resto son nombres inventados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340077",
+    "texto": "¿Qué es Trello?",
+    "opciones": [
+      "a) Una aplicación de comunicación interna",
+      "b) Una herramienta de gestión de tareas y proyectos",
+      "c) Una plataforma de almacenamiento y compartición de archivos",
+      "d) Una herramienta de edición colaborativa de documentos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Trello es una herramienta de gestión de tareas y proyectos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339903",
+    "texto": "¿Si tenemos integrado To Do en Outlook, para qué nos servirá?",
+    "opciones": [
+      "a) Para hacer videollamadas",
+      "b) Para chatear con otros usuarios",
+      "c) Para gestionar tareas",
+      "d) No se puede integrar To Do en Outlook"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "To Do es una aplicación de gestión de tareas, integrable en Outlook.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340019",
+    "texto": "¿Dónde se almacenan los archivos compartidos en los canales de Teams?",
+    "opciones": [
+      "a) En OneDrive",
+      "b) En SharePoint",
+      "c) En una carpeta local llamada Teams",
+      "d) En una carpeta local llamada Canales"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Los archivos de los canales de un equipo de Teams se almacenan en una biblioteca de documentos de SharePoint asociada.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339961",
+    "texto": "¿Qué afirmación respecto a Teams es falsa?",
+    "opciones": [
+      "a) Los propietarios de un equipo pueden agregar o eliminar miembros del equipo",
+      "b) Un propietario de un equipo puede pasar a ser miembro o viceversa",
+      "c) Se pueden crear canales privados",
+      "d) El acceso es uniplataforma"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El acceso a Teams es multiplataforma (escritorio, web y móvil), no uniplataforma.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339613",
+    "texto": "¿Qué afirmación sobre las videoconferencias es cierta?",
+    "opciones": [
+      "a) Nunca pueden grabarse",
+      "b) Siempre se graban automáticamente sin que esa configuración pueda cambiarse",
+      "c) Siempre son todos los participantes los que pueden iniciar la grabación o detenerla",
+      "d) Solo algunos participantes pueden iniciar la grabación o detenerla"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Habitualmente solo el organizador o los presentadores/participantes con permiso pueden iniciar o detener la grabación, no todos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339729",
+    "texto": "¿A qué se refiere el término OWA?",
+    "opciones": [
+      "a) A una herramienta para videoconferencias",
+      "b) A la versión web de Outlook 365",
+      "c) A una herramienta de gestión de tareas y proyectos",
+      "d) A una plataforma de almacenamiento y compartición de archivos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "OWA (Outlook Web App) es la versión web de Outlook.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340106",
+    "texto": "¿Cuál de las siguientes no es una aplicación de comunicación interna?",
+    "opciones": [
+      "a) Google Chat",
+      "b) Zoom Chat",
+      "c) Chin Chat",
+      "d) Slack"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Chin Chat\" es un nombre inventado; Google Chat, Zoom Chat y Slack sí son aplicaciones reales de comunicación interna.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340280",
+    "texto": "¿Cómo hay que hacer para mencionar a otro usuario en un documento de Word 365 guardado en OneDrive?",
+    "opciones": [
+      "a) Escribir en un comentario el nombre del usuario",
+      "b) Escribir en un comentario @ y el nombre del usuario",
+      "c) Escribir en un comentario = y el nombre del usuario",
+      "d) Escribir en un comentario # y el nombre del usuario"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Se menciona a otro usuario escribiendo @ seguido de su nombre dentro de un comentario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339642",
+    "texto": "¿Cuál de los siguientes programas (Word, Excel, Access) no tiene el comando \"Autoguardado\"?",
+    "opciones": [
+      "a) Word",
+      "b) Excel",
+      "c) Access",
+      "d) Lo tienen tanto Word, como Excel, cómo Access."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Access no necesita el interruptor de Autoguardado en OneDrive, ya que las bases de datos se van guardando automáticamente conforme se introducen los datos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340164",
+    "texto": "¿Cuál de los siguientes programas de Microsoft 365 no permite guardar en OneDrive?",
+    "opciones": [
+      "a) Word",
+      "b) Excel",
+      "c) Access",
+      "d) Tanto Word, como Excel, como Access permiten guardar en OneDrive"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los tres programas permiten guardar sus archivos en OneDrive.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45340135",
+    "texto": "¿Si queremos enviar a otro usuario un archivo con Outlook 365 pero pesa demasiado (aunque lo comprimamos), qué podemos hacer?",
+    "opciones": [
+      "a) Volverlo a comprimir",
+      "b) Usar la compresión especial",
+      "c) Compartirlo usando Dropbox",
+      "d) No podemos hacer nada"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Si no se puede compartir por correo, se puede subir a una plataforma de almacenamiento y compartición de archivos, como Dropbox, y compartirlo desde ahí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339758",
+    "texto": "¿Qué afirmación respecto a Outlook 365 es cierta?",
+    "opciones": [
+      "a) No se pueden usar calendarios en Outlook 365",
+      "b) Outlook 365 no tiene ningún calendario, pero se puede integrar calendarios de otras aplicaciones",
+      "c) Outlook 365 cuenta con su propio calendario, pero solo se puede tener un único calendario",
+      "d) Se pueden crear varios calendarios en Outlook 365"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Con el botón derecho sobre un calendario existente y \"Nuevo calendario\" se pueden crear varios calendarios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339787",
+    "texto": "¿Qué necesitamos para usar la versión web de Outlook 365?",
+    "opciones": [
+      "a) Un navegador",
+      "b) Tener instalado Outlook 365",
+      "c) Solo se puede usar con Microsoft Edge",
+      "d) No existe una versión web de Outlook 365"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Basta un navegador para acceder desde outlook.office.com, sin necesidad de tener Outlook instalado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID45339700",
+    "texto": "¿Cuál de los siguientes es un requisito opcional para la realización de videoconferencias?",
+    "opciones": [
+      "a) Dispositivo con conexión a Internet",
+      "b) Plataforma de videoconferencia",
+      "c) Micrófono y altavoces",
+      "d) Pantalla compartida"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Compartir pantalla es una función útil pero opcional; el dispositivo conectado, la plataforma y el micrófono/altavoces sí son imprescindibles.",
+    "requiere_imagen": false
+  }
+]
