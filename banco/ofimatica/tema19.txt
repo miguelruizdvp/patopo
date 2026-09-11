@@ -1,0 +1,513 @@
+BANCO DE PREGUNTAS - TEMA 19 (OFIMÁTICA: BASES DE DATOS - ACCESS 365)
+Fuente: ADAMS - Cuestionario tema 19.01 (test1) + Cuestionario tema 19.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
+Todas las preguntas: origen = banco_propio
+
+===========================================================
+1) [ID28763274]
+Pregunta: ¿A qué modelo de base de datos pertenece Access?
+a) Jerárquico
+b) Relacional
+c) En red
+d) Orientado a Objetos
+Respuesta_correcta: b
+Explicación: Microsoft Access pertenece al modelo de base de datos relacional.
+
+===========================================================
+2) [ID28759984]
+Pregunta: ¿Qué afirmación acerca de la relación de Access mostrada (T4 con factura/producto/fecha/unidades/dni, T3 con dni clave/n/a/d/t) es falsa?
+a) T3 es el lado 1 de la relación.
+b) T3 es el lado N de la relación.
+c) T4 es el lado N de la relación.
+d) El campo en común de las dos tablas puede llamarse igual.
+Respuesta_correcta: b
+Explicación: T3 es el lado "1" de la relación, ya que es la tabla que posee el campo clave (dni); afirmar que es el lado "N" es falso.
+
+===========================================================
+3) [ID28760469]
+Pregunta: En una consulta de Access, se desea calcular el total de ventas para cada producto (tabla Productos con ProductoID/PrecioUnitario, tabla Ventas con VentaID/ProductoID/Cantidad). ¿Cuál sería la expresión correcta para el campo calculado?
+a) Total_Ventas=[PrecioUnitario] * [Cantidad]
+b) [PrecioUnitario] * [Cantidad]=Total_Ventas
+c) Total_Ventas:[PrecioUnitario] * [Cantidad]
+d) Total_Ventas:[ProductoID] * [Cantidad]
+Respuesta_correcta: c
+Explicación: La sintaxis de un campo calculado en la cuadrícula de consulta es NombreCampo:Expresión; aquí se multiplica PrecioUnitario por Cantidad.
+
+===========================================================
+4) [ID28761423]
+Pregunta: ¿Qué afirmación acerca de la vista diseño de una tabla es falsa?
+a) Nos permite agregar campos a una tabla.
+b) Nos permite cambiar los tipos de datos de los campos de una tabla.
+c) Nos permite agregar registros a una tabla.
+d) Nos permite modificar el nombre de los campos de una tabla.
+Respuesta_correcta: c
+Explicación: Agregar registros (filas de datos) solo puede hacerse desde la vista Hoja de datos, no desde la vista Diseño.
+
+===========================================================
+5) [ID28760932]
+Pregunta: ¿Qué tipo de consulta no muestra ningún dato en pantalla una vez finalizada?
+a) De selección.
+b) De totales.
+c) General.
+d) De acción.
+Respuesta_correcta: d
+Explicación: Las consultas de acción (actualización, eliminación, anexar, creación de tabla) modifican datos sin mostrar una hoja de datos con resultados.
+
+===========================================================
+6) [ID28761135]
+Pregunta: ¿Qué afirmación acerca de las consultas de Access es cierta?
+a) Me permiten seleccionar los datos que deseo mostrar en base a un único criterio.
+b) Me permiten ordenar los datos que deseo mostrar en base a un único campo.
+c) Me permiten combinar los datos de varias tablas para mostrarlos juntos.
+d) Me permiten seleccionar y ordenar los datos que deseo mostrar en base a un único criterio.
+Respuesta_correcta: c
+Explicación: Las consultas permiten combinar (unir) datos de varias tablas relacionadas en un único resultado, además de filtrar y ordenar por múltiples criterios/campos.
+
+===========================================================
+7) [ID28760990]
+Pregunta: Dentro del diseño de una consulta, si en la fila de criterios ponemos Como "[h-p]*", ¿qué resultado obtendremos?
+a) Se obtendrán todos los valores que empiecen por "h" y por "p" en la columna especificada.
+b) Se obtendrán todos los valores que empiecen por "h" o por "p" en la columna especificada.
+c) No se obtendrá ningún resultado, ya que el criterio utilizado no es válido.
+d) Se obtendrán todos los valores que comiencen con las letras "h" a "p" en la columna especificada.
+Respuesta_correcta: d
+Explicación: El rango entre corchetes [h-p] en un patrón Como es un rango de caracteres válido; selecciona valores cuyo primer carácter esté entre "h" y "p" (inclusive).
+
+===========================================================
+8) [ID28761819]
+Pregunta: En una tabla de clientes, tenemos un campo "Nombre" que queremos que sea obligatorio, admita un máximo de 50 caracteres y que los nombres comiencen con una letra. ¿Cuáles serían las propiedades adecuadas?
+a) Requerido: Sí, Tamaño del campo: >50, Regla de validación: Como "[A-Z]*".
+b) Requerido: Sí, Tamaño del campo: 50, Regla de validación: Como "[A-Z]*".
+c) Requerido: Sí, Tamaño del campo: =50, Regla de validación: Como "[A-Z]*".
+d) Requerido: Sí, Tamaño del campo: 50, Máscara: Como "[A-Z]*".
+Respuesta_correcta: b
+Explicación: "Tamaño del campo" se indica como un número simple (50), no con operadores >50 o =50; la regla de que comience por letra se define en Regla de validación, no en Máscara.
+
+===========================================================
+9) [ID28761164]
+Pregunta: ¿En qué pestaña dentro de la cinta de opciones de Access se encuentran las opciones "Guardar" y "Guardar Como"?
+a) Inicio.
+b) Herramientas de la base de datos.
+c) Crear.
+d) Archivo.
+Respuesta_correcta: d
+Explicación: En la ficha Archivo (Backstage) se encuentran los comandos Guardar y Guardar como (Guardar solo es necesario si el autoguardado no está activo, en la versión 365).
+
+===========================================================
+10) [ID28761049]
+Pregunta: ¿Qué afirmación es verdadera si hablamos de consultas de totales?
+a) Me permiten mostrar todas las filas de la tabla y al final también puedo ver las filas con los cálculos de totales.
+b) Solo me permiten ver una fila de totales con todos los totales.
+c) Me permiten ver una fila de totales por cada grupo realizado y en esa fila ver todos los totales de ese grupo.
+d) Me permiten ver una fila de totales por cada grupo realizado y ver un solo total en ese grupo.
+Respuesta_correcta: c
+Explicación: Una consulta de totales agrupa los registros y muestra una fila resumen por grupo, pudiendo incluir varios cálculos agregados distintos en esa misma fila.
+
+===========================================================
+11) [ID28761279]
+Pregunta: En una tabla de empleados, en el campo EDAD no podemos introducir valores inferiores a 18 años ni superiores a 65 años. Indique la regla de validación adecuada.
+a) Entre 18 Y 65.
+b) >18 O <65
+c) >18 Y <65
+d) Edad: >=18 <=65.
+Respuesta_correcta: a
+Explicación: "Entre 18 Y 65" (equivalente a BETWEEN 18 AND 65) es la sintaxis correcta de Access para un rango inclusivo de valores permitidos.
+
+===========================================================
+12) [ID28761250]
+Pregunta: En un modelo relacional, ¿qué implica la integridad referencial en una relación entre dos tablas?
+a) La obligación de que las claves primarias en ambas tablas sean idénticas.
+b) La garantía de que no se pueden eliminar registros de la tabla principal si hay registros relacionados en la tabla secundaria.
+c) La capacidad de actualizar automáticamente los registros relacionados en ambas tablas al modificar uno de ellos.
+d) La restricción de que solo se pueden insertar registros en la tabla primaria si ya existen en la tabla secundaria.
+Respuesta_correcta: b
+Explicación: La integridad referencial impide eliminar (o modificar la clave de) un registro de la tabla principal mientras existan registros relacionados en la tabla secundaria, evitando referencias huérfanas.
+
+===========================================================
+13) [ID28761337]
+Pregunta: En un formulario de Access, ¿cuál de las siguientes expresiones podemos utilizar en un control para obtener la cantidad de caracteres de un campo denominado "Descripción"?
+a) Longitud:([Descripción]).
+b) Longitud([Descripción]).
+c) =Longitud([Descripción]).
+d) =Largo([Descripción]).
+Respuesta_correcta: c (según clave ADAMS)
+Explicación: Toda expresión usada como origen de control en un formulario debe comenzar por "=". PENDIENTE DE VERIFICAR el nombre exacto de la función: ADAMS indica "Longitud" como la función de Access equivalente a contar caracteres, descartando "Largo" (que es el nombre de la función en Excel). No ha sido posible confirmar con total certeza si el nombre real de esta función en el lenguaje de expresiones de Access es "Longitud" o si en realidad corresponde a "Len" (nombre habitual en VBA/Access, sin traducir); se mantiene la clave de ADAMS sin modificarla.
+
+===========================================================
+14) [ID28761249]
+Pregunta: Los botones que aparecen por defecto en la barra de acceso rápido de Access son:
+a) Guardar, cortar copiar y pegar.
+b) Guardar, deshacer y cortar, copiar y pegar.
+c) Guardar, deshacer y rehacer.
+d) Guardar, deshacer y repetir.
+Respuesta_correcta: c
+Explicación: Por defecto la barra de acceso rápido de Access muestra Guardar, Deshacer y Rehacer.
+
+===========================================================
+15) [ID28761508]
+Pregunta: ¿Cómo denomina el modelo relacional a lo que Access llama "Registro"?
+a) Atributo.
+b) Dominio.
+c) Tupla.
+d) Campo.
+Respuesta_correcta: c
+Explicación: En el modelo relacional, una fila/registro se denomina tupla.
+
+===========================================================
+16) [ID28761537]
+Pregunta: En Access, en una tabla de empleados, tenemos un campo "Apellido" que es obligatorio pero queremos permitir que tenga una longitud cero en caso de que no se conozca. ¿Qué opción seleccionaríamos en la propiedad "Permitir longitud cero"?
+a) No.
+b) Dependiendo del valor predeterminado.
+c) Sí.
+d) No se puede permitir longitud cero en un campo obligatorio.
+Respuesta_correcta: c
+Explicación: "Permitir longitud cero: Sí" posibilita guardar una cadena de longitud cero ("") aunque el campo sea obligatorio (Requerido: Sí).
+
+===========================================================
+17) [ID28760989]
+Pregunta: ¿Cuál de las siguientes respuestas NO pertenece a un informe de Access?
+a) Encabezado de página.
+b) Encabezado del informe.
+c) Encabezado de grupo.
+d) Encabezado de sección.
+Respuesta_correcta: d
+Explicación: Las secciones reales de un informe son: Encabezado del informe, Encabezado de página, Encabezado de grupo, Detalle, Pie de grupo, Pie de página y Pie del informe; "Encabezado de sección" no es una sección estándar.
+
+===========================================================
+18) [ID28760991]
+Pregunta: Para almacenar la edad de una persona, ¿qué tipo de dato numérico es el más idóneo en Access que ocupe el menor espacio posible?
+a) Simple.
+b) Entero.
+c) Entero largo.
+d) Byte.
+Respuesta_correcta: d
+Explicación: El tipo Byte ocupa 1 byte y almacena valores de 0 a 255, suficiente y más compacto que Entero (2 bytes, hasta ±32.767) para representar una edad humana.
+
+===========================================================
+19) [ID28761394]
+Pregunta: ¿A qué vista de una tabla le corresponde el icono de cuadrícula mostrado en el enunciado?
+a) Vista Diseño.
+b) Vista Hoja de Datos.
+c) Vista Tabla dinámica.
+d) Vista Gráfico dinámico.
+Respuesta_correcta: b
+Explicación: El icono de cuadrícula corresponde a la Vista Hoja de datos.
+
+===========================================================
+20) [ID28761020]
+Pregunta: ¿De qué opción no dispongo al copiar y pegar una tabla en Access?
+a) Estructura solamente.
+b) Estructura y datos.
+c) Datos solamente.
+d) Anexar datos a una tabla existente.
+Respuesta_correcta: c
+Explicación: El cuadro "Pegar tabla como" solo ofrece Estructura solamente, Estructura y datos, y Anexar datos a la tabla existente; no existe una opción "Datos solamente".
+
+===========================================================
+21) [ID28760013]
+Pregunta: ¿Cuál de los siguientes no es un Sistema de Gestión de Bases de Datos (SGBD)?
+a) MySQL.
+b) Salesforce.
+c) Oracle.
+d) PostgreSQL.
+Respuesta_correcta: b
+Explicación: Salesforce es una plataforma CRM en la nube, no un SGBD; MySQL, Oracle y PostgreSQL sí lo son.
+
+===========================================================
+22) [ID28761106]
+Pregunta: ¿Qué opción NO posee la propiedad Formato del tipo de datos Sí/No dentro del diseño de una tabla en Access?
+a) 0/1.
+b) Verdadero / Falso.
+c) Sí / No.
+d) Activado / Desactivado.
+Respuesta_correcta: a
+Explicación: Las opciones reales de formato son Verdadero/Falso, Sí/No y Activado/Desactivado; "0/1" no es una opción de formato seleccionable (son los valores de almacenamiento subyacentes).
+
+===========================================================
+23) [ID28760671]
+Pregunta: ¿Cuál es el tamaño máximo para un campo de tipo Número Decimal en Access?
+a) 12 bytes.
+b) 8 bytes.
+c) 16 bytes.
+d) 4 bytes.
+Respuesta_correcta: a
+Explicación: El tipo Decimal requiere 12 bytes de almacenamiento en Access, para valores comprendidos aproximadamente entre ±9,999...×10^27.
+
+===========================================================
+24) [ID28761622]
+Pregunta: ¿Cuál es la extensión correcta que Access le pone a sus bases de datos?
+a) ACCBD.
+b) ACDB.
+c) MDB.
+d) ACCDB.
+Respuesta_correcta: d
+Explicación: Las bases de datos de Access modernas (desde 2007) usan la extensión .accdb; .mdb es el formato heredado de versiones anteriores.
+
+===========================================================
+25) [ID28761280]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access me permite personalizar el aviso que le saldrá al usuario cuando ha introducido un valor mayor de 100 en un campo que no permite estos valores?
+a) Regla de validación.
+b) Texto de aviso.
+c) No se puede personalizar.
+d) Texto de validación.
+Respuesta_correcta: d
+Explicación: "Regla de validación" define la condición (p. ej. <=100); "Texto de validación" es la propiedad que personaliza el mensaje mostrado cuando no se cumple esa regla.
+
+===========================================================
+26) [ID45910072]
+Pregunta: ¿En qué pestaña de Access 365 podemos encontrar el icono Σ "Totales"?
+a) Diseño de consulta.
+b) Herramientas de base de datos.
+c) Crear.
+d) No existe ese botón en Access.
+Respuesta_correcta: a
+Explicación: El botón Totales se encuentra en la ficha contextual Diseño de consulta, grupo Mostrar u ocultar.
+
+===========================================================
+27) [ID45910333]
+Pregunta: ¿Qué afirmación acerca del modelo relacional es falsa?
+a) A cada fila se le denomina Tupla.
+b) A cada columna se le denomina Atributo.
+c) A cada tabla se le denomina Relación.
+d) Podemos establecer integridad de datos.
+Respuesta_correcta: d
+Explicación: El término técnico preciso del modelo relacional para este concepto es "integridad referencial", no la expresión genérica "integridad de datos" tal y como aparece formulada en la opción d).
+
+===========================================================
+28) [ID45910101]
+Pregunta: ¿De qué tipo puede ser la ordenación de una consulta en Access 365?
+a) Alfabética o numérica.
+b) Principal o secundaria.
+c) Ascendente o descendente.
+d) De mayor a menor.
+Respuesta_correcta: c
+Explicación: La propiedad Orden de un campo en el diseño de consulta admite Ascendente o Descendente.
+
+===========================================================
+29) [ID45910652]
+Pregunta: ¿Qué afirmación es cierta acerca de la barra de estado de Access 365?
+a) Se encuentra por defecto justo encima de la cinta de opciones.
+b) Su posición es posible cambiarla.
+c) Es personalizable.
+d) Todas las opciones son falsas.
+Respuesta_correcta: c
+Explicación: La barra de estado se ubica siempre en la parte inferior de la ventana (posición fija), pero su contenido es personalizable haciendo clic derecho sobre ella.
+
+===========================================================
+30) [ID45910217]
+Pregunta: En Access 365, ¿qué tipo de consulta me permite borrar los teléfonos de todos mis clientes (sin eliminar los registros de cliente)?
+a) De anexar.
+b) De eliminación.
+c) De general.
+d) De actualización.
+Respuesta_correcta: d
+Explicación: Vaciar/borrar el contenido de un campo (dejarlo en blanco) para los registros existentes es una modificación del valor del campo, es decir, una consulta de actualización; una consulta de eliminación borraría los registros completos, no solo el campo teléfono.
+
+===========================================================
+31) [ID45910391]
+Pregunta: ¿Qué tipo de objeto de Access 365 ha sido creado específicamente para imprimir los datos?
+a) Tabla.
+b) Formulario.
+c) Consulta.
+d) Informe.
+Respuesta_correcta: d
+Explicación: El Informe es el objeto diseñado específicamente para presentar e imprimir datos de forma profesional.
+
+===========================================================
+32) [ID45910449]
+Pregunta: ¿Qué afirmación acerca de la integridad referencial de Access 365 es falsa?
+a) Permite validar los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+b) Permite evitar las bajas de los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+c) Permite actualizar los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+d) Permite la introducción de cualquier dato dentro de un campo de una tabla sin tener en cuenta ningún tipo de validación.
+Respuesta_correcta: d
+Explicación: Es justo lo contrario: la integridad referencial impone validación y restricciones sobre los datos relacionados, no permite introducir cualquier dato sin control.
+
+===========================================================
+33) [ID45910681]
+Pregunta: Dada la expresión Elegir([Mes];"Febrero";"Marzo";"Abril";"Mayo";"Junio"), si el valor del campo [Mes] es 3, ¿cuál será el resultado?
+a) Marzo.
+b) Abril.
+c) 3.
+d) Febrero.
+Respuesta_correcta: b
+Explicación: Elegir(índice, valor1, valor2...) devuelve el valor situado en la posición indicada por índice; con índice=3, el tercer valor de la lista es "Abril" (Febrero=1º, Marzo=2º, Abril=3º).
+
+===========================================================
+34) [ID45910420]
+Pregunta: ¿Qué tipo de objetos no se pueden crear en Access 365?
+a) Tablas y Consultas.
+b) Formularios.
+c) Informes.
+d) Aplicaciones
+Respuesta_correcta: d
+Explicación: "Aplicaciones" no es un tipo de objeto de Access; los objetos reales son Tablas, Consultas, Formularios, Informes, Macros y Módulos.
+
+===========================================================
+35) [ID45910594]
+Pregunta: ¿Podemos crear una consulta de totales de varias tablas en Access 365?
+a) Sí, en el caso de que se hallen relacionadas.
+b) Sí, siempre.
+c) No, nunca.
+d) Solo si creamos previamente una consulta de selección que una ambas tablas en una sola.
+Respuesta_correcta: a
+Explicación: Es posible agrupar y totalizar datos de varias tablas siempre que estén relacionadas (unidas) en la consulta.
+
+===========================================================
+36) [ID45910304]
+Pregunta: En Access 365, ¿qué tipo de combinación devuelve todos los registros de ambas tablas, incluyendo los registros coincidentes y no coincidentes?
+a) Combinación Interna.
+b) Combinación cruzada.
+c) Combinación externa Izquierda.
+d) Combinación externa Derecha.
+Respuesta_correcta: b (según clave ADAMS)
+Explicación: PENDIENTE DE VERIFICAR / POSIBLE IMPRECISIÓN: lo descrito en el enunciado (todos los registros de ambas tablas, coincidentes y no coincidentes) corresponde conceptualmente a una combinación externa completa (FULL OUTER JOIN), que Access no ofrece de forma nativa en el cuadro "Propiedades de la combinación" (solo permite combinación interna, externa izquierda o externa derecha). El término real "combinación cruzada" (cross join) designa en cambio el producto cartesiano de dos tablas sin condición de unión, no la descripción dada. Se mantiene la clave de ADAMS sin modificarla, pero se señala la posible inexactitud conceptual de la pregunta/respuesta.
+
+===========================================================
+37) [ID45910188]
+Pregunta: Dados varios iconos de consulta (c2, c4, c5, c3), ¿cuál es el de la consulta de Actualización de Access 365?
+a) C2
+b) C3
+c) C4
+d) C5
+Respuesta_correcta: a
+Explicación: El icono de lápiz con signo de exclamación etiquetado "Actualizar" corresponde a la opción C2 según la captura del enunciado.
+
+===========================================================
+38) [ID45910623]
+Pregunta: Dentro de una consulta de Access 365, ¿qué afirmación es falsa respecto a lo que podemos mostrar con la misma?
+a) Campos de una o de varias tablas relacionadas.
+b) Campos calculados en base a los datos de una o de varias tablas relacionadas.
+c) Para poder incluir campos calculados, previamente deben de haber sido definidos dentro las tablas como campos calculados.
+d) Campos de una o de varias consultas relacionadas.
+Respuesta_correcta: c
+Explicación: Los campos calculados pueden definirse directamente en la propia consulta, sin necesidad de haberlos creado antes como campos calculados dentro de la tabla.
+
+===========================================================
+39) [ID45910275]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access 365 me permite evitar que el número sea mayor de 100?
+a) Formato.
+b) Índice.
+c) Máscara de entrada
+d) Regla de validación
+Respuesta_correcta: d
+Explicación: Mediante la Regla de validación (p. ej. "<=100") se restringe el rango de valores admitidos en el campo.
+
+===========================================================
+40) [ID45910739]
+Pregunta: En un cuadro de texto de un informe de Access 365, tenemos la expresión =DifFecha("d";[FechaInicio];Fecha()). Si la fecha de inicio es el 1 de enero de 2023 y la fecha actual es el 15 de enero de 2023, ¿qué resultado mostrará?
+a) 0.
+b) -14.
+c) 15.
+d) 14.
+Respuesta_correcta: d
+Explicación: DifFecha("d";fecha1;fecha2) calcula la diferencia en días entre las dos fechas; del 1 al 15 de enero hay 14 días de diferencia.
+
+===========================================================
+41) [ID45910159]
+Pregunta: En Access 365, ¿cuál de las siguientes opciones representa correctamente la regla de validación para asegurar que la fecha de contrato sea igual o posterior a enero de 2023?
+a) Año([FechaContrato]) >= 2023 Y Mes([FechaContrato]) >= 1
+b) Año([FechaContrato]) = Año(Fecha()) Y Mes([FechaContrato]) >= Mes(Fecha())
+c) Año([FechaContrato]) >= Año(Fecha()) Y Mes([FechaContrato]) >= Mes(Fecha())
+d) Año([FechaContrato]) >= 2023 Y Mes([FechaContrato]) = 1
+Respuesta_correcta: a
+Explicación: Como el mes de cualquier fecha es siempre >=1, la condición se reduce en la práctica a Año>=2023, que captura correctamente cualquier fecha de enero de 2023 en adelante; las opciones b) y c) usan la fecha actual de forma dinámica (no fija a enero de 2023) y d) restringe erróneamente el mes a ser exactamente enero.
+
+===========================================================
+42) [ID45910507]
+Pregunta: Dada la expresión Conmutador([Cantidad]>=5;"Suficiente";[Cantidad]>=6;"Bien";[Cantidad]>=7;"Notable";[Cantidad]>=9;"Sobresaliente"), si el valor del campo [Cantidad] es 8, ¿cuál será el resultado?
+a) Suficiente.
+b) Bien.
+c) Notable.
+d) Sobresaliente.
+Respuesta_correcta: a
+Explicación: Conmutador() evalúa las condiciones en orden y devuelve el valor asociado a la primera que sea verdadera; como 8>=5 ya es verdadera, devuelve "Suficiente" sin evaluar el resto de condiciones (aunque también se cumplan).
+
+===========================================================
+43) [ID45910768]
+Pregunta: En Access 365, ¿qué tipo de combinación devuelve solo los registros que coinciden en ambas tablas y descarta los registros no coincidentes?
+a) Combinación externa Izquierda.
+b) Combinación externa Derecha.
+c) Combinación cruzada.
+d) Combinación Interna.
+Respuesta_correcta: d
+Explicación: La combinación interna (Inner Join) solo devuelve los registros con coincidencia en ambas tablas.
+
+===========================================================
+44) [ID45910710]
+Pregunta: ¿A qué vista le corresponde el pantallazo de Access 365 mostrado (cuadrícula con columnas C1, C2, C3 y una fila con asterisco al final)?
+a) Vista diseño de una Tabla.
+b) Vista Hoja de Datos de una Tabla.
+c) Vista diseño de una Consulta.
+d) Vista Hoja de Datos de una Consulta.
+Respuesta_correcta: b
+Explicación: El icono mostrado en la barra de título identifica que se trata de la Vista Hoja de datos de una Tabla.
+
+===========================================================
+45) [ID45910565]
+Pregunta: ¿En qué orden se mostrarán los registros que devuelve una consulta de Access 365?
+a) Siempre ordenados de menor a mayor por la clave primaria.
+b) Siempre ordenados por la clave primaria, de menor a mayor o viceversa es decisión del usuario.
+c) El orden se especifica a través de la vista diseño de la consulta y siempre por la clave primaria en el caso de que exista. Si no existe se ordenará automáticamente por la clave secundaria.
+d) Se ordenan según la propiedad Orden del diseño de la consulta. En el caso de que haya varios campos con la propiedad Orden, se tendrá en cuenta de izquierda a derecha.
+Respuesta_correcta: d
+Explicación: El orden de los resultados depende de la fila Orden en la cuadrícula de diseño de la consulta; con varios campos ordenados, se aplica prioridad de izquierda a derecha.
+
+===========================================================
+46) [ID45910536]
+Pregunta: Si queremos consultar en Access 365 los datos de personas cuyo nombre empiece por A, ¿qué criterio debemos utilizar?
+a) Como "A*"
+b) Como "*A"
+c) Como "*A*"
+d) Como "A"
+Respuesta_correcta: a
+Explicación: "A*" busca cualquier valor que empiece por la letra A seguida de cualquier cosa (incluido nada).
+
+===========================================================
+47) [ID45910362]
+Pregunta: ¿Qué afirmación es verdadera acerca de la relación de Access 365 mostrada (Tabla1: C1 clave, C2, C3 — Tabla2: C4 clave, C5, C6, unidas por una línea)?
+a) La relación tiene activada la integridad referencial.
+b) Es un tipo de relación 1:N.
+c) Es una relación del tipo N:M.
+d) Observamos dos claves primarias y dos claves externas.
+Respuesta_correcta: b
+Explicación: Según la captura del enunciado, la relación une el campo clave primaria de una tabla con un campo que no es clave primaria en la otra, lo que da lugar a una relación de tipo 1:N.
+
+===========================================================
+48) [ID45910478]
+Pregunta: ¿Qué objeto de Access 365 no posee el navegador de registros mostrado en la imagen (Registro: 1 de 5, con flechas de desplazamiento)?
+a) Las tablas.
+b) Las consultas de Selección.
+c) Los formularios.
+d) Los informes.
+Respuesta_correcta: d
+Explicación: Los informes se generan para imprimir/visualizar datos, no para interactuar con ellos, por lo que carecen de navegador de registros (a diferencia de tablas, consultas y formularios).
+
+===========================================================
+49) [ID45910130]
+Pregunta: ¿Qué nombre recibe en Access 365 el panel que aparece en la parte izquierda por defecto?
+a) Panel de todos los objetos de Access.
+b) Panel de objetos.
+c) Panel de navegación.
+d) Barra de navegación.
+Respuesta_correcta: c
+Explicación: Se denomina Panel de navegación (visible el nombre al minimizarlo).
+
+===========================================================
+50) [ID45910246]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access 365 me permite que el número de caracteres en un campo de texto corto sea mayor de 255?
+a) Formato.
+b) Tamaño del campo.
+c) Regla de validación.
+d) No es posible.
+Respuesta_correcta: d
+Explicación: El tamaño máximo de un campo de tipo Texto corto está limitado a 255 caracteres; para admitir más habría que usar el tipo Texto largo (Memo), no es posible superarlo dentro de Texto corto ajustando "Tamaño del campo".
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Access 365, no sobre citas legales.
+- Se han recalculado a mano todas las expresiones y funciones del banco (Elegir, Conmutador, DifFecha, Año/Mes, reglas de validación) confirmando los resultados de la clave de ADAMS.
+- Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR / POSIBLE IMPRECISIÓN, sin cambiar la clave:
+  · Pregunta 13 (ID28761337): duda sobre si el nombre real de la función de Access para contar caracteres es "Longitud" (como indica ADAMS) o si en realidad es "Len" (nombre no traducido, habitual en el lenguaje de expresiones de Access).
+  · Pregunta 36 (ID45910304): la descripción dada de "combinación cruzada" (todos los registros de ambas tablas, coincidentes y no coincidentes) corresponde conceptualmente a una combinación externa completa (FULL OUTER JOIN), no al significado real de "combinación cruzada" (producto cartesiano sin condición de unión); Access tampoco ofrece de forma nativa un FULL OUTER JOIN en el cuadro de propiedades de combinación.
+- Resto de las 50 preguntas verificadas sin discrepancias detectadas frente al comportamiento estándar de Access 365.
