@@ -1,0 +1,512 @@
+BANCO DE PREGUNTAS - TEMA 20 (OFIMÁTICA: CORREO ELECTRÓNICO - OUTLOOK 365)
+Fuente: ADAMS - Cuestionario tema 20.01 (test1) + Cuestionario tema 20.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
+Todas las preguntas: origen = banco_propio
+
+===========================================================
+1) [ID41620401]
+Pregunta: ¿Cuál es el método abreviado de teclado para crear rápidamente una nota en Outlook 365, estando situados en cualquier sección o módulo del programa?
+a) Ctrl + Mayus + N
+b) CRTL + U
+c) Ctrl + Mayus + B
+d) Ctrl + Alt + M
+Respuesta_correcta: a
+Explicación: Ctrl+Mayús+N crea una nueva nota desde cualquier ubicación de Outlook 365.
+
+===========================================================
+2) [ID41411213]
+Pregunta: Al escribir el nombre de un destinatario en un correo, ¿la función Autocompletar sugiere direcciones que coincidan con contactos guardados en Outlook 365?
+a) No, eso solo está disponible en el campo CCO.
+b) Si, nos proporcionara aquellas direcciones coincidentes con la ingresada.
+c) Outlook no dispone de la opción autocompletar.
+d) Solo se autocompleta el nombre del destinatario si los caracteres escritos coinciden con una dirección de correo de un usuario perteneciente a nuestra organización.
+Respuesta_correcta: b
+Explicación: Autocompletar está activo por defecto ("Usar lista de Autocompletar para sugerir nombres...") y sugiere direcciones coincidentes en los campos Para, CC y CCO.
+
+===========================================================
+3) [ID41671922]
+Pregunta: ¿Cuál es el atajo de teclado para abrir un mensaje recibido en Outlook 365?
+a) Mayus + M
+b) Ctrl + V
+c) Alt + C
+d) Ctrl + A
+Respuesta_correcta: d (según clave ADAMS)
+Explicación: PENDIENTE DE VERIFICAR / POSIBLE ERROR: el atajo históricamente documentado en Outlook para abrir el elemento seleccionado es Ctrl+O, que no figura entre las opciones ofrecidas. No ha sido posible confirmar con seguridad que Ctrl+A sea el atajo correcto para esta acción en Outlook 365 (Ctrl+A suele estar asociado a "Seleccionar todo"); se mantiene la clave de ADAMS sin modificarla.
+
+===========================================================
+4) [ID41620691]
+Pregunta: ¿Dónde podemos encontrar la pestaña Revisar de entre las aplicaciones o elementos de Outlook 365?
+a) Es una de las pestañas predeterminadas de la cinta de opciones de la aplicación de Correo de Outlook 365.
+b) Es una de las pestañas que forman parte de la cinta de opciones de la aplicación Calendario de Outlook 365.
+c) Es una de las pestañas que aparecen por defecto en la cinta de opciones que se muestra en la ventana de creación de un nuevo elemento de Outlook, ya sea correo, cita, tarea o contacto.
+d) Es una de las pestañas existentes en la cinta de opciones de la aplicación de Tareas de Outlook 365.
+Respuesta_correcta: c
+Explicación: La pestaña Revisar aparece al crear cualquier elemento nuevo (correo, cita, tarea o contacto), para corregir la información introducida.
+
+===========================================================
+5) [ID41620082]
+Pregunta: En la aplicación Calendario de Outlook 365, ¿cuál de las siguientes entradas no es un tipo de vista elegible del grupo Vista Actual, en la pestaña Vista?
+a) Vista previa
+b) Lista
+c) Activa
+d) Reuniones
+Respuesta_correcta: d
+Explicación: Las vistas reales del grupo son Calendario, Vista previa, Lista y Activa; "Reuniones" no es una de ellas.
+
+===========================================================
+6) [ID41671510]
+Pregunta: En Outlook 365 ¿cómo se denomina la opción que permite llamar la atención de un usuario en el cuerpo de un mensaje utilizando el símbolo @?
+a) Llamada
+b) Referencia
+c) Mención
+d) Indicador
+Respuesta_correcta: c
+Explicación: Se denomina Mención (@mención).
+
+===========================================================
+7) [ID41411590]
+Pregunta: ¿Cómo se accede a los contenidos del Backstage en Outlook 365?
+a) Modulo Calendario / Inicio
+b) Módulo Tareas / Carpeta
+c) Módulo Correo / Archivo
+d) Módulo Personas / Ayuda
+Respuesta_correcta: c
+Explicación: El acceso al Backstage se realiza desde la pestaña Archivo, disponible desde cualquier módulo de Outlook 365.
+
+===========================================================
+8) [ID44752233]
+Pregunta: Sobre una carpeta de Outlook, ¿qué nivel de permiso debemos dar a otro usuario si queremos que pueda crear y leer elementos, así como modificar y eliminar los elementos que él mismo cree?
+a) Autor.
+b) Revisor.
+c) Colaborador.
+d) Editor.
+Respuesta_correcta: a
+Explicación: El permiso "Autor" permite crear y leer elementos, y modificar/eliminar únicamente los elementos que el propio usuario haya creado.
+
+===========================================================
+9) [ID41411445]
+Pregunta: ¿Cuál de las siguientes opciones no es uno de los tres comandos que ofrece Outlook 365 en la parte superior derecha de la ventana de lectura de un mensaje?
+a) Responder.
+b) Archivar.
+c) Responder a todos.
+d) Reenviar.
+Respuesta_correcta: b
+Explicación: Los tres comandos son Responder, Responder a todos y Reenviar; Archivar no aparece ahí.
+
+===========================================================
+10) [ID41671481]
+Pregunta: Seleccionado Correo en el panel de navegación, ¿cuál de las siguientes Vistas es la seleccionada por defecto (según el pantallazo del enunciado)?
+a) Compacta
+b) Única
+c) Vista Previa
+d) Unificada
+Respuesta_correcta: a
+Explicación: La vista Compacta es la mostrada según la captura del enunciado.
+
+===========================================================
+11) [ID41620256]
+Pregunta: Estando en la aplicación Calendario de Outlook 365, ¿cuál es la organización por defecto que se aplica a la cuadrícula del calendario en el área de trabajo (al restablecer la vista)?
+a) Día
+b) Semana laboral
+c) Semana
+d) Mes
+Respuesta_correcta: d
+Explicación: Al restablecer la vista de Calendario, Outlook 365 organiza por defecto los eventos usando la cuadrícula del Mes.
+
+===========================================================
+12) [ID30581203]
+Pregunta: Teniendo en cuenta la cabecera de un mensaje (Para: CARLOSALCARAZ2022@YAHOO.COM, CC: alexiaputellas@yahoo.com, CCO: andresiniesta2011@gmail.com), ¿cuál de las siguientes afirmaciones es falsa?
+a) Carlos Alcaraz no recibirá el mensaje de correo porque su dirección se ha redactado en mayúsculas.
+b) Carlos Alcaraz, Alexia Putellas y Andrés Iniesta recibirán indistintamente el correo enviado.
+c) Ni Carlos Alcaraz ni Alexia Putellas tendrán conocimiento que el correo lo ha recibido también Andrés Iniesta.
+d) Andrés Iniesta sabrá que Carlos Alcaraz y Alexia Putellas han recibido el correo, y Carlos Alcaraz sabrá que también lo ha recibido Alexia Putellas y viceversa ella con él.
+Respuesta_correcta: a
+Explicación: Las direcciones de correo no distinguen mayúsculas/minúsculas; Carlos Alcaraz sí recibirá el mensaje con normalidad, por lo que esta afirmación es la falsa.
+
+===========================================================
+13) [ID41431732]
+Pregunta: ¿Cómo se reconoce visualmente que un correo tiene aplicado un seguimiento desde la herramienta de Etiquetas en Outlook 365?
+a) Por medio del icono una bandera de color rojo a su derecha y porque aparece un fondo de color verde en el fondo del elemento de correo.
+b) Por medio del icono una bandera de color rojo a la izquierda del elemento de correo y porque dispondrá de un fondo de color azul claro.
+c) Por medio del icono de una bandera de color rojo en su parte derecha y porque dicho correo aparecerá resaltado con un fondo de color amarillo claro.
+d) Por medio de una bandera de color rojo en la parte derecha del elemento de correo, además de un estilo negrita en el texto del Asunto del mensaje.
+Respuesta_correcta: c
+Explicación: Se muestra una bandera roja a la derecha del elemento y un fondo resaltado en amarillo claro.
+
+===========================================================
+14) [ID42490521]
+Pregunta: ¿Qué función tiene el comando "Informe" de la pestaña Inicio de la cinta de opciones de Outlook 365?
+a) Informar de phishing y de correo no deseado.
+b) Informar de virus.
+c) Informar de mensajes almacenados en borrador.
+d) Informar de actualizaciones y complementos de la aplicación.
+Respuesta_correcta: a
+Explicación: El comando Informe ofrece "Informar de suplantación de identidad (phishing)" e "Informar de correo no deseado".
+
+===========================================================
+15) [ID41411851]
+Pregunta: ¿Cuál de los siguientes no es uno de los tipos de correo electrónico según su propósito?
+a) Correo electrónico personal.
+b) Correo electrónico corporativo.
+c) Correo electrónico institucional.
+d) Correo electrónico Investigacional.
+Respuesta_correcta: d
+Explicación: "Correo electrónico Investigacional" no es una categoría estándar; sí lo son personal, corporativo/empresarial e institucional (además del de marketing/transaccional).
+
+===========================================================
+16) [ID42284538]
+Pregunta: Cuando se adjunta un archivo en un mensaje de correo electrónico, éste no podrá ser:
+a) Un archivo PDF.
+b) Una hoja de cálculo de Excel.
+c) Un vídeo o imagen.
+d) Podrá ser cualquiera de los anteriores.
+Respuesta_correcta: d
+Explicación: Cualquiera de esos tipos de archivo (PDF, hoja de cálculo, vídeo/imagen) puede adjuntarse a un correo.
+
+===========================================================
+17) [ID41389935]
+Pregunta: Al responder a un mensaje con la opción «Responder» de Outlook 365, ¿qué opción está activada por defecto?
+a) Adjuntar el mensaje original.
+b) Incluir el texto del mensaje original.
+c) No incluir el mensaje original.
+d) Prefijo en cada línea del mensaje original.
+Respuesta_correcta: b
+Explicación: Por defecto, Outlook incluye el texto del mensaje original al responder.
+
+===========================================================
+18) [ID42698881]
+Pregunta: Señale cuál de las siguientes opciones se encuentra en Archivo>>Herramientas de configuración del buzón de Outlook 365:
+a) Delegar acceso.
+b) Descargar libreta de direcciones.
+c) Limpiar elementos antiguos.
+d) Respuestas automáticas.
+Respuesta_correcta: c
+Explicación: Bajo "Herramientas" de configuración del buzón se agrupan Limpieza de buzón, Vaciar carpeta Elementos eliminados y Limpiar elementos antiguos; las otras opciones citadas están en otros apartados de Archivo.
+
+===========================================================
+19) [ID41431703]
+Pregunta: ¿Cuál de las siguientes opciones de Seguimiento (Vista correo) de un mensaje no existe entre las opciones predeterminadas de Outlook 365 (cuenta Local o Exchange)?
+a) Hoy.
+b) Mañana.
+c) Sin fecha
+d) El próximo mes.
+Respuesta_correcta: d
+Explicación: Las opciones reales son Hoy, Mañana, Esta semana, La próxima semana, Sin fecha y Personalizar; "El próximo mes" no existe.
+
+===========================================================
+20) [ID41431384]
+Pregunta: ¿Cuál es el atajo de teclado para marcar como «No leído» un mensaje seleccionado en Outlook 365?
+a) Ctrl + G
+b) Ctrl + O
+c) Alt + X
+d) Mayus + F1
+Respuesta_correcta: b
+Explicación: Ctrl+O marca como No leído el elemento o elementos seleccionados en Outlook 365.
+
+===========================================================
+21) [ID41431761]
+Pregunta: En la ventana de redacción de nuevo mensaje de Outlook 365, ¿cuál de los siguientes comandos no aparece por defecto en la barra de herramientas de acceso rápido?
+a) Guardar.
+b) Deshacer.
+c) Adjuntar archivo
+d) Repetir.
+Respuesta_correcta: c
+Explicación: Por defecto solo aparecen Guardar, Deshacer y Repetir; Adjuntar archivo no está en la barra de acceso rápido por defecto.
+
+===========================================================
+22) [ID41671835]
+Pregunta: ¿Cuál es el atajo de teclado para Responder a todos en Outlook 365?
+a) Ctrl + Mayus + R
+b) Mayus + O
+c) Ctrl + Q
+d) Ctrl + Alt + S
+Respuesta_correcta: a
+Explicación: Ctrl+Mayús+R responde a todos los destinatarios del mensaje.
+
+===========================================================
+23) [ID35399868]
+Pregunta: En Outlook 365, ¿cuál de los siguientes no es un grado de confidencialidad al redactar un mensaje?
+a) Privado
+b) Personal
+c) Público
+d) General
+Respuesta_correcta: a
+Explicación: Los grados reales son Personal, Público, General, Confidencial y Extremadamente confidencial; "Privado" no es uno de ellos.
+
+===========================================================
+24) [ID35400013]
+Pregunta: En Outlook 365, ¿en cuál de las siguientes bandejas permanecen los correos que aún no han podido salir?
+a) Bandeja de pendientes
+b) Bandeja exterior
+c) Bandeja de salida
+d) Bandeja de excluidos
+Respuesta_correcta: c
+Explicación: En la Bandeja de salida permanecen los correos que, por problemas del servidor o falta de conexión, no han podido enviarse.
+
+===========================================================
+25) [ID30580063]
+Pregunta: ¿A qué diseño de la cinta de opciones pertenece el pantallazo mostrado (barra compacta de una sola línea)?
+a) Cinta de opciones clásica
+b) Cinta de opciones reducida.
+c) Cinta de opciones portátil.
+d) Cinta de opciones simplificada.
+Respuesta_correcta: d
+Explicación: Es la cinta de opciones simplificada de Outlook 365, que organiza las herramientas en una sola línea ocultando los comandos menos usados.
+
+===========================================================
+26) [ID44753365]
+Pregunta: En Outlook, ¿qué opción no está disponible en el comando "Barra de tareas pendientes" de la pestaña Vista?
+a) Notas.
+b) Calendario.
+c) Tareas.
+d) Personas.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Calendario, Personas, Tareas y Desactivado; "Notas" no está entre ellas.
+
+===========================================================
+27) [ID41390233]
+Pregunta: ¿Qué significado tiene el campo CC que aparece en la cabecera de un mensaje en Outlook 365?
+a) Copia Certificada.
+b) Contestar con.
+c) Con Copia.
+d) Copia Carbón.
+Respuesta_correcta: d
+Explicación: CC procede de "Carbon Copy" (Copia Carbón), en referencia a las copias hechas con papel carbón en las máquinas de escribir.
+
+===========================================================
+28) [ID42284480]
+Pregunta: ¿Cuál de los siguientes no es un programa cliente de correo electrónico?
+a) Mailbird.
+b) Thunderbird.
+c) Postbox.
+d) Vivaldi.
+Respuesta_correcta: d
+Explicación: Vivaldi es un navegador web, no un cliente de correo; Mailbird, Thunderbird y Postbox sí son clientes de correo.
+
+===========================================================
+29) [ID41432023]
+Pregunta: ¿Qué atajo de teclado nos lleva por defecto al módulo o sección «Personas» en Outlook 365?
+a) Alt + 3
+b) Shift + 3
+c) Ctrl + 3
+d) Mayus + 2
+Respuesta_correcta: c
+Explicación: Ctrl+3 está asociado por defecto a la aplicación Personas.
+
+===========================================================
+30) [ID41620285]
+Pregunta: ¿Qué permiso de carpeta de Outlook 365 permite crear nuevos elementos, pero no permite leer o editar elementos existentes en dicha carpeta?
+a) Editor.
+b) Colaborador.
+c) Revisor.
+d) Propietario.
+Respuesta_correcta: b
+Explicación: El permiso "Colaborador" solo permite ver la carpeta y crear elementos, sin leer ni editar los ya existentes.
+
+===========================================================
+31) [ID30579462]
+Pregunta: ¿Cuál es el formato predeterminado que utiliza Outlook en la redacción y creación de un mensaje de correo electrónico?
+a) HTML.
+b) TTX.
+c) DOCX.
+d) RFT.
+Respuesta_correcta: a
+Explicación: HTML es el formato predeterminado para redactar mensajes en Outlook.
+
+===========================================================
+32) [ID41671630]
+Pregunta: En caso de tener tareas asignadas que no se han realizado, ¿dónde las podemos encontrar en Outlook 365?
+a) Sección Tareas pendientes > carpeta Lista de tareas
+b) Sección Correo > carpeta Tareas pendientes
+c) Sección To Do > Control de tareas > carpeta Mis tareas pendientes
+d) Sección Tareas > carpeta Lista de tareas pendientes
+Respuesta_correcta: d
+Explicación: Las tareas pendientes se localizan en la Sección Tareas, carpeta Lista de tareas pendientes.
+
+===========================================================
+33) [ID42490608]
+Pregunta: Indique cuál es el procedimiento adecuado para acceder a la opción "Delegar acceso" en Outlook 365.
+a) Pestaña Inicio>>Mover.
+b) Pestaña Carpeta>>Permisos de carpeta.
+c) Pestaña Archivo>>Herramientas.
+d) Pestaña Archivo>>Configuración de la cuenta.
+Respuesta_correcta: d
+Explicación: Dentro de la pestaña Archivo, en el desplegable "Configuración de la cuenta" se incluye la opción "Delegar acceso".
+
+===========================================================
+34) [ID44753394]
+Pregunta: ¿Qué función de Outlook permite automatizar respuestas cuando estás ausente?
+a) Filtros de correo.
+b) Mensajes de seguimiento.
+c) Respuestas automáticas.
+d) Delegar acceso.
+Respuesta_correcta: c
+Explicación: Respuestas automáticas notifica a los contactos, mediante un correo automático, que no se puede responder de inmediato.
+
+===========================================================
+35) [ID30694159]
+Pregunta: ¿Cuál es el método abreviado para acceder a la Libreta de direcciones?
+a) ALT+MAYUS+B
+b) CTRL+MAYUS+C
+c) CTRL+MAYUS+B
+d) ALT+MAYUS+C
+Respuesta_correcta: c
+Explicación: Ctrl+Mayús+B abre la Libreta de direcciones en Outlook.
+
+===========================================================
+36) [ID41620459]
+Pregunta: ¿Qué método abreviado permite cambiar a la sección Accesos directos según el panel de navegación mostrado (opción en 7ª posición)?
+a) Ctrl + 4
+b) Alt + 5
+c) Ctrl + 7
+d) Mayus + 7
+Respuesta_correcta: c
+Explicación: El número del atajo se corresponde con la posición de la entrada en la barra de navegación contada desde arriba; en el ejemplo, Accesos directos ocupa la 7ª posición, de ahí Ctrl+7.
+
+===========================================================
+37) [ID41411764]
+Pregunta: ¿Qué comando se debe escribir en el cuadro de búsqueda o en Ejecutar de Windows 10/11 para abrir Outlook 365 sin pasar por el Menú Inicio?
+a) correoutlook
+b) msoutlook
+c) outlook
+d) outlk365
+Respuesta_correcta: c
+Explicación: Escribiendo "outlook" en el cuadro Ejecutar o de búsqueda de Windows se abre la aplicación directamente.
+
+===========================================================
+38) [ID41411503]
+Pregunta: ¿En qué pestaña de la cinta de opciones de Outlook 365 se ubica el comando «Comprobar accesibilidad» al redactar un nuevo mensaje?
+a) Mensaje
+b) Insertar
+c) Revisar
+d) Opciones
+Respuesta_correcta: c
+Explicación: «Comprobar accesibilidad» se encuentra en la pestaña Revisar al redactar un nuevo mensaje.
+
+===========================================================
+39) [ID30580179]
+Pregunta: ¿Cuál de los siguientes iconos representa la función «Marcar todos como leídos» para aplicar dicha etiqueta a todos los elementos de correo de la carpeta actual?
+a) (icono con sobre y línea superior)
+b) (icono con sobre y check)
+c) (icono con sobre abierto en la pestaña Carpeta)
+d) (icono de carpeta)
+Respuesta_correcta: c
+Explicación: El icono correspondiente se ubica en la pestaña Carpeta, grupo Limpiar, bajo «Marcar todos como leídos».
+
+===========================================================
+40) [ID35399810]
+Pregunta: En Outlook 365, ¿cuál es el método abreviado para reenviar un correo?
+a) CTRL+U
+b) CTRL+A
+c) CTRL+R
+d) CTRL+F
+Respuesta_correcta: d
+Explicación: Ctrl+F reenvía (Forward) el mensaje seleccionado; Ctrl+R es Responder.
+
+===========================================================
+41) [ID30581232]
+Pregunta: ¿Cuál de los siguientes iconos representa el comando Reenviar, que permite redirigir un elemento a otros destinatarios?
+a) (icono de avión de papel)
+b) (icono flecha circular morada)
+c) (icono de flecha recta azul)
+d) (icono de flechas circulares verdes)
+Respuesta_correcta: c
+Explicación: El icono de flecha recta corresponde al comando Reenviar en la pestaña Inicio, grupo Responder.
+
+===========================================================
+42) [ID41431413]
+Pregunta: ¿Cuál es el atajo de teclado para crear un nuevo mensaje de correo únicamente desde la aplicación/módulo Correo de Outlook 365?
+a) Ctrl + U
+b) Alt + N
+c) Mayus + M
+d) Ctrl + Alt + U
+Respuesta_correcta: a (según clave ADAMS)
+Explicación: PENDIENTE DE VERIFICAR / POSIBLE ERROR: el atajo ampliamente documentado para crear un nuevo elemento del tipo correspondiente al módulo activo en Outlook es Ctrl+N (nuevo correo si se está en el módulo Correo), que no figura entre las opciones ofrecidas; el enunciado añade que Ctrl+Mayús+M crea un mensaje nuevo desde cualquier posición de Outlook, lo cual sí es correcto y coincide con lo documentado. Se mantiene la clave de ADAMS (Ctrl+U) sin modificarla, pero no ha sido posible confirmar con seguridad ese atajo concreto.
+
+===========================================================
+43) [ID42284509]
+Pregunta: En el comando "Limpiar" de la pestaña Inicio de Outlook, ¿qué opción no está disponible?
+a) Limpiar mensaje.
+b) Limpiar conversación.
+c) Limpiar carpeta.
+d) Limpiar carpeta y subcarpetas.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Limpiar conversación, Limpiar carpeta y Limpiar carpeta y subcarpetas; "Limpiar mensaje" no existe.
+
+===========================================================
+44) [ID30691889]
+Pregunta: ¿En qué pestaña de la cinta de opciones de la aplicación Correo de Outlook 365 se encuentra el icono de "Trabajar sin conexión" (globo con círculo rojo)?
+a) Mensaje.
+b) Enviar y recibir.
+c) Carpeta.
+d) Inicio.
+Respuesta_correcta: b
+Explicación: El icono de Trabajar sin conexión está en la pestaña Enviar y recibir.
+
+===========================================================
+45) [ID41411300]
+Pregunta: Al terminar de revisar los errores ortográficos/gramaticales de un correo tras ejecutar el Editor ortográfico y gramatical, ¿qué sucederá a continuación en Outlook 365?
+a) Se cerrará la ventana principal del correo electrónico y se mostrará una vista previa del correo antes de enviarlo.
+b) Aparecerá un cuadro de dialogo preguntando si se desea reanudar una segunda comprobación desde el principio del documento.
+c) Aparecerá un cuadro de diálogo confirmando que se ha terminado de revisar las sugerencias del editor.
+d) Aparecerá un cuadro de dialogo solicitando una evaluación del funcionamiento del corrector ortográfico.
+Respuesta_correcta: c
+Explicación: Aparece un cuadro de diálogo "Ha terminado de revisar las sugerencias del editor".
+
+===========================================================
+46) [ID42285206]
+Pregunta: En Outlook 365, ¿cuál de las siguientes no es una opción de "Bloquear"?
+a) Bloquear el dominio del remitente.
+b) Bloquear remitente.
+c) No bloquear al remitente nunca.
+d) No bloquear a este grupo o lista de distribución de correo nunca.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Bloquear remitente, No bloquear al remitente nunca, No bloquear nunca el dominio del remitente y No bloquear a este grupo o lista de distribución nunca; "Bloquear el dominio del remitente" (en positivo) no es una opción tal cual está redactada.
+
+===========================================================
+47) [ID41431848]
+Pregunta: Al imprimir un elemento de correo seleccionado en Outlook 365, ¿es posible conocer el número total de páginas que se imprimirán?
+a) Si, pero para acceder a esta información se necesita ir al apartado «Opciones de impresión»...
+b) Si, al acceder al comando Imprimir, en la vista previa se mostrará en la parte inferior de la ventana el número de página actual y el total de páginas.
+c) No, hasta que no se complete el proceso de impresión no se podrá conocer cuantas páginas serán necesarias...
+d) Ninguna respuesta es correcta.
+Respuesta_correcta: b
+Explicación: En la vista previa de impresión se muestra en la parte inferior el número de página actual y el total (p. ej. "1 de 3").
+
+===========================================================
+48) [ID41411706]
+Pregunta: El icono mostrado (silueta de dos personas) ¿a cuál de los Módulos/Aplicaciones se corresponde en Outlook 365?
+a) Módulo Correo
+b) Módulo Contactos
+c) Módulo Personas
+d) Modulo Tareas Compartidas
+Respuesta_correcta: c
+Explicación: Es el icono del módulo Personas.
+
+===========================================================
+49) [ID41620343]
+Pregunta: ¿Cuál es el atajo de teclado para crear nueva carpeta de búsqueda en Outlook 365?
+a) Mayus + S
+b) Ctrl + S
+c) Ctrl + Mayus + P
+d) Ctrl + Alt + P
+Respuesta_correcta: c
+Explicación: Ctrl+Mayús+P crea una nueva carpeta de búsqueda.
+
+===========================================================
+50) [ID30692005]
+Pregunta: ¿Cuál de los siguientes iconos de la aplicación de correo de Outlook 365 se corresponde con la función «Cancelar todo» en el proceso de descarga?
+a) (icono globo con aspa roja)
+b) (icono documento tachado)
+c) (icono flecha circular con aspa roja)
+d) (icono globo simple)
+Respuesta_correcta: c
+Explicación: El icono de flecha circular con aspa roja, en la pestaña Enviar y recibir, grupo Descargar, corresponde a «Cancelar todo».
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Outlook 365, no sobre citas legales.
+- Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR / POSIBLE ERROR, sin cambiar la clave:
+  · Pregunta 3 (ID41671922): atajo para abrir un mensaje recibido — la clave marca Ctrl+A, pero el atajo ampliamente documentado para "abrir elemento seleccionado" en Outlook es Ctrl+O (que no figura entre las opciones del enunciado).
+  · Pregunta 42 (ID41431413): atajo para crear un nuevo mensaje solo desde el módulo Correo — la clave marca Ctrl+U, pero el atajo ampliamente documentado para "nuevo elemento del módulo activo" es Ctrl+N (tampoco presente entre las opciones del enunciado).
+- El resto de las 50 preguntas —incluyendo atajos de teclado contrastados como Ctrl+O para "No leído" (pregunta 20) y Ctrl+F para "Reenviar" (pregunta 40), ambos coherentes con el comportamiento documentado de Outlook— no presentan discrepancias detectadas.
