@@ -1,0 +1,352 @@
+[
+  {
+    "id": "463446",
+    "texto": "La Constitución española establece que la potestad originaria para establecer tributos corresponde:",
+    "opciones": [
+      "a) Exclusivamente al Estado mediante Ley o Reglamento",
+      "b) Exclusivamente al Estado mediante Reglamento",
+      "c) Exclusivamente al Estado mediante Ley",
+      "d) Al Estado o a las CCAA mediante Ley"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 133.1 CE",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "25324",
+    "texto": "Si antes del día 1 de enero del ejercicio no se aprobaran los Presupuestos de la Comunidad:",
+    "opciones": [
+      "a) Se prorrogan automáticamente los del ejercicio anterior hasta la publicación de los nuevos en el BOCM",
+      "b) Ídem, salvo los créditos para planes/programas/actuaciones que deban terminar en el ejercicio cuyos presupuestos se prorrogan",
+      "c) Los gastos se imputan al ejercicio anterior",
+      "d) No se prevé la posibilidad de no aprobarlos antes del 1 de enero"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 72 Ley 5/2025 (Hacienda CAM)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463447",
+    "texto": "La clasificación que agrupa los créditos para gastos según las finalidades a realizar se denomina:",
+    "opciones": [
+      "a) Clasificación funcional",
+      "b) Orgánica",
+      "c) Económica",
+      "d) Territorial"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 61 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463441",
+    "texto": "Señala la incorrecta. Corresponde a los Órganos Superiores de Gobierno y Administración de la CAM:",
+    "opciones": [
+      "a) Administrar los créditos para gastos de los Presupuestos y sus modificaciones",
+      "b) Contraer obligaciones económicas dentro de las limitaciones de las leyes anuales de Presupuestos",
+      "c) Autorizar los gastos que no sean de la incumbencia del Gobierno de la Comunidad y elevar a su aprobación los que sean de su competencia",
+      "d) Proponer el pago de las obligaciones al Viceconsejero de Hacienda"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 17 Ley 5/2025",
+    "explicacion": "El pago se propone al titular de la Consejería competente en materia de hacienda, no específicamente al Viceconsejero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "2424647",
+    "texto": "Señale la incorrecta. Según el Reglamento de la Asamblea de Madrid, el Proyecto de Ley de Presupuestos:",
+    "opciones": [
+      "a) Se referirá al articulado, al estado de autorización de gastos y al estado de previsión de ingresos",
+      "b) Gozará de preferencia en la tramitación respecto a los demás trabajos de la Asamblea",
+      "c) Las disposiciones sobre su tramitación serán igualmente aplicables a los presupuestos de entes públicos cuya aprobación exija la Asamblea",
+      "d) Se tramitará por un procedimiento legislativo especial"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 158 Reglamento de la Asamblea de Madrid (7-feb-2019)",
+    "explicacion": "Se tramita por el procedimiento legislativo común, con especialidades — no por un procedimiento especial.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463455",
+    "texto": "La vigente ley de Hacienda de la Comunidad de Madrid es la Ley:",
+    "opciones": [
+      "a) Ley 9/1990, de 8 de noviembre, reguladora de la Hacienda de la CAM",
+      "b) Ley 9/1990, de 8 de noviembre, de la Hacienda de la CAM",
+      "c) Ley 5/2025, de 23 de diciembre, de Hacienda de la CAM",
+      "d) Ley 2/1993, de 18 de julio, de Hacienda de la CAM"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 5/2025, de 23 de diciembre",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "372",
+    "texto": "¿Qué clasificación agrupará los créditos según la naturaleza económica de los gastos?",
+    "opciones": [
+      "a) La orgánica",
+      "b) La económica",
+      "c) La funcional",
+      "d) La territorial"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 62 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "670",
+    "texto": "Los recursos de la Hacienda Pública estarán destinados a satisfacer el conjunto de sus obligaciones, salvo afectación legal para fines determinados, según el principio de:",
+    "opciones": [
+      "a) Correlación de ingresos y gastos",
+      "b) No compensación",
+      "c) Desafectación",
+      "d) Imputación de la transacción"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 28 Ley 5/2025 (Principio de no afectación)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "2424981",
+    "texto": "¿Qué artículo de la CE establece que la potestad originaria para establecer tributos corresponde exclusivamente al Estado?",
+    "opciones": [
+      "a) Art. 136",
+      "b) Art. 135",
+      "c) Art. 134",
+      "d) Art. 133"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 133 CE",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "661",
+    "texto": "La adquisición de títulos-valores se imputa, dentro del estado de gastos de los Presupuestos, al capítulo:",
+    "opciones": [
+      "a) 9",
+      "b) 8",
+      "c) 7",
+      "d) 6"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Capítulo 8 \"Activos financieros\"",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "25450",
+    "texto": "Los pagos efectuados por órganos de la CAM sin contrapartida directa por parte de los agentes perceptores se denominan:",
+    "opciones": [
+      "a) Gastos financieros",
+      "b) Gastos de capital",
+      "c) Transferencias",
+      "d) Gastos corrientes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Capítulo 4 \"Transferencias corrientes\"",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463448",
+    "texto": "Constituyen los recursos de la Hacienda Pública:",
+    "opciones": [
+      "a) Los recargos que establezca la Comunidad sobre impuestos municipales",
+      "b) Los tributos cedidos, total o parcialmente, por el Estado",
+      "c) La emisión de deuda y el producto de las operaciones de crédito",
+      "d) El producto de las multas y sanciones en el ámbito de su competencia"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 27 Ley 5/2025",
+    "explicacion": "El listado real habla de recargos sobre tributos del Estado (no sobre impuestos municipales); b, c y d sí figuran literalmente en el artículo, por lo que a) es la única formulación incorrecta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "25299",
+    "texto": "El proyecto de Presupuestos de la CAM se remitirá a la Asamblea antes del:",
+    "opciones": [
+      "a) 1 de octubre",
+      "b) 1 de noviembre",
+      "c) 1 de diciembre",
+      "d) Último trimestre del año"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 71 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463451",
+    "texto": "Los Presupuestos Generales de la CAM estarán integrados por:",
+    "opciones": [
+      "a) Los Presupuestos de la Administración de la Comunidad",
+      "b) Los Presupuestos de sus Organismos Autónomos administrativos y mercantiles",
+      "c) Las sociedades mercantiles",
+      "d) Todas las respuestas son correctas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 56 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "2424952",
+    "texto": "El ciclo presupuestario (indique la falsa):",
+    "opciones": [
+      "a) Es el conjunto de fases sucesivas por las que atraviesa un presupuesto",
+      "b) Dura aproximadamente tres años",
+      "c) Tiene cuatro fases: elaboración, aprobación, ejecución y control",
+      "d) Tiene una duración que coincide con el año natural"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Título II, Cap. II Ley 5/2025",
+    "explicacion": "El ciclo presupuestario dura un año (coincide con el año natural), no tres.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463440",
+    "texto": "Una vez ejecutado el Presupuesto de la CAM, se realiza el control a posteriori por:",
+    "opciones": [
+      "a) La Cámara de Cuentas, sin perjuicio de las competencias del Tribunal de Cuentas",
+      "b) La Intervención General de la Comunidad y la Asamblea",
+      "c) La Intervención General de la Comunidad",
+      "d) La Cámara de Cuentas y la Intervención General de la Comunidad"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 1 Ley 11/1999 (Cámara de Cuentas CAM)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "2424676",
+    "texto": "No es un principio rector de la política presupuestaria del sector público de la CAM (LO 2/2012):",
+    "opciones": [
+      "a) Estabilidad presupuestaria",
+      "b) Anualidad",
+      "c) Responsabilidad y lealtad institucional",
+      "d) Sostenibilidad financiera"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 50 Ley 5/2025",
+    "explicacion": "Los principios reales son: estabilidad presupuestaria, sostenibilidad financiera, plurianualidad, transparencia, eficiencia, responsabilidad y lealtad institucional. \"Anualidad\" no figura (sí \"plurianualidad\").",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463449",
+    "texto": "La estructura de los Presupuestos Generales de la CAM se determina:",
+    "opciones": [
+      "a) Por cada Consejero en lo que a él respecta",
+      "b) Por los órganos superiores del Gobierno y Administración de la Comunidad",
+      "c) Por el Gobierno de la Comunidad de Madrid",
+      "d) Por la Consejería competente en materia de hacienda"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 58 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463453",
+    "texto": "Elaborar y someter el anteproyecto de Ley de Presupuestos al Gobierno de la Comunidad para su aprobación es competencia de:",
+    "opciones": [
+      "a) El Consejero de Economía, Hacienda y Empleo",
+      "b) El Presidente de la Comunidad",
+      "c) El Gobierno de la Comunidad",
+      "d) El Director General de Presupuestos y Recursos Humanos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 16 Ley 5/2025",
+    "explicacion": "La competencia recae en el titular de la Consejería competente en materia de hacienda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463445",
+    "texto": "El contenido y aprobación de los Presupuestos se regula en la Ley de Hacienda de la CAM en su Título:",
+    "opciones": [
+      "a) I",
+      "b) II",
+      "c) III",
+      "d) IV"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Título II Ley 5/2025 (Del régimen presupuestario)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463442",
+    "texto": "El Título V de la Ley de la Hacienda de la CAM se dedica a:",
+    "opciones": [
+      "a) El régimen de la Hacienda Pública",
+      "b) Los Presupuestos",
+      "c) La Tesorería",
+      "d) La Contabilidad Pública"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Título V Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463452",
+    "texto": "El control financiero sobre los distintos sujetos del sector público, con el objeto de comprobar su actuación, se ejercerá por:",
+    "opciones": [
+      "a) La Consejería a la que estén adscritos",
+      "b) El régimen de contabilidad",
+      "c) La Cámara de Cuentas",
+      "d) Intervención General de la Comunidad de Madrid"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 22 Ley 5/2025",
+    "explicacion": "Quedan exceptuados de este control la Asamblea, la Cámara de Cuentas y las universidades públicas, que se rigen por su normativa propia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "373",
+    "texto": "¿Cómo se denomina el capítulo I de la clasificación económica de los gastos?",
+    "opciones": [
+      "a) Gastos financieros",
+      "b) Gastos corrientes en bienes y servicios",
+      "c) Transferencias corrientes",
+      "d) Gastos de personal"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 62.2 Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463443",
+    "texto": "\"De las operaciones financieras y los avales\" corresponde ¿a qué Título de la Ley de Hacienda de la CAM?",
+    "opciones": [
+      "a) III",
+      "b) IV",
+      "c) V",
+      "d) VI"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Título IV Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463444",
+    "texto": "Los presupuestos generales de la CAM constituyen la expresión cifrada, conjunta y sistemática de:",
+    "opciones": [
+      "a) Las obligaciones que, como máximo, pueden reconocer la Asamblea, la Cámara de Cuentas, la Administración, sus organismos autónomos y los entes de Derecho público de régimen especial, y los derechos que se prevean reconocer durante el ejercicio",
+      "b) Ídem \"como mínimo\" para obligaciones",
+      "c) Ídem \"como mínimo\" obligaciones y \"como máximo\" derechos",
+      "d) Obligaciones \"como máximo\" y derechos \"como máximo\""
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 55.1.a) Ley 5/2025",
+    "explicacion": "",
+    "requiere_imagen": false
+  }
+]

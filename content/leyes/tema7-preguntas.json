@@ -1,0 +1,352 @@
+[
+  {
+    "id": "tema7_01",
+    "texto": "Es admisible el recurso contencioso-administrativo:",
+    "opciones": [
+      "a) Contra actos expresos de la Administración Pública que pongan fin a la vía administrativa.",
+      "b) Contra actos expresos y presuntos de la Administración Públicas pongan o no fin a la vía administrativa.",
+      "c) Contra actos expresos y presuntos de la Administración Pública que pongan fin a la vía administrativa.",
+      "d) Contra actos expresos de la Administración Pública que pongan fin a la vía administrativa o presuntos pongan o no fin a la vía administrativa."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 25.1 Ley 29/1998 (LJCA)",
+    "explicacion": "El recurso contencioso-administrativo es admisible con los actos expresos y presuntos de la Administración pública que pongan fin a la vía administrativa (art. 25.1 LJCA).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_02",
+    "texto": "Se considera parte demandada en el procedimiento contencioso-administrativo:",
+    "opciones": [
+      "a) Las Administraciones Públicas.",
+      "b) El Ministerio Fiscal.",
+      "c) Las Asambleas Legislativas de las Comunidades Autónomas.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 21.1.a LJCA",
+    "explicacion": "Se considera parte demandada a las Administraciones públicas o cualesquiera de los órganos mencionados en el art. 1.3 contra cuya actividad se dirija el recurso (art. 21.1.a).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_03",
+    "texto": "Si la demanda no se hubiere presentado dentro del plazo:",
+    "opciones": [
+      "a) El Juzgado o Sala declarará, de oficio y por providencia, la caducidad del recurso.",
+      "b) No se admitirá el escrito de demanda si se presentare dentro del día en que se notifique la caducidad.",
+      "c) El Juzgado o Sala declarará, de oficio y por auto, la caducidad del recurso.",
+      "d) Se dictará auto de caducidad del recurso cuando así lo solicite la Administración demandada."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 52.2 LJCA",
+    "explicacion": "Si la demanda no se hubiere presentado dentro del plazo, el Juzgado o Sala, de oficio, declarará por auto la caducidad del recurso; no obstante, se admitirá el escrito de demanda si se presentare dentro del día en que se notifique el auto (art. 52.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_04",
+    "texto": "Regula la Jurisdicción Contencioso-Administrativa:",
+    "opciones": [
+      "a) La Ley 39/2015, de 1 de octubre.",
+      "b) La Ley 29/1998, de 13 de julio.",
+      "c) La ley 30/1992, de 26 de noviembre.",
+      "d) La Ley 40/2015, de 1 de octubre."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley 29/1998, de 13 de julio",
+    "explicacion": "La Jurisdicción Contencioso-Administrativa se regula en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_05",
+    "texto": "Jerárquicamente, la Sala de lo Contencioso-Administrativo de la Audiencia Nacional, respecto de los Juzgados Centrales de lo Contencioso-Administrativo, recogidos en la Ley reguladora de la Jurisdicción Contencioso-administrativa, es:",
+    "opciones": [
+      "a) Un órgano inferior.",
+      "b) Un órgano superior.",
+      "c) Son órganos con el mismo nivel, ya que no pertenecen a un mismo tribunal.",
+      "d) Todas las respuestas son incorrectas."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 6 LJCA",
+    "explicacion": "El orden jurisdiccional contencioso-administrativo se integra, de menor a mayor rango, por Juzgados de lo C-A, Juzgados Centrales de lo C-A, Salas de los TSJ, Sala de la Audiencia Nacional y Sala del Tribunal Supremo (art. 6); la Sala de la Audiencia Nacional es, por tanto, superior a los Juzgados Centrales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_06",
+    "texto": "Están legitimados ante el orden contencioso-administrativo, según el artículo 19 de la LJCA:",
+    "opciones": [
+      "a) Las personas físicas o jurídicas que ostenten un derecho legítimo.",
+      "b) Las personas físicas o jurídicas que ostenten un interés legítimo.",
+      "c) La Administración del Estado.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 19 LJCA",
+    "explicacion": "El art. 19 LJCA reconoce legitimación tanto a las personas físicas o jurídicas que ostenten un derecho o interés legítimo como a determinadas Administraciones públicas, entre ellas la Administración del Estado, frente a la actuación de otras Administraciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_07",
+    "texto": "Los Juzgados de lo Contencioso-Administrativo y, en su caso, los Juzgados Centrales de lo Contencioso-Administrativo de este Orden Jurisdiccional conocen, por el procedimiento abreviado, de los asuntos de su competencia que se susciten sobre:",
+    "opciones": [
+      "a) Cuestiones de personal al servicio de las Administraciones Públicas, sobre extranjería y sobre inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 30.000 euros.",
+      "b) Cuestiones de personal al servicio de las Administraciones Públicas, sobre extranjería y sobre inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 50.000 euros.",
+      "c) Cuestiones de personal al servicio de las Administraciones Públicas, sobre extranjería y sobre inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 20.000 euros.",
+      "d) Cuestiones de personal al servicio de las Administraciones Públicas, sobre extranjería y sobre inadmisión de peticiones de asilo político, asuntos de disciplina deportiva en materia de dopaje, así como todas aquellas cuya cuantía no supere los 10.000 euros."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 78.1 LJCA",
+    "explicacion": "Los Juzgados de lo Contencioso-Administrativo y, en su caso, los Juzgados Centrales, conocen por el procedimiento abreviado de las cuestiones de personal, extranjería, inadmisión de asilo político, disciplina deportiva en materia de dopaje y demás asuntos cuya cuantía no supere los 30.000 euros (art. 78.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_08",
+    "texto": "En el procedimiento contencioso-administrativo:",
+    "opciones": [
+      "a) Es preceptiva la presencia de abogado y procurador en todo caso.",
+      "b) Es preceptiva la presencia de procurador solo en los procedimientos ordinarios.",
+      "c) Es preceptiva la presencia de abogado y procurador ante los órganos colegiados.",
+      "d) En el procedimiento contencioso-administrativo no se requiere la presencia del procurador."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 23 LJCA",
+    "explicacion": "Ante órganos unipersonales, las partes podrán conferir su representación a un Procurador y serán asistidas en todo caso por Abogado; ante órganos colegiados, en cambio, las partes DEBERÁN conferir su representación a un Procurador y ser asistidas por Abogado (art. 23.1 y 23.2), es decir, ahí la presencia de ambos es preceptiva.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_09",
+    "texto": "Conocerá de los recursos de casación en materia contencioso-administrativa:",
+    "opciones": [
+      "a) La Sala I del Tribunal Supremo.",
+      "b) La Sala III del Tribunal Supremo.",
+      "c) La Sala de Apelación de la Audiencia Nacional.",
+      "d) Ninguna de las anteriores."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 12 LJCA",
+    "explicacion": "La Sala de lo Contencioso-administrativo del Tribunal Supremo (Sala III) conocerá, entre otros asuntos, de los recursos de casación de cualquier modalidad en materia contencioso-administrativa (art. 12.2.a).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_10",
+    "texto": "No son medios de terminación del procedimiento contencioso-administrativo:",
+    "opciones": [
+      "a) La sentencia.",
+      "b) El desistimiento.",
+      "c) El arbitraje.",
+      "d) El allanamiento."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Sección Novena LJCA — Otros modos de terminación del procedimiento",
+    "explicacion": "La LJCA regula como modos de terminación del procedimiento la sentencia, el desistimiento, el allanamiento y la satisfacción extraprocesal, pero no contempla el arbitraje como medio de terminación del proceso contencioso-administrativo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_11",
+    "texto": "Según prevé la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa, los Juzgados de lo Contencioso-administrativo conocerán, en única o primera instancia:",
+    "opciones": [
+      "a) Recursos contra actos de las entidades locales.",
+      "b) Recursos contra actos de las Comunidades Autónomas.",
+      "c) Recursos contra actos de las Juntas Electorales de Zona.",
+      "d) Todas las anteriores respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 8 LJCA",
+    "explicacion": "Los Juzgados de lo Contencioso-administrativo conocen, en única o primera instancia, de recursos contra actos de las entidades locales (art. 8.1), determinados actos de las Comunidades Autónomas (art. 8.2) y de las impugnaciones contra actos de las Juntas Electorales de Zona (art. 8.5).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_12",
+    "texto": "La resolución por la que se acuerde remitir el expediente se notificará en los cinco días siguientes a su adopción, a cuantos aparezcan interesados en él, emplazándoles para que puedan personarse como demandados en el plazo de:",
+    "opciones": [
+      "a) Otros cinco días.",
+      "b) Nueve días.",
+      "c) Veinte días.",
+      "d) Un mes."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 49.1 LJCA",
+    "explicacion": "La resolución por la que se acuerde remitir el expediente se notificará en los cinco días siguientes a su adopción, a cuantos aparezcan como interesados, emplazándoles para que puedan personarse como demandados en el plazo de nueve días (art. 49.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_13",
+    "texto": "Según establece la Ley reguladora de la jurisdicción contencioso-administrativa, señale cuál de las siguientes no es una competencia de la que deban conocer los Juzgados Centrales de lo Contencioso-Administrativo:",
+    "opciones": [
+      "a) En primera o única instancia, de los recursos contra las resoluciones dictadas por los Ministros y Secretarios de Estado en materia de responsabilidad patrimonial cuando lo reclamado no exceda de 30.050 euros.",
+      "b) En primera instancia, de las resoluciones que acuerden la inadmisión de las peticiones de asilo político.",
+      "c) En primera instancia, de las autorizaciones para la entrada y registro en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular.",
+      "d) En única o primera instancia, de las resoluciones que, en vía de fiscalización, sean dictadas por el Tribunal Administrativo del Deporte, en materia de disciplina deportiva."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Arts. 8 y 9 LJCA",
+    "explicacion": "Las autorizaciones para la entrada y registro en domicilios y restantes lugares cuyo acceso requiera el consentimiento de su titular corresponden a los Juzgados de lo Contencioso-Administrativo (territoriales, art. 8.6), no a los Juzgados Centrales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_14",
+    "texto": "El recurrente podrá desistir del recurso contencioso-administrativo:",
+    "opciones": [
+      "a) En cualquier momento anterior al período de prueba.",
+      "b) En cualquier momento anterior a la sentencia.",
+      "c) En cualquier momento del procedimiento.",
+      "d) No cabe el desistimiento como modo de terminación del proceso contencioso-administrativo."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 74.1 LJCA",
+    "explicacion": "El recurrente podrá desistir del recurso en cualquier momento anterior a la sentencia (art. 74.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_15",
+    "texto": "El recibimiento del pleito a prueba en el procedimiento contencioso-administrativo, se solicitará mediante:",
+    "opciones": [
+      "a) Conclusiones escritas.",
+      "b) Otrosí.",
+      "c) El escrito de contestación a la demanda.",
+      "d) No se puede solicitar prueba en los procedimientos contencioso-administrativos."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 60.1 LJCA",
+    "explicacion": "Solamente se podrá pedir el recibimiento del proceso a prueba por medio de otrosí, en los escritos de demanda y contestación y en los de alegaciones complementarias (art. 60.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_16",
+    "texto": "Los plazos para interponer el recurso contencioso-administrativo son:",
+    "opciones": [
+      "a) Como regla general, dos meses contados desde el día siguiente al de la publicación de la disposición impugnada o al de la notificación o publicación del acto que ponga fin a la vía administrativa, si fuera expreso.",
+      "b) Seis meses, en cualquier caso.",
+      "c) Seis meses, contados a partir del día siguiente al que, de acuerdo con su normativa específica, se produzca el acto presunto.",
+      "d) Las respuestas a) y c) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 46.1 LJCA",
+    "explicacion": "El plazo general es de dos meses desde la publicación o notificación del acto expreso; si el acto no fuera expreso, el plazo será de seis meses contados desde el día siguiente a aquel en que, según su normativa específica, se produzca el acto presunto (art. 46.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_17",
+    "texto": "Para interponer un recurso contencioso-administrativo contra actuaciones en vía de hecho, el interesado:",
+    "opciones": [
+      "a) Podrá formular recurso de súplica.",
+      "b) Deberá formular requerimiento a la Administración actuante, intimando su cesación.",
+      "c) Podrá formular requerimiento a la Administración actuante, intimando su cesación.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 30 LJCA",
+    "explicacion": "En caso de vía de hecho, el interesado PODRÁ (no es obligatorio) formular requerimiento a la Administración actuante, intimando su cesación; si no lo formula, o no es atendido en diez días, podrá deducir directamente el recurso contencioso-administrativo (art. 30).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_18",
+    "texto": "Se entenderá, a los efectos del objeto del recurso contencioso-administrativo, por Administraciones Públicas:",
+    "opciones": [
+      "a) La Administración General del Estado.",
+      "b) Las Administraciones de las Comunidades Autónomas.",
+      "c) Los Entes Locales.",
+      "d) Todas las anteriores respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 1.2 LJCA",
+    "explicacion": "A estos efectos se entiende por Administraciones públicas la Administración General del Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran la Administración local, y las Entidades de Derecho público dependientes o vinculadas a ellas (art. 1.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_19",
+    "texto": "Son impugnables mediante recurso contencioso-administrativo:",
+    "opciones": [
+      "a) Los actos administrativos presuntos.",
+      "b) La inactividad de la Administración.",
+      "c) Los actos expresos dictados por un órgano que tenga un superior jerárquico.",
+      "d) Las respuestas a) y b) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 25 LJCA",
+    "explicacion": "El recurso contencioso-administrativo es admisible contra los actos expresos y presuntos que pongan fin a la vía administrativa, así como contra la inactividad de la Administración y las actuaciones en vía de hecho (art. 25); un acto expreso de un órgano con superior jerárquico normalmente no agota la vía administrativa, por lo que c) no es correcta con carácter general.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_20",
+    "texto": "La solicitud de vista se formulará, en los procedimientos contencioso-administrativos:",
+    "opciones": [
+      "a) Oralmente, en el plazo de diez días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba.",
+      "b) Oralmente, en el plazo de cinco días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba.",
+      "c) Por escrito, en el plazo de diez días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba.",
+      "d) Por escrito, en el plazo de cinco días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 62.2 LJCA",
+    "explicacion": "La solicitud de vista se formulará por medio de otrosí en los escritos de demanda o contestación, o por escrito presentado en el plazo de cinco días contados desde que se notifique la diligencia de ordenación declarando concluso el período de prueba (art. 62.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_21",
+    "texto": "Según la LOPJ, en la Villa de Madrid existirá un Tribunal Central de Instancia con jurisdicción:",
+    "opciones": [
+      "a) En cada provincia.",
+      "b) En cada Comunidad Autónoma.",
+      "c) En todo el territorio nacional.",
+      "d) En cada partido judicial."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 95 LOPJ",
+    "explicacion": "En la Villa de Madrid y con jurisdicción en todo el territorio nacional existirá un Tribunal Central de Instancia, que contará entre sus Secciones con la de lo Contencioso-Administrativo (art. 95 LOPJ).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_22",
+    "texto": "No es motivo de inadmisión del recurso contencioso-administrativo:",
+    "opciones": [
+      "a) La falta de emplazamiento de alguno de los interesados en su domicilio.",
+      "b) La falta de jurisdicción o de competencia del Juzgado o Tribunal.",
+      "c) La falta de legitimación del recurrente.",
+      "d) Todas son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 51.1 LJCA",
+    "explicacion": "El art. 51.1 LJCA recoge como motivos de inadmisión la falta de jurisdicción o competencia, la falta de legitimación del recurrente, haberse interpuesto contra actividad no susceptible de impugnación y haber caducado el plazo de interposición; la falta de emplazamiento de un interesado en su domicilio no figura entre ellos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_23",
+    "texto": "La representación y defensa de la Administración estatal se encomienda al:",
+    "opciones": [
+      "a) Ministerio Fiscal.",
+      "b) Abogado del Estado, en todo caso.",
+      "c) Abogado del Estado, los Letrados de la Administración de la Seguridad Social y los Letrados de las Cortes Generales, según el caso.",
+      "d) Ninguno de los anteriores."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 24 LJCA y Ley de Asistencia Jurídica al Estado e Instituciones Públicas",
+    "explicacion": "La representación y defensa de las Administraciones públicas y de los órganos constitucionales se rige por la LOPJ y por la Ley de Asistencia Jurídica al Estado e Instituciones Públicas (art. 24 LJCA), que atribuye esta función, según el organismo de que se trate, al Abogado del Estado, a los Letrados de la Administración de la Seguridad Social o a los Letrados de las Cortes Generales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_24",
+    "texto": "Transcurridos dos meses a partir de la comunicación de la sentencia o el plazo fijado en ésta para el cumplimiento del fallo:",
+    "opciones": [
+      "a) Cualquiera de las partes podrá interponer recurso de amparo ante el Tribunal Constitucional.",
+      "b) Cualquiera de las partes podrá instar su ejecución forzosa.",
+      "c) La parte a favor de la cual se haya estimado la demanda, podrá instar su ejecución forzosa.",
+      "d) No procede instar el cumplimiento de las sentencias ya que éstas son inmediatamente ejecutivas."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 104.2 LJCA",
+    "explicacion": "Transcurridos dos meses a partir de la comunicación de la sentencia o el plazo fijado en ésta para el cumplimiento del fallo, cualquiera de las partes y personas afectadas podrá instar su ejecución forzosa (art. 104.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema7_25",
+    "texto": "Establece la Ley reguladora de la Jurisdicción Contencioso-administrativa, que la sentencia se dictará en el plazo de:",
+    "opciones": [
+      "a) Un mes, desde la celebración de la vista.",
+      "b) Un mes, desde la notificación de la terminación del proceso.",
+      "c) Diez días, desde la celebración de la vista.",
+      "d) Diez días, desde que el pleito haya sido declarado concluso."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 67.1 LJCA",
+    "explicacion": "La sentencia se dictará en el plazo de diez días desde que el pleito haya sido declarado concluso y decidirá todas las cuestiones controvertidas en el proceso (art. 67.1).",
+    "requiere_imagen": false
+  }
+]

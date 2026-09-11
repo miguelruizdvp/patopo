@@ -1,0 +1,702 @@
+[
+  {
+    "id": "tema1-p1",
+    "texto": "De acuerdo con la Constitución española, el Estado podrá concertar tratados de doble nacionalidad:",
+    "opciones": [
+      "a) Con los países iberoamericanos y con los miembros de la Unión Europea.",
+      "b) Con aquellos países que hayan tenido tengan una particular vinculación con España.",
+      "c) Con todos los que permitan la naturalización de los españoles sin que ello suponga perder la nacionalidad de origen.",
+      "d) Únicamente con los países iberoamericanos."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 11.3 CE",
+    "explicacion": "El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p2",
+    "texto": "¿Qué asociaciones son declaradas ilegales por la Constitución española?:",
+    "opciones": [
+      "a) Las que no se inscriban en un registro de asociaciones.",
+      "b) Las asociaciones secretas y las de carácter paramilitar.",
+      "c) Las que persigan fines o utilicen medios tipificados como delito.",
+      "d) Las que se constituyan sin autorización previa."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 22.2 CE",
+    "explicacion": "Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales. (El art. 22.5 prohíbe además las asociaciones secretas y las de carácter paramilitar, pero la pregunta pide la declaración general de ilegalidad).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p3",
+    "texto": "No se garantiza a través de un procedimiento preferente y sumario el derecho a:",
+    "opciones": [
+      "a) La educación.",
+      "b) La inviolabilidad del domicilio.",
+      "c) El derecho a contraer matrimonio.",
+      "d) Todos estos derechos se tutelan ante los Tribunales ordinarios a través de un procedimiento preferente y sumario."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 53.2 CE",
+    "explicacion": "El procedimiento preferente y sumario ante los Tribunales ordinarios protege los derechos del art. 14 y la Sección 1ª del Capítulo II del Título I (entre ellos educación e inviolabilidad del domicilio); el derecho a contraer matrimonio (art. 32) no está en esa sección.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p4",
+    "texto": "No es una garantía de los derechos y libertades que reconoce la Constitución en el Capítulo IV del Título I:",
+    "opciones": [
+      "a) El recurso de amparo ante el Tribunal Constitucional por violación del artículo 14, los derechos de la Sección 1ª del Capítulo II del Título I y el artículo 30.2.",
+      "b) El Defensor del Pueblo, para la protección de los derechos comprendidos en el Título I de la Constitución.",
+      "c) El procedimiento preferente y sumario reconocido en el artículo 53.2 de la Constitución.",
+      "d) Las Fuerzas Armadas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Capítulo IV del Título I CE (\"De las garantías de las libertades y derechos fundamentales\")",
+    "explicacion": "Las Fuerzas Armadas (art. 8) no son una garantía de derechos fundamentales; pertenecen al Título Preliminar.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p5",
+    "texto": "El artículo 20 de la Constitución española reconoce y protege:",
+    "opciones": [
+      "a) La libertad ideológica.",
+      "b) La libertad de culto.",
+      "c) La libertad de expresión.",
+      "d) Reconoce y protege todos ellos."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 20 CE",
+    "explicacion": "El art. 20 reconoce y protege el derecho a expresar y difundir libremente pensamientos, ideas y opiniones; la producción y creación literaria, artística, científica y técnica; la libertad de cátedra; y a comunicar o recibir libremente información veraz. La libertad ideológica está en el art. 16 y la libertad religiosa/de culto también en el art. 16, no en el art. 20.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p6",
+    "texto": "Según la Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo:",
+    "opciones": [
+      "a) El Defensor del Pueblo cesa exclusivamente por renuncia, expiración de su mandato y fallecimiento.",
+      "b) El Defensor del Pueblo puede concluir su acción investigadora con la emisión de una advertencia.",
+      "c) El Defensor del Pueblo puede recibir quejas que las autoridades administraciones presenten en asuntos de su competencia.",
+      "d) Los Poderes Públicos pueden negarse a auxiliar con carácter preferente y urgente al Defensor del Pueblo en sus investigaciones."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 30 LO 3/1981, del Defensor del Pueblo",
+    "explicacion": "El Defensor del Pueblo, con ocasión de sus investigaciones, podrá formular a las autoridades y funcionarios advertencias, recomendaciones, recordatorios de deberes legales y sugerencias para nuevas medidas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p7",
+    "texto": "El recurso de inconstitucionalidad no procederá contra:",
+    "opciones": [
+      "a) Un Real Decreto-Ley.",
+      "b) El Reglamento de la Asamblea Legislativa de una Comunidad Autónoma.",
+      "c) Una Ley orgánica.",
+      "d) Todas las normas citadas admiten el recurso de inconstitucionalidad."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 161.1.a) CE",
+    "explicacion": "El Tribunal Constitucional es competente para conocer del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de Ley; las tres normas citadas admiten el recurso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p8",
+    "texto": "Las asociaciones constituidas en ejercicio del derecho de asociación reconocido por la Constitución deben:",
+    "opciones": [
+      "a) Ser legalizadas en virtud de resolución judicial.",
+      "b) Iniciar sus actividades cuando obtengan la pertinente autorización administrativa.",
+      "c) Inscribirse en un registro a los solos efectos de publicidad.",
+      "d) Precisar de una autorización previa cuando pretendan tener carácter secreto."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 22.3 CE",
+    "explicacion": "Las asociaciones constituidas al amparo del art. 22 deberán inscribirse en un registro a los solos efectos de publicidad (no de autorización).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p9",
+    "texto": "De acuerdo con el artículo 116 de la Constitución española, el estado de excepción será declarado por:",
+    "opciones": [
+      "a) El Gobierno, dando cuenta al Congreso de los Diputados.",
+      "b) El Congreso de los Diputados, a propuesta exclusiva del Gobierno.",
+      "c) El Gobierno, previa autorización del Congreso de los Diputados.",
+      "d) El Congreso de los Diputados, por mayoría absoluta de sus miembros."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 116.3 CE",
+    "explicacion": "El estado de excepción será declarado por el Gobierno mediante decreto acordado en Consejo de Ministros, previa autorización del Congreso de los Diputados, por un plazo máximo de 30 días prorrogables por otro plazo igual.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p10",
+    "texto": "La Constitución Española se fundamenta:",
+    "opciones": [
+      "a) En la unidad de la Nación española.",
+      "b) En el compromiso de unidad de todos los pueblos y nacionalidades integrantes de la Nación española.",
+      "c) En la indisoluble unidad de la nación española.",
+      "d) En la pluralidad de pueblos integrantes de la Nación española."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 2 CE",
+    "explicacion": "La Constitución se fundamenta en la indisoluble unidad de la Nación Española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p11",
+    "texto": "Las quejas que se presenten ante el Defensor del Pueblo irán firmadas por el interesado en escrito razonado en el plazo de:",
+    "opciones": [
+      "a) Un año desde su notificación.",
+      "b) Un año desde su publicación.",
+      "c) Un año, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.",
+      "d) a) y b) son correctas en función del hecho objeto de la misma."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 15.1 LO 3/1981, del Defensor del Pueblo",
+    "explicacion": "Toda queja se presentará firmada por el interesado, en escrito razonado y en el plazo máximo de un año, contado a partir del momento en que tuviera conocimiento de los hechos objeto de la misma.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p12",
+    "texto": "Los miembros del Tribunal Constitucional habrán de ser elegidos de entre:",
+    "opciones": [
+      "a) Jueces.",
+      "b) Funcionarios de la Administración de Justicia.",
+      "c) Abogados.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 159.2 CE",
+    "explicacion": "Los miembros del Tribunal Constitucional deberán ser nombrados entre Magistrados y Fiscales, Profesores de Universidad, funcionarios públicos y Abogados, todos ellos juristas de reconocida competencia con más de quince años de ejercicio profesional.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p13",
+    "texto": "Las normas relativas a los derechos fundamentales y a las libertades que reconoce la Constitución, se interpretarán de conformidad con:",
+    "opciones": [
+      "a) La Declaración Universal de los Derechos Humanos.",
+      "b) La jurisprudencia del Tribunal Constitucional y del Tribunal Supremo.",
+      "c) Los Tratados y Acuerdos Internacionales sobre estas materias ratificados por España.",
+      "d) a) y c) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 10.2 CE",
+    "explicacion": "Las normas relativas a los derechos fundamentales y a las libertades se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p14",
+    "texto": "De acuerdo con el artículo 167 de la Constitución española:",
+    "opciones": [
+      "a) La iniciativa para la reforma constitucional corresponde exclusivamente al Gobierno, al Congreso de los Diputados o al Senado.",
+      "b) El proyecto de reforma deberá ser aprobado en todo caso por mayoría de 3/5 en cada Cámara.",
+      "c) De no existir acuerdo entre las Cámaras, el proyecto será aprobado por mayoría de 2/3 en el Congreso de los Diputados.",
+      "d) Aprobada la reforma, será sometida a referéndum para su ratificación cuando lo soliciten, dentro de los quince días siguientes, la décima parte de los miembros de cualquiera de las Cámaras."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 167 CE",
+    "explicacion": "Aprobada la reforma por las Cortes Generales, será sometida a referéndum para su ratificación cuando así lo soliciten, dentro de los quince días siguientes a su aprobación, una décima parte de los miembros de cualquiera de las Cámaras.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p15",
+    "texto": "¿Cuál de las siguientes no es impugnable por la vía de conflicto en defensa de la autonomía local, ante el Tribunal Constitucional?:",
+    "opciones": [
+      "a) Leyes y disposiciones con fuerza de Ley emanadas del Estado que vulneran la autonomía local.",
+      "b) Leyes y disposiciones con fuerza de Ley emanadas de las Comunidades Autónomas que vulneran la autonomía local.",
+      "c) Leyes y disposiciones con fuerza de Ley emanadas de las Provincias que vulneran la Autonomía Local.",
+      "d) Todas ellas son impugnables."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 75 bis LO 2/1979, del Tribunal Constitucional",
+    "explicacion": "Podrán dar lugar al conflicto en defensa de la autonomía local las normas del Estado con rango de Ley o las disposiciones con rango de Ley de las Comunidades Autónomas que lesionen la autonomía local; las Provincias no dictan normas con rango de Ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p16",
+    "texto": "Garantizar la soberanía e independencia de España y defender su integridad territorial, es función que corresponde a:",
+    "opciones": [
+      "a) Las Cortes Generales.",
+      "b) Las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "c) Las Fuerzas Armadas.",
+      "d) El Gobierno."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 8.1 CE",
+    "explicacion": "Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p17",
+    "texto": "Los valores superiores del ordenamiento jurídico propugnados desde nuestra Constitución son:",
+    "opciones": [
+      "a) La libertad, la justicia y la libre competencia.",
+      "b) La libertad, la igualdad y el pluralismo político y sindical.",
+      "c) La libertad, la justicia, la igualdad y el pluralismo político.",
+      "d) La libertad, la igualdad y la fraternidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 1.1 CE",
+    "explicacion": "España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p18",
+    "texto": "La Constitución Española no garantiza en su artículo 9:",
+    "opciones": [
+      "a) La irretroactividad de las normas sancionadoras desfavorables.",
+      "b) La arbitrariedad de los poderes públicos.",
+      "c) El principio de legalidad.",
+      "d) La publicidad de las normas."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 9.3 CE",
+    "explicacion": "La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables, la seguridad jurídica, la responsabilidad y la INTERDICCIÓN (no la arbitrariedad) de los poderes públicos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p19",
+    "texto": "El Título Preliminar de la Constitución determina que:",
+    "opciones": [
+      "a) Los valores superiores del ordenamiento jurídico son la libertad, la democracia y la igualdad.",
+      "b) La soberanía popular reside en la Nación española.",
+      "c) España se constituye en un Estado plural y democrático.",
+      "d) La forma política del Estado español es la Monarquía parlamentaria."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 1.3 CE",
+    "explicacion": "La forma política del Estado español es la Monarquía parlamentaria (art. 1.3). La soberanía nacional reside en el pueblo español (no \"soberanía popular... Nación\"), y España se constituye en Estado social y democrático de Derecho.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p20",
+    "texto": "¿Qué artículo de la Constitución española ha sido reformado?",
+    "opciones": [
+      "a) El artículo 49.",
+      "b) El artículo 136.",
+      "c) El artículo 47.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 49 CE (reformado)",
+    "explicacion": "El artículo 49 (personas con discapacidad) fue reformado. (Nota: la Constitución ha tenido dos reformas históricas, en los artículos 13.2 y 135; conviene revisar la información actualizada sobre reformas constitucionales).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p21",
+    "texto": "Vinculan a todos los poderes públicos:",
+    "opciones": [
+      "a) El derecho a la vida.",
+      "b) El derecho al trabajo.",
+      "c) El derecho al matrimonio.",
+      "d) Todos ellos por estar comprendidos en el Capítulo Segundo del Título I de la Constitución."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 53.1 CE",
+    "explicacion": "Los derechos y libertades reconocidos en el Capítulo segundo del Título I (que incluye vida, trabajo y matrimonio) vinculan a todos los poderes públicos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p22",
+    "texto": "¿Cuál de las siguientes incompatibilidades no se establece en la Constitución en relación con los miembros del Tribunal Constitucional?:",
+    "opciones": [
+      "a) Ejercicio de las carreras judicial y fiscal.",
+      "b) Todo mandato representativo.",
+      "c) Cargos políticos y administrativos.",
+      "d) Desempeño de funciones administrativas en un partido político o un sindicato, así como la militancia en los mismos."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 159.4 CE",
+    "explicacion": "La incompatibilidad constitucional es con el desempeño de funciones DIRECTIVAS (no administrativas) en un partido político o sindicato y con el empleo al servicio de los mismos; no se establece incompatibilidad por mera militancia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p23",
+    "texto": "Según la Constitución española, el ejercicio del derecho de sindicación por las Fuerzas o Institutos Armados y demás Cuerpos sometidos a disciplina militar:",
+    "opciones": [
+      "a) Está prohibido.",
+      "b) No podrá exceptuarse pero sí limitarse por ley.",
+      "c) Podrá limitarse o exceptuarse por ley.",
+      "d) Se ajustará a las peculiaridades que para su ejercicio establezca la ley."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 28.1 CE",
+    "explicacion": "La Ley podrá limitar o exceptuar el ejercicio del derecho de sindicación a las Fuerzas o Institutos armados o a los demás Cuerpos sometidos a disciplina militar (para los funcionarios públicos en general, la ley regula las peculiaridades de su ejercicio, que es la opción d, aplicable a otra pregunta distinta).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p24",
+    "texto": "Según la Constitución española, el control de los medios de comunicación social dependientes del Estado:",
+    "opciones": [
+      "a) Corresponde exclusivamente al Gobierno.",
+      "b) Se ejercerá por los Tribunales de Justicia.",
+      "c) Tendrá carácter parlamentario.",
+      "d) Se ejercerá por sus propios órganos de Administración."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 20.3 CE",
+    "explicacion": "La ley regulará la organización y el CONTROL PARLAMENTARIO de los medios de comunicación social dependientes del Estado o de cualquier ente público.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p25",
+    "texto": "Según la Constitución española, el plazo máximo de la prisión provisional es de:",
+    "opciones": [
+      "a) No se establece.",
+      "b) 72 horas.",
+      "c) 72 horas, susceptible de ser ampliado 48 horas más en aplicación del artículo 55 de la Constitución española.",
+      "d) B) y c) son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 17.4 CE",
+    "explicacion": "La Constitución no fija el plazo máximo de la prisión provisional; remite a la Ley para que lo determine (\"por Ley se determinará el plazo máximo de duración de la prisión provisional\"). Las 72 horas corresponden a la detención preventiva (art. 17.2), no a la prisión provisional.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p26",
+    "texto": "Según el artículo 17.2 de la Constitución española, la detención preventiva:",
+    "opciones": [
+      "a) No podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos.",
+      "b) Durará 72 horas.",
+      "c) Durará tres días.",
+      "d) No se establece dicho plazo en la Constitución."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 17.2 CE",
+    "explicacion": "La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p27",
+    "texto": "¿Cuál es la Ley que regula el Tribunal Constitucional?:",
+    "opciones": [
+      "a) Ley 4/1981, de 1 de junio.",
+      "b) Ley 5/1985, de 19 de junio.",
+      "c) Ley Orgánica 3/1981, de 6 de abril.",
+      "d) Ley Orgánica 2/1979, de 3 de octubre."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "LO 2/1979, de 3 de octubre, del Tribunal Constitucional",
+    "explicacion": "El Tribunal Constitucional se regula por la Ley Orgánica 2/1979, de 3 de octubre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p28",
+    "texto": "¿Cuál de las siguientes reformas de la Constitución provocaría la inmediata disolución de las Cortes, previa aprobación por mayoría de dos tercios de cada Cámara?:",
+    "opciones": [
+      "a) La supresión de la abolición de la pena de muerte.",
+      "b) La regulación de la extradición.",
+      "c) La supresión de la objeción de conciencia.",
+      "d) Los principios inspiradores del sistema tributario."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 168.1 CE",
+    "explicacion": "Cuando se propusiere la revisión total de la Constitución o una parcial que afecte al Título preliminar, al Capítulo segundo, Sección primera del Título I (donde está la abolición de la pena de muerte, art. 15), o al Título II, se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara y a la disolución inmediata de las Cortes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p29",
+    "texto": "Uno de los siguientes principios no está garantizado por la Constitución:",
+    "opciones": [
+      "a) El de jerarquía reglamentaria.",
+      "b) El de publicidad de las normas.",
+      "c) El de seguridad jurídica.",
+      "d) Todos están garantizados por la Constitución."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 9.3 CE",
+    "explicacion": "El art. 9.3 garantiza la jerarquía NORMATIVA (no \"reglamentaria\"), la publicidad de las normas, la seguridad jurídica, entre otros principios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p30",
+    "texto": "¿Cuántas reformas ha tenido la Constitución española?:",
+    "opciones": [
+      "a) Ninguna.",
+      "b) Una.",
+      "c) Dos.",
+      "d) Tres."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Reformas constitucionales (art. 13.2 en 1992 y art. 135 en 2011)",
+    "explicacion": "Nota: conviene verificar si a la fecha de estudio se ha producido alguna reforma adicional (por ejemplo, el art. 49 mencionado en otra pregunta de este banco), ya que el número de reformas puede haber cambiado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p31",
+    "texto": "El Presidente del Tribunal Constitucional será nombrado por el Rey:",
+    "opciones": [
+      "a) A propuesta del Tribunal en Pleno, entre juristas de reconocida competencia con más de quince años de ejercicio profesional.",
+      "b) Entre Jueces y Magistrados en activo, a propuesta del propio Tribunal.",
+      "c) A propuesta del Congreso de los Diputados, por mayoría de tres quintos de sus miembros.",
+      "d) Entre sus miembros, a propuesta del mismo Tribunal en Pleno y por un periodo de tres años."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 160 CE",
+    "explicacion": "El Presidente del Tribunal Constitucional será nombrado por el Rey de entre sus miembros, a propuesta del mismo en Pleno y por un período de tres años.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p32",
+    "texto": "Mediante el procedimiento de \"habeas corpus\" se obtiene:",
+    "opciones": [
+      "a) La inmediata libertad condicional de un detenido.",
+      "b) La inmediata libertad del detenido ilegalmente.",
+      "c) La inmediata puesta a disposición judicial de la persona detenida ilegalmente.",
+      "d) La puesta a disposición judicial de los detenidos por delitos políticos."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 17.4 CE",
+    "explicacion": "La Ley regulará un procedimiento de \"habeas corpus\" para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p33",
+    "texto": "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos:",
+    "opciones": [
+      "a) El derecho y el deber al trabajo.",
+      "b) El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "c) El derecho de constituir fundaciones.",
+      "d) La protección social, económica y jurídica de la familia."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 53.3 CE",
+    "explicacion": "Los principios reconocidos en el Capítulo tercero del Título I (donde está la protección de la familia, art. 39) informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p34",
+    "texto": "Con arreglo a la Constitución, el ejercicio del derecho de sindicación de los funcionarios públicos:",
+    "opciones": [
+      "a) Podrá exceptuarse o limitarse por ley.",
+      "b) Se llevará a cabo en los mismos términos que los miembros de las Fuerzas Armadas y demás Cuerpos sometidos a disciplina militar.",
+      "c) Estará sujeto a unas peculiaridades que se regularán por Ley.",
+      "d) Se reconoce en idénticos términos que a los trabajadores por cuenta ajena."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 28.1 CE",
+    "explicacion": "La Ley regulará las peculiaridades del ejercicio del derecho de sindicación para los funcionarios públicos (distinto del régimen de las Fuerzas o Institutos armados, a quienes sí se les puede limitar o exceptuar).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p35",
+    "texto": "La regulación de la suspensión de los derechos fundamentales se incluye en el texto constitucional en el:",
+    "opciones": [
+      "a) Capítulo III del Título I de la Constitución española.",
+      "b) Capítulo IV del Título I de la Constitución española.",
+      "c) Capítulo V del Título I de la Constitución española.",
+      "d) Capítulo I del Título I de la Constitución española."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Capítulo V del Título I CE",
+    "explicacion": "El Capítulo V del Título I se titula \"De la suspensión de los derechos y las libertades\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p36",
+    "texto": "La Constitución prohíbe los Tribunales de Honor:",
+    "opciones": [
+      "a) En todas las Administraciones Públicas.",
+      "b) En el ámbito de la Administración Civil y de las organizaciones profesionales.",
+      "c) Exclusivamente en el ámbito de la Administración de Justicia.",
+      "d) En la Administración Civil del Estado, así como en la militar."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 26 CE",
+    "explicacion": "Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y de las organizaciones profesionales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p37",
+    "texto": "La declaración de los estados de alarma, excepción y sitio supondrá:",
+    "opciones": [
+      "a) La disolución del Congreso y el cese del Gobierno.",
+      "b) La disolución del Congreso y del Senado.",
+      "c) La imposibilidad de disolver el Congreso mientras dure la declaración.",
+      "d) El planteamiento de la cuestión de confianza."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 116.5 CE",
+    "explicacion": "No podrá procederse a la disolución del Congreso mientras estén declarados algunos de los estados de alarma, excepción o sitio, quedando automáticamente convocadas las Cámaras si no estuvieren en período de sesiones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p38",
+    "texto": "El Congreso es competente para autorizar:",
+    "opciones": [
+      "a) La declaración del estado de alarma.",
+      "b) La declaración y prórroga del estado de excepción.",
+      "c) La prórroga del estado de alarma.",
+      "d) Las respuestas b) y c) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 116.2 y 116.3 CE",
+    "explicacion": "El Congreso autoriza la prórroga del estado de alarma (dando cuenta el Gobierno) y autoriza la declaración y prórroga del estado de excepción.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p39",
+    "texto": "La Constitución española de 1978 recoge los derechos fundamentales y las libertades públicas:",
+    "opciones": [
+      "a) En el Capítulo Segundo, Sección 1ª del Título I.",
+      "b) En la Sección 2ª del Capítulo Segundo del Título I.",
+      "c) En el Título I, Capítulo Primero, Sección 1ª.",
+      "d) En el Título I, Capítulo Primero, Sección 2ª."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Sección 1ª del Capítulo II del Título I CE",
+    "explicacion": "La Sección primera del Capítulo Segundo del Título I se titula \"De los derechos fundamentales y de las libertades públicas\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p40",
+    "texto": "La decisión sobre la admisibilidad o inadmisibilidad de los recursos ante el Tribunal Constitucional, corresponde a:",
+    "opciones": [
+      "a) El Pleno del Tribunal.",
+      "b) La respectiva Sala del Tribunal.",
+      "c) Las Secciones del Tribunal.",
+      "d) La respectiva Sala, pudiendo delegar en la Sección correspondiente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 8 LO 2/1979, del Tribunal Constitucional",
+    "explicacion": "Para el despacho ordinario y la decisión sobre la admisibilidad o inadmisibilidad de procesos constitucionales, el Pleno y las Salas constituirán Secciones compuestas por el respectivo Presidente y dos Magistrados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p41",
+    "texto": "De acuerdo con el artículo 53.1 de la Constitución, señale el derecho o libertad pública que podrá regularse solo por ley:",
+    "opciones": [
+      "a) El derecho a la protección de la salud.",
+      "b) El derecho al acceso a la cultura.",
+      "c) El derecho a la negociación colectiva laboral.",
+      "d) El derecho a una vivienda digna y adecuada."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 53.1 CE",
+    "explicacion": "El art. 53.1 exige regulación por Ley para los derechos y libertades del Capítulo segundo del Título I, donde se encuentra la negociación colectiva laboral (art. 37); salud, cultura y vivienda son principios rectores del Capítulo tercero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p42",
+    "texto": "Presentada una queja ante el Defensor del Pueblo acusará recibo de la misma:",
+    "opciones": [
+      "a) Pudiendo rechazar las anónimas.",
+      "b) Pudiendo rechazar en las que se aprecie mala fe.",
+      "c) Rechazando en la que se aprecie inexistencia de la pretensión.",
+      "d) Las respuestas a) y b) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 17.3 LO 3/1981, del Defensor del Pueblo",
+    "explicacion": "El Defensor del Pueblo rechazará las quejas anónimas y podrá rechazar aquellas en las que advierta mala fe, carencia de fundamento, inexistencia de pretensión, o cuya tramitación irrogue perjuicio a tercero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p43",
+    "texto": "¿Por qué mayoría sería designado el Defensor del Pueblo cuando deban tramitarse sucesivas propuestas al no haberse alcanzado la mayoría exigida en la primera votación?:",
+    "opciones": [
+      "a) Mayoría absoluta en cada Cámara.",
+      "b) Mayoría de tres quintos en cada Cámara.",
+      "c) Mayoría de tres quintos en el Congreso de los Diputados, siendo suficiente mayoría absoluta en el Senado.",
+      "d) Mayoría absoluta en el Congreso de los Diputados y simple en el Senado."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 2.5 LO 3/1981, del Defensor del Pueblo",
+    "explicacion": "En caso de no alcanzarse las mayorías exigidas, se formularán sucesivas propuestas; una vez conseguida la mayoría de tres quintos en el Congreso, la designación quedará realizada al alcanzarse la mayoría absoluta del Senado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p44",
+    "texto": "¿Cuál de los siguientes no es un principio general de actuación de la Administración regulado en el artículo 103 de la Constitución?:",
+    "opciones": [
+      "a) Eficacia.",
+      "b) Descentralización.",
+      "c) Delegación.",
+      "d) Coordinación."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 103.1 CE",
+    "explicacion": "La Administración Pública actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación; la delegación no figura entre ellos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p45",
+    "texto": "Según lo establecido en la Constitución española, el principio de jerarquía normativa:",
+    "opciones": [
+      "a) Se reconoce como derecho fundamental en su Título I.",
+      "b) Es un principio rector de la Política Social.",
+      "c) Se garantiza en su Título Preliminar.",
+      "d) Aparece enunciado en su Título III, relativo a las Cortes Generales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 9.3 CE (Título Preliminar)",
+    "explicacion": "El art. 9.3, que garantiza la jerarquía normativa, se ubica en el Título Preliminar de la Constitución.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p46",
+    "texto": "La Constitución reconoce el derecho a adoptar medidas de conflicto colectivo:",
+    "opciones": [
+      "a) Únicamente a los trabajadores por cuenta ajena.",
+      "b) Solo a los trabajadores.",
+      "c) A los trabajadores y empresarios.",
+      "d) Sólo a los empresarios."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 37.2 CE",
+    "explicacion": "Se reconoce el derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p47",
+    "texto": "Cuando se propusiere la revisión total de la Constitución, se procederá a la aprobación del principio:",
+    "opciones": [
+      "a) Por mayoría de tres quintos de cada Cámara.",
+      "b) Por mayoría de dos tercios de ambas Cámaras reunidas en sesión conjunta.",
+      "c) Por mayoría de dos tercios de cada Cámara.",
+      "d) Por mayoría absoluta de cada Cámara."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 168.1 CE",
+    "explicacion": "Cuando se propusiere la revisión total de la Constitución se procederá a la aprobación del principio por mayoría de dos tercios de cada Cámara, y a la disolución inmediata de las Cortes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p48",
+    "texto": "Según el artículo 116 de la Constitución, la prórroga del estado de alarma, será declarada por:",
+    "opciones": [
+      "a) El Gobierno, dando cuenta al Congreso de los Diputados.",
+      "b) El Congreso, a propuesta del Gobierno.",
+      "c) El Gobierno, previa autorización del Congreso de los Diputados.",
+      "d) El Gobierno, previa autorización de las Cortes Generales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 116.2 CE",
+    "explicacion": "El estado de alarma será declarado por el Gobierno por un plazo máximo de quince días, dando cuenta al Congreso; la prórroga de dicho plazo requiere la autorización del Congreso de los Diputados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p49",
+    "texto": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en:",
+    "opciones": [
+      "a) Los apartados 1, 2 y 3 del artículo 87 de la Constitución.",
+      "b) Los apartados 1 y 3 del artículo 87 de la Constitución.",
+      "c) Los apartados 1 y 2 del artículo 87 de la Constitución.",
+      "d) El artículo 87 de la Constitución."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 166 CE",
+    "explicacion": "La iniciativa de reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87 (Gobierno, Congreso, Senado; se excluye el 87.3, iniciativa popular).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p50",
+    "texto": "Según la Constitución, el Estatuto de los Trabajadores será regulado por:",
+    "opciones": [
+      "a) Ley orgánica.",
+      "b) Ley ordinaria.",
+      "c) Decreto.",
+      "d) La Constitución no indica nada al respecto."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 35.2 CE",
+    "explicacion": "La Ley (ordinaria) regulará un estatuto de los trabajadores.",
+    "requiere_imagen": false
+  }
+]

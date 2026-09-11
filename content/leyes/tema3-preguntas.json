@@ -1,0 +1,702 @@
+[
+  {
+    "id": "tema3-p1",
+    "texto": "Son competencias de los Consejeros (señale la respuesta incorrecta):",
+    "opciones": [
+      "a) Proponer al Gobierno, para su aprobación, la estructura u organización de su respectiva Consejería.",
+      "b) Solicitar, previo acuerdo del Consejo de Gobierno, que la Asamblea se reúna en sesión extraordinaria.",
+      "c) Ejercer la potestad reglamentaria en la esfera de sus atribuciones y dictar circulares e instrucciones.",
+      "d) Resolver los conflictos entre autoridades dependientes de su Consejería."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 31 Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid",
+    "explicacion": "Entre las atribuciones de los Consejeros no figura solicitar sesión extraordinaria de la Asamblea (eso corresponde a otros órganos); sí figuran velar por el cumplimiento de leyes, proponer anteproyectos, proponer nombramientos y elaborar el programa de actuación de su Consejería.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p2",
+    "texto": "Las ausencias temporales del Presidente de la Comunidad, superiores a un mes, precisarán:",
+    "opciones": [
+      "a) Dar cuenta, dentro de las 48 horas siguientes, a la Asamblea, en la persona de su Presidente, para que éste lo comunique al Pleno en la primera sesión que celebre.",
+      "b) Su publicación en el Boletín Oficial de la Comunidad de Madrid.",
+      "c) Previa autorización de la Asamblea.",
+      "d) No precisan ningún requisito especial."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 12 Ley 1/1983",
+    "explicacion": "Las ausencias temporales del Presidente superiores a un mes precisarán de la previa autorización de la Asamblea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p3",
+    "texto": "Certificar todos los actos que sean atribución específica del Consejero, es competencia del:",
+    "opciones": [
+      "a) Viceconsejero.",
+      "b) Consejo de Gobierno.",
+      "c) Secretario General Técnico.",
+      "d) Director General."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 46 Ley 1/1983",
+    "explicacion": "Los Secretarios Generales Técnicos desarrollan funciones de asesoramiento, estudio y coordinación, y certifican todos los actos que sean atribución específica del Consejero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p4",
+    "texto": "Son organismos autónomos:",
+    "opciones": [
+      "a) Las Entidades de Derecho público creadas por ley de la Asamblea, sin personalidad jurídica y patrimonio cedido por la Comunidad.",
+      "b) Las Entidades de Derecho privado creadas por ley de la Asamblea, con personalidad jurídica y patrimonio propios, distintos de los de la Comunidad.",
+      "c) Las Entidades de Derecho público creadas por ley de la Asamblea, con personalidad jurídica y patrimonio propios y autonomía en su gestión.",
+      "d) Las Entidades de Derecho público creadas por Decreto del Gobierno con personalidad jurídica y patrimonios propios, distintos de los de la Comunidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 2.2.a) Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid",
+    "explicacion": "Son organismos autónomos las entidades de derecho público creadas por ley de la Asamblea, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p5",
+    "texto": "El nombramiento del Presidente de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Lo realiza el Presidente de la Asamblea de la Comunidad de Madrid y será publicado en el \"Boletín Oficial del Estado\" y en el «Boletín Oficial de la Comunidad de Madrid\".",
+      "b) Lo realiza la Asamblea de la Comunidad de Madrid, reunida al expreso efecto de su designación.",
+      "c) Lo realiza el Rey mediante Real Decreto, que será publicado en el \"Boletín Oficial del Estado\" y en el «Boletín Oficial de la Comunidad de Madrid\".",
+      "d) Todas las anteriores respuestas son incorrectas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 4 Ley 1/1983",
+    "explicacion": "El Presidente de la Comunidad de Madrid es elegido de entre sus miembros por la Asamblea y nombrado por el Rey, mediante Real Decreto, publicado en el BOE y en el BOCM.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p6",
+    "texto": "En la Comunidad de Madrid las unidades administrativas inferiores a Subdirección General se establecen mediante:",
+    "opciones": [
+      "a) Decreto del Gobierno.",
+      "b) Decreto de Presidente.",
+      "c) Relaciones de puestos de trabajo.",
+      "d) Orden del Consejero correspondiente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 48 Ley 1/1983",
+    "explicacion": "Las unidades administrativas inferiores a Subdirección General se establecen mediante las relaciones de puestos de trabajo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p7",
+    "texto": "Las Leyes de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Serán promulgadas en nombre del Rey por el Presidente de la Comunidad, que ordenará su publicación en el Boletín Oficial de la Comunidad de Madrid y en el Boletín Oficial del Estado.",
+      "b) Serán promulgadas en nombre del Rey por el Presidente de la Asamblea, que ordenará su publicación en el Boletín Oficial de la Comunidad de Madrid y en el Boletín Oficial del Estado.",
+      "c) Serán promulgadas por el Rey, que ordenará su publicación en el Boletín Oficial de la Comunidad de Madrid y en el Boletín Oficial del Estado.",
+      "d) Serán promulgadas y sancionados, en nombre del Rey por el Presidente de la Comunidad que ordenará su publicación en el Boletín Oficial de la Comunidad de Madrid y en el Boletín Oficial del Estado."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 40.1 EACM",
+    "explicacion": "Las leyes aprobadas por la Asamblea son promulgadas, en nombre del Rey, por el Presidente de la Comunidad, que ordena su publicación en BOCM y BOE, entrando en vigor al día siguiente salvo que disponga otra cosa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p8",
+    "texto": "Los consorcios de la Comunidad de Madrid, podrán realizar actividades de fomento, prestacionales o de gestión común de servicios públicos y cuantas otras estén previstas en las leyes y se regirán por lo establecido en:",
+    "opciones": [
+      "a) La legislación básica estatal que regula el régimen jurídico del sector público.",
+      "b) La normativa autonómica de desarrollo.",
+      "c) Sus estatutos.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 71 Ley 1/1984",
+    "explicacion": "Los consorcios se rigen por lo establecido en la legislación básica estatal del sector público, en la normativa autonómica de desarrollo y en sus estatutos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p9",
+    "texto": "El Gobierno de la Comunidad de Madrid está regulado en:",
+    "opciones": [
+      "a) La Ley 1/1983, de 13 de diciembre, del Gobierno y la Administración de la Comunidad de Madrid.",
+      "b) En el Capítulo II del Título I del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "c) En la Ley 1/1984, de 19 de enero reguladora de la Administración de la Comunidad de Madrid.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Título Primero, \"Del Presidente\", Ley 1/1983",
+    "explicacion": "El Gobierno de la Comunidad de Madrid está regulado en la Ley 1/1983, de 13 de diciembre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p10",
+    "texto": "Los Subdirectores Generales de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Se nombran mediante Decreto del Consejo de Gobierno.",
+      "b) Se proveen como puesto de trabajo mediante convocatoria pública entre funcionarios de carrera del Subgrupo A1.",
+      "c) Se nombran mediante Orden del Consejero competente.",
+      "d) Se nombran mediante Resolución del Viceconsejero."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 39.3 Ley 1/1983",
+    "explicacion": "La provisión de los puestos de Subdirector General se efectúa mediante convocatoria pública entre funcionarios de carrera con título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente (Subgrupo A1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p11",
+    "texto": "En la Comunidad de Madrid, uno de los siguientes órganos no tiene legitimación para interponer el recurso de inconstitucionalidad. Señale cuál:",
+    "opciones": [
+      "a) Asamblea.",
+      "b) Presidente.",
+      "c) Gobierno.",
+      "d) Todos tienen legitimación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 9 Ley 1/1983",
+    "explicacion": "En el ámbito de la Comunidad de Madrid, la legitimación corresponde a la Asamblea y al Gobierno (art. 162 CE/32 LOTC); el Presidente por sí solo no tiene legitimación autónoma para interponer el recurso de inconstitucionalidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p12",
+    "texto": "Según establece el artículo 18 del Estatuto de Autonomía, producida vacante en la Presidencia de la Comunidad de Madrid, el Presidente de la Asamblea:",
+    "opciones": [
+      "a) Convocará elecciones.",
+      "b) Propondrá a la Asamblea uno de sus miembros como candidato a la Presidencia de la Comunidad.",
+      "c) Propondrá a la Asamblea un candidato a la Presidencia de la Comunidad.",
+      "d) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 18.1 EACM",
+    "explicacion": "Tras cada renovación de la Asamblea, o en caso de vacante, el Presidente de la Asamblea propondrá a ésta uno de sus miembros (Diputado) como candidato a la Presidencia de la Comunidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p13",
+    "texto": "Corresponde al Consejo de Gobierno de la Comunidad de Madrid, según el artículo 21 de la Ley 1/1983:",
+    "opciones": [
+      "a) Dirigir la política de la Comunidad de Madrid, en los términos que establece el artículo 22 del Estatuto de Autonomía.",
+      "b) Acordar la petición de sesión extraordinaria de la Asamblea.",
+      "c) Dictar Decretos Legislativos, previa autorización de la Asamblea.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 21 Ley 1/1983",
+    "explicacion": "Corresponde al Consejo de Gobierno dirigir la política, deliberar sobre la cuestión de confianza, acordar la petición de sesión extraordinaria, aprobar proyectos de Ley y dictar Decretos Legislativos previa autorización de la Asamblea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p14",
+    "texto": "Los Viceconsejeros de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Son nombrados por Real Decreto del Consejo de Ministros.",
+      "b) Son nombrados por el Consejero respectivo, mediante Orden.",
+      "c) Son nombrados por Decreto del Consejo de Gobierno.",
+      "d) Son nombrados por Decreto del Presidente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 44.3 Ley 1/1983",
+    "explicacion": "Los Viceconsejeros son nombrados por Decreto del Consejo de Gobierno.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p15",
+    "texto": "El Presidente de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Ostentará la condición de representante ordinario del Estado en la Comunidad Autónoma.",
+      "b) Nombrará y separará al Presidente del Tribunal Superior de Justicia.",
+      "c) Nombrará y separará a los Consejeros y Vicepresidentes.",
+      "d) Las respuestas a) y c) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículos 9 y 17 EACM / Ley 1/1983",
+    "explicacion": "El Presidente ostenta la representación ordinaria del Estado en la Comunidad (además de la suprema de la Comunidad) y nombra y separa a los Consejeros y Vicepresidentes; no nombra al Presidente del TSJ (solo ordena publicar su nombramiento).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p16",
+    "texto": "El número de asesores del Gabinete del Presidente:",
+    "opciones": [
+      "a) Será libremente establecido por éste.",
+      "b) Será un mínimo de seis, nombrados por el Rey a propuesta del Presidente.",
+      "c) Será un máximo de seis, nombrados por Decreto del Presidente, publicado en el Boletín Oficial de la Comunidad.",
+      "d) En la Comunidad de Madrid no existe Gabinete del Presidente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 11 Ley 1/1983",
+    "explicacion": "Los asesores del Gabinete del Presidente, en número no superior a seis, son nombrados y cesados mediante Decreto del Presidente, publicado en el BOCM.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p17",
+    "texto": "Prevé la Ley de Gobierno y Administración de la Comunidad Autónoma de Madrid que:",
+    "opciones": [
+      "a) Los actos y acuerdos de las autoridades y órganos de la Administración de la Comunidad Autónoma de Madrid serán inmediatamente ejecutivos, con los límites señalados en la Ley de Procedimiento Administrativo.",
+      "b) Los actos y disposiciones de carácter general, así como los que no deban ser notificados, se publicarán en el «Boletín Oficial de la Comunidad de Madrid».",
+      "c) Las disposiciones de carácter general entrarán en vigor al día siguiente de su publicación en el «Boletín Oficial de la Comunidad de Madrid», salvo que en ellas se disponga otra cosa.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 51 Ley 1/1983",
+    "explicacion": "Los actos y acuerdos son inmediatamente ejecutivos (con los límites legales) y los actos/disposiciones de carácter general se publican en el BOCM; las disposiciones de carácter general entran en vigor a los VEINTE días de su publicación (no al día siguiente), salvo que se disponga otra cosa — por eso c) es incorrecta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p18",
+    "texto": "El Tribunal Superior de Justicia de la Comunidad de Madrid se regula en:",
+    "opciones": [
+      "a) El Título III del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "b) El Título IV del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "c) El Título V del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "d) El Título VI del Estatuto de Autonomía de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 45 EACM",
+    "explicacion": "El Tribunal Superior de Justicia de la Comunidad de Madrid se regula en el Título IV del EACM.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p19",
+    "texto": "La extinción y disolución de los entes de Derecho público de régimen especial de la comunidad de Madrid:",
+    "opciones": [
+      "a) Se producirá por Ley orgánica.",
+      "b) Llevará aparejada la subrogación de la Comunidad de Madrid en todas las relaciones jurídicas en los que fueran parte. Se producirá por Decreto del Consejo de Gobierno.",
+      "c) Se producirá por Decreto del Presidente.",
+      "d) Se producirá por Decreto del Consejo de Gobierno."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 50 Ley 1/1984",
+    "explicacion": "El texto legal dice que la extinción y disolución se produce mediante LEY (de la Asamblea), no por Decreto del Consejo de Gobierno, y lleva aparejada la subrogación de la Comunidad de Madrid en todas las relaciones jurídicas en que fuera parte, pasando su patrimonio a la Comunidad. Ninguna opción del enunciado original recoge exactamente \"Ley + subrogación\" a la vez: la a) dice \"Ley orgánica\" (incorrecto, es ley ordinaria de la Asamblea, no orgánica) y la b) acierta en la subrogación pero yerra en el mecanismo (\"Decreto del Consejo de Gobierno\" en vez de \"Ley\"). Se mantiene b) como la marcada por ADAMS por ser la única que recoge la subrogación, pero el dato del \"Decreto del Consejo de Gobierno\" en esa opción es incorrecto según el artículo 50 — conviene no usar esta pregunta tal cual está redactada, o reformularla con \"Ley\" como mecanismo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p20",
+    "texto": "El Presidente interino de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Ejercerá todas las funciones del Presidente.",
+      "b) Ejercerá todas las funciones del Presidente, salvo definir el programa de Gobierno y designar y separar Consejeros.",
+      "c) Ejercerá todas las funciones del Presidente, salvo comparecer en la Asamblea para dar cuenta de la gestión del Gobierno.",
+      "d) Todas las anteriores respuestas son incorrectas."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 14 Ley 1/1983",
+    "explicacion": "El Presidente interino ejercerá las funciones del Presidente, salvo definir el programa de Gobierno y designar y separar Consejeros.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p21",
+    "texto": "Los actos dictados por los Viceconsejeros, Secretarios Generales Técnicos y Directores Generales de la Comunidad de Madrid adoptarán la forma de:",
+    "opciones": [
+      "a) Resoluciones.",
+      "b) Acuerdos.",
+      "c) Órdenes.",
+      "d) Decretos."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 50.4 Ley 1/1983",
+    "explicacion": "Los actos dictados por Viceconsejeros, Secretarios Generales Técnicos y Directores Generales adoptan la forma de Resolución.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p22",
+    "texto": "Para ser Consejero o Vicepresidente:",
+    "opciones": [
+      "a) Será necesaria la condición de Diputado de la Asamblea.",
+      "b) Será necesario estar en posesión del título de Licenciado, Graduado o Doctor.",
+      "c) No será necesaria la condición de Diputado de la Asamblea.",
+      "d) Las respuestas b) y c) son correctas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 22.2 EACM",
+    "explicacion": "Para ser Vicepresidente o Consejero no será necesaria la condición de Diputado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p23",
+    "texto": "Es competencia del Presidente de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Nombrar y separar a los Consejeros y, en su caso, al Vicepresidente o Vicepresidentes.",
+      "b) Nombrar a los Directores Generales.",
+      "c) Nombrar a los Viceconsejeros.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 9 Ley 1/1983",
+    "explicacion": "Como Presidente del Consejo de Gobierno le corresponde nombrar y separar a los Consejeros y, en su caso, al Vicepresidente o Vicepresidentes; los Directores Generales y Viceconsejeros se nombran por Decreto del Consejo de Gobierno, no directamente por el Presidente en solitario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p24",
+    "texto": "Las disposiciones de carácter general emanadas del Gobierno de la Comunidad de Madrid adoptarán la forma de:",
+    "opciones": [
+      "a) Acuerdos del Gobierno.",
+      "b) Decretos del Gobierno.",
+      "c) a) y b) son correctas.",
+      "d) Órdenes del Gobierno."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 50.2 Ley 1/1983",
+    "explicacion": "Las disposiciones de carácter general adoptan la forma de \"Decretos del Consejo de Gobierno\"; los demás actos del Consejo adoptan la forma de \"Acuerdo\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p25",
+    "texto": "La cuestión de confianza del Presidente de la Comunidad de Madrid, se entenderá otorgada:",
+    "opciones": [
+      "a) Con una mayoría de dos tercios de los Diputados.",
+      "b) Por la mayoría absoluta de los Diputados.",
+      "c) Con una mayoría de tres quintos de los Diputados.",
+      "d) Por la mayoría simple de los Diputados."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 19.1 EACM",
+    "explicacion": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p26",
+    "texto": "En la Comunidad de Madrid, los Organismos Autónomos se extinguen:",
+    "opciones": [
+      "a) Por Ley orgánica de la Asamblea.",
+      "b) Por Decreto.",
+      "c) Por Acuerdo del Gobierno.",
+      "d) Por haber transcurrido el tiempo de existencia previsto en su ley de fundación."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 6 Ley 1/1984",
+    "explicacion": "Los organismos autónomos se extinguen por Ley de la Asamblea (no orgánica) o por el transcurso del tiempo de existencia señalado en la ley fundacional; la opción d) recoge correctamente esta segunda causa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p27",
+    "texto": "El Presidente de la Comunidad de Madrid ostenta:",
+    "opciones": [
+      "a) La suprema representación de la Comunidad Autónoma.",
+      "b) La suprema representación del Estado en la Comunidad Autónoma.",
+      "c) La representación ordinaria de la Comunidad Autónoma.",
+      "d) La suprema representación de la Comunidad Autónoma y la del Estado en la Comunidad Autónoma."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 17.1 EACM",
+    "explicacion": "El Presidente ostenta la suprema representación de la Comunidad Autónoma y la representación ORDINARIA (no suprema) del Estado en la misma.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p28",
+    "texto": "El control económico y presupuestario de la Comunidad de Madrid es ejercido por:",
+    "opciones": [
+      "a) El Tribunal Constitucional.",
+      "b) La jurisdicción contencioso-administrativa.",
+      "c) La Cámara de Cuentas.",
+      "d) La Cámara de Cuentas, sin perjuicio del que corresponda al Tribunal de Cuentas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 44 EACM",
+    "explicacion": "El control económico y presupuestario se ejerce por la Cámara de Cuentas, sin perjuicio del que corresponda al Tribunal de Cuentas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p29",
+    "texto": "Al Presidente de la Comunidad de Madrid se le exige la responsabilidad penal:",
+    "opciones": [
+      "a) Ante la Sala de Gobierno del Tribunal Superior de Justicia de Madrid.",
+      "b) Ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Madrid.",
+      "c) Ante la Sala I del Tribunal Supremo.",
+      "d) Ante la Sala II del Tribunal Supremo."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 25 EACM",
+    "explicacion": "La responsabilidad penal del Presidente, Vicepresidentes y Consejeros es exigible ante la Sala de lo Penal (Sala II) del Tribunal Supremo, salvo la de Vicepresidentes y Consejeros por delitos en el ámbito territorial de su jurisdicción, exigible ante el TSJ de Madrid.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p30",
+    "texto": "La celebración del Pleno para la elección de nuevo Presidente de la Comunidad de Madrid, tras la dimisión del anterior a consecuencia de la pérdida de una cuestión de confianza, tendrá lugar:",
+    "opciones": [
+      "a) En el plazo máximo de un mes desde la votación en la que se niega la confianza al Presidente saliente.",
+      "b) En el plazo mínimo de quince días desde la dimisión del Presidente.",
+      "c) En el plazo de dos meses desde la votación en la que se niega la confianza al Presidente saliente.",
+      "d) En el plazo máximo de quince días desde la dimisión del Presidente."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 19.2 EACM",
+    "explicacion": "Si la Asamblea niega la confianza, el Presidente presenta su dimisión y el Presidente de la Asamblea convocará, en el plazo máximo de quince días, la sesión plenaria para la elección de nuevo Presidente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p31",
+    "texto": "La Administración Institucional de la Comunidad de Madrid se encuentra regulada en una de las siguientes leyes de la Asamblea:",
+    "opciones": [
+      "a) En la Ley 1/1983, de 13 de diciembre.",
+      "b) En la Ley 1/1984, de 19 de enero.",
+      "c) En la Ley 6/2017, de 11 de mayo.",
+      "d) La Ley 3/1983, de 25 de febrero."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid",
+    "explicacion": "La Administración Institucional se regula en la Ley 1/1984, de 19 de enero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p32",
+    "texto": "¿Cuál es el número máximo de Consejerías que puede existir en la Comunidad de Madrid?:",
+    "opciones": [
+      "a) Ocho.",
+      "b) Diez.",
+      "c) Doce.",
+      "d) En la actualidad no hay un número máximo de Consejerías."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1983",
+    "explicacion": "No existe en la actualidad un número máximo legalmente fijado de Consejerías.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p33",
+    "texto": "El Jefe del Gabinete del Presidente de la Comunidad de Madrid tiene nivel orgánico de:",
+    "opciones": [
+      "a) Director General.",
+      "b) Consejero.",
+      "c) Viceconsejero.",
+      "d) Secretario General Técnico."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 11.3 Ley 1/1983",
+    "explicacion": "El Jefe del Gabinete del Presidente, con nivel orgánico de Director General, es nombrado y, en su caso, cesado por Decreto del Consejo de Gobierno, a propuesta del Presidente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p34",
+    "texto": "Según prevé el artículo 38 de la Ley del Gobierno y Administración de la Comunidad de Madrid, son órganos superiores de la Administración:",
+    "opciones": [
+      "a) Los Secretarios Generales y los Viceconsejeros.",
+      "b) Los Viceconsejeros, los Secretarios Generales, los Directores Generales y los Subdirectores Generales.",
+      "c) El Presidente del Gobierno, el Vicepresidente o los Vicepresidentes, los Consejeros y los Viceconsejeros.",
+      "d) El Presidente del Gobierno, el Vicepresidente o los Vicepresidentes, el Gobierno, los Consejeros y los Viceconsejeros."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 38 Ley 1/1983",
+    "explicacion": "Son órganos superiores de la Administración el Presidente, el Vicepresidente o Vicepresidentes, el Consejo de Gobierno, los Consejeros y los Viceconsejeros.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p35",
+    "texto": "El Gobierno y la Administración de la Comunidad de Madrid se regulan:",
+    "opciones": [
+      "a) Por la Ley 1/1983, de 13 de diciembre.",
+      "b) Por la Ley 1/1984, de 19 de enero.",
+      "c) Por la Ley 11/1986, de 16 de diciembre.",
+      "d) Por la Ley 9/1990, de 8 de noviembre."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid",
+    "explicacion": "El Gobierno y la Administración se regulan por la Ley 1/1983, de 13 de diciembre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p36",
+    "texto": "Señale la opción correcta:",
+    "opciones": [
+      "a) Para ser Vicepresidente o Consejero no se requiere la condición de Diputado de la Asamblea.",
+      "b) El cargo de Vicepresidente es preceptivo dentro de la estructura de la Comunidad.",
+      "c) El nombramiento del Presidente de la Comunidad de Madrid lo realiza el Rey, con refrendo del Presidente de la Asamblea.",
+      "d) En el caso de que ningún candidato a la Presidencia obtenga la confianza de la Asamblea en el plazo de un mes desde la primera votación, la Asamblea queda disuelta y se convocan nuevas elecciones."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 22.2 EACM",
+    "explicacion": "Para ser Vicepresidente o Consejero no será necesaria la condición de Diputado. El cargo de Vicepresidente no es preceptivo (\"en su caso\"); el plazo para la disolución si nadie obtiene confianza es de DOS meses, no uno.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p37",
+    "texto": "Señale para cuál de los siguientes cargos es necesario, en todo caso, estar en posesión de una titulación superior:",
+    "opciones": [
+      "a) Director General.",
+      "b) Viceconsejero.",
+      "c) Subdirector General.",
+      "d) Secretario General Técnico."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 39.3 y 45 Ley 1/1983",
+    "explicacion": "La provisión de Subdirector General exige, en todo caso, título de Doctor, Licenciado, Ingeniero, Arquitecto o equivalente (Subgrupo A1); para Director General y Secretario General Técnico se exige \"preferentemente\" funcionario de carrera con título superior, no en todo caso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p38",
+    "texto": "Los acuerdos de las Comisiones Delegadas del Gobierno y las disposiciones y resoluciones de los Consejeros de la Comunidad de Madrid, adoptan la forma de:",
+    "opciones": [
+      "a) Decreto.",
+      "b) Acuerdo.",
+      "c) Orden.",
+      "d) Decreto Ley."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 50.3 Ley 1/1983",
+    "explicacion": "Los acuerdos de las Comisiones Delegadas del Consejo de Gobierno y las disposiciones y resoluciones de los Consejeros adoptan la forma de \"Orden\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p39",
+    "texto": "Corresponde al Gobierno de la Comunidad de Madrid (Señale la opción incorrecta):",
+    "opciones": [
+      "a) Dictar Decretos Legislativos, previa autorización de la Asamblea.",
+      "b) Ejecutar el Presupuesto de la Comunidad.",
+      "c) Transigir sobre bienes y derechos de la Hacienda Autonómica.",
+      "d) Aprobar el Presupuesto de la Comunidad."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 16.3.a) EACM",
+    "explicacion": "La APROBACIÓN del Presupuesto corresponde a la Asamblea (art. 16.3.a EACM), no al Gobierno; el Gobierno lo ejecuta, transige sobre bienes de la Hacienda y dicta Decretos Legislativos previa autorización de la Asamblea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p40",
+    "texto": "Dictar Decretos Legislativos, en el ámbito de la Comunidad de Madrid es una competencia que corresponde a:",
+    "opciones": [
+      "a) El Presidente de la Comunidad.",
+      "b) El Gobierno de la Comunidad.",
+      "c) La Asamblea de la Comunidad.",
+      "d) La Comunidad de Madrid no puede dictar Decretos Legislativos."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 15.3 EACM / artículo 21.e) Ley 1/1983",
+    "explicacion": "La Asamblea puede delegar la potestad de dictar normas con rango de ley en el Gobierno (delegación legislativa); es el Gobierno quien dicta los Decretos Legislativos, previa autorización de la Asamblea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p41",
+    "texto": "Los Convenios y Acuerdos de Cooperación entre Comunidades Autónomas son firmados:",
+    "opciones": [
+      "a) Por el Rey.",
+      "b) Por el Consejero competente en la materia.",
+      "c) Por el Presidente de la Comunidad.",
+      "d) Ninguna de las anteriores es correcta."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 7.b) Ley 1/1983",
+    "explicacion": "Corresponde al Presidente, como supremo representante de la Comunidad, firmar los convenios y acuerdos de cooperación que se celebren con otras Comunidades Autónomas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p42",
+    "texto": "La constitución de sociedades mercantiles en la Comunidad de Madrid se produce:",
+    "opciones": [
+      "a) Por escritura pública ante Notario.",
+      "b) Por Decreto del Gobierno de la Comunidad, a propuesta del Consejero de Economía, Empleo y Hacienda.",
+      "c) Por acuerdo del Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de hacienda.",
+      "d) Por Ley de la Asamblea, en la que se fijarán sus parámetros esenciales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 64 Ley 1/1984",
+    "explicacion": "La constitución y disolución de sociedades mercantiles de la Comunidad de Madrid se autoriza por acuerdo del Consejo de Gobierno, a propuesta del titular de la Consejería competente en materia de hacienda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p43",
+    "texto": "No forman parte de la Administración Institucional de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Las asociaciones del sector público.",
+      "b) Los Organismos Autónomos.",
+      "c) Las sociedades mercantiles.",
+      "d) Las fundaciones del sector público."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 2 Ley 1/1984",
+    "explicacion": "El sector público institucional está formado por organismos públicos (organismos autónomos, entes de derecho público de régimen especial, entes sometidos al derecho privado), sociedades mercantiles, consorcios, fundaciones del sector público y universidades públicas; las \"asociaciones del sector público\" no figuran en esta clasificación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p44",
+    "texto": "Los Secretarios Generales Técnicos tienen, dentro de la Administración de la Comunidad de Madrid, el mismo rango que:",
+    "opciones": [
+      "a) Los Viceconsejeros.",
+      "b) Los Subdirectores Generales.",
+      "c) Los Directores Generales.",
+      "d) Titulares de las unidades inferiores."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 45 Ley 1/1983",
+    "explicacion": "Los Secretarios Generales Técnicos y los Directores Generales tienen idéntico nivel orgánico.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p45",
+    "texto": "La incapacidad permanente del Presidente de la Comunidad de Madrid se producirá:",
+    "opciones": [
+      "a) Cuando hayan transcurrido dos meses desde el acuerdo en que se declaró su incapacidad transitoria, sin que haya tenido lugar su rehabilitación.",
+      "b) Cuando, sin haber transcurrido cuatro meses desde el acuerdo de incapacidad transitoria, la Asamblea la declare por mayoría absoluta, a propuesta del Gobierno, por acuerdo de las 4/5 partes del mismo.",
+      "c) Cuando, sin haber transcurrido cuatro meses, la Asamblea la declare por mayoría, a propuesta del Gobierno, por acuerdo de las 4/5 partes del mismo.",
+      "d) Cuando hayan transcurrido seis meses desde el acuerdo en que se declaró su incapacidad transitoria, sin que haya tenido lugar su rehabilitación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 15 Ley 1/1983 — no verificada",
+    "explicacion": "El fragmento del artículo 15 disponible solo describe la duración máxima de la INTERINIDAD (dos meses, ampliables a otros dos, es decir, cuatro meses en total) y su cese por rehabilitación; no contiene el mecanismo de \"mayoría absoluta de la Asamblea, a propuesta del Gobierno por acuerdo de 4/5 partes\" que describe la opción b). Es posible que ese mecanismo esté en otro apartado del mismo artículo no incluido en el extracto, pero no puedo confirmarlo con el material disponible. Recomiendo verificar el artículo 15 completo de la Ley 1/1983 antes de dar esta pregunta por buena para el banco.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p46",
+    "texto": "En su condición de representante ordinario del Estado, el Presidente de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Nombra y separa a los miembros del Gobierno.",
+      "b) Ejerce la más alta representación de la Comunidad de Madrid.",
+      "c) Promulga las Leyes de la Asamblea y los Decretos Legislativos, ordenando su publicación.",
+      "d) Convoca las elecciones."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 8.a) Ley 1/1983",
+    "explicacion": "Como representante ordinario del Estado en la Comunidad Autónoma, al Presidente le corresponde promulgar, en nombre del Rey, las Leyes de la Asamblea y los Decretos Legislativos, ordenando su publicación; nombrar/separar al Gobierno, ejercer la más alta representación de la Comunidad y convocar elecciones son funciones ligadas a su condición de supremo representante de la Comunidad, no del Estado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p47",
+    "texto": "Dictar Decretos-Leyes, en el ámbito de la Comunidad de Madrid es una competencia que corresponde a:",
+    "opciones": [
+      "a) El Presidente de la Comunidad.",
+      "b) El Gobierno de la Comunidad.",
+      "c) La Asamblea de la Comunidad.",
+      "d) En la Comunidad de Madrid no se pueden dictar Decretos-Leyes."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 15.3 EACM",
+    "explicacion": "La Comunidad de Madrid no tiene la figura del Decreto-Ley (instrumento estatal del art. 86 CE); solo existe la delegación legislativa en el Gobierno (Decretos Legislativos, remitiendo a los arts. 82-84 CE).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p48",
+    "texto": "En relación con la moción de censura para exigir la responsabilidad política del Presidente de la Comunidad (Señale la opción incorrecta):",
+    "opciones": [
+      "a) La moción habrá de contener un candidato a la Presidencia de la Comunidad.",
+      "b) La moción habrá de ser propuesta por, al menos, la cuarta parte de miembros de la Asamblea.",
+      "c) En caso de no prosperar, los signatarios de la moción no podrán presentar otra durante el mismo periodo de sesiones.",
+      "d) No puede ser votada hasta que transcurran cinco días desde su presentación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 20 EACM",
+    "explicacion": "La moción de censura habrá de ser propuesta, al menos, por el 15% de los Diputados (no la cuarta parte); debe incluir un candidato, no puede votarse hasta transcurridos cinco días desde su presentación y, si no prospera, los firmantes no pueden presentar otra en el mismo período de sesiones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p49",
+    "texto": "Para la apreciación de la incapacidad transitoria del Presidente de la Comunidad de Madrid es necesario:",
+    "opciones": [
+      "a) Acuerdo de las tres cuartas partes de los miembros del Gobierno, excluyendo al Presidente.",
+      "b) Comunicación a la Asamblea en el plazo de 24 horas desde que se adopte el acuerdo.",
+      "c) Que el Pleno de la Asamblea no revoque, por mayoría, dicho acuerdo.",
+      "d) Acuerdo de las cuatro quintas partes de los miembros del Gobierno, excluyendo al Presidente."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 13 Ley 1/1983",
+    "explicacion": "Si el Consejo de Gobierno aprecia, por acuerdo de las cuatro quintas partes de la totalidad de sus miembros (sin contar al Presidente), que éste está imposibilitado transitoriamente, lo comunica al Presidente de la Asamblea (en 48 horas, no 24), que puede revocarlo por mayoría absoluta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p50",
+    "texto": "Señale, de entre las siguientes, cuál no es causa de remoción del Presidente de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Fallecimiento.",
+      "b) Incapacidad transitoria.",
+      "c) Dimisión.",
+      "d) Todas lo son."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 24.1 EACM",
+    "explicacion": "El Gobierno cesa (y por tanto el Presidente es removido) tras elecciones, pérdida de confianza parlamentaria, dimisión, incapacidad PERMANENTE o fallecimiento; la incapacidad TRANSITORIA no es causa de remoción, ya que es reversible (rehabilitación) y se gestiona mediante Presidente interino.",
+    "requiere_imagen": false
+  }
+]

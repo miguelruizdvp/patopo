@@ -1,0 +1,352 @@
+[
+  {
+    "id": "tema8_01",
+    "texto": "Quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados aun cuando exista un contrato o acto jurídico con el contenido fijado en el artículo 28.3 del Reglamento (UE) 2016/679, tendrá la consideración de:",
+    "opciones": [
+      "a) Responsable del tratamiento.",
+      "b) Encargado del tratamiento.",
+      "c) Delegado de Protección.",
+      "d) Delegado de Tratamiento."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 33.2 LO 3/2018",
+    "explicacion": "Tendrá la consideración de responsable del tratamiento y no la de encargado quien en su propio nombre y sin que conste que actúa por cuenta de otro, establezca relaciones con los afectados aun cuando exista un contrato o acto jurídico con el contenido del art. 28.3 RGPD (art. 33.2 LO 3/2018).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_02",
+    "texto": "Las personas físicas y jurídicas que presten servicios públicos o ejerzan potestades administrativas estarán obligadas a suministrar a la Administración, organismo, entidad o sujeto al que se encuentren vinculadas, toda la información necesaria para el cumplimiento de las obligaciones establecidas en la Ley 10/2019, previo requerimiento, y en un plazo de:",
+    "opciones": [
+      "a) 5 días desde el acuse de recibo de la petición.",
+      "b) 10 días desde el acuse de recibo de la petición.",
+      "c) 15 días desde el acuse de recibo de la petición.",
+      "d) 20 días desde el acuse de recibo de la petición."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 4.1 Ley 10/2019 (CM)",
+    "explicacion": "Estas personas estarán obligadas a suministrar la información necesaria, previo requerimiento y en un plazo de 10 días desde el acuse de recibo de la petición (art. 4.1 Ley 10/2019 de la Comunidad de Madrid).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_03",
+    "texto": "La Ley de Protección Datos Personales y garantía de los derechos digitales, no será de aplicación:",
+    "opciones": [
+      "a) A los tratamientos de datos de personas fallecidas.",
+      "b) A los tratamientos efectuados el ejercicio de una actividad comprendida en el ámbito de aplicación de Derecho de la Unión.",
+      "c) A los tratamientos efectuados por parte de las autoridades competentes con fines de enjuiciamiento de infracciones civiles.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 2.2 LO 3/2018",
+    "explicacion": "La ley orgánica no es de aplicación, entre otros, a los tratamientos de datos de personas fallecidas, sin perjuicio de lo dispuesto en el art. 3 (art. 2.2.b). Las otras dos opciones están formuladas de forma inversa o inexacta respecto a las exclusiones reales del art. 2.2 (que se refieren a actividades FUERA del ámbito del Derecho de la Unión, y a infracciones PENALES, no civiles).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_04",
+    "texto": "Cuando el responsable del tratamiento de datos reciba una solicitud del interesado para ejercitar sus derechos, le facilitará la información relativa a sus actuaciones, en cualquier caso, en el plazo de:",
+    "opciones": [
+      "a) Quince días.",
+      "b) Veinte días.",
+      "c) Un mes prorrogable a otros dos meses.",
+      "d) Un mes prorrogable a otro mes."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 12.3 RGPD",
+    "explicacion": "El responsable del tratamiento facilitará al interesado información relativa a sus actuaciones, sin dilación indebida y en cualquier caso en el plazo de un mes a partir de la recepción de la solicitud, plazo que podrá prorrogarse otros dos meses en caso necesario (art. 12.3 RGPD).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_05",
+    "texto": "La fecha de la Ley 10/2019 de Transparencia y Participación de la Comunidad de Madrid es:",
+    "opciones": [
+      "a) 9 de diciembre.",
+      "b) 10 de diciembre.",
+      "c) 9 de abril.",
+      "d) 10 de abril."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Título Ley 10/2019 (CM)",
+    "explicacion": "La ley es la Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_06",
+    "texto": "El Consejo de Transparencia y Protección de Datos es un órgano está regulado en el:",
+    "opciones": [
+      "a) Título IV de la Ley 10/2019, de Transparencia y Participación.",
+      "b) Título V de la Ley 10/2019, de Transparencia y Participación.",
+      "c) Título VI de la Ley 10/2019, de Transparencia y Participación.",
+      "d) Título I de la Ley 10/2019, de Transparencia y Participación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Título V Ley 10/2019 (CM)",
+    "explicacion": "El Consejo de Transparencia y Protección de Datos se regula en el Título V de la Ley 10/2019 de la Comunidad de Madrid.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_07",
+    "texto": "Según establece la Ley de transparencia, no deberá motivarse:",
+    "opciones": [
+      "a) La solicitud del derecho al acceso a la información pública.",
+      "b) Las resoluciones que denieguen el acceso.",
+      "c) Las resoluciones que concedan el acceso parcial.",
+      "d) Todas deberán motivarse."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 17.3 Ley 19/2013",
+    "explicacion": "El solicitante no está obligado a motivar su solicitud de acceso a la información (art. 17.3); en cambio, sí deben motivarse las resoluciones que denieguen el acceso o concedan el acceso parcial o por una modalidad distinta (art. 20.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_08",
+    "texto": "Se considera repetitivo el ejercicio del derecho de acceso en más de una ocasión, a menos que exista causa legítima para él, durante el plazo de:",
+    "opciones": [
+      "a) Tres meses.",
+      "b) Seis meses.",
+      "c) Nueve meses.",
+      "d) Doce meses."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 13.3 LO 3/2018",
+    "explicacion": "A los efectos del art. 12.5 RGPD, se podrá considerar repetitivo el ejercicio del derecho de acceso en más de una ocasión durante el plazo de seis meses, a menos que exista causa legítima para ello (art. 13.3 LO 3/2018).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_09",
+    "texto": "Según la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno en los casos en que la aplicación de alguno de los límites al derecho al acceso a la información pública no afecte a la totalidad de la información, se concederá el:",
+    "opciones": [
+      "a) Acceso total, previa omisión de la información afectada por el límite.",
+      "b) Acceso parcial, previa omisión de la información afectada por el límite.",
+      "c) Acceso total, previa disociación de los datos de carácter personal.",
+      "d) Acceso parcial, previa disociación de los datos de carácter personal."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 16 Ley 19/2013",
+    "explicacion": "Se concederá el acceso parcial previa omisión de la información afectada por el límite, salvo que de ello resulte una información distorsionada o que carezca de sentido (art. 16).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_10",
+    "texto": "Quien figurando como encargado utilizase los datos para sus propias necesidades, tendrá la consideración de:",
+    "opciones": [
+      "a) Responsable del tratamiento.",
+      "b) Encargado del tratamiento.",
+      "c) Delegado de Protección.",
+      "d) Delegado de Tratamiento."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 33.2 LO 3/2018",
+    "explicacion": "Tendrá asimismo la consideración de responsable del tratamiento quien, figurando como encargado, utilizase los datos para sus propias finalidades (art. 33.2, último párrafo).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_11",
+    "texto": "En el ámbito de la Comunidad de Madrid y de su sector público, para la gestión del Portal de Transparencia de la Comunidad de Madrid, se creará:",
+    "opciones": [
+      "a) Unidades de transparencia.",
+      "b) La Oficina de Coordinación de la Transparencia.",
+      "c) El Consejo de Transparencia y Participación.",
+      "d) El Consejo de Transparencia y Buen Gobierno."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 28.1 Ley 10/2019 (CM)",
+    "explicacion": "Se creará la Oficina de Coordinación de la Transparencia, dependiente de la Consejería competente en materia de información pública, entre cuyas funciones está la gestión del Portal de Transparencia de la Comunidad de Madrid (art. 28.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_12",
+    "texto": "Son principios de protección de datos:",
+    "opciones": [
+      "a) Principio de lealtad, licitud y transparencia.",
+      "b) Principio de limitación de la finalidad.",
+      "c) Principio de responsabilidad proactiva.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Título II LO 3/2018",
+    "explicacion": "El Título II de la LO 3/2018, dedicado a los principios de protección de datos, recoge entre otros los principios de licitud/lealtad/transparencia, limitación de la finalidad y responsabilidad proactiva.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_13",
+    "texto": "Establece la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, que el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+    "opciones": [
+      "a) La seguridad nacional.",
+      "b) La tutela judicial efectiva.",
+      "c) La propiedad intelectual e industrial.",
+      "d) Podrá ser limitado en todos los supuestos citados."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 14.1 Ley 19/2013",
+    "explicacion": "El art. 14.1 recoge, entre otros límites, el perjuicio para la seguridad nacional (letra a), la igualdad de las partes en los procesos judiciales y la tutela judicial efectiva (letra f), y el secreto profesional y la propiedad intelectual e industrial (letra j).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_14",
+    "texto": "Las disposiciones del Título I de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno es aplicable en su totalidad a:",
+    "opciones": [
+      "a) La Casa de su Majestad el Rey.",
+      "b) Los partidos políticos.",
+      "c) Las organizaciones sindicales.",
+      "d) Todos los sujetos mencionados."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 2.1.f Ley 19/2013",
+    "explicacion": "La Casa de Su Majestad el Rey figura entre los sujetos del art. 2.1 a los que se aplica el Título I en su totalidad (en lo relativo a sus actividades sujetas a Derecho Administrativo); los partidos políticos y las organizaciones sindicales se regulan en un artículo distinto (art. 3, 'Otros sujetos obligados') con obligaciones más limitadas, no la aplicación completa del Título I.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_15",
+    "texto": "El Consejo de Transparencia y Protección de Datos es un órgano:",
+    "opciones": [
+      "a) Que actuará con autonomía y plena independencia funcional.",
+      "b) Dependiente de la Consejería competente de Presidencia.",
+      "c) Dependiente de la Asamblea de Madrid.",
+      "d) Que actuará con autonomía y plena independencia orgánica."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 72.3 Ley 10/2019 (CM)",
+    "explicacion": "El Consejo de Transparencia y Protección de Datos, en ejercicio de sus funciones, actuará con autonomía y plena independencia funcional (art. 72.3); orgánicamente está adscrito a la Consejería de Presidencia (art. 72.1), por lo que no goza de independencia orgánica.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_16",
+    "texto": "La Ley de Protección Datos Personales y garantía de los derechos digitales, establece que los responsables y encargados del tratamiento deberán designar un Delegado de Protección de Datos cuando se trate de las siguientes actividades:",
+    "opciones": [
+      "a) Las empresas de seguridad privada.",
+      "b) Los profesionales de la salud aunque ejerzan su actividad a título individual.",
+      "c) Los clubs deportivos.",
+      "d) Todas las respuestas son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 34.1 LO 3/2018",
+    "explicacion": "El art. 34.1 exige designar DPD, en todo caso, a las empresas de seguridad privada (letra ñ). Los profesionales de la salud están exceptuados precisamente cuando ejercen su actividad a título individual (letra l), y la ley solo obliga a las federaciones deportivas cuando traten datos de menores de edad (letra o), no a los clubes deportivos en general; por ello, solo la opción a) es correcta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_17",
+    "texto": "Es causa de inadmisión de la solicitud de acceso a la información, según lo establecido en la Ley de transparencia, acceso a la información pública y buen gobierno:",
+    "opciones": [
+      "a) Que se refiera a información que esté en curso de elaboración.",
+      "b) Que esté referida a información que tenga carácter auxiliar o de apoyo.",
+      "c) Que tenga un carácter abusivo no justificado con la finalidad de la transparencia.",
+      "d) Todas lo son."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 18.1 Ley 19/2013",
+    "explicacion": "El art. 18.1 recoge como causas de inadmisión, entre otras, la información en curso de elaboración (letra a), la información de carácter auxiliar o de apoyo (letra b) y las solicitudes manifiestamente repetitivas o abusivas no justificadas con la finalidad de la Ley (letra e).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_18",
+    "texto": "Según establece la Ley 10/2019, de Transparencia y Participación de la Comunidad de Madrid, las resoluciones sobre las solicitudes de acceso se adoptarán y notificarán en el plazo máximo de:",
+    "opciones": [
+      "a) Diez días.",
+      "b) Veinte días.",
+      "c) Quince días.",
+      "d) Un mes."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 42.1 Ley 10/2019 (CM)",
+    "explicacion": "Las resoluciones sobre las solicitudes de acceso se adoptarán y notificarán en el plazo máximo de veinte días desde su recepción, ampliable por otros veinte días más si el volumen o la complejidad de la información lo justifican (art. 42.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_19",
+    "texto": "¿A cuál de los siguientes no es de aplicación la Ley 10/2019, de Transparencia y Participación de la Comunidad de Madrid?",
+    "opciones": [
+      "a) A la Asamblea de Madrid.",
+      "b) A las federaciones y clubes deportivos.",
+      "c) A las Notarías de la Comunidad de Madrid.",
+      "d) Les es de aplicación a todas ellas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 2 Ley 10/2019 (CM)",
+    "explicacion": "Las Notarías de la Comunidad de Madrid no figuran entre los sujetos incluidos en el ámbito de aplicación del art. 2 de la Ley 10/2019, a diferencia de la Asamblea de Madrid y de las federaciones y clubes deportivos, que sí quedan comprendidos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_20",
+    "texto": "El Consejo de Transparencia y Protección de Datos tendrá la siguiente composición:",
+    "opciones": [
+      "a) La Comisión de Transparencia y el Presidente del Consejo de Transparencia y Protección de Datos que lo será también de su Comisión.",
+      "b) La Comisión de Protección de Datos, la Comisión de Transparencia, la Comisión de Participación y el Presidente del Consejo de Transparencia y Protección de Datos que lo será también de sus Comisiones.",
+      "c) La Comisión de Protección de Datos y la Comisión de Transparencia y Participación.",
+      "d) Ninguna respuesta es correcta."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 73 Ley 10/2019 (CM)",
+    "explicacion": "El Consejo de Transparencia y Protección de Datos se compone de la Comisión de Transparencia y Participación, la Comisión de Protección de Datos, y el Presidente del Consejo, que lo será también de ambas Comisiones (art. 73); ninguna de las opciones a), b) o c) recoge correctamente y de forma completa esos tres elementos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_21",
+    "texto": "Los sujetos incluidos en el ámbito de aplicación de la Ley 10/2019, no deberán publicar:",
+    "opciones": [
+      "a) Información estadística.",
+      "b) Información del patrimonio.",
+      "c) Información institucional.",
+      "d) Deberá publicar todas ellas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Sección 1 (Información sujeta a publicación), Ley 10/2019 (CM)",
+    "explicacion": "La Sección 1 de la Ley 10/2019, dedicada a la información sujeta a publicación, obliga a publicar, entre otras, información institucional, estadística y del patrimonio, sin que ninguna de ellas quede exceptuada de la obligación de publicidad activa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_22",
+    "texto": "Según establece la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno, la resolución en la que se conceda o deniegue el acceso deberá notificarse al solicitante y a los terceros afectados que así lo hayan solicitado, en el plazo máximo de:",
+    "opciones": [
+      "a) Tres meses.",
+      "b) Tres meses que podrán ampliarse por otro mes.",
+      "c) Un mes.",
+      "d) Un mes que podrá ampliarse por otro mes."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 20.1 Ley 19/2013",
+    "explicacion": "La resolución deberá notificarse en el plazo máximo de un mes desde la recepción de la solicitud, plazo que podrá ampliarse por otro mes cuando el volumen o la complejidad de la información lo hagan necesario (art. 20.1).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_23",
+    "texto": "En relación con el acceso a la información pública, prevé la Ley 19/2013 de transparencia, acceso a la información pública y buen gobierno que, transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa, se entenderá que la solicitud ha sido:",
+    "opciones": [
+      "a) Estimada.",
+      "b) Desestimada.",
+      "c) Caducada.",
+      "d) Inadmitida."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 20.4 Ley 19/2013",
+    "explicacion": "Transcurrido el plazo máximo para resolver sin que se haya dictado y notificado resolución expresa, se entenderá que la solicitud ha sido desestimada (art. 20.4).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_24",
+    "texto": "El responsable del tratamiento estará obligado, cuando proceda a su rectificación o supresión, a:",
+    "opciones": [
+      "a) Bloquear los datos.",
+      "b) Destruir los datos.",
+      "c) Limitar el tratamiento de datos.",
+      "d) Todas las opciones son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 32.1 LO 3/2018",
+    "explicacion": "El responsable del tratamiento estará obligado a bloquear los datos cuando proceda a su rectificación o supresión (art. 32.1); la destrucción solo procede una vez transcurrido el plazo de prescripción de las responsabilidades derivadas del tratamiento (art. 32.2).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema8_25",
+    "texto": "¿Cuál es la fecha de la Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno?",
+    "opciones": [
+      "a) Ley 18/2013, de 9 de noviembre.",
+      "b) Ley 18/2014, de 8 de diciembre.",
+      "c) Ley 19/2014, de 8 de diciembre.",
+      "d) Ley 19/2013, de 9 de diciembre."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Título Ley 19/2013",
+    "explicacion": "La ley es la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno.",
+    "requiere_imagen": false
+  }
+]

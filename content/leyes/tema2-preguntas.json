@@ -1,0 +1,352 @@
+[
+  {
+    "id": "tema2-p1",
+    "texto": "Con respecto a las competencias educativas establecidas en el artículo 29 del Estatuto de Autonomía de la Comunidad de Madrid, señale la opción incorrecta:",
+    "opciones": [
+      "a) Corresponden a la Comunidad las competencias de desarrollo legislativo y ejecución de la enseñanza en toda su extensión, niveles y grados, modalidades y especialidades.",
+      "b) Las competencias educativas son ejercidas por la Comunidad de acuerdo a lo dispuesto en el artículo 27 de la Constitución y su legislación de desarrollo.",
+      "c) Los títulos académicos, en virtud de las competencias educativas asumidas por la Comunidad en su Estatuto de Autonomía, son regulados por Ley de la Asamblea.",
+      "d) La Comunidad de Madrid colaborará con la Administración del Estado en las actuaciones de seguimiento y evaluación del sistema educativo nacional."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 29 EACM (Ley Orgánica 3/1983, de 25 de febrero)",
+    "explicacion": "Los títulos académicos son competencia reservada al Estado (validez en todo el territorio nacional); no los regula la Asamblea de Madrid por Ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p2",
+    "texto": "La propuesta de reforma del Estatuto de Autonomía de la Comunidad de Madrid requiere, para su aprobación:",
+    "opciones": [
+      "a) El voto afirmativo de la mayoría de Diputados de la Asamblea y la aprobación por Ley por las Cortes Generales.",
+      "b) El voto afirmativo de las dos terceras partes de los miembros de la Asamblea y la aprobación por Ley Orgánica de las Cortes Generales.",
+      "c) El voto afirmativo de la mayoría absoluta de la Asamblea y la aprobación por Ley Orgánica de las Cortes Generales.",
+      "d) El voto afirmativo de las dos terceras partes de los miembros de la Asamblea y la aprobación por Ley de las Cortes Generales."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 64.1 EACM",
+    "explicacion": "La propuesta de reforma requiere, en todo caso, la aprobación de la Asamblea por mayoría de dos tercios y la aprobación de las Cortes Generales mediante Ley Orgánica.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p3",
+    "texto": "La Comunidad de Madrid, en los términos establecidos en su Estatuto, tiene competencia exclusiva en las siguientes materias:",
+    "opciones": [
+      "a) Régimen local.",
+      "b) Legislación laboral.",
+      "c) Ordenación del territorio, urbanismo y vivienda.",
+      "d) Todas son competencias exclusivas."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 26.1.4 EACM",
+    "explicacion": "La ordenación del territorio, urbanismo y vivienda es una de las materias de competencia exclusiva de la Comunidad de Madrid.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p4",
+    "texto": "La Comunidad Autónoma de Madrid no tiene competencia exclusiva en:",
+    "opciones": [
+      "a) Pesca fluvial.",
+      "b) Espectáculos Públicos.",
+      "c) Helipuertos deportivos.",
+      "d) Aeropuertos que desarrollen actividades comerciales."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 28.1.7 EACM",
+    "explicacion": "Los aeropuertos y helipuertos de interés general cuya gestión directa no se reserve al Estado son competencia de EJECUCIÓN de legislación estatal (art. 28), no competencia exclusiva (art. 26).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p5",
+    "texto": "La figura del Decreto-Ley en la Comunidad de Madrid:",
+    "opciones": [
+      "a) Está regulada por el Estatuto, que hace remisión a lo establecido en el artículo 86 de la Constitución española.",
+      "b) Está regulada por el Estatuto, que hace remisión a lo establecido en los artículos 82 a 85 de la Constitución española.",
+      "c) Está regulada por el Reglamento de la Asamblea, que establecerá los supuestos de utilización y su procedimiento de aprobación.",
+      "d) No está prevista en el Estatuto de Autonomía ni en la legislación de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 15.3 EACM",
+    "explicacion": "El Estatuto solo prevé la delegación legislativa en el Gobierno (remisión a los arts. 82, 83 y 84 CE), no la figura del Decreto-Ley propiamente dicha; la Comunidad de Madrid no tiene Decreto-Ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p6",
+    "texto": "La Mesa de la Asamblea de Madrid:",
+    "opciones": [
+      "a) Está compuesta por un Presidente, cuatro Vicepresidentes y cuatro Secretarios.",
+      "b) Está compuesta por un Presidente, dos Vicepresidentes y Cuatro Secretarios.",
+      "c) Está compuesta por un Presidente, dos Vicepresidentes y tres Secretarios.",
+      "d) Está compuesta por un Presidente, tres Vicepresidentes y tres Secretarios."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 52 del Reglamento de la Asamblea de Madrid (7 de febrero de 2019)",
+    "explicacion": "Se eligen una Presidencia, tres Vicepresidencias simultáneas y tres Secretarías (Primera, Segunda y Tercera).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p7",
+    "texto": "El Decreto de convocatoria de elecciones a la Asamblea, según la Ley 11/1986, de 16 de diciembre, Electoral de la Comunidad de Madrid, se expedirá:",
+    "opciones": [
+      "a) Con la suficiente antelación para que las elecciones puedan tener lugar en la misma fecha que las del resto de Comunidades Autónomas de régimen común.",
+      "b) El día quincuagésimo quinto anterior a la fecha de celebración de las elecciones.",
+      "c) Entre treinta y sesenta días antes de la celebración de las elecciones.",
+      "d) El día quincuagésimo quinto anterior a la fecha de la convocatoria de las elecciones."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 8.1 Ley 11/1986, Electoral de la Comunidad de Madrid",
+    "explicacion": "El Decreto de convocatoria se expedirá el día quincuagésimo quinto anterior a la fecha de celebración de las elecciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p8",
+    "texto": "Para la distribución de escaños de la Asamblea de Madrid, solo serán tenidas en cuenta:",
+    "opciones": [
+      "a) Las listas electorales que hayan obtenido el 3% de los sufragios válidamente emitidos.",
+      "b) Las listas electorales que hayan obtenido, al menos, el 3% de los sufragios válidamente emitidos.",
+      "c) Las listas electorales que hayan obtenido el 5% de los sufragios válidamente emitidos.",
+      "d) Las listas electorales que hayan obtenido al menos, el 5% de los sufragios válidamente emitidos."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 10.6 EACM",
+    "explicacion": "Solo serán tenidas en cuenta las listas que hubieran obtenido, al menos, el 5% de los sufragios válidamente emitidos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p9",
+    "texto": "El ejercicio de las competencias contenidas en el artículo 28 del Estatuto de Autonomía de la Comunidad de Madrid implica:",
+    "opciones": [
+      "a) El desarrollo legislativo, la potestad reglamentaria y la ejecución de las materias contenidas en el citado artículo, en el marco de la legislación básica del Estado.",
+      "b) La administración, ejecución y, en su caso, inspección, así como la facultad de dictar reglamentos internos de organización de los servicios correspondientes, de conformidad con las normas reglamentarias de carácter general que, en desarrollo de su legislación, dicte el Estado.",
+      "c) El desarrollo reglamentario pleno de las materias citadas.",
+      "d) La potestad legislativa, la potestad reglamentaria y la ejecución de las materias contenidas en el citado artículo, en el marco de la legislación básica del Estado."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 28.2 EACM",
+    "explicacion": "El ejercicio de las competencias de ejecución del art. 28 implica administración, ejecución e inspección, y la facultad de dictar reglamentos internos de organización, conforme a normas que dicte el Estado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p10",
+    "texto": "El Estatuto de Autonomía de la Comunidad de Madrid está regulado en:",
+    "opciones": [
+      "a) La Ley 1/1983, de 13 diciembre.",
+      "b) La Ley 3/1983, de 24 de febrero.",
+      "c) La Ley Orgánica 3/1983, de 25 de febrero.",
+      "d) La Ley Orgánica 3/1981, de 6 de abril."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, de 25 de febrero, Estatuto de Autonomía de la Comunidad de Madrid",
+    "explicacion": "El EACM está regulado por la Ley Orgánica 3/1983, de 25 de febrero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p11",
+    "texto": "La sesión constitutiva de la Asamblea de Madrid será presidida inicialmente por:",
+    "opciones": [
+      "a) El Presidente de la Asamblea.",
+      "b) El Presidente de la Comunidad de Madrid.",
+      "c) El Diputado electo de mayor edad de los presentes.",
+      "d) El Diputado electo de menor edad de los presentes."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 10 del Reglamento de la Asamblea de Madrid",
+    "explicacion": "La sesión constitutiva será presidida inicialmente por la Mesa de Edad, conformada por el Diputado electo de mayor edad de los presentes, asistido por los dos miembros más jóvenes como Secretarios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p12",
+    "texto": "Las proposiciones de Ley de la Asamblea podrán ser adoptadas a iniciativa de:",
+    "opciones": [
+      "a) Un Diputado, con la firma de otros cuatro miembros de la Cámara.",
+      "b) Dos Grupos Parlamentarios.",
+      "c) Un Grupo Parlamentario, con la firma de todos sus miembros.",
+      "d) Dos Grupos Parlamentarios, con la sola firma de su Portavoz."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 151.1 del Reglamento de la Asamblea de Madrid",
+    "explicacion": "Las proposiciones de ley podrán ser presentadas por un Diputado, con la firma de otros cuatro Diputados, o por un Grupo Parlamentario, con la sola firma de su Portavoz.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p13",
+    "texto": "\"De la Asamblea de la Comunidad de Madrid\" es la denominación del:",
+    "opciones": [
+      "a) Título I del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "b) Capítulo I del Título I del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "c) Capítulo II del Título I del Estatuto de Autonomía de la Comunidad de Madrid.",
+      "d) Capítulo III del Título I del Estatuto de Autonomía de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Capítulo Primero del Título I EACM",
+    "explicacion": "El Capítulo Primero del Título I del EACM se titula \"De la Asamblea de Madrid\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p14",
+    "texto": "El Presidente de la Asamblea de Madrid. Señale la opción incorrecta:",
+    "opciones": [
+      "a) Es elegido por la Asamblea por mayoría absoluta.",
+      "b) Preside la Diputación Permanente.",
+      "c) Ordena, en nombre del Rey, la promulgación de las leyes de la Asamblea.",
+      "d) Propone, previa consulta con los Grupos Parlamentarios, un candidato a la Presidencia de la Comunidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 40 EACM",
+    "explicacion": "Las leyes aprobadas por la Asamblea son promulgadas, en nombre del Rey, por el PRESIDENTE DE LA COMUNIDAD (no por el Presidente de la Asamblea), que ordena su publicación en el BOCM y el BOE.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p15",
+    "texto": "Señale, de entre las siguientes, qué función no corresponde a la Asamblea de Madrid:",
+    "opciones": [
+      "a) El conocimiento y el control de los planes económicos.",
+      "b) La ordenación básica de los órganos y servicios de la Comunidad de Madrid.",
+      "c) La potestad de establecer y exigir tributos.",
+      "d) Disponer la emisión de la Deuda Pública de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 16.3 EACM",
+    "explicacion": "Corresponde a la Asamblea la aprobación y control de presupuestos, el conocimiento y control de los planes económicos, y acordar operaciones de crédito y deuda pública; la ordenación básica de órganos y servicios no figura entre estas funciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p16",
+    "texto": "La responsabilidad penal de los Diputados de la Asamblea:",
+    "opciones": [
+      "a) Se exige ante la Sala II del Tribunal Supremo, en todo caso.",
+      "b) Se exige ante la Sala de lo Civil y Penal del Tribunal Superior de Justicia de la Comunidad de Madrid.",
+      "c) Se exige ante la Sala de lo Penal del Tribunal Superior de Justicia de la Comunidad de Madrid, en todo caso.",
+      "d) Se exige ante la Sala de lo Penal del Tribunal Superior de Justicia de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 11.6 EACM",
+    "explicacion": "Dentro del territorio de la Comunidad, la responsabilidad penal se exige ante la Sala de lo Penal del Tribunal Superior de Justicia de Madrid; fuera de dicho territorio, ante la Sala de lo Penal del Tribunal Supremo (por eso no es \"en todo caso\" ante el TSJ).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p17",
+    "texto": "Gozan de la condición política de ciudadanos de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Todos aquellos que tengan vecindad administrativa en algún municipio de Madrid.",
+      "b) Los españoles que tengan vecindad administrativa en algún municipio de Madrid.",
+      "c) Los ciudadanos comunitarios que tengan vecindad administrativa en algún municipio de Madrid.",
+      "d) Los ciudadanos que tengan vecindad administrativa Madrid."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 7.2 EACM",
+    "explicacion": "Gozan de la condición política de ciudadanos de la Comunidad los ESPAÑOLES que, de acuerdo con las leyes generales del Estado, tengan vecindad administrativa en cualquiera de sus municipios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p18",
+    "texto": "La Diputación Permanente de la Asamblea de Madrid. Señale la opción incorrecta:",
+    "opciones": [
+      "a) Está compuesta por 20 miembros.",
+      "b) Respeta en su composición la proporción representativa de los Grupos Parlamentarios.",
+      "c) Son designados sus miembros por el Pleno, a propuesta de los Grupos Parlamentarios.",
+      "d) Está presidida por el Presidente de la Asamblea."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 80 del Reglamento de la Asamblea de Madrid",
+    "explicacion": "La Diputación Permanente está compuesta por la Presidencia y por un número de Diputados equivalente al TERCIO de los Diputados de la Cámara (no un número fijo de 20).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p19",
+    "texto": "Las Leyes aprobadas por la Asamblea:",
+    "opciones": [
+      "a) Son promulgadas por el Rey, que ordena su publicación en BOCM y BOE, entrando en vigor al día siguiente de su publicación.",
+      "b) Son promulgadas, en nombre del Rey, por el Presidente de la Asamblea, que ordena su publicación en BOCM y BOE, entrando en vigor al día siguiente de su publicación.",
+      "c) Son promulgadas, en nombre del Rey, por el Presidente de la Comunidad, que ordena su publicación en BOCM y BOE, entrando en vigor al día siguiente de su publicación, salvo que la propia ley disponga otra cosa.",
+      "d) Son promulgadas, en nombre del Rey, por el Presidente de la Comunidad, que ordena su publicación en BOCM y BOE, entrando en vigor a los 20 días de su íntegra publicación, salvo que la propia ley disponga otra cosa."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 40.1 EACM",
+    "explicacion": "Las leyes de la Asamblea son promulgadas, en nombre del Rey, por el Presidente de la Comunidad, que ordena su publicación en BOCM y BOE, entrando en vigor al día siguiente salvo que la propia ley disponga otra cosa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p20",
+    "texto": "Los acuerdos de cooperación de la Comunidad de Madrid con otras Comunidades:",
+    "opciones": [
+      "a) Requieren autorización previa de las Cortes Generales, según establece el artículo 145 de la Constitución española.",
+      "b) Deberán ser comunicados a las Cortes Generales, que pueden manifestar su oposición en el plazo de 30 días desde su comunicación.",
+      "c) Están prohibidos, ya que la Constitución lo indica implícitamente en su artículo 145.",
+      "d) Pueden ser suscritos libremente por los órganos colegiados ejecutivos de las respectivas Comunidades."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Artículo 145.2 CE",
+    "explicacion": "Fuera de los convenios previstos en los Estatutos para gestión y prestación de servicios propios (comunicados a las Cortes), los acuerdos de cooperación entre Comunidades Autónomas necesitan la autorización de las Cortes Generales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p21",
+    "texto": "La provincia de Madrid se constituyó en Comunidad Autónoma uniprovincial, según lo previsto en el artículo:",
+    "opciones": [
+      "a) 143.1 de la Constitución.",
+      "b) 144 a) de la Constitución.",
+      "c) 144 b) de la Constitución.",
+      "d) 151 de la Constitución."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 144.a) CE",
+    "explicacion": "Las Cortes Generales, mediante Ley Orgánica, podrán autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del art. 143.1; este fue el caso de Madrid.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p22",
+    "texto": "La Gestión de la asistencia sanitaria de la Seguridad Social es:",
+    "opciones": [
+      "a) Una competencia legislativa de desarrollo del artículo 27 del Estatuto de Autonomía de la Comunidad.",
+      "b) Una competencia de ejecución de la legislación estatal de las contenidas en el artículo 28 del Estatuto de Autonomía de la Comunidad.",
+      "c) Una competencia legislativa plena del artículo 26 del Estatuto de Autonomía de la Comunidad.",
+      "d) Una competencia de ejecución de la legislación estatal de las contenidas en el artículo 29 del Estatuto de Autonomía de la Comunidad."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Artículo 28.1.1 EACM",
+    "explicacion": "Corresponde a la Comunidad de Madrid la ejecución de la legislación del Estado en materia de gestión de la asistencia sanitaria de la Seguridad Social, reservándose el Estado la alta inspección.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p23",
+    "texto": "La modificación del Reglamento de la Asamblea de Madrid:",
+    "opciones": [
+      "a) Tiene que ser autorizada por Ley Orgánica en las Cortes Generales.",
+      "b) Es competencia de la Asamblea, siendo necesaria mayoría simple.",
+      "c) Es competencia de la Asamblea, siendo necesaria mayoría absoluta.",
+      "d) Es competencia de la Asamblea, siendo necesaria mayoría cualificada de 2/3."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Artículo 12 EACM",
+    "explicacion": "La aprobación y reforma del Reglamento de la Asamblea se someten a votación final sobre su totalidad, que requiere el voto afirmativo de la mayoría absoluta de los Diputados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p24",
+    "texto": "Según el artículo 64 del Estatuto de Autonomía de la Comunidad de Madrid, la iniciativa de la reforma estatutaria corresponde:",
+    "opciones": [
+      "a) Al Gobierno de la Comunidad, exclusivamente.",
+      "b) A la Asamblea de Madrid, exclusivamente.",
+      "c) A la Asamblea de Madrid, a propuesta de un tercio de los Municipios de la Comunidad cuya población represente la mayoría absoluta de la Comunidad.",
+      "d) A la Asamblea o al Gobierno de la Comunidad."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 64.1 EACM",
+    "explicacion": "La iniciativa de la reforma corresponderá al Gobierno o a la Asamblea de Madrid, a propuesta de una tercera parte de sus miembros, o de dos tercios de los municipios de la Comunidad cuya población represente la mayoría absoluta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p25",
+    "texto": "La constitución de la Asamblea, según establece su Reglamento, tiene lugar:",
+    "opciones": [
+      "a) A las doce horas del vigesimoquinto día posterior a la celebración de las elecciones, o a las doce horas del inmediato día hábil anterior.",
+      "b) En el día y hora que fije el Decreto de convocatoria de las elecciones y, en su defecto, a las doce horas del vigesimo día posterior a la proclamación de los resultados electorales, o a las doce horas del inmediato día hábil anterior.",
+      "c) A las doce horas del vigesimoquinto día posterior a la proclamación de los resultados electorales, o a las doce horas del inmediato día hábil anterior.",
+      "d) En el día y hora que fije el Decreto de convocatoria de las elecciones y, en su defecto, a las doce horas del vigesimoquinto día posterior a la proclamación de los resultados electorales, o a las doce horas del inmediato día hábil anterior."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Artículo 9 del Reglamento de la Asamblea de Madrid",
+    "explicacion": "La Asamblea se reunirá en sesión constitutiva el día y hora fijados en el Decreto de convocatoria de elecciones y, en su defecto, a las doce horas del vigesimoquinto día siguiente a la proclamación de resultados (o del día hábil inmediato anterior si no fuera hábil).",
+    "requiere_imagen": false
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "464702",
+    "texto": "Para ordenar las actas de los diversos ayuntamientos de la Comunidad por orden temporal, el criterio más adecuado es:",
+    "opciones": [
+      "a) Funcional",
+      "b) Orgánico-Cronológico",
+      "c) Geográfico-cronológico",
+      "d) Decimal"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 16/1985 (Patrimonio Histórico Español)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12097481",
+    "texto": "Una diligencia es un:",
+    "opciones": [
+      "a) Documento administrativo resolutorio",
+      "b) Documento administrativo",
+      "c) Documento administrativo de constancia",
+      "d) Documento administrativo de comunicación"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El enunciado original del test tenía una errata (\"contancia\"); la palabra correcta es \"constancia\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12098465",
+    "texto": "¿Cuál es la norma que regula en la actualidad los Archivos y Documentos de la Comunidad de Madrid?",
+    "opciones": [
+      "a) Ley 4/1993, de 21 de abril",
+      "b) Ley 3/1983, de 25 de febrero",
+      "c) Ley 6/2023, de 30 de marzo",
+      "d) Ley 1/1983, de 30 de marzo"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 6/2023, de 30 de marzo, de Archivos y Documentos de la CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464696",
+    "texto": "En los Archivos de Gestión de la CAM se custodian los documentos sometidos a continua utilización y consulta administrativa y, en defecto de plazos de las Tablas de Valoración, los documentos carentes de vigencia durante un máximo de:",
+    "opciones": [
+      "a) Dos años desde el final de su tramitación",
+      "b) Cinco años desde el final de su tramitación",
+      "c) Diez años desde el final de su tramitación",
+      "d) Quince años desde el final de su tramitación"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 51.2.a) Ley 6/2023 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12098956",
+    "texto": "La convocatoria para comparecer dentro de un plazo es:",
+    "opciones": [
+      "a) Una resolución administrativa",
+      "b) Una citación",
+      "c) Un requerimiento",
+      "d) Un emplazamiento"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464699",
+    "texto": "El artículo 27 de la Ley 39/2015 no establece sobre las copias auténticas:",
+    "opciones": [
+      "a) Los interesados podrán solicitar, en cualquier momento, copias auténticas de documentos públicos administrativos válidamente emitidos",
+      "b) Los ciudadanos podrán solicitar, en cualquier momento, copias auténticas de documentos públicos administrativos válidamente emitidos",
+      "c) La expedición de copias auténticas de documentos públicos notariales se rige por su legislación específica",
+      "d) La expedición de copias auténticas de diarios oficiales se rige por su legislación específica"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 27.4 y 27.6 Ley 39/2015",
+    "explicacion": "El texto legal habla de \"los interesados\" (no \"los ciudadanos\"); por eso la formulación b) es la que no recoge la ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12099202",
+    "texto": "Señale la incorrecta respecto a las copias auténticas:",
+    "opciones": [
+      "a) Las AAPP están obligadas a expedir copias auténticas electrónicas de cualquier documento en papel que presenten los interesados",
+      "b) Las copias en soporte papel de documentos electrónicos no requerirán que figure la condición de copia",
+      "c) Las copias auténticas realizadas por una AP tendrán validez en las restantes Administraciones",
+      "d) Las copias auténticas tendrán la misma validez y eficacia que los documentos originales"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 27.4 Ley 39/2015",
+    "explicacion": "Las copias en papel de documentos electrónicos SÍ deben indicar la condición de copia y llevar un código de verificación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464695",
+    "texto": "¿Cuál de las siguientes afirmaciones es correcta?",
+    "opciones": [
+      "a) El documento administrativo se produce por un órgano administrativo o legislativo",
+      "b) El documento administrativo no debe ser susceptible de incorporarse a un expediente",
+      "c) El documento administrativo debe ser de contenido escriturado",
+      "d) El documento administrativo debe ser necesariamente emitido por un órgano de la Administración"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 26.1 Ley 39/2015",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464701",
+    "texto": "Los archivos existentes en los órganos y unidades de la AGE para custodia de documentos en fase de tramitación o continua utilización, mientras el expediente no ha sido resuelto, reciben el nombre de:",
+    "opciones": [
+      "a) Archivos de gestión",
+      "b) Archivos centrales",
+      "c) Archivos intermedios",
+      "d) Archivos primarios"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 9 RD 1708/2011",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12098711",
+    "texto": "La Ley 6/2023 CAM define como conjunto orgánico de documentos producidos o reunidos por una persona física o jurídica, pública o privada, en el ejercicio de sus funciones o actividades a:",
+    "opciones": [
+      "a) El fondo documental",
+      "b) La serie documental",
+      "c) El archivo",
+      "d) La colección"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 3.e) Ley 6/2023 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464694",
+    "texto": "Los documentos válidamente emitidos por los órganos de las AAPP, según la Ley 39/2015, tienen la consideración de documentos:",
+    "opciones": [
+      "a) Públicos Administrativos",
+      "b) Privados",
+      "c) Públicos",
+      "d) Oficiales"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 26.1 Ley 39/2015",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12097727",
+    "texto": "A la acción de eliminar documentos que no deban pasar a una siguiente fase de archivos se le denomina:",
+    "opciones": [
+      "a) Expurgo",
+      "b) Digitalización",
+      "c) Traspaso de documentos",
+      "d) Transferencias documentales"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464697",
+    "texto": "Como norma general, la permanencia de la documentación en los Archivos Centrales de la CAM tendrá lugar:",
+    "opciones": [
+      "a) Hasta cinco años desde el fin de su tramitación, salvo excepciones razonadas",
+      "b) Una vez concluidos los plazos de las correspondientes Tablas de Valoración",
+      "c) Hasta diez años máximo desde la fecha de ingreso en el archivo",
+      "d) Hasta quince años desde la fecha de ingreso en el archivo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 51.1-2 Ley 6/2023 CAM",
+    "explicacion": "La norma general es \"hasta que concluyan los plazos de las Tablas de Valoración\"; en su defecto, el plazo supletorio de los archivos centrales es de 10 años desde el ingreso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1388",
+    "texto": "Un resumen a base de frases extraídas del propio texto resumido, sin el valor del resumen informativo y con riesgo de elección equivocada de frases no significativas, recibe el nombre de:",
+    "opciones": [
+      "a) Extracto",
+      "b) Compendio",
+      "c) Reseña",
+      "d) Título"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12096251",
+    "texto": "No es un archivo administrativo:",
+    "opciones": [
+      "a) Un archivo de Gestión",
+      "b) Un archivo de Oficina",
+      "c) El archivo General de Indias",
+      "d) Un archivo Central"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "RD 1708/2011",
+    "explicacion": "El Archivo General de Indias es un archivo histórico, no un archivo de la fase administrativa (gestión/oficina/central).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12096990",
+    "texto": "Los Archivos Generales de la AGE remiten al Archivo Histórico Nacional los documentos con valor histórico cuando hayan cumplido:",
+    "opciones": [
+      "a) Cinco años",
+      "b) Diez años",
+      "c) Quince años",
+      "d) Veinticinco años"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Normativa del Sistema Español de Archivos",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12097972",
+    "texto": "Los Archivos de titularidad estatal y de carácter nacional serán creados mediante:",
+    "opciones": [
+      "a) Real Decreto",
+      "b) Decreto",
+      "c) Acuerdo del Consejo de Ministros",
+      "d) Real Decreto Ley"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 61.2 Ley 16/1985 (Patrimonio Histórico Español)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12097235",
+    "texto": "En la Comunidad de Madrid, los Registros se crean:",
+    "opciones": [
+      "a) Por Orden del Consejero competente en materia de Registros",
+      "b) Por Acuerdo del Gobierno",
+      "c) Por Orden del Vicepresidente",
+      "d) Por Acuerdo del Consejo de Archivos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 28 Decreto 21/2002 CAM",
+    "explicacion": "El decreto original habla del \"Consejero de Presidencia\" (competencia de la época); la opción a) generaliza como \"Consejero competente en materia de Registros\", pero es la considerada correcta por ADAMS.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12098219",
+    "texto": "En la Comunidad de Madrid son inalienables:",
+    "opciones": [
+      "a) Los documentos de titularidad pública o privada, en su condición de bienes de dominio público",
+      "b) Los documentos de titularidad pública, en su condición de bienes de dominio público",
+      "c) Los documentos de titularidad privada, en su condición de bienes de dominio público",
+      "d) Solo los documentos de titularidad pública en posesión de una persona jurídica, en su condición de bienes de dominio público"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 71.1 Ley 6/2023 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464700",
+    "texto": "Según el art. 16.4 de la Ley 39/2015, los documentos que los ciudadanos dirijan a los órganos de las AAPP podrán presentarse en:",
+    "opciones": [
+      "a) El registro electrónico de la Administración a la que se dirijan, aunque no en los restantes registros electrónicos del sector público",
+      "b) En las oficinas de Correos, en la forma que por medio de ley se establezca",
+      "c) En las representaciones diplomáticas u oficinas consulares del extranjero en España",
+      "d) En las oficinas de asistencia en materia de registros"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 16.4 Ley 39/2015",
+    "explicacion": "También matiza otras opciones: el registro electrónico SÍ vale junto con los del resto del sector público (a es incorrecta tal como está formulada); las oficinas de Correos se rigen por vía reglamentaria, no por ley (b es incorrecta); las representaciones son de España en el extranjero, no \"del extranjero en España\" (c es incorrecta). Solo d) es literalmente correcta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464698",
+    "texto": "Señale la incorrecta. Para ser considerados válidos, los documentos electrónicos administrativos deberán:",
+    "opciones": [
+      "a) Contener información archivada en soporte electrónico según formato susceptible de identificación y tratamiento diferenciado",
+      "b) Disponer de datos de identificación que permitan su individualización, sin perjuicio de su incorporación a un expediente electrónico",
+      "c) Incorporar los metadatos mínimos exigidos y las firmas electrónicas correspondientes",
+      "d) Incorporar los metadatos máximos exigidos y las firmas electrónicas correspondientes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 26.2 Ley 39/2015",
+    "explicacion": "La ley exige metadatos \"mínimos\", no \"máximos\"; también se exige incorporar una referencia temporal del momento de emisión (no mencionada en las opciones).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12096743",
+    "texto": "¿Cuál de los siguientes es un documento administrativo?",
+    "opciones": [
+      "a) Instancia",
+      "b) Solicitud del interesado",
+      "c) Escrito de alegaciones",
+      "d) Propuesta de resolución"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Instancia, solicitud y alegaciones son documentos que presenta el ciudadano; la propuesta de resolución es producida por la propia Administración, por lo que es la que encaja como \"documento administrativo\" en sentido estricto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12096497",
+    "texto": "Señale la afirmación falsa en relación con el expediente administrativo electrónico:",
+    "opciones": [
+      "a) El foliado se llevará a cabo mediante un índice electrónico, firmado por la Administración y por el interesado",
+      "b) El foliado se llevará a cabo mediante un índice electrónico autenticado que garantizará la integridad del expediente",
+      "c) Un mismo documento electrónico podrá formar parte de distintos expedientes administrativos",
+      "d) El índice electrónico autenticado será firmado por el titular del órgano que conforme el expediente"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 51 RD 203/2021",
+    "explicacion": "El índice se firma solo por el titular del órgano (o se sella electrónicamente si el expediente se forma automáticamente); no interviene la firma del interesado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12099446",
+    "texto": "Prevé la Ley 39/2015 que podrán realizar copias auténticas mediante funcionario habilitado:",
+    "opciones": [
+      "a) La AGE exclusivamente",
+      "b) La AGE y las Comunidades Autónomas",
+      "c) La AGE, las Comunidades Autónomas y las Entidades Locales",
+      "d) La AGE y las Entidades Locales exclusivamente"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 27.1 Ley 39/2015",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "12096007",
+    "texto": "En los archivos de gestión de la CAM se custodian:",
+    "opciones": [
+      "a) Documentos en proceso de tramitación",
+      "b) Documentos ya tramitados",
+      "c) Expedientes en los que se haya dictado resolución firme",
+      "d) Expedientes en los que se haya ejecutado resolución firme"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 9.1 Ley 6/2023 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "463561",
+    "texto": "Es encargada de la coordinación de la atención al ciudadano en la Comunidad de Madrid:",
+    "opciones": [
+      "a) La Oficina de Atención Especializada",
+      "b) La Oficina de Atención al Ciudadano",
+      "c) Los Puntos de Información y Atención al Ciudadano",
+      "d) La Comisión para la Coordinación de la Atención al Ciudadano"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 34 Decreto 21/2002 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "24833",
+    "texto": "No se requerirá el uso obligatorio de firma a los interesados para:",
+    "opciones": [
+      "a) Formular solicitudes",
+      "b) Interponer recursos",
+      "c) Desistir de acciones",
+      "d) Presentar alegaciones o intervenir en procesos de información pública"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 11.2 Ley 39/2015",
+    "explicacion": "La firma obligatoria se exige para formular solicitudes, presentar declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones y renunciar a derechos — no para alegaciones o información pública.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463564",
+    "texto": "El derecho de petición se regula en:",
+    "opciones": [
+      "a) La Ley 39/2015, LPACAP",
+      "b) La Ley 40/2015, LRJSP",
+      "c) La LO 4/2001, Reguladora del Derecho de Petición",
+      "d) La LO 4/1981, Reguladora del Derecho de Petición"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "LO 4/2001, de 12 de noviembre",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "24843",
+    "texto": "El despliegue de la Estrategia de Digitalización de la CAM 2023-2026 se articula sobre:",
+    "opciones": [
+      "a) Diez ejes estratégicos",
+      "b) Quince ejes estratégicos",
+      "c) Nueve ejes estratégicos",
+      "d) Siete ejes estratégicos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Estrategia de Digitalización CAM 2023-2026",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463553",
+    "texto": "Según la LO que regula el derecho de petición, si el escrito no reúne los requisitos, se requerirá al peticionario para subsanar en el plazo de:",
+    "opciones": [
+      "a) 10 días",
+      "b) 15 días",
+      "c) 20 días",
+      "d) 45 días"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 7.2 LO 4/2001",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "24831",
+    "texto": "No forma parte de la Comisión para la Coordinación de Atención al Ciudadano de la CAM:",
+    "opciones": [
+      "a) El Coordinador de la Oficina de Atención al Ciudadano",
+      "b) El Defensor del Contribuyente",
+      "c) Un representante de la Dirección General de Gobierno Abierto y Atención al Ciudadano",
+      "d) Un representante de la Dirección General de Servicios Sociales e Integración Social"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 38 Decreto 21/2002 CAM",
+    "explicacion": "La composición real incluye representantes de la DG competente en Atención al Ciudadano y del Organismo Autónomo Informática y Comunicaciones; no de Servicios Sociales e Integración Social.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "5911626",
+    "texto": "Se considera información general en el ámbito de la AGE:",
+    "opciones": [
+      "a) La concerniente al estado o contenido de los procedimientos en tramitación",
+      "b) La relativa a los requisitos jurídicos o técnicos que las disposiciones impongan a proyectos, actuaciones o solicitudes que los ciudadanos se propongan realizar",
+      "c) La identificación de autoridades y personal bajo cuya responsabilidad se tramitan los procedimientos",
+      "d) La que requiera una mayor profundización en la respuesta"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 2 RD 208/1996",
+    "explicacion": "a) y c) corresponden a \"información particular\" (sobre el propio expediente del interesado); d) define la información \"especializada\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463558",
+    "texto": "Según la Ley 39/2015, están obligados a relacionarse exclusivamente por medios electrónicos (señale la incorrecta):",
+    "opciones": [
+      "a) Las entidades sin personalidad jurídica",
+      "b) Quienes ejerzan actividad profesional de colegiación obligatoria, para trámites en ejercicio de dicha actividad",
+      "c) Las personas jurídicas",
+      "d) Quienes representen a un interesado que no esté obligado a relacionarse electrónicamente"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 14.2 Ley 39/2015",
+    "explicacion": "El supuesto real es \"quienes representen a un interesado que ESTÉ obligado\" a relacionarse electrónicamente, no \"que no esté obligado\" — de ahí que d) sea la incorrecta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463556",
+    "texto": "Las informaciones emitidas por el Sistema de Información al Ciudadano, según el Decreto de Atención al Ciudadano CAM:",
+    "opciones": [
+      "a) Podrán entrañar una interpretación normativa o consideración jurídica o económica",
+      "b) No originarán derechos ni expectativas de derecho a favor de solicitantes ni terceros, y no podrán lesionar derechos ni intereses legítimos",
+      "c) Estarán vinculadas al procedimiento, pudiendo invocarse a efectos de interrupción o suspensión de plazos, caducidad o prescripción",
+      "d) No tendrán carácter meramente ilustrativo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 14 Decreto 21/2002 CAM",
+    "explicacion": "Las informaciones tienen carácter meramente ilustrativo, NO entrañan interpretación normativa y NO tienen vinculación con el procedimiento (opciones a, c y d son las formulaciones inversas de la ley real).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "5911871",
+    "texto": "Son destinatarios de la información general:",
+    "opciones": [
+      "a) Los ciudadanos, exigiéndose acreditación de legitimación",
+      "b) Los ciudadanos, exigiéndose su identificación",
+      "c) Los ciudadanos, sin exigir acreditación de legitimación alguna",
+      "d) Las personas que tengan la condición de interesado en cada procedimiento"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 2.2 RD 208/1996",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463563",
+    "texto": "La declaración de inadmisibilidad de una petición se acordará y notificará al peticionario:",
+    "opciones": [
+      "a) En los 45 días naturales siguientes a la presentación",
+      "b) En los 45 días hábiles siguientes a la presentación",
+      "c) En el plazo máximo de dos meses",
+      "d) Podría darse por inadmitida por silencio administrativo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 9.1 LO 4/2001",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "5912363",
+    "texto": "Las sugerencias y reclamaciones presentadas en la CAM deben formalizarse por escrito y NO contendrán:",
+    "opciones": [
+      "a) La identificación del reclamante",
+      "b) La localización del reclamante",
+      "c) La nacionalidad del reclamante",
+      "d) El objeto de la sugerencia"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 30.1 Decreto 21/2002 CAM",
+    "explicacion": "Deben contener identificación, localización y objeto de la sugerencia/reclamación; la nacionalidad no es un dato exigido.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463566",
+    "texto": "Para exigir responsabilidad de autoridades y personal al servicio de las AAPP, se ponderarán, entre otros, los criterios:",
+    "opciones": [
+      "a) El resultado culposo producido",
+      "b) La existencia o no de culpabilidad",
+      "c) La relación con el funcionario",
+      "d) La responsabilidad profesional del personal al servicio de las Administraciones públicas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 36.2 Ley 40/2015",
+    "explicacion": "Los criterios reales son: resultado DAÑOSO producido (no \"culposo\"), grado de culpabilidad (no mera \"existencia o no\"), responsabilidad profesional del personal, y su relación con la producción del resultado dañoso (no \"relación con el funcionario\").",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463562",
+    "texto": "Son deberes/derechos en relación con los interesados en sus relaciones con la Administración:",
+    "opciones": [
+      "a) Utilización de los medios de identificación electrónica",
+      "b) Facilitar el acceso a los Registros en cualquier caso",
+      "c) Resolver respetando el orden de presentación, salvo decisión discrecional en contrario",
+      "d) Obligación de resolver expresa o presuntamente las solicitudes formuladas"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 13 Ley 39/2015",
+    "explicacion": "El art. 13 recoge derechos de las personas (no deberes de los funcionarios); la opción correcta corresponde al derecho \"a la obtención y utilización de los medios de identificación y firma electrónica\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463560",
+    "texto": "Mediante RD 188/2021, se reguló la obligación de relacionarse por medios electrónicos con la Administración de la CAM:",
+    "opciones": [
+      "a) De todas las personas",
+      "b) Del personal a su servicio y de los participantes en procesos selectivos",
+      "c) Del personal a su servicio",
+      "d) De los participantes en procesos selectivos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Decreto 188/2021 CAM",
+    "explicacion": "El decreto real es un Decreto del Consejo de Gobierno de la CAM (no un RD estatal), de 21 de julio de 2021.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "5912116",
+    "texto": "Según el Decreto 21/2002 CAM, tienen derecho a presentar sugerencias y reclamaciones:",
+    "opciones": [
+      "a) Los ciudadanos",
+      "b) Los ciudadanos e instituciones públicas",
+      "c) Los ciudadanos e instituciones privadas",
+      "d) Los ciudadanos e instituciones públicas y privadas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 29.1 Decreto 21/2002 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463559",
+    "texto": "Según el art. 10 de la Ley 39/2015, no se considerarán válidos a efectos de firma:",
+    "opciones": [
+      "a) Sistemas de firma electrónica cualificada y avanzada con certificados cualificados de la Lista de confianza",
+      "b) Sistemas de sello electrónico cualificado y avanzado con certificados cualificados de la Lista de confianza",
+      "c) Cualquier otro sistema válido para la AP, con registro previo que garantice la identidad",
+      "d) Sistemas de firma electrónica \"reconocida\", cualificada y avanzada con certificados \"reconocidos\" o cualificados"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 10.2 Ley 39/2015",
+    "explicacion": "La redacción vigente no emplea el término \"reconocida\"/\"reconocidos\" (terminología derogada); a, b y c sí reproducen fielmente el texto legal vigente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463551",
+    "texto": "La tramitación de quejas o sugerencias, según el RD del marco general de calidad en la AGE, podrá hacerse (señale la incorrecta):",
+    "opciones": [
+      "a) Presencialmente, mediante formulario",
+      "b) Por valija administrativa",
+      "c) Por medios telemáticos",
+      "d) Por correo postal"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 15.2 RD 951/2005",
+    "explicacion": "Los canales reales son presencial, correo postal y medios telemáticos; la valija administrativa no está prevista.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463557",
+    "texto": "Las Oficinas de Información Especializada de la CAM tienen dependencia funcional:",
+    "opciones": [
+      "a) De la Consejería de Presidencia, Deportes y Portavocía del Gobierno",
+      "b) De la Consejería de Economía, Empleo y Hacienda",
+      "c) De la Dirección General, Organismo Autónomo, Entidad de Derecho público o Ente Público al que se adscriban",
+      "d) Directamente de la Presidencia de la CAM"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 36.2 Decreto 21/2002 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "24832",
+    "texto": "¿Cuál es el plazo en el que la Oficina de Atención al Ciudadano de la CAM debe procurar la respuesta a una sugerencia o reclamación?",
+    "opciones": [
+      "a) 15 días hábiles",
+      "b) 20 días hábiles",
+      "c) Un mes",
+      "d) Dos meses"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 31.4 Decreto 21/2002 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463555",
+    "texto": "Es información especializada, en el ámbito de la CAM:",
+    "opciones": [
+      "a) Aquella que, por sus características específicas, requiera mayor profundización en la respuesta o consultas complementarias",
+      "b) La que versa sobre fines, competencias y funcionamiento de los órganos y servicios de la CAM",
+      "c) La que facilita a los interesados el estado de tramitación de su expediente y la identidad de las autoridades responsables",
+      "d) La que versa sobre localización, horarios, transporte público y trámites de expedientes"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 8 Decreto 21/2002 CAM",
+    "explicacion": "b) es información general; c) es información particular (del propio expediente); d) también es información general.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463565",
+    "texto": "El artículo 12 de la LPA contempla la asistencia en el uso de medios electrónicos:",
+    "opciones": [
+      "a) A los interesados no obligados a relacionarse electrónicamente con las AAPP",
+      "b) A los interesados",
+      "c) A todas las personas",
+      "d) A los españoles y extranjeros que residan en España"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 12.2 Ley 39/2015",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463554",
+    "texto": "En relación con el derecho de petición, además del recurso de amparo, podrán ser objeto de recurso contencioso-administrativo (protección jurisdiccional de derechos fundamentales):",
+    "opciones": [
+      "a) Sólo el derecho de petición ejercido ante una institución pública",
+      "b) La omisión de contestar la petición en el plazo de un mes",
+      "c) La omisión de contestar la petición en el plazo de cuatro meses",
+      "d) La declaración de inadmisibilidad de la petición"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 12 LO 4/2001",
+    "explicacion": "Los tres supuestos reales son: declaración de inadmisibilidad, omisión de contestar en el plazo establecido, y ausencia en la contestación de los requisitos mínimos — no se fija un plazo concreto de \"un mes\" ni \"cuatro meses\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "5911381",
+    "texto": "El Decreto 127/2022 CAM define como el espacio donde se realizan todas las actuaciones y trámites que requieran identificación de la Administración de la CAM y, en su caso, identificación o firma electrónica de los interesados a:",
+    "opciones": [
+      "a) El Punto de Acceso General electrónico",
+      "b) La sede electrónica",
+      "c) El Registro Electrónico General de la CAM",
+      "d) El Punto de Acceso electrónico"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 4 Decreto 127/2022 CAM",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463552",
+    "texto": "En relación con el derecho de petición, la LO que lo desarrolla establece que estas se formularán:",
+    "opciones": [
+      "a) Siempre de manera individual",
+      "b) Siempre de manera colectiva",
+      "c) Individual o colectiva, siempre que se formulen de forma verbal",
+      "d) Individual o colectiva, firmada por todos los peticionarios"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 4 LO 4/2001",
+    "explicacion": "Las peticiones se formulan siempre por escrito (nunca verbalmente); en el caso de colectivas, deben ir firmadas por todos los peticionarios.",
+    "requiere_imagen": false
+  }
+]

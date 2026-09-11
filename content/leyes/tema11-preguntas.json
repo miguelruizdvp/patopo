@@ -1,0 +1,702 @@
+[
+  {
+    "id": "464382",
+    "texto": "La cotización es un acto en virtud del cual los sujetos aportan recursos económicos al sistema de Seguridad Social, teniendo la misma carácter:",
+    "opciones": [
+      "a) Potestativa",
+      "b) Alternativa",
+      "c) Obligatoria",
+      "d) Vitalicia"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 18 TRLGSS",
+    "explicacion": "La cotización a la Seguridad Social es obligatoria en todos los regímenes del sistema.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463433",
+    "texto": "Son beneficiarias del subsidio especial por nacimiento y cuidado del menor:",
+    "opciones": [
+      "a) Trabajadoras por cuenta propia, salvo el período mínimo de cotización",
+      "b) Trabajadoras por cuenta ajena, salvo el requisito de afiliación",
+      "c) Trabajadoras por cuenta ajena, salvo el período mínimo de cotización",
+      "d) Trabajadoras por cuenta propia o ajena, salvo el período mínimo de cotización"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 181 TRLGSS",
+    "explicacion": "Serán beneficiarias las personas trabajadoras del Régimen General que reúnan todos los requisitos salvo el período mínimo de cotización del art. 178.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464372",
+    "texto": "Las actuaciones del procedimiento de apremio para el cobro de la deuda podrán prever un incremento sobre la cuantía exigible de hasta:",
+    "opciones": [
+      "a) 3%",
+      "b) 15%",
+      "c) 20%",
+      "d) 10%"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 87.3 RGR (RD 1415/2004)",
+    "explicacion": "Incremento de hasta el 10% en concepto de previsión de costas e intereses; la previsión de costas nunca puede superar el 3%.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464373",
+    "texto": "Requisitos para tener derecho a la pensión de jubilación no contributiva:",
+    "opciones": [
+      "a) 65 años, residencia legal 10 años (entre 16 y devengo, 2 consecutivos e inmediatos), carecer de rentas",
+      "b) 75 años, residencia legal 15 años, carecer de rentas",
+      "c) 65 años y carecer de rentas, sin más requisitos",
+      "d) 65 años, residencia UE 15 años, carecer de rentas"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 369 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464374",
+    "texto": "¿Mediante qué sistemas pueden liquidarse las cuotas según la LGSS?",
+    "opciones": [
+      "a) Exclusivamente autoliquidación",
+      "b) Exclusivamente liquidación directa por la TGSS",
+      "c) Liquidación simplificada para trabajadores por cuenta ajena del Régimen General",
+      "d) Liquidación simplificada para trabajadores por cuenta propia del RETA"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 22 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464369",
+    "texto": "La obligación de cotizar nace:",
+    "opciones": [
+      "a) Con el comienzo de la actividad, cuando se cumplan inscripción, afiliación y alta",
+      "b) Con el comienzo de la actividad, aun incumpliendo inscripción, pero no afiliación y alta",
+      "c) Con el comienzo de la actividad, aun incumpliendo inscripción, afiliación y alta",
+      "d) Con el comienzo de la actividad, aun incumpliendo inscripción y afiliación, pero no el alta"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 144.1 TRLGSS",
+    "explicacion": "Nace con el inicio de la prestación del trabajo, incluido el período de prueba, con independencia de que se hayan cumplido las formalidades.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464363",
+    "texto": "Señale la incorrecta. Recursos para la financiación de la Seguridad Social:",
+    "opciones": [
+      "a) Aportaciones progresivas del Estado",
+      "b) Cuotas de las personas obligadas",
+      "c) Recargos y sanciones",
+      "d) Aportaciones progresivas de las CCAA con carácter permanente en sus Presupuestos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 109 TRLGSS",
+    "explicacion": "El listado real no incluye aportaciones de las CCAA; sí incluye frutos, rentas o intereses de su patrimonio.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464370",
+    "texto": "El subsidio especial por maternidad tendrá una cuantía de:",
+    "opciones": [
+      "a) 100% IPREM, salvo base reguladora inferior, en cuyo caso se estará a ésta",
+      "b) 100% IPREM, salvo base reguladora superior",
+      "c) 100% SMI, salvo base reguladora inferior",
+      "d) 100% SMI, salvo base reguladora superior"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 182.2 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464368",
+    "texto": "Para acceder a incapacidad permanente por enfermedad común o accidente no laboral será necesario:",
+    "opciones": [
+      "a) Estar afiliados y en alta, pero no en situación asimilada",
+      "b) Basta con estar afiliados",
+      "c) Basta con tener cotizados los períodos exigidos",
+      "d) Estar afiliados y en alta en el Régimen General o situación asimilada al alta"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 195.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464381",
+    "texto": "La solicitud de afiliación a la Seguridad Social se dirigirá a:",
+    "opciones": [
+      "a) Ministerio de Empleo y Seguridad Social",
+      "b) Dirección Provincial de la Tesorería General de la SS",
+      "c) Instituto Nacional de la Seguridad Social",
+      "d) Ministerio de Inclusión, Seguridad Social y Migraciones"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 32 RD 84/1996",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464376",
+    "texto": "El RGR no fija como contenido mínimo de la providencia de apremio:",
+    "opciones": [
+      "a) Concepto e importe de la deuda y período al que corresponde",
+      "b) Duplicado del documento de liquidación TC1 no liquidado o indebidamente liquidado",
+      "c) Fecha en que se expide",
+      "d) Mención de que sólo cabe recurso de alzada del art. 86"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 84.2 RGR",
+    "explicacion": "El contenido mínimo real es: identificación del deudor, concepto/importe/período, indicación de deuda no satisfecha, fecha, advertencia de intereses y mención del recurso de alzada. El \"duplicado TC1\" no figura.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464380",
+    "texto": "La cuantía de la pensión contributiva de jubilación se determinará aplicando a la base reguladora:",
+    "opciones": [
+      "a) 50% por los primeros 15 años cotizados",
+      "b) 60% por los primeros 15 años cotizados",
+      "c) 50% por los primeros 25 años cotizados",
+      "d) 60% por los primeros 25 años cotizados"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 210.1.a) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464379",
+    "texto": "La prestación económica por riesgo durante la lactancia natural es del:",
+    "opciones": [
+      "a) 100% del IPREM",
+      "b) 100% de la base reguladora por contingencias comunes",
+      "c) 100% de la base reguladora por contingencias profesionales",
+      "d) 75% de la base reguladora por contingencias comunes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 189 (remite a 187.3) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464365",
+    "texto": "Resultan exentas en virtud del art. 7 IRPF:",
+    "opciones": [
+      "a) Prestaciones por incapacidad temporal",
+      "b) Prestaciones por desempleo",
+      "c) Prestaciones por incapacidad permanente parcial",
+      "d) Prestaciones por incapacidad permanente absoluta y gran invalidez"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 7.f) Ley 35/2006 (IRPF)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464361",
+    "texto": "La gestión y administración de las funciones del Estado en materia de Seguridad Social se ejercen, entre otras, a través de:",
+    "opciones": [
+      "a) Secretaría General de la Seguridad Social",
+      "b) Instituto de Crédito Oficial (ICO)",
+      "c) Unidades de Recaudación ejecutiva",
+      "d) Instituto de Mayores y Servicios Sociales (IMSERSO)"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 66.1.c) TRLGSS",
+    "explicacion": "El IMSERSO gestiona las pensiones no contributivas de invalidez y jubilación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464362",
+    "texto": "La afiliación a la Seguridad Social es:",
+    "opciones": [
+      "a) Obligatoria, vitalicia, y única y general para todos los regímenes",
+      "b) Potestativa, temporal, y única y general",
+      "c) Obligatoria, vitalicia, e individualizada por régimen",
+      "d) Potestativa, temporal, e individualizada por régimen"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 6 RD 84/1996",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464378",
+    "texto": "El importe inicial de las pensiones contributivas está sujeto a la siguiente limitación:",
+    "opciones": [
+      "a) No tiene limitación alguna",
+      "b) No podrá superar la cuantía que establece la LPGE de la CCAA correspondiente",
+      "c) No podrá superar la cuantía que establece una Orden del Ministerio de Inclusión",
+      "d) No podrá superar la cuantía que establezca anualmente la LPGE del Estado"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 57 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464366",
+    "texto": "La cuantía del subsidio de IT por enfermedad común:",
+    "opciones": [
+      "a) 75% desde el día siguiente a la baja",
+      "b) 60% entre el 4º y el 20º día, y 75% desde el 21º",
+      "c) 100% desde el mismo día de la baja",
+      "d) 100% si es por embarazo, 75% en el resto"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 171 TRLGSS y normativa de desarrollo",
+    "explicacion": "Los porcentajes concretos (60%/75%) se fijan en la normativa de desarrollo del art. 171, no en su texto literal.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464375",
+    "texto": "El derecho al reconocimiento de las prestaciones:",
+    "opciones": [
+      "a) Caduca a los 5 años",
+      "b) Prescribe a los 5 años, desde el día siguiente al hecho causante",
+      "c) Caduca al año",
+      "d) Prescribe al año"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 53.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464364",
+    "texto": "La base de cotización por Contingencias Comunes (BCCC) estará formada por:",
+    "opciones": [
+      "a) Retribución del mes, con exclusiones, más parte proporcional de vacaciones/permisos/salario en especie devengados en dicho período",
+      "b) Retribución del mes, con exclusiones, más parte proporcional de pagas extraordinarias y conceptos de vencimiento superior al mensual",
+      "c) Únicamente por la retribución mensual",
+      "d) Exclusivamente por los devengos retributivos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 147 TRLGSS",
+    "explicacion": "La cita del solucionario original remite al art. 22, pero la definición de BCCC corresponde al art. 147 TRLGSS.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464360",
+    "texto": "El Sistema de Seguridad Social de España se enuncia en:",
+    "opciones": [
+      "a) Art. 28 CE",
+      "b) Art. 41 CE",
+      "c) Art. 38 CE",
+      "d) Art. 39 CE"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 41 CE",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463420",
+    "texto": "Puede realizarse el pago de las cuotas de la Seguridad Social en:",
+    "opciones": [
+      "a) Período declarativo o ejecutivo",
+      "b) Siempre en período voluntario",
+      "c) Período voluntario o período ejecutivo",
+      "d) En plazo o fuera de plazo"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 6 RGR",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464377",
+    "texto": "El derecho al subsidio por incapacidad temporal se extinguirá por:",
+    "opciones": [
+      "a) Reconocimiento de la pensión de jubilación",
+      "b) Transcurso del plazo máximo de 365 días",
+      "c) Transcurso del plazo máximo de 180 días",
+      "d) Incomparecencia justificada a exámenes médicos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 174.1 TRLGSS",
+    "explicacion": "El plazo máximo real es de 545 días, no 365 ni 180; y la incomparecencia que extingue es la injustificada, no la justificada.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464371",
+    "texto": "La incapacidad temporal y el riesgo durante el embarazo son situaciones que:",
+    "opciones": [
+      "a) Extinguen la relación laboral",
+      "b) Suspenden la relación laboral",
+      "c) Producen una novación del contrato",
+      "d) No producen ningún efecto"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 45.1.c) y e) ET (RDLeg 2/2015)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "464367",
+    "texto": "El único competente para reconocer la prórroga expresa de la incapacidad temporal del trabajador será:",
+    "opciones": [
+      "a) Tesorería General de la SS",
+      "b) Instituto Nacional de Gestión Sanitaria",
+      "c) Instituto Nacional de la Seguridad Social",
+      "d) Instituto Social de la Marina"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 170.2 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463438",
+    "texto": "Señale la incorrecta. La obligación de cotizar subsiste en:",
+    "opciones": [
+      "a) Situación legal de desempleo (contributivo y asistencial)",
+      "b) La excedencia voluntaria",
+      "c) El cumplimiento de deberes públicos",
+      "d) Un convenio especial con la TGSS"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 144.2 TRLGSS",
+    "explicacion": "La excedencia voluntaria no está entre los supuestos en que subsiste la obligación de cotizar; sí subsiste durante deberes públicos o cargos sindicales, siempre que no den lugar a excedencia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1906392",
+    "texto": "La cuantía de las pensiones de jubilación no contributivas se fijará:",
+    "opciones": [
+      "a) Conforme al SMI vigente, en 12 pagas",
+      "b) Conforme al SMI vigente, en 14 pagas",
+      "c) En la LPGE, en 12 pagas",
+      "d) En la LPGE, en 14 pagas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "LPGE (cuantía anual de pensiones no contributivas)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1906882",
+    "texto": "La prestación económica por riesgo durante el embarazo finalizará:",
+    "opciones": [
+      "a) El día en que se inicie la suspensión del contrato por nacimiento y cuidado del menor",
+      "b) El día anterior a aquél en que se inicie dicha suspensión",
+      "c) El día posterior a aquél en que se inicie dicha suspensión",
+      "d) El día siguiente a la reincorporación de la trabajadora"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 187.2 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463427",
+    "texto": "Señale cuál de las siguientes situaciones extingue la relación laboral:",
+    "opciones": [
+      "a) La incapacidad temporal",
+      "b) La declaración de gran incapacidad",
+      "c) El nacimiento y cuidado del menor",
+      "d) La huelga"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 49.1.n) ET (RDLeg 2/2015)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463416",
+    "texto": "Son características del Sistema español de Seguridad Social (señale la incorrecta):",
+    "opciones": [
+      "a) Financiación tripartita (empresario, trabajador y Estado)",
+      "b) Gestión privada",
+      "c) Supresión del ánimo de lucro",
+      "d) Tendencia a la unidad"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Principios generales del TRLGSS (gestión pública, no privada)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463415",
+    "texto": "¿Qué artículo de la Constitución regula las competencias del Estado en materia de Seguridad Social?",
+    "opciones": [
+      "a) 149.1.17ª",
+      "b) 41",
+      "c) 148.1.19ª",
+      "d) 149.1.18ª"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 149.1.17ª CE",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1912613",
+    "texto": "La prestación económica por cuidado de menores afectados por cáncer será del:",
+    "opciones": [
+      "a) 100% de la base reguladora de IT por contingencias profesionales, en proporción a la reducción de jornada",
+      "b) 85% ídem",
+      "c) 75% ídem",
+      "d) 50% ídem"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 192.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1911392",
+    "texto": "La situación de un trabajador con incapacidad permanente que, por pérdidas anatómicas o funcionales, necesita la asistencia de otra persona para actos esenciales de la vida se califica como:",
+    "opciones": [
+      "a) Incapacidad Permanente Absoluta",
+      "b) Incapacidad Permanente Total",
+      "c) Gran Incapacidad",
+      "d) Incapacidad Permanente Parcial"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 194.1.d) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463435",
+    "texto": "Son modalidades de incapacidad permanente:",
+    "opciones": [
+      "a) Parcial, total, absoluta y cualificada",
+      "b) Parcial, total, absoluta y gran invalidez",
+      "c) Parcial, total, absoluta y gran incapacidad",
+      "d) Absoluta, total y cualificada"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 194.1 TRLGSS",
+    "explicacion": "El texto legal denomina el cuarto grado \"gran incapacidad\" (equivalente a \"gran invalidez\" en lenguaje coloquial); ADAMS marca c) como correcta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1905407",
+    "texto": "El derecho al percibo de las prestaciones a tanto alzado y por una sola vez caduca:",
+    "opciones": [
+      "a) Al año",
+      "b) A los 4 años",
+      "c) A los 5 años, desde la notificación de su concesión",
+      "d) A los 3 meses"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 54.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463439",
+    "texto": "Son elementos de la cotización a la Seguridad Social:",
+    "opciones": [
+      "a) Bases de cotización, cuotas de cotización y prestaciones",
+      "b) Tipos de cotización y cuotas",
+      "c) Cuotas de cotización y prestaciones",
+      "d) Bases de cotización, tipos de cotización y cuotas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "TRLGSS, Subsección 1ª (Disposiciones generales sobre cotización)",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1911992",
+    "texto": "No se deberá cotizar por contingencias comunes, para trabajadores con contrato indefinido, cuando:",
+    "opciones": [
+      "a) 65 años y 38 años de cotización",
+      "b) Una vez alcanzada la edad de acceso a la jubilación del art. 205.1.a)",
+      "c) 65 años y 35 años de cotización",
+      "d) 65 años y 35 años y 6 meses de cotización"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 152.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463426",
+    "texto": "Si el trabajador tiene entre 21 y 26 años en el momento del parto, el período mínimo de cotización exigido será de:",
+    "opciones": [
+      "a) No se exige período mínimo",
+      "b) 90 días en los 7 años anteriores, o alternativamente 180 días en toda la vida laboral",
+      "c) 90 días en los 7 años anteriores, o alternativamente 360 días",
+      "d) 180 días en los 7 años anteriores, o alternativamente 360 días"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 178.1.b) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463429",
+    "texto": "El subsidio por riesgo durante el embarazo consistirá en:",
+    "opciones": [
+      "a) 75% base reguladora de contingencias comunes",
+      "b) 75% de contingencias profesionales",
+      "c) 100% de contingencias comunes",
+      "d) 100% de contingencias profesionales"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 187.3 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1910902",
+    "texto": "Son características de las prestaciones de la Seguridad Social:",
+    "opciones": [
+      "a) Ser disponibles",
+      "b) Ser imprescriptibles",
+      "c) Estar exentas de tributación",
+      "d) Su percibo está sujeto a caducidad"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 54 TRLGSS",
+    "explicacion": "Son indisponibles y prescriptibles (no imprescriptibles); no todas están exentas de tributación; y el percibo de mensualidades/prestaciones a tanto alzado caduca.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1907618",
+    "texto": "Contra la providencia de apremio sólo será admisible recurso de alzada por (señale la incorrecta):",
+    "opciones": [
+      "a) Prescripción",
+      "b) Pago",
+      "c) Insolvencia total del deudor",
+      "d) Error material o aritmético en la deuda"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 86.1 RGR",
+    "explicacion": "Los motivos reales son: pago, prescripción, error material/aritmético, condonación/aplazamiento/suspensión, y falta de notificación. La insolvencia total del deudor no es motivo de recurso de alzada contra la providencia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1905653",
+    "texto": "El derecho al subsidio por incapacidad temporal podrá ser denegado:",
+    "opciones": [
+      "a) Cuando el trabajador trabaje por cuenta propia, exclusivamente",
+      "b) Cuando trabaje por cuenta ajena, exclusivamente",
+      "c) Cuando trabaje por cuenta propia o ajena",
+      "d) Cuando el beneficiario rechace, por causa justificada, el tratamiento indicado"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 175.1.b) TRLGSS",
+    "explicacion": "El rechazo del tratamiento sólo suspende el derecho cuando es SIN causa razonable (art. 175.2); si hay causa justificada no procede denegación por ese motivo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463422",
+    "texto": "La Base de contingencias profesionales se conformará con:",
+    "opciones": [
+      "a) Retribución mensual/diaria, con exclusiones previstas, más horas extraordinarias, más parte proporcional de pagas extraordinarias y conceptos de vencimiento superior al mensual",
+      "b) Ídem salvo las horas extraordinarias",
+      "c) Ídem, salvo horas extraordinarias, sin pagas extra",
+      "d) Ídem más horas extraordinarias, sin pagas extra"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 147.2.e) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1905900",
+    "texto": "El derecho al subsidio por incapacidad temporal se extinguirá:",
+    "opciones": [
+      "a) Transcurso máximo de 365 días",
+      "b) Transcurso máximo de 545 días",
+      "c) Transcurso máximo de 720 días",
+      "d) Incomparecencia justificada a exámenes médicos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 174.1 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463419",
+    "texto": "Señale en qué ocasiones se suspende la cotización a la Seguridad Social:",
+    "opciones": [
+      "a) Riesgo durante la lactancia natural",
+      "b) Incapacidad temporal",
+      "c) Período de vacaciones",
+      "d) Cierre patronal"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 144.5 TRLGSS",
+    "explicacion": "La obligación de cotizar se suspende durante huelga y cierre patronal.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1909091",
+    "texto": "Tendrán derecho a la pensión de jubilación contributiva las personas del Régimen General que reúnan, entre otras, la condición de:",
+    "opciones": [
+      "a) 15 años cotizados, de los cuales al menos 2 dentro de los 15 años anteriores a causar derecho",
+      "b) Ídem, al menos 3 años",
+      "c) Ídem, al menos 4 años",
+      "d) Ídem, al menos 6 años"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 205.1.b) TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463417",
+    "texto": "Podrá instarse la afiliación a la Seguridad Social (señale la incorrecta):",
+    "opciones": [
+      "a) A instancia de los empresarios",
+      "b) A petición de los trabajadores",
+      "c) De oficio, por la TGSS",
+      "d) Exclusivamente a instancia de los empresarios"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Art. 139 TRLGSS",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "1908109",
+    "texto": "Constituye el título ejecutivo suficiente para el inicio del procedimiento de apremio por la TGSS:",
+    "opciones": [
+      "a) La reclamación de deuda por la TGSS",
+      "b) La reclamación de deuda por la Inspección de Trabajo",
+      "c) La providencia de apremio",
+      "d) El acta de liquidación de la TGSS"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 84.1 RGR",
+    "explicacion": "",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463432",
+    "texto": "La pensión de jubilación no contributiva requiere (señale la incorrecta):",
+    "opciones": [
+      "a) 65 años de edad",
+      "b) Residir en territorio de la Unión Europea",
+      "c) Carecer de rentas o ingresos suficientes",
+      "d) Residencia en territorio nacional 10 años entre los 16 y el devengo (2 consecutivos e inmediatos)"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 369.1 TRLGSS",
+    "explicacion": "El requisito real es residir legalmente en territorio ESPAÑOL, no en la Unión Europea.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "463424",
+    "texto": "Por enfermedad profesional o accidente laboral, la cuantía del subsidio de IT será:",
+    "opciones": [
+      "a) 60% entre el 4º y el 20º día, 75% desde el 21º",
+      "b) 70% entre el 3º y el 15º día, 90% desde el 16º",
+      "c) 75% desde el día siguiente a la baja",
+      "d) 60% desde el día siguiente a la baja"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Art. 171 TRLGSS y normativa de desarrollo",
+    "explicacion": "Para contingencias profesionales el subsidio es del 75% desde el día siguiente a la baja (frente al 60%/75% escalonado de contingencias comunes).",
+    "requiere_imagen": false
+  }
+]
