@@ -30,8 +30,8 @@ a) Mayus + M
 b) Ctrl + V
 c) Alt + C
 d) Ctrl + A
-Respuesta_correcta: d (según clave ADAMS)
-Explicación: PENDIENTE DE VERIFICAR / POSIBLE ERROR: el atajo históricamente documentado en Outlook para abrir el elemento seleccionado es Ctrl+O, que no figura entre las opciones ofrecidas. No ha sido posible confirmar con seguridad que Ctrl+A sea el atajo correcto para esta acción en Outlook 365 (Ctrl+A suele estar asociado a "Seleccionar todo"); se mantiene la clave de ADAMS sin modificarla.
+Respuesta_correcta: d
+Explicación: Ctrl+A abre el elemento seleccionado en Outlook 365. En las aplicaciones de Windows/Office en español, Ctrl+A corresponde habitualmente a "Abrir" (no a "Seleccionar todo", que en español usa Ctrl+E), a diferencia de la convención en inglés (Ctrl+O=Open, Ctrl+A=Select All); de ahí que aquí sea coherente con la clave de ADAMS.
 
 ===========================================================
 4) [ID41620691]
@@ -506,7 +506,7 @@ Explicación: El icono de flecha circular con aspa roja, en la pestaña Enviar y
 ===========================================================
 NOTAS DE VERIFICACIÓN GENERALES
 - Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Outlook 365, no sobre citas legales.
-- Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR / POSIBLE ERROR, sin cambiar la clave:
-  · Pregunta 3 (ID41671922): atajo para abrir un mensaje recibido — la clave marca Ctrl+A, pero el atajo ampliamente documentado para "abrir elemento seleccionado" en Outlook es Ctrl+O (que no figura entre las opciones del enunciado).
-  · Pregunta 42 (ID41431413): atajo para crear un nuevo mensaje solo desde el módulo Correo — la clave marca Ctrl+U, pero el atajo ampliamente documentado para "nuevo elemento del módulo activo" es Ctrl+N (tampoco presente entre las opciones del enunciado).
+- Una pregunta queda señalada como PENDIENTE DE VERIFICAR / POSIBLE ERROR, sin cambiar la clave:
+  · Pregunta 42 (ID41431413): atajo para crear un nuevo mensaje solo desde el módulo Correo — la clave marca Ctrl+U, pero el atajo ampliamente documentado para "nuevo elemento del módulo activo" es Ctrl+N (que en español también empieza por N de "Nuevo", coincidiendo con el inglés "New"), y no figura entre las opciones del enunciado.
+- Importante sobre atajos en español: a diferencia del inglés (Ctrl+O=Open, Ctrl+A=Select All), en las aplicaciones de Windows/Office en español Ctrl+A suele ser "Abrir" y Ctrl+E "Seleccionar todo". Esto se tuvo en cuenta al revisar los atajos de este banco (p. ej. confirma la pregunta 3, Ctrl+A para abrir un mensaje).
 - El resto de las 50 preguntas —incluyendo atajos de teclado contrastados como Ctrl+O para "No leído" (pregunta 20) y Ctrl+F para "Reenviar" (pregunta 40), ambos coherentes con el comportamiento documentado de Outlook— no presentan discrepancias detectadas.
