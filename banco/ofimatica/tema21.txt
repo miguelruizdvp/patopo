@@ -1,0 +1,509 @@
+BANCO DE PREGUNTAS - TEMA 21 (OFIMÁTICA: HERRAMIENTAS DE TRABAJO COLABORATIVO / MICROSOFT 365)
+Fuente: ADAMS - Cuestionario tema 21.01 (test1) + Cuestionario tema 21.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
+Todas las preguntas: origen = banco_propio
+
+===========================================================
+1) [ID45301533]
+Pregunta: ¿Cuál de las siguientes no es una herramienta informática de gestión de tareas y proyectos?
+a) Slack
+b) Microsoft Planner
+c) Trello
+d) Asana
+Respuesta_correcta: a
+Explicación: Slack es una aplicación de comunicación interna, no de gestión de tareas y proyectos.
+
+===========================================================
+2) [ID45301562]
+Pregunta: ¿Qué permiten hacer las herramientas de gestión de tareas y proyectos?
+a) Asignar responsables
+b) Agregar archivos
+c) Generar informes de progreso
+d) Asignar responsables, agregar archivos y generar informes de progreso
+Respuesta_correcta: d
+Explicación: Estas herramientas combinan todas esas funciones, entre otras.
+
+===========================================================
+3) [ID45301185]
+Pregunta: Queremos añadir comentarios en un documento realizado por otra persona. ¿Cuál es la herramienta más adecuada?
+a) Google Docs
+b) OneDrive
+c) Google Drive
+d) Dropbox
+Respuesta_correcta: a
+Explicación: Google Docs permite añadir comentarios, igual que Word; OneDrive, Google Drive y Dropbox son plataformas de almacenamiento, no editores con comentarios.
+
+===========================================================
+4) [ID45301446]
+Pregunta: ¿Cuál de los siguientes no es tipo de usuario de Teams?
+a) Propietario
+b) Miembro
+c) Observador
+d) Invitado
+Respuesta_correcta: c
+Explicación: Los tipos de usuario reales son Propietario, Miembro e Invitado; "Observador" no existe como tal.
+
+===========================================================
+5) [ID45301301]
+Pregunta: ¿Cuál de las siguientes no es una versión de Outlook 365?
+a) Outlook de escritorio
+b) Aplicación móvil
+c) Aplicación para tablet
+d) Outlook Web
+Respuesta_correcta: c
+Explicación: No existe una versión específica para tablet, distinta de la app móvil.
+
+===========================================================
+6) [ID45301678]
+Pregunta: ¿Cuál de las siguientes afirmaciones es falsa con respecto a las plataformas de almacenamiento y compartición de archivos?
+a) Obliga a disponer de más espacio en los dispositivos locales
+b) Mejora la accesibilidad a los archivos
+c) Reduce los errores de versión
+d) Mejora la continuidad del servicio ante fallos técnicos
+Respuesta_correcta: a
+Explicación: Es justo lo contrario: al subir los archivos a la nube se necesita menos espacio en los dispositivos locales.
+
+===========================================================
+7) [ID45301359]
+Pregunta: ¿Cuál de las siguientes afirmaciones respecto de OneDrive es falsa?
+a) Permite la sincronización de archivos
+b) Permite compartir archivos y carpetas
+c) Evita problemas de acceso manteniendo una única forma de acceso: el explorador de Windows
+d) Mantiene un historial de versiones
+Respuesta_correcta: c
+Explicación: OneDrive tiene múltiples vías de acceso (explorador de Windows, Word/Excel, sitio web oficial, etc.), no una única forma de acceso.
+
+===========================================================
+8) [ID45301649]
+Pregunta: ¿Qué permiten hacer las aplicaciones de comunicación interna?
+a) Enviar mensajes instantáneos
+b) Realizar videollamadas
+c) Realizar llamadas de voz
+d) Realizar videollamadas o llamadas de voz y enviar mensajes instantáneos, entre otras cosas.
+Respuesta_correcta: d
+Explicación: Combinan mensajería instantánea, llamadas/videollamadas, organización por canales, compartición de archivos y notificaciones, entre otras funciones.
+
+===========================================================
+9) [ID45301736]
+Pregunta: ¿Qué afirmación es falsa respecto de las plataformas de almacenamiento y compartición de archivos?
+a) Se puede guardar diverso tipo de archivos
+b) Los archivos siempre se almacenan en el ordenador del propio usuario, no en la nube.
+c) El propietario de cada archivo decide quién puede acceder
+d) El almacenamiento es seguro
+Respuesta_correcta: b
+Explicación: Los archivos se alojan en servidores remotos (en la nube), no en el ordenador local.
+
+===========================================================
+10) [ID45301620]
+Pregunta: ¿Cuál de las siguientes no es una aplicación de comunicación interna?
+a) Zoom Chat
+b) Google Drive
+c) Microsoft Teams
+d) Slack
+Respuesta_correcta: b
+Explicación: Google Drive es una plataforma de almacenamiento y compartición de archivos, no de comunicación interna.
+
+===========================================================
+11) [ID45301156]
+Pregunta: ¿En qué servicio está integrado Google Docs?
+a) Google Meet
+b) Google Workspace
+c) Google Drive
+d) Google Chrome
+Respuesta_correcta: b
+Explicación: Google Docs forma parte de la suite Google Workspace.
+
+===========================================================
+12) [ID45301475]
+Pregunta: ¿Cuál de los siguientes no es uno de los 3 niveles principales de Teams?
+a) Organización
+b) Equipos
+c) Canales
+d) Conversaciones
+Respuesta_correcta: d
+Explicación: Los 3 niveles principales son Organización, Equipos y Canales; "Conversaciones" no es uno de ellos.
+
+===========================================================
+13) [ID45301272]
+Pregunta: ¿Cuál de las siguientes no es una plataforma para la realización de videoconferencias?
+a) Microsoft Teams
+b) To Do
+c) Zoom
+d) Google Meet
+Respuesta_correcta: b
+Explicación: To Do es una aplicación de gestión de tareas, no de videoconferencias.
+
+===========================================================
+14) [ID45301388]
+Pregunta: ¿Cuál de las siguientes no es una funcionalidad de SharePoint?
+a) Almacenamiento y gestión documental
+b) Automatización de procesos
+c) Reparación remota de equipos en red
+d) Integración con otras herramientas de Microsoft 365
+Respuesta_correcta: c
+Explicación: "Reparación remota de equipos en red" no es una funcionalidad de SharePoint.
+
+===========================================================
+15) [ID45301852]
+Pregunta: Las herramientas de trabajo colaborativo son...
+a) Todas asincrónicas.
+b) Todas sincrónicas.
+c) En unos casos sincrónicas y en otros asincrónicas.
+d) Ni síncronas ni asíncronas.
+Respuesta_correcta: c
+Explicación: Pueden ser asíncronas (correo electrónico) o síncronas (chat), según la herramienta.
+
+===========================================================
+16) [ID45301794]
+Pregunta: ¿Qué afirmación es falsa respecto de las herramientas de edición colaborativa de documentos?
+a) No permiten que varios usuarios formateen a la vez
+b) Permiten añadir comentarios
+c) Se puede restaurar versiones anteriores
+d) Muestran los cambios realizados en el documento
+Respuesta_correcta: a
+Explicación: Sí permiten que varios usuarios escriban, borren, muevan o formateen contenido simultáneamente.
+
+===========================================================
+17) [ID45301504]
+Pregunta: ¿Cuál de las siguientes no es una funcionalidad de Teams?
+a) Mensajería instantánea
+b) Llamadas y videoconferencias
+c) Creación de plantillas orientadas
+d) Compartición y coautoría de archivos
+Respuesta_correcta: c
+Explicación: "Creación de plantillas orientadas" no existe como funcionalidad de Teams.
+
+===========================================================
+18) [ID45301707]
+Pregunta: ¿Cuál de las siguientes no es una plataforma de almacenamiento de archivos?
+a) OneDrive
+b) Google Drive
+c) Dropbox
+d) Microsoft Teams
+Respuesta_correcta: d
+Explicación: Microsoft Teams es una aplicación de comunicación interna, no una plataforma de almacenamiento.
+
+===========================================================
+19) [ID45301765]
+Pregunta: ¿Cuál de los siguientes no es un ejemplo de herramienta de edición colaborativa de documentos?
+a) Word en línea
+b) Excel en línea
+c) Google Docs
+d) Google Chrome
+Respuesta_correcta: d
+Explicación: Google Chrome es un navegador, no una herramienta de edición colaborativa de documentos.
+
+===========================================================
+20) [ID45301243]
+Pregunta: ¿Cuál de las siguientes no es una funcionalidad habitual en las plataformas de videoconferencias?
+a) Chat integrado
+b) Compartir pantalla
+c) Reconocimiento óptico de caracteres
+d) Control de participantes
+Respuesta_correcta: c
+Explicación: El reconocimiento óptico de caracteres (OCR) sirve para digitalizar texto de documentos escaneados, sin relación con las videoconferencias.
+
+===========================================================
+21) [ID45301330]
+Pregunta: ¿Cuál de las siguientes no es una funcionalidad de Outlook 365?
+a) Creación de calendarios
+b) Creación de contactos
+c) Elaboración de presentaciones
+d) Registro de tareas pendientes
+Respuesta_correcta: c
+Explicación: Elaborar presentaciones es tarea de PowerPoint, no de Outlook.
+
+===========================================================
+22) [ID45301591]
+Pregunta: ¿Qué afirmación no es cierta respecto de las aplicaciones de comunicación interna?
+a) Aumentan la velocidad de respuesta interna
+b) Mejoran la coordinación
+c) Permiten estructurar la comunicación por temas
+d) Aumentan la dependencia del correo electrónico
+Respuesta_correcta: d
+Explicación: Al contrario, reducen la dependencia del correo electrónico al ofrecer un canal de comunicación alternativo.
+
+===========================================================
+23) [ID45301417]
+Pregunta: ¿Qué tipos de sitio tiene SharePoint?
+a) Sitio de comunicación y minisito
+b) Sitio de grupo y minisito
+c) Sitio de grupo y sitio de comunicación
+d) Sitio de grupo, sitio de comunicación y minisitio
+Respuesta_correcta: c
+Explicación: Los dos tipos reales son sitio de grupo (colaboración activa) y sitio de comunicación (difusión unidireccional); "minisitio" no existe.
+
+===========================================================
+24) [ID45301214]
+Pregunta: ¿Cuál de los siguientes no es un elemento habitual en la realización de videoconferencias?
+a) Cámara
+b) Micrófono
+c) Digitalizador
+d) Altavoces
+Respuesta_correcta: c
+Explicación: Un digitalizador (escáner) sirve para obtener copias digitales de documentos, no es necesario para una videoconferencia.
+
+===========================================================
+25) [ID45301823]
+Pregunta: ¿Cuál de las siguientes no es una característica del trabajo colaborativo?
+a) El aumento de la productividad
+b) La mejora de la comunicación interna
+c) El aumento de los errores
+d) La toma de decisiones más participativa
+Respuesta_correcta: c
+Explicación: El trabajo colaborativo reduce los errores gracias a la edición conjunta y al control de versiones, no los aumenta.
+
+===========================================================
+26) [ID45339584]
+Pregunta: ¿Cuál de los siguientes factores no influye en la calidad de las videoconferencias?
+a) Velocidad y estabilidad de la conexión a Internet
+b) Calidad del dispositivo (procesador, RAM, tarjeta gráfica)
+c) Configuración adecuada de audio y vídeo
+d) Todos los factores mencionados influyen
+Respuesta_correcta: d
+Explicación: Los tres factores mencionados (conexión, dispositivo, configuración de audio/vídeo) influyen en la calidad; no hay ninguno que no influya.
+
+===========================================================
+27) [ID45339816]
+Pregunta: ¿Si queremos eliminar automáticamente los mensajes que nos llegan de un determinado usuario, cómo podemos hacerlo en Outlook 365?
+a) Mediante una macro de Outlook
+b) Mediante una regla de mensajes
+c) Solo se puede hacer programando en VBA
+d) No se puede hacer
+Respuesta_correcta: b
+Explicación: Las reglas de mensajes de Outlook permiten eliminar automáticamente el correo de un remitente concreto.
+
+===========================================================
+28) [ID45339671]
+Pregunta: ¿Qué es BigBlueButton?
+a) Una plataforma de almacenamiento y compartición de archivos
+b) Un webmail
+c) Una plataforma para videoconferencias
+d) Una herramienta de gestión de tareas y proyectos
+Respuesta_correcta: c
+Explicación: BigBlueButton es una plataforma de videoconferencia de código abierto.
+
+===========================================================
+29) [ID45339932]
+Pregunta: ¿Cómo se llaman los sitios de SharePoint pensados para difundir información de forma unidireccional?
+a) Sitio de comunicación
+b) Sitio de grupo
+c) Sitio direccional
+d) Sitio único
+Respuesta_correcta: a
+Explicación: Los sitios de comunicación están pensados para difundir información de forma unidireccional; los sitios de grupo están orientados a la colaboración activa.
+
+===========================================================
+30) [ID45340048]
+Pregunta: ¿Qué otro término más coloquial podemos utilizar para referirnos a la mensajería instantánea?
+a) Llamadas
+b) Videoconferencias
+c) Chats
+d) Compartición de archivos
+Respuesta_correcta: c
+Explicación: "Chats" es el término coloquial habitual para la mensajería instantánea.
+
+===========================================================
+31) [ID45339845]
+Pregunta: ¿Con qué herramienta se corresponde el icono de un check azul mostrado en el enunciado?
+a) Teams
+b) Outlook
+c) To Do
+d) OneDrive
+Respuesta_correcta: c
+Explicación: El icono de check azul corresponde a Microsoft To Do.
+
+===========================================================
+32) [ID45339990]
+Pregunta: ¿Con qué otras aplicaciones se puede integrar Teams?
+a) Solo con aplicaciones de Microsoft
+b) Solo con aplicaciones de terceros
+c) Tanto con aplicaciones de Microsoft como con aplicaciones de terceros
+d) No se puede integrar con otras aplicaciones
+Respuesta_correcta: c
+Explicación: Teams se integra tanto con apps propias de Microsoft como con aplicaciones de terceros.
+
+===========================================================
+33) [ID45340193]
+Pregunta: ¿Qué archivos no podemos subir a una plataforma de almacenamiento y compartición de archivos?
+a) Imágenes
+b) Presentaciones
+c) Archivos para los que no tengamos un programa con el que abrirlos
+d) Podemos subir cualquier tipo de archivo
+Respuesta_correcta: d
+Explicación: Se puede subir cualquier tipo de archivo a estas plataformas, aunque no dispongamos de un programa para abrirlo (otra cosa es poder abrirlo después).
+
+===========================================================
+34) [ID45340251]
+Pregunta: ¿Si queremos insertar un comentario para otro usuario, desde dónde no podemos hacerlo en Word 365?
+a) Desde la ficha Inicio
+b) Desde la ficha Insertar
+c) Desde la ficha Revisar
+d) Desde el margen derecho del documento
+Respuesta_correcta: a
+Explicación: Los comentarios se insertan desde la ficha Insertar, la ficha Revisar o directamente desde el margen del documento; la ficha Inicio no ofrece esa opción.
+
+===========================================================
+35) [ID45340222]
+Pregunta: ¿Qué es Google Workspace?
+a) Una suite de herramientas de colaboración
+b) Una plataforma de almacenamiento y compartición de archivos
+c) Una aplicación de comunicación interna
+d) Una herramienta de gestión de tareas y proyectos
+Respuesta_correcta: a
+Explicación: Google Workspace es una suite de herramientas de colaboración y productividad basada en la nube.
+
+===========================================================
+36) [ID45339874]
+Pregunta: ¿Qué herramienta puede utilizarse para la automatización de ciertas tareas en el trabajo colaborativo?
+a) Power IT
+b) Power Automate
+c) Automatit
+d) Automa
+Respuesta_correcta: b
+Explicación: Power Automate es la herramienta real de Microsoft para automatizar tareas; el resto son nombres inventados.
+
+===========================================================
+37) [ID45340077]
+Pregunta: ¿Qué es Trello?
+a) Una aplicación de comunicación interna
+b) Una herramienta de gestión de tareas y proyectos
+c) Una plataforma de almacenamiento y compartición de archivos
+d) Una herramienta de edición colaborativa de documentos
+Respuesta_correcta: b
+Explicación: Trello es una herramienta de gestión de tareas y proyectos.
+
+===========================================================
+38) [ID45339903]
+Pregunta: ¿Si tenemos integrado To Do en Outlook, para qué nos servirá?
+a) Para hacer videollamadas
+b) Para chatear con otros usuarios
+c) Para gestionar tareas
+d) No se puede integrar To Do en Outlook
+Respuesta_correcta: c
+Explicación: To Do es una aplicación de gestión de tareas, integrable en Outlook.
+
+===========================================================
+39) [ID45340019]
+Pregunta: ¿Dónde se almacenan los archivos compartidos en los canales de Teams?
+a) En OneDrive
+b) En SharePoint
+c) En una carpeta local llamada Teams
+d) En una carpeta local llamada Canales
+Respuesta_correcta: b
+Explicación: Los archivos de los canales de un equipo de Teams se almacenan en una biblioteca de documentos de SharePoint asociada.
+
+===========================================================
+40) [ID45339961]
+Pregunta: ¿Qué afirmación respecto a Teams es falsa?
+a) Los propietarios de un equipo pueden agregar o eliminar miembros del equipo
+b) Un propietario de un equipo puede pasar a ser miembro o viceversa
+c) Se pueden crear canales privados
+d) El acceso es uniplataforma
+Respuesta_correcta: d
+Explicación: El acceso a Teams es multiplataforma (escritorio, web y móvil), no uniplataforma.
+
+===========================================================
+41) [ID45339613]
+Pregunta: ¿Qué afirmación sobre las videoconferencias es cierta?
+a) Nunca pueden grabarse
+b) Siempre se graban automáticamente sin que esa configuración pueda cambiarse
+c) Siempre son todos los participantes los que pueden iniciar la grabación o detenerla
+d) Solo algunos participantes pueden iniciar la grabación o detenerla
+Respuesta_correcta: d
+Explicación: Habitualmente solo el organizador o los presentadores/participantes con permiso pueden iniciar o detener la grabación, no todos.
+
+===========================================================
+42) [ID45339729]
+Pregunta: ¿A qué se refiere el término OWA?
+a) A una herramienta para videoconferencias
+b) A la versión web de Outlook 365
+c) A una herramienta de gestión de tareas y proyectos
+d) A una plataforma de almacenamiento y compartición de archivos
+Respuesta_correcta: b
+Explicación: OWA (Outlook Web App) es la versión web de Outlook.
+
+===========================================================
+43) [ID45340106]
+Pregunta: ¿Cuál de las siguientes no es una aplicación de comunicación interna?
+a) Google Chat
+b) Zoom Chat
+c) Chin Chat
+d) Slack
+Respuesta_correcta: c
+Explicación: "Chin Chat" es un nombre inventado; Google Chat, Zoom Chat y Slack sí son aplicaciones reales de comunicación interna.
+
+===========================================================
+44) [ID45340280]
+Pregunta: ¿Cómo hay que hacer para mencionar a otro usuario en un documento de Word 365 guardado en OneDrive?
+a) Escribir en un comentario el nombre del usuario
+b) Escribir en un comentario @ y el nombre del usuario
+c) Escribir en un comentario = y el nombre del usuario
+d) Escribir en un comentario # y el nombre del usuario
+Respuesta_correcta: b
+Explicación: Se menciona a otro usuario escribiendo @ seguido de su nombre dentro de un comentario.
+
+===========================================================
+45) [ID45339642]
+Pregunta: ¿Cuál de los siguientes programas (Word, Excel, Access) no tiene el comando "Autoguardado"?
+a) Word
+b) Excel
+c) Access
+d) Lo tienen tanto Word, como Excel, cómo Access.
+Respuesta_correcta: c
+Explicación: Access no necesita el interruptor de Autoguardado en OneDrive, ya que las bases de datos se van guardando automáticamente conforme se introducen los datos.
+
+===========================================================
+46) [ID45340164]
+Pregunta: ¿Cuál de los siguientes programas de Microsoft 365 no permite guardar en OneDrive?
+a) Word
+b) Excel
+c) Access
+d) Tanto Word, como Excel, como Access permiten guardar en OneDrive
+Respuesta_correcta: d
+Explicación: Los tres programas permiten guardar sus archivos en OneDrive.
+
+===========================================================
+47) [ID45340135]
+Pregunta: ¿Si queremos enviar a otro usuario un archivo con Outlook 365 pero pesa demasiado (aunque lo comprimamos), qué podemos hacer?
+a) Volverlo a comprimir
+b) Usar la compresión especial
+c) Compartirlo usando Dropbox
+d) No podemos hacer nada
+Respuesta_correcta: c
+Explicación: Si no se puede compartir por correo, se puede subir a una plataforma de almacenamiento y compartición de archivos, como Dropbox, y compartirlo desde ahí.
+
+===========================================================
+48) [ID45339758]
+Pregunta: ¿Qué afirmación respecto a Outlook 365 es cierta?
+a) No se pueden usar calendarios en Outlook 365
+b) Outlook 365 no tiene ningún calendario, pero se puede integrar calendarios de otras aplicaciones
+c) Outlook 365 cuenta con su propio calendario, pero solo se puede tener un único calendario
+d) Se pueden crear varios calendarios en Outlook 365
+Respuesta_correcta: d
+Explicación: Con el botón derecho sobre un calendario existente y "Nuevo calendario" se pueden crear varios calendarios.
+
+===========================================================
+49) [ID45339787]
+Pregunta: ¿Qué necesitamos para usar la versión web de Outlook 365?
+a) Un navegador
+b) Tener instalado Outlook 365
+c) Solo se puede usar con Microsoft Edge
+d) No existe una versión web de Outlook 365
+Respuesta_correcta: a
+Explicación: Basta un navegador para acceder desde outlook.office.com, sin necesidad de tener Outlook instalado.
+
+===========================================================
+50) [ID45339700]
+Pregunta: ¿Cuál de los siguientes es un requisito opcional para la realización de videoconferencias?
+a) Dispositivo con conexión a Internet
+b) Plataforma de videoconferencia
+c) Micrófono y altavoces
+d) Pantalla compartida
+Respuesta_correcta: d
+Explicación: Compartir pantalla es una función útil pero opcional; el dispositivo conectado, la plataforma y el micrófono/altavoces sí son imprescindibles.
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico/conceptual (no normativo): la verificación se ha hecho sobre el comportamiento real de las herramientas de Microsoft 365 y de colaboración citadas, no sobre citas legales.
+- No se han detectado errores de fondo en la clave de respuestas de ninguna de las 50 preguntas de este tema.
