@@ -1,0 +1,512 @@
+BANCO DE PREGUNTAS - TEMA 17 (OFIMÁTICA: PROCESADORES DE TEXTO - WORD 365)
+Fuente: ADAMS - Cuestionario tema 17.01 (test1) + Cuestionario tema 17.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
+Todas las preguntas: origen = banco_propio
+
+===========================================================
+1) [ID41275720]
+Pregunta: En Word 365, ¿Qué modelo de referencia de nota aparece siempre en la misma página que el texto que posee la nota insertada?
+a) Nota Final de la sección.
+b) Nota Final del documento.
+c) Nota Final de la página.
+d) Nota al pie del párrafo.
+Respuesta_correcta: c
+Explicación: Las notas al pie (a diferencia de las notas al final, que se ubican al final de la sección o del documento) garantizan que el texto de la nota quede siempre en la misma página que su referencia, ya sea con la ubicación "Final de página" o "Debajo del texto seleccionado".
+
+===========================================================
+2) [ID41266999]
+Pregunta: En Word 365, ¿Qué afirmación es falsa acerca de la sombra incluida en los bordes que emplean el Valor denominado Sombra?
+a) La Sombra se ubica siempre en la parte inferior derecha del borde elegido.
+b) La Sombra tendrá siempre el mismo grosor que el Ancho asignado al borde elegido.
+c) El color de la Sombra se basa siempre en el mismo color elegido para el borde, pero con una tonalidad más oscura.
+d) El uso del Valor Sombra no impide elegir cualquier modelo de estilo de línea que se desee aplicar al borde con Sombra.
+Respuesta_correcta: c
+Explicación: Falso: el color de la sombra en un borde de tipo "Sombra" está predeterminado en negro, con independencia del color elegido para el borde.
+
+===========================================================
+3) [ID40921911]
+Pregunta: ¿Cuál de las siguientes extensiones no está admitida por Word 365 a la hora de personalizar el tipo o formato de archivo al guardar el documento abierto?
+a) XML.
+b) GIF.
+c) TXT.
+d) RTF.
+Respuesta_correcta: b
+Explicación: GIF es un formato de imagen, no un formato de guardado de documento de Word.
+
+===========================================================
+4) [ID41266970]
+Pregunta: En Word 365, ¿Cuántos bordes personalizados diferentes podemos asignar a una selección de varios párrafos consecutivos?
+a) 4 bordes.
+b) 5 bordes.
+c) Depende del número de párrafos.
+d) 2 bordes.
+Respuesta_correcta: b
+Explicación: Los cuatro bordes habituales (superior, inferior, izquierdo, derecho) más el borde intermedio horizontal entre párrafos, total 5, independientemente del número de párrafos seleccionados.
+
+===========================================================
+5) [ID40921097]
+Pregunta: ¿A qué elemento se conoce como Backstage en Word 365?
+a) A la ventana que aparece si se presiona CTRL + 1.
+b) Al panel que se muestra si se presiona CTRL + B.
+c) Al conjunto de elementos incluidos en la pestaña de Archivo de la cinta de opciones.
+d) Al cuadro de opciones que aparece si se presiona el método CTRL + F3.
+Respuesta_correcta: c
+Explicación: El Backstage es la vista de la pestaña Archivo donde se gestionan apertura, creación, guardado, impresión y exportación de documentos, entre otras tareas.
+
+===========================================================
+6) [ID40923307]
+Pregunta: ¿Desde dónde podemos acceder a la adición de complementos en Word 365?
+a) Pestaña Insertar / Complementos.
+b) Pestaña Archivo / Información / Complementos.
+c) Pestaña Inicio / Complementos / Complementos
+d) Pestaña Revisar / Accesibilidad / Complementos.
+Respuesta_correcta: c (según clave ADAMS)
+Explicación: ADAMS marca c) sin desarrollar explicación en el solucionario. NOTA DE VERIFICACIÓN: en la cinta estándar de Word 365 el grupo "Complementos" (con "Obtener complementos"/"Mis complementos") se ubica habitualmente en la pestaña Insertar, lo que apuntaría a la opción a). No ha sido posible confirmar con certeza cuál es la disposición exacta que ADAMS tiene en pantalla (la captura del enunciado no es completamente legible). PENDIENTE DE VERIFICAR antes de dar la clave por buena sin más.
+
+===========================================================
+7) [ID40921824]
+Pregunta: ¿Qué método abreviado permite cerrar el documento activo, pero sin que se cierre al mismo tiempo el programa Word 365?
+a) ALT + F4.
+b) CTRL + F4
+c) CTRL + S.
+d) CTRL + R.
+Respuesta_correcta: b
+Explicación: CTRL+F4 cierra la ventana/documento activo sin cerrar la aplicación; ALT+F4 cierra el programa completo. También puede hacerse desde Archivo / Cerrar.
+
+===========================================================
+8) [ID30351640]
+Pregunta: ¿Word 365 permite abrir documentos realizados en versiones anteriores a la edición de Word 2007?
+a) Sí, pero solo si son en concreto documentos de las versiones 97 ó 2003
+b) Sí, pero solo si son en concreto documentos con la extensión .DOCX
+c) No, Word 365 solamente reconoce los documentos propios de esa versión
+d) Sí
+Respuesta_correcta: d
+Explicación: Word 365 abre sin problema documentos con extensión .DOC o .DOT de versiones anteriores a 2007.
+
+===========================================================
+9) [ID30354735]
+Pregunta: En un documento de 3 páginas con un encabezado y un pie, ¿Qué se debe hacer para tener un encabezado o un pie distinto a partir de la página 3?
+a) Al final del texto de la página 3 y mediante el menú Disposición / Saltos, se insertará un Salto de sección a la página siguiente. Después, habrá que entrar en el encabezado y romper el vínculo al anterior
+b) Al final del texto de la página 3 y mediante el menú Disposición / Saltos, se insertará un Salto de página. Después, habrá que entrar en el encabezado y romper el vínculo al anterior
+c) Al final del texto de la página 3 y mediante el menú Diseño / Saltos, se insertará un Salto de sección a la página siguiente. Después, habrá que entrar en el encabezado y romper el vínculo al anterior
+d) Al final del texto de la página 3 y mediante el menú Diseño / Saltos, se insertará un Salto de página a la página siguiente. Después, habrá que entrar en el encabezado y romper el vínculo al anterior
+Respuesta_correcta: a
+Explicación: El comando Saltos está en la pestaña Disposición (no en Diseño), y para tener encabezado/pie distinto a partir de cierto punto hace falta un salto de SECCIÓN (no un simple salto de página), rompiendo después el vínculo con la sección anterior.
+
+===========================================================
+10) [ID40922958]
+Pregunta: ¿Qué tres comandos nos encontramos, dentro del grupo de comandos llamado «Mostrar», en la pestaña llamada Vista de Word 365?
+a) Regla, Líneas de cuadrícula y Panel de Navegación.
+b) Regla, Líneas de cuadrícula y Zoom.
+c) Regla, Nueva ventana y Panel de Navegación.
+d) Regla, Líneas de cuadrícula y Panel de División.
+Respuesta_correcta: a
+Explicación: Grupo "Mostrar" de la pestaña Vista: Regla, Líneas de cuadrícula, Panel de navegación.
+
+===========================================================
+11) [ID27522119]
+Pregunta: ¿Qué tabulaciones se muestran en el pantallazo (regla con marcas) y cuánto miden?
+a) Tres tabulaciones: 1 cm alineación derecha, 1,5 cm alineación centrada, 2 cm de tipo barra.
+b) Tres tabulaciones: 1 cm alineación derecha, 1,5 cm alineación decimal, 2 cm de tipo barra.
+c) Tres tabulaciones: 1 cm alineación izquierda, 1,5 cm alineación decimal, 2 cm alineación derecha.
+d) Tres tabulaciones: 1 cm alineación centrada, 1,5 cm alineación decimal, 2 cm de tipo barra.
+Respuesta_correcta: b
+Explicación: Según la captura de la regla del enunciado (iconos de tabulación identificados por ADAMS).
+
+===========================================================
+12) [ID30061507]
+Pregunta: ¿Cuál de las siguientes capturas representa el icono del comando Reemplazar de Word 365?
+a) (icono con letras b/c y flecha)
+b) (icono ABC con check)
+c) (icono AB¹)
+d) (icono lupa)
+Respuesta_correcta: a
+Explicación: El icono de "Reemplazar" se encuentra en Inicio / Edición / Reemplazar (icono con flecha entre "b" y "c"), distinto de "Buscar" (lupa) o "Seleccionar".
+
+===========================================================
+13) [ID40923278]
+Pregunta: ¿Qué elemento de un documento no puede ser utilizado como destino un hipervínculo en un documento en Word 365?
+a) Un marcador.
+b) A otro lugar de este mismo documento.
+c) Una entrada de índice.
+d) Un título.
+Respuesta_correcta: c
+Explicación: Los destinos válidos dentro del propio documento son: Inicio del documento, Títulos y Marcadores. Las entradas de índice no son destino válido de hipervínculo.
+
+===========================================================
+14) [ID41268115]
+Pregunta: ¿Cuántos tipos de saltos de sección se pueden insertar en Word 365?
+a) 2.
+b) 3.
+c) 4.
+d) 5.
+Respuesta_correcta: c
+Explicación: Página siguiente, Continua, Página par, Página impar (4 tipos).
+
+===========================================================
+15) [ID41274560]
+Pregunta: ¿Cuál es el método abreviado que permite incluir el campo número de página en la posición actual en un documento de Word 365?
+a) Alt + Mayus + P.
+b) Ctrl + May + P.
+c) Ctrl + Alt + P.
+d) Ctrl + Alt + N.
+Respuesta_correcta: a
+Explicación: Alt+Mayús+P inserta el campo PÁGINA en la posición del cursor.
+
+===========================================================
+16) [ID40921969]
+Pregunta: ¿Cuál es la extensión que emplea una plantilla no habilitada para macros en Word 365?
+a) DOTM.
+b) DOCX.
+c) DOTX.
+d) DOCP.
+Respuesta_correcta: c
+Explicación: .DOTX = plantilla sin macros; .DOTM = plantilla con macros habilitadas; .DOCX = documento normal.
+
+===========================================================
+17) [ID41272528]
+Pregunta: En Word 365, ¿Qué entrada no está disponible al elegir una de las opciones incluidas en el menú «Varias páginas» de la pestaña Márgenes del cuadro de diálogo Configurar página?
+a) Normal.
+b) Márgenes asimétricos.
+c) Dos páginas por hoja.
+d) Formato libro.
+Respuesta_correcta: b
+Explicación: La opción real es "Márgenes simétricos", no "asimétricos". Las opciones disponibles son: Normal, Márgenes simétricos, Dos páginas por hoja, Formato libro.
+
+===========================================================
+18) [ID41276853]
+Pregunta: En Word 365, observando la captura, indique cuál de las siguientes aseveraciones es correcta con relación a las propiedades aplicadas en el texto anterior.
+a) En el cuarto párrafo se tienen desactivadas las opciones Conservar líneas juntas, conservar con el siguiente y Control de líneas viudas y huérfanas
+b) La numeración de líneas añadida está personalizada comenzando por cinco y con intervalo tres y se ha aplicado un estilo de fuente en negrita y subrayado
+c) Los dos primeros párrafos se les ha asignado el comando de párrafo Ctrl+Mayus+J, el tercer párrafo está centrado y el cuarto y quinto párrafos llevan asignados una alineación aplicada con Ctrl + Q
+d) El último párrafo tiene aplicado la opción de Párrafo distribuido.
+Respuesta_correcta: a
+Explicación: El cuarto párrafo discurre entre la segunda y tercera columna dejando una línea viuda al inicio de la última columna, lo que revela que Control de líneas viudas y huérfanas, Conservar líneas juntas y Conservar con el siguiente están desactivadas en ese párrafo.
+
+===========================================================
+19) [ID41274908]
+Pregunta: ¿Desde qué pestañas de la cinta de opciones de Word 365, se puede insertar el campo de numeración de páginas en un documento?
+a) Solo desde la pestaña Insertar.
+b) Desde tres pestañas, Insertar, Disposición y Referencias.
+c) Desde dos pestañas, Insertar y la pestaña contextual Encabezado y Pie de página.
+d) Desde dos pestañas, Diseño y Vista.
+Respuesta_correcta: c
+Explicación: Desde Insertar (botón Número de página, o Elementos rápidos) y desde la pestaña contextual Encabezado y pie de página (botón Número de página).
+
+===========================================================
+20) [ID41267057]
+Pregunta: En Word 365, ¿qué afirmación es cierta acerca de cuál es el mayor Ancho asignable a un borde?
+a) Será siempre de 3 puntos.
+b) Será siempre de 6 puntos.
+c) Depende del Estilo del borde.
+d) Sera siempre de 1/2 punto hasta máximo 4 1/2 puntos.
+Respuesta_correcta: c
+Explicación: Cada estilo de línea tiene su propia lista de anchos disponibles, que pueden ir desde 1/4 pto hasta un máximo de 6 pto según el estilo elegido.
+
+===========================================================
+21) [ID41275719]
+Pregunta: En Word 365, ¿Es posible personalizar la línea del separador de notas?
+a) Al igual que la línea entre columnas no se puede configurar, el separador de notas trabaja con un estilo predeterminado no modificable.
+b) Solo se puede cambiar desde la vista esquema, para así acceder al estilo del separador y poner en su posición otra forma o borde de párrafo.
+c) El separador de notas se puede personalizar desde la vista Borrador, Esquema o Diseño Web.
+d) El cambio de la línea separador se puede ajustar desde las vistas Diseño de impresión o Modo de Lectura.
+Respuesta_correcta: c (según clave ADAMS)
+Explicación: El acceso al panel de notas para editar el separador requiere estar en una de las vistas Borrador, Esquema o Diseño Web (no está disponible desde Diseño de impresión ni Modo de lectura). PENDIENTE DE VERIFICAR el matiz de si realmente funciona igual en las tres vistas citadas o solo en Borrador, que es la vía más habitual descrita en la documentación de Word.
+
+===========================================================
+22) [ID44752872]
+Pregunta: ¿Cuál de las siguientes opciones de "Proteger documento" dentro de la pestaña "Archivo" concede acceso a las personas, pero quita permisos para editar, copiar o imprimir?
+a) Marcar como final.
+b) Abrir siempre como solo lectura.
+c) Restringir el acceso.
+d) Restringir edición.
+Respuesta_correcta: c
+Explicación: "Restringir el acceso" (IRM) concede acceso pero retira permisos de edición, copia e impresión.
+
+===========================================================
+23) [ID30061742]
+Pregunta: Teniendo en cuenta el pantallazo, la palabra "eficaz" está en negrita, cursiva y con tamaño de letra más grande, ¿con qué combinaciones de teclado se podría copiar su formato para pegarlo en cualquier otro lugar de un documento de Word 365?
+a) CTRL + C y CTRL + V
+b) CTRL + ALT + C y CTRL + ALT + V
+c) CTRL + V y CTRL + P
+d) CTRL + MAYUS + C y CTRL + MAYUS + V
+Respuesta_correcta: b
+Explicación: CTRL+ALT+C copia el formato del texto seleccionado; CTRL+ALT+V lo pega sobre el texto seleccionado (copiar/pegar formato, no contenido).
+
+===========================================================
+24) [ID30355713]
+Pregunta: ¿Cuál de las siguientes opciones no es de Paginación en la ventana de Párrafo?
+a) Conservar con el anterior
+b) Control de líneas viudas y huérfanas
+c) Conservas líneas juntas
+d) Salto de página anterior
+Respuesta_correcta: a
+Explicación: La opción real se llama "Conservar con el siguiente" (Keep with next), no "Conservar con el anterior". Las cuatro opciones reales de Paginación son: Control de líneas viudas y huérfanas, Conservar con el siguiente, Conservar líneas juntas y Salto de página anterior.
+
+===========================================================
+25) [ID30355771]
+Pregunta: Teniendo en cuenta el siguiente pantallazo (tabla país/capital/habitantes/densidad), ¿Qué tipo de tabulación no se ha utilizado?
+a) Izquierda
+b) Barra
+c) Decimal
+d) Derecha
+Respuesta_correcta: b
+Explicación: Según los valores mostrados en la tabla del enunciado (columnas alineadas a izquierda, derecha y decimal), la tabulación de tipo Barra es la que no aparece utilizada.
+
+===========================================================
+26) [ID30355598]
+Pregunta: ¿Cuál de los siguientes iconos no corresponde a una de las alineaciones de párrafo que puede hacer Word?
+a) (icono alineación izquierda)
+b) (icono alineación centrada/justificada con líneas)
+c) (icono de tabla/cuadro con línea)
+d) (icono alineación derecha)
+Respuesta_correcta: c
+Explicación: Ese icono corresponde a una función de tablas de Word, no a una alineación de párrafo (izquierda, centrada, derecha o justificada).
+
+===========================================================
+27) [ID30353584]
+Pregunta: Teniendo en cuenta el pantallazo (tabla con cursor en el centro de la palabra "gastos"), ¿con cuál de los siguientes métodos abreviados se pasa de la celda gastos a la celda ingresos de forma rápida?
+a) MAYUS + TAB
+b) TAB
+c) TECLA DE FLECHA HACIA LA IZQUIERDA
+d) CTRL + TAB
+Respuesta_correcta: a
+Explicación: La celda "Ingresos" está a la izquierda de "Gastos"; Mayús+Tab mueve a la celda anterior (izquierda), mientras que Tab mueve a la celda siguiente (derecha).
+
+===========================================================
+28) [ID40920923]
+Pregunta: En Word 365, ¿Qué opción no está disponible si se accede a la pestaña Archivo / Información / Proteger documento dentro de la cinta de opciones?
+a) Marcar como final.
+b) Agregar una firma digital.
+c) Abrir siempre como solo escritura.
+d) Cifrar con contraseña.
+Respuesta_correcta: c
+Explicación: La opción real se llama "Abrir siempre como solo lectura", no "solo escritura"; por tanto tal cual está redactada no existe.
+
+===========================================================
+29) [ID40922987]
+Pregunta: En Word 365, ¿desde dónde podemos cambiar el idioma del corrector ortográfico?
+a) Desde la pestaña Revisar / Idioma / Idioma
+b) Desde la pestaña Archivo / Opciones / Revisión
+c) Desde la pestaña Vista / Idioma / Idioma
+d) Desde la pestaña Referencia / Investigación / Idioma
+Respuesta_correcta: a
+Explicación: Revisar / Idioma / Idioma / Establecer idioma de corrección.
+
+===========================================================
+30) [ID30061684]
+Pregunta: ¿Cuál es el método abreviado que permite acceder a la pestaña Reemplazar del cuadro de diálogo Buscar y Reemplazar de Word 365?
+a) CTRL + B
+b) CTRL + L
+c) CTRL + R
+d) ALT + L
+Respuesta_correcta: b
+Explicación: CTRL+B abre Buscar; CTRL+L abre directamente la pestaña Reemplazar del mismo cuadro de diálogo.
+
+===========================================================
+31) [ID41274240]
+Pregunta: ¿Qué afirmación acerca de la propiedad «Línea entre columnas» del cuadro de diálogo «Columnas» de Word 365 es verdadera?
+a) La línea siempre será de igual altura como la columna más alta a la que se aplique el diseño.
+b) No se puede modificar el estilo de la línea con ningún procedimiento.
+c) Todas las respuestas son correctas.
+d) La línea se hará visible siempre y cuando haya más de una columna con información.
+Respuesta_correcta: c
+Explicación: La línea se ajusta automáticamente a la altura de la columna con más texto, no se puede cambiar su color/grosor/estilo, y solo se muestra si hay texto en dos o más columnas.
+
+===========================================================
+32) [ID41274182]
+Pregunta: ¿Qué afirmación acerca de la configuración de columnas de Word 365 es verdadera?
+a) Son formatos de párrafo.
+b) Son formatos de fuente.
+c) Son formatos de configuración de página.
+d) Son formatos de Diseño.
+Respuesta_correcta: c
+Explicación: Las columnas se configuran en el grupo Configurar página de la pestaña Disposición; afectan a una propiedad de la página, no del párrafo ni de la fuente.
+
+===========================================================
+33) [ID30060819]
+Pregunta: ¿Qué opción no aparece en el desplegable de Seleccionar existente en la pestaña de Inicio?
+a) Seleccionar todo
+b) Seleccionar solo el texto con formato semejante
+c) Panel de selección
+d) Seleccionar objetos
+Respuesta_correcta: b
+Explicación: El texto exacto de la opción real es "Seleccionar todo el texto con formato similar (sin datos)", distinto al enunciado de la opción b).
+
+===========================================================
+34) [ID40922784]
+Pregunta: ¿Dónde nos encontramos, dentro de la cinta de opciones de Word 365, el comando asociado al método abreviado CTRL + MAY + G?
+a) Pestaña Revisar / Revisión / Ortografía y gramática.
+b) Pestaña Revisar / Revisión / Sinónimos.
+c) Pestaña Revisar / Revisión / Contar palabras.
+d) Pestaña Revisar / Seguimiento / Control de cambios.
+Respuesta_correcta: c
+Explicación: Ctrl+Mayús+G está asociado al comando Contar palabras, dentro del grupo Revisión de la pestaña Revisar.
+
+===========================================================
+35) [ID41268986]
+Pregunta: En Word 365, para poder crear un borde común sin divisiones compartido por varios párrafos, ¿Qué condición no es indispensable?
+a) Los párrafos han de tener la misma sangría izquierda y/o derecha.
+b) Los párrafos han de ser consecutivos.
+c) Los párrafos han de tener la misma sangría especial.
+d) Los párrafos han de pertenecer a la misma sección.
+Respuesta_correcta: c
+Explicación: Las sangrías especiales (primera línea o francesa) no afectan a que el borde se vea continuo entre los párrafos que lo comparten.
+
+===========================================================
+36) [ID40921591]
+Pregunta: ¿Qué vista está diseñada en Word 365 que impide escribir o borrar texto del documento?
+a) Esquema.
+b) Diseño de Impresión.
+c) Modo de lectura.
+d) Modo de Compatibilidad.
+Respuesta_correcta: c
+Explicación: El Modo de lectura está pensado para leer, no permite edición directa del texto.
+
+===========================================================
+37) [ID40922842]
+Pregunta: En Word 365, ¿Cuál es el método abreviado que nos permite «Ver Macros»?
+a) ALT + F8.
+b) ALT + F11.
+c) CTRL + F8.
+d) CTRL + ALT + M.
+Respuesta_correcta: a
+Explicación: Alt+F8 abre el cuadro de diálogo Macros (Ver macros).
+
+===========================================================
+38) [ID41274502]
+Pregunta: ¿Cómo se denominan las opciones de diseño existentes para el encabezado y el pie de página de Word 365?
+a) Primera página diferente.
+b) Páginas pares e impares diferentes.
+c) A y B son correctas.
+d) Portada, Pares e impares diferentes.
+Respuesta_correcta: c
+Explicación: Las dos opciones de la pestaña contextual Encabezado y pie de página son "Primera página diferente" y "Páginas pares e impares diferentes".
+
+===========================================================
+39) [ID41276068]
+Pregunta: En Word 365, si no se selecciona ningún texto en el documento con varias secciones, y se elige a continuación un diseño de columnas diferente al actualmente aplicado, ¿Qué acción se ejecutará en el documento actual?
+a) El cambio en el número de columnas afectará solo a la sección en la que se encuentre el cursor.
+b) El cambio de columnas afectará solo a la página en la que se encuentre el cursor.
+c) El cambio en el número de columnas afectará únicamente al párrafo en el que se encuentre el cursor.
+d) Se mostrara un cuadro de dialogo para seleccionar si se desea aplicar los cambios a todo el documento o solo a la sección actual.
+Respuesta_correcta: a
+Explicación: Por defecto, si el documento tiene varias secciones, el cambio de columnas afecta solo a la sección donde está el cursor (opción "Aplicar a: Esta sección").
+
+===========================================================
+40) [ID40922201]
+Pregunta: ¿Qué método abreviado permite introducir una nueva línea dentro de un párrafo de Word 365?
+a) CTRL + TAB.
+b) CTRL + INTRO.
+c) MAY + INTRO.
+d) ALT + MAY + L.
+Respuesta_correcta: c
+Explicación: Mayús+Intro inserta un salto de línea manual dentro del mismo párrafo (sin crear párrafo nuevo).
+
+===========================================================
+41) [ID40921126]
+Pregunta: ¿Qué método abreviado permite hacer visible el panel «Mostrar Formato» en Word 365?
+a) MAY + F1.
+b) ALT + Q.
+c) CTRL + ALT + MAYUS + S
+d) ALT + F1.
+Respuesta_correcta: a
+Explicación: Mayús+F1 abre el panel Mostrar formato.
+
+===========================================================
+42) [ID41276679]
+Pregunta: En Word 365, ¿Qué afirmación es falsa con relación a las tablas?
+a) Es posible dividir una tabla verticalmente, eligiendo a partir de que columna se desea realizar la partición de la tabla en dos tablas diferenciadas.
+b) Es posible insertar una única fila en una tabla
+c) Es posible insertar una única columna en una tabla
+d) Es posible insertar una tabla dentro de la celda de otra tabla.
+Respuesta_correcta: a
+Explicación: Word solo permite dividir tablas horizontalmente (a partir de una fila); no existe división vertical por columnas mediante el comando "Dividir tabla".
+
+===========================================================
+43) [ID41276534]
+Pregunta: En Word 365, ¿Qué afirmación es verdadera de las que se enumeran a continuación?
+a) Para borrar una tabla con teclado tenemos que utilizar la tecla Supr.
+b) Para borrar una tabla con teclado tenemos que utilizar la tecla Retroceso o Mayúsc+Supr.
+c) No se puede borrar solo con teclado.
+d) Para insertar una nueva tabla usamos la combinación Ctrl + T.
+Respuesta_correcta: b
+Explicación: La tecla Retroceso o la combinación Mayús+Supr eliminan la celda/fila/columna/tabla seleccionada.
+
+===========================================================
+44) [ID41276708]
+Pregunta: En Word 365, ¿Cómo se llama la propiedad de una tabla que permite que el texto del documento en el que se ha insertado fluya por ambos lados de la tabla si esta no ocupa todo el ancho de márgenes?
+a) Alineación de la tabla
+b) Ajuste del texto
+c) Alineación vertical
+d) Disposición de la tabla
+Respuesta_correcta: b
+Explicación: La propiedad "Ajuste de texto" (alrededor) permite que el texto fluya a ambos lados de una tabla que no ocupa todo el ancho de los márgenes.
+
+===========================================================
+45) [ID30354072]
+Pregunta: ¿Cuál es el método abreviado en Word 365 que permite insertar un hipervínculo en cualquier parte de un documento?
+a) CTRL + ALT + K
+b) CTRL + MAYUS + K
+c) ALT + K
+d) CTRL + ALT + H
+Respuesta_correcta: a
+Explicación: Ctrl+Alt+K inserta un hipervínculo en cualquier posición del documento; también accesible desde el menú contextual o Insertar / Vínculos / Vínculo.
+
+===========================================================
+46) [ID40922259]
+Pregunta: En Word 365, ¿Qué método abreviado está asociado a la inserción del campo Hora actual?
+a) CTRL + MAY + I
+b) CTRL + H.
+c) ALT + MAY + H.
+d) CTRL + ALT + O.
+Respuesta_correcta: c
+Explicación: Alt+Mayús+H inserta el campo Hora actual en la posición del cursor.
+
+===========================================================
+47) [ID41276563]
+Pregunta: En Word 365, ¿Qué afirmación es verdadera sobre la manipulación de las tablas?
+a) A una tabla le podemos cambiar el tamaño directamente arrastrando desde el selector de tamaño de la tabla.
+b) A una tabla le podemos cambiar la posición directamente arrastrado desde el Selector de movimiento.
+c) Todas son verdaderas.
+d) A una tabla se le pueden añadir una nueva fila presionando el tabulador desde la última celda de la tabla.
+Respuesta_correcta: c
+Explicación: Las tres afirmaciones (redimensionar con el selector de tamaño, mover con el selector de movimiento, añadir fila con Tab desde la última celda) son ciertas.
+
+===========================================================
+48) [ID34280904]
+Pregunta: En Word 365, ¿A qué tipo de ficheros corresponden los que utilizan la extensión DOTM?
+a) Plantilla de Word
+b) Documento habilitado con macros
+c) Plantilla habilitada con macros
+d) Formulario de Word
+Respuesta_correcta: c
+Explicación: .DOTM = plantilla de Word habilitada con macros (frente a .DOTX sin macros, .DOCM documento con macros, .DOCX documento normal).
+
+===========================================================
+49) [ID40922667]
+Pregunta: ¿Dónde podemos encontrar y activar el comando Zoom en Word 365?
+a) En la pestaña Vista de la Cinta de opciones.
+b) En la barra de estado.
+c) A y B son correctas.
+d) En pestaña Ayuda de la cinta de Opciones.
+Respuesta_correcta: c
+Explicación: El Zoom está disponible tanto en el grupo Zoom de la pestaña Vista como en el control deslizante/porcentaje de la barra de estado.
+
+===========================================================
+50) [ID41276882]
+Pregunta: En Word 365, observando la captura siguiente, indique cuál de las siguientes afirmaciones es incorrecta de acuerdo con los formatos de párrafo aplicados a los diversos párrafos que se muestran en dicha captura.
+a) En los párrafos recogidos en la captura hay un solo borde de párrafo que aparece aplicado en el segundo párrafo de la primera columna («Cuando crea imágenes?»)
+b) Se puede afirmar que ninguno de los párrafos de la captura lleva activado la excepción «No dividir con guiones»
+c) Todas los párrafos incluidos en la captura emplean un espaciado posterior de al menos 10 pto a excepción del último párrafo que emplea un espaciado anterior que lo separa del párrafo precedente
+d) El último párrafo que aparece seleccionado, ha podido ser seleccionado presionando en el teclado la tecla F8 cuatro veces.
+Respuesta_correcta: c
+Explicación: Es incorrecta porque entre el segundo y tercer párrafo de la captura no hay distancia alguna (el tercer párrafo empieza justo donde terminan los bordes verticales del segundo), por lo que no todos los párrafos emplean un espaciado posterior de al menos 10 pto.
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Word 365, no sobre citas legales.
+- Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR (no se ha corregido la clave, solo se advierte la duda):
+  · Pregunta 6 (ID40923307): posible discrepancia sobre si el acceso a Complementos está en Insertar o en Inicio.
+  · Pregunta 21 (ID41275719): posible matiz sobre si la personalización del separador de notas funciona igual en las tres vistas citadas (Borrador, Esquema, Diseño Web) o solo en Borrador.
+- Resto de las 50 preguntas verificadas sin discrepancias detectadas frente al comportamiento estándar de Word 365.
