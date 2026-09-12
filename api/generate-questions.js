@@ -185,17 +185,18 @@ async function llamarGemini(prompt, apiKey, intento = 1) {
     clearTimeout(timeoutId);
   }
 
-  // Si Gemini responde "demasiadas peticiones" (límite del nivel gratuito),
-  // esperamos un poco y reintentamos una vez antes de rendirnos.
-  if (response.status === 429 && intento <= 1) {
-    await new Promise((r) => setTimeout(r, 2500));
+  // Si Gemini responde "demasiadas peticiones" (límite del nivel gratuito)
+  // o "modelo saturado" (503, alta demanda temporal), esperamos un poco y
+  // reintentamos una vez antes de rendirnos.
+  if ((response.status === 429 || response.status === 503) && intento <= 1) {
+    await new Promise((r) => setTimeout(r, response.status === 503 ? 4000 : 2500));
     return llamarGemini(prompt, apiKey, intento + 1);
   }
 
   if (!response.ok) {
     const errText = await response.text();
     const e = new Error(`Gemini devolvió un error (HTTP ${response.status})`);
-    e.status = response.status === 429 ? 429 : 502;
+    e.status = (response.status === 429 || response.status === 503) ? response.status : 502;
     e.detalle = errText;
     throw e;
   }
