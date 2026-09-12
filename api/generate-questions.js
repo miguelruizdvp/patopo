@@ -155,11 +155,11 @@ export default async function handler(req, res) {
  * con .status/.message/.detalle si algo falla, para que el handler
  * principal lo convierta en la respuesta HTTP adecuada.
  */
-async function llamarGemini(prompt, apiKey) {
+async function llamarGemini(prompt, apiKey, intento = 1) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
 
   const controller = new AbortController();
-  const timeoutId = setTimeout(() => controller.abort(), 45000); // 45s, por debajo del maxDuration de Vercel (60s)
+  const timeoutId = setTimeout(() => controller.abort(), 20000); // 20s por intento; con 1 reintento y su espera, cabe de sobra en los 60s de Vercel
 
   let response;
   try {
@@ -175,7 +175,7 @@ async function llamarGemini(prompt, apiKey) {
   } catch (e) {
     const err = new Error(
       e.name === 'AbortError'
-        ? 'Gemini ha tardado demasiado en responder (más de 45 segundos)'
+        ? 'Gemini ha tardado demasiado en responder (más de 20 segundos)'
         : `No se pudo contactar con Gemini: ${e.message}`
     );
     err.status = 504;
@@ -183,6 +183,13 @@ async function llamarGemini(prompt, apiKey) {
     throw err;
   } finally {
     clearTimeout(timeoutId);
+  }
+
+  // Si Gemini responde "demasiadas peticiones" (límite del nivel gratuito),
+  // esperamos un poco y reintentamos una vez antes de rendirnos.
+  if (response.status === 429 && intento <= 1) {
+    await new Promise((r) => setTimeout(r, 2500));
+    return llamarGemini(prompt, apiKey, intento + 1);
   }
 
   if (!response.ok) {
