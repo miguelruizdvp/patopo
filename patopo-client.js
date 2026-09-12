@@ -141,19 +141,36 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
 /**
  * Pide un bloque de preguntas de psicotécnico, mezclando varias categorías
  * (el propio servidor elige las categorías al azar de content/psicotecnico/
- * modelos.txt, una por pregunta pedida).
+ * modelos.txt, una por pregunta pedida). Se reparte en llamadas de como
+ * mucho 3 preguntas cada una: pedirle a Gemini muchas preguntas razonadas
+ * paso a paso en una sola llamada puede tardar más de lo que permite el
+ * tiempo máximo de la función serverless.
  */
 async function obtenerBloquePsicotecnico(nTotal) {
-  try {
-    const preguntas = await llamarEndpoint({
-      modo: 'variante_psicotecnico',
-      area: 'psicotecnico',
-      n_preguntas: nTotal,
-    });
-    return { preguntas, errores: [] };
-  } catch (e) {
-    return { preguntas: [], errores: [`Psicotécnico: ${e.message}`] };
+  const TAMANO_LOTE = 3;
+  const lotes = [];
+  for (let i = 0; i < nTotal; i += TAMANO_LOTE) {
+    lotes.push(Math.min(TAMANO_LOTE, nTotal - i));
   }
+
+  const resultados = await Promise.all(
+    lotes.map(async (n) => {
+      try {
+        const preguntas = await llamarEndpoint({
+          modo: 'variante_psicotecnico',
+          area: 'psicotecnico',
+          n_preguntas: n,
+        });
+        return { preguntas, error: null };
+      } catch (e) {
+        return { preguntas: [], error: `Psicotécnico: ${e.message}` };
+      }
+    })
+  );
+
+  const preguntas = resultados.flatMap((r) => r.preguntas);
+  const errores = resultados.map((r) => r.error).filter(Boolean);
+  return { preguntas, errores };
 }
 
 /**
