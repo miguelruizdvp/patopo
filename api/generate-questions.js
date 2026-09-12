@@ -168,7 +168,7 @@ async function llamarGemini(prompt, apiKey, intento = 1) {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
-        generationConfig: { maxOutputTokens: 4000 },
+        generationConfig: { maxOutputTokens: 8000 },
       }),
       signal: controller.signal,
     });
