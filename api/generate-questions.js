@@ -424,9 +424,12 @@ distancias/velocidades — no cambies de categoría).
 Reglas:
 - Cambia los datos numéricos/verbales de forma sustancial respecto
   al modelo correspondiente (no un simple cambio de una cifra).
-- PRECISIÓN MATEMÁTICA ABSOLUTA: antes de devolver el JSON, razona
-  paso a paso la resolución de cada pregunta en texto libre, y solo
-  después escribe el JSON final con el resultado ya verificado.
+- PRECISIÓN MATEMÁTICA ABSOLUTA: antes de escribir el JSON, verifica
+  mentalmente cada resultado con un razonamiento breve (máximo 3-4
+  líneas por pregunta, sin desarrollos largos) y solo entonces escribe
+  el JSON final con el resultado ya comprobado. La explicación
+  detallada para la opositora va dentro del campo "explicacion" del
+  JSON, no en este razonamiento previo — ahí sí puede ser más completa.
 - Los distractores deben ser errores típicos de cálculo (p. ej. sumar
   en vez de restar velocidades, olvidar la hora de salida), no
   números aleatorios.
