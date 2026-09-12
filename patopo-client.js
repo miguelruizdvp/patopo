@@ -117,27 +117,30 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
   const resultados = [];
   const errores = [];
 
-  for (const item of plan) {
-    if (!item.n || item.n <= 0) continue;
-    // Se prioriza el banco propio (no necesita llamar a Gemini) sobre la
-    // IA: con 800 preguntas reales ya subidas, no hace falta generar con
-    // IA casi nunca para leyes/ofimática, y así se evita agotar el límite
-    // de peticiones por minuto del nivel gratuito de Gemini.
-    const modo = Math.random() < 0.85 ? 'replicar' : 'generar_nueva';
-    const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
+  const peticiones = plan
+    .filter((item) => item.n && item.n > 0)
+    .map(async (item) => {
+      // Se prioriza el banco propio (no necesita llamar a Gemini) sobre la
+      // IA: con 800 preguntas reales ya subidas, no hace falta generar con
+      // IA casi nunca para leyes/ofimática, y así se evita agotar el límite
+      // de peticiones por minuto del nivel gratuito de Gemini.
+      const modo = Math.random() < 0.85 ? 'replicar' : 'generar_nueva';
+      const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
 
-    let preguntas = null;
-    try {
-      preguntas = await llamarEndpoint({ modo, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
-    } catch (e1) {
       try {
-        preguntas = await llamarEndpoint({ modo: modoAlt, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
-      } catch (e2) {
-        errores.push(`${item.nombre}: ${e2.message}`);
+        return await llamarEndpoint({ modo, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+      } catch (e1) {
+        try {
+          return await llamarEndpoint({ modo: modoAlt, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+        } catch (e2) {
+          errores.push(`${item.nombre}: ${e2.message}`);
+          return [];
+        }
       }
-    }
-    if (preguntas && preguntas.length) resultados.push(...preguntas);
-  }
+    });
+
+  const listasPorTema = await Promise.all(peticiones);
+  listasPorTema.forEach((preguntas) => resultados.push(...preguntas));
 
   return { preguntas: barajar(resultados), errores };
 }
