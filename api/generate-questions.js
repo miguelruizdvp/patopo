@@ -158,19 +158,37 @@ export default async function handler(req, res) {
 async function llamarGemini(prompt, apiKey) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
 
-  const response = await fetch(url, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({
-      contents: [{ role: 'user', parts: [{ text: prompt }] }],
-      generationConfig: { maxOutputTokens: 4000 },
-    }),
-  });
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 45000); // 45s, por debajo del maxDuration de Vercel (60s)
+
+  let response;
+  try {
+    response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ role: 'user', parts: [{ text: prompt }] }],
+        generationConfig: { maxOutputTokens: 4000 },
+      }),
+      signal: controller.signal,
+    });
+  } catch (e) {
+    const err = new Error(
+      e.name === 'AbortError'
+        ? 'Gemini ha tardado demasiado en responder (más de 45 segundos)'
+        : `No se pudo contactar con Gemini: ${e.message}`
+    );
+    err.status = 504;
+    err.detalle = String(e);
+    throw err;
+  } finally {
+    clearTimeout(timeoutId);
+  }
 
   if (!response.ok) {
     const errText = await response.text();
-    const e = new Error('Error llamando a la API de Gemini');
-    e.status = 502;
+    const e = new Error(`Gemini devolvió un error (HTTP ${response.status})`);
+    e.status = response.status === 429 ? 429 : 502;
     e.detalle = errText;
     throw e;
   }
