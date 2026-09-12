@@ -119,7 +119,11 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
 
   for (const item of plan) {
     if (!item.n || item.n <= 0) continue;
-    const modo = Math.random() < 0.5 ? 'replicar' : 'generar_nueva';
+    // Se prioriza el banco propio (no necesita llamar a Gemini) sobre la
+    // IA: con 800 preguntas reales ya subidas, no hace falta generar con
+    // IA casi nunca para leyes/ofimática, y así se evita agotar el límite
+    // de peticiones por minuto del nivel gratuito de Gemini.
+    const modo = Math.random() < 0.85 ? 'replicar' : 'generar_nueva';
     const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
 
     let preguntas = null;
@@ -153,20 +157,19 @@ async function obtenerBloquePsicotecnico(nTotal) {
     lotes.push(Math.min(TAMANO_LOTE, nTotal - i));
   }
 
-  const resultados = await Promise.all(
-    lotes.map(async (n) => {
-      try {
-        const preguntas = await llamarEndpoint({
-          modo: 'variante_psicotecnico',
-          area: 'psicotecnico',
-          n_preguntas: n,
-        });
-        return { preguntas, error: null };
-      } catch (e) {
-        return { preguntas: [], error: `Psicotécnico: ${e.message}` };
-      }
-    })
-  );
+  const resultados = [];
+  for (const n of lotes) {
+    try {
+      const preguntas = await llamarEndpoint({
+        modo: 'variante_psicotecnico',
+        area: 'psicotecnico',
+        n_preguntas: n,
+      });
+      resultados.push({ preguntas, error: null });
+    } catch (e) {
+      resultados.push({ preguntas: [], error: `Psicotécnico: ${e.message}` });
+    }
+  }
 
   const preguntas = resultados.flatMap((r) => r.preguntas);
   const errores = resultados.map((r) => r.error).filter(Boolean);
