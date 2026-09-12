@@ -32,7 +32,7 @@
 import { readFile } from 'fs/promises';
 import path from 'path';
 
-const GEMINI_MODEL = 'gemini-2.0-flash';
+const GEMINI_MODEL = 'gemini-3.6-flash';
 const SEPARADOR_MODELOS = '===========================================================';
 
 export default async function handler(req, res) {
