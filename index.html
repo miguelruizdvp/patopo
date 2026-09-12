@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Patopo · Auxiliar Administrativo CAM</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F2EFE6; --paper-2:#EAE5D6; --ink:#1C2333; --navy:#1F3A5F;
+    --navy-2:#173049; --oxblood:#8A2E2E; --gold:#A9822E; --sage:#4C5F49;
+    --line:#C9C2AE; --white:#FFFDF8;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;min-height:100vh;}
+  .app{max-width:760px;margin:0 auto;padding:28px 20px 60px;}
+  .letterhead{
+    display:flex;align-items:baseline;justify-content:space-between;
+    border-bottom:2px solid var(--navy);padding-bottom:10px;margin-bottom:22px;
+  }
+  .letterhead .brand{font-family:'Spectral',serif;font-weight:700;font-size:22px;color:var(--navy);}
+  .letterhead .exp{font-size:13px;color:#6b6653;}
+  h1{font-family:'Spectral',serif;font-size:28px;color:var(--navy);margin:0 0 8px;}
+  .lead{font-size:15px;color:#4a4638;line-height:1.5;margin:0 0 28px;}
+  .cards{display:flex;flex-direction:column;gap:14px;}
+  .card{
+    display:block;text-decoration:none;color:inherit;
+    background:var(--white);border:1px solid var(--line);border-radius:10px;
+    padding:20px 22px;transition:border-color .15s;
+  }
+  .card:hover{border-color:var(--navy);}
+  .card h2{font-family:'Spectral',serif;font-size:19px;color:var(--navy);margin:0 0 6px;}
+  .card p{font-size:14px;color:#4a4638;margin:0;line-height:1.45;}
+  .card .tag{
+    display:inline-block;margin-top:10px;font-size:11px;letter-spacing:.04em;
+    text-transform:uppercase;color:var(--oxblood);font-weight:600;
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <div class="letterhead">
+    <span class="brand">Patopo</span>
+    <span class="exp">Auxiliar Administrativo · CAM</span>
+  </div>
+
+  <h1>¿Qué quieres practicar hoy?</h1>
+  <p class="lead">Elige una de las tres formas de entrenar para el examen.</p>
+
+  <div class="cards">
+    <a class="card" href="miniopo.html">
+      <h2>Miniopo</h2>
+      <p>Réplica breve del examen real: 6 preguntas de psicotécnico + 6 de leyes (13 min), y 6 de ofimática (7 min).</p>
+      <span class="tag">≈ 20 minutos</span>
+    </a>
+    <a class="card" href="tuopo.html">
+      <h2>Tuopo</h2>
+      <p>Tu test a medida: elige el número de preguntas (6/12/24), hasta 4 temas y si quieres incluir psicotécnico.</p>
+      <span class="tag">Configurable</span>
+    </a>
+    <a class="card" href="superopo.html">
+      <h2>Superopo</h2>
+      <p>Réplica exacta del examen real: 30 psicotécnicas + 30 de leyes (65 min), y 30 de ofimática (35 min).</p>
+      <span class="tag">≈ 100 minutos</span>
+    </a>
+  </div>
+</div>
+</body>
+</html>
