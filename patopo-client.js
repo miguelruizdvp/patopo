@@ -106,10 +106,16 @@ function repartirEntreTemas(temas, nTotal) {
  *   obtenerBloqueMezclado({ distribucion: [{area,slug,nombre,n}, ...] })
  *
  * Cada tema se pide en modo "replicar" (banco propio) o "generar_nueva"
- * (IA) elegido al azar 50/50; si ese modo falla, se reintenta una vez
- * con el modo contrario antes de renunciar a ese tema.
+ * (IA) elegido al azar 50/50, priorizando el banco propio; si ese modo
+ * falla, se reintenta una vez con el modo contrario antes de renunciar
+ * a ese tema. Todos los temas se piden en paralelo.
+ *
+ * onProgress(n), si se pasa, se llama cada vez que se termina de
+ * procesar un tema (haya tenido éxito o no), con el número de preguntas
+ * que se le habían pedido a ese tema — útil para pintar una barra de
+ * progreso mientras se espera.
  */
-async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, maxTemas }) {
+async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, maxTemas, onProgress }) {
   const plan = distribucion
     ? distribucion
     : repartirEntreTemas(elegirAlAzar(temasDisponibles, Math.min(maxTemas || nTotal, nTotal, temasDisponibles.length)), nTotal);
@@ -128,12 +134,17 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
       const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
 
       try {
-        return await llamarEndpoint({ modo, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+        const r = await llamarEndpoint({ modo, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+        if (onProgress) onProgress(item.n);
+        return r;
       } catch (e1) {
         try {
-          return await llamarEndpoint({ modo: modoAlt, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+          const r = await llamarEndpoint({ modo: modoAlt, area: item.area, tema: item.nombre, tema_slug: item.slug, n_preguntas: item.n });
+          if (onProgress) onProgress(item.n);
+          return r;
         } catch (e2) {
           errores.push(`${item.nombre}: ${e2.message}`);
+          if (onProgress) onProgress(item.n);
           return [];
         }
       }
@@ -153,7 +164,7 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
  * paso a paso en una sola llamada puede tardar más de lo que permite el
  * tiempo máximo de la función serverless.
  */
-async function obtenerBloquePsicotecnico(nTotal) {
+async function obtenerBloquePsicotecnico(nTotal, onProgress) {
   const TAMANO_LOTE = 1;
   const lotes = [];
   for (let i = 0; i < nTotal; i += TAMANO_LOTE) {
@@ -168,8 +179,10 @@ async function obtenerBloquePsicotecnico(nTotal) {
           area: 'psicotecnico',
           n_preguntas: n,
         });
+        if (onProgress) onProgress(n);
         return { preguntas, error: null };
       } catch (e) {
+        if (onProgress) onProgress(n);
         return { preguntas: [], error: `Psicotécnico: ${e.message}` };
       }
     })
