@@ -151,25 +151,26 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
  * tiempo máximo de la función serverless.
  */
 async function obtenerBloquePsicotecnico(nTotal) {
-  const TAMANO_LOTE = 2;
+  const TAMANO_LOTE = 1;
   const lotes = [];
   for (let i = 0; i < nTotal; i += TAMANO_LOTE) {
     lotes.push(Math.min(TAMANO_LOTE, nTotal - i));
   }
 
-  const resultados = [];
-  for (const n of lotes) {
-    try {
-      const preguntas = await llamarEndpoint({
-        modo: 'variante_psicotecnico',
-        area: 'psicotecnico',
-        n_preguntas: n,
-      });
-      resultados.push({ preguntas, error: null });
-    } catch (e) {
-      resultados.push({ preguntas: [], error: `Psicotécnico: ${e.message}` });
-    }
-  }
+  const resultados = await Promise.all(
+    lotes.map(async (n) => {
+      try {
+        const preguntas = await llamarEndpoint({
+          modo: 'variante_psicotecnico',
+          area: 'psicotecnico',
+          n_preguntas: n,
+        });
+        return { preguntas, error: null };
+      } catch (e) {
+        return { preguntas: [], error: `Psicotécnico: ${e.message}` };
+      }
+    })
+  );
 
   const preguntas = resultados.flatMap((r) => r.preguntas);
   const errores = resultados.map((r) => r.error).filter(Boolean);
