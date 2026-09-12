@@ -151,7 +151,7 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
  * tiempo máximo de la función serverless.
  */
 async function obtenerBloquePsicotecnico(nTotal) {
-  const TAMANO_LOTE = 3;
+  const TAMANO_LOTE = 2;
   const lotes = [];
   for (let i = 0; i < nTotal; i += TAMANO_LOTE) {
     lotes.push(Math.min(TAMANO_LOTE, nTotal - i));
