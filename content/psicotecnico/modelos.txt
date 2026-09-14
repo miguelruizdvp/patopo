@@ -159,3 +159,81 @@ Modelos y resultados:
 - 7/5 : 4/3 → 7/5×3/4=21/20=1,05
 Método: aplicar directamente las operaciones aritméticas en el orden indicado, sin atajos que puedan
 introducir error; son preguntas de rapidez y precisión de cálculo mental/escrito, no de razonamiento.
+
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (progresión aritmética o geométrica)
+Nota: estos dos modelos los ha construido y verificado Claude (no proceden de un PDF de
+ADAMS), para cubrir un tipo de ejercicio que faltaba en el banco.
+Modelo A: Complete la serie: 3, 7, 11, 15, 19, ¿?
+Método: comprobar si la diferencia entre términos consecutivos es constante (progresión
+aritmética); si lo es, sumar esa diferencia al último término.
+Resolución: diferencia constante = 4 (7-3=4, 11-7=4, 15-11=4, 19-15=4). Siguiente = 19+4=23.
+Resultado: 23
+Modelo B: Complete la serie: 2, 6, 18, 54, ¿?
+Método: comprobar si el cociente entre términos consecutivos es constante (progresión
+geométrica); si lo es, multiplicar el último término por esa razón.
+Resolución: razón constante = 3 (6/2=3, 18/6=3, 54/18=3). Siguiente = 54×3=162.
+Resultado: 162
+Modelo C (diferencias crecientes): Complete la serie: 1, 2, 4, 7, 11, ¿?
+Método: cuando la diferencia entre términos no es constante, calcular las diferencias
+sucesivas y comprobar si ESAS diferencias siguen a su vez un patrón (aquí, aumentan de 1
+en 1: +1,+2,+3,+4). Aplicar la siguiente diferencia prevista al último término.
+Resolución: diferencias 1,2,3,4 (crecientes de 1 en 1); la siguiente diferencia es 5.
+Siguiente = 11+5=16.
+Resultado: 16
+
+===========================================================
+CATEGORÍA: SERIES DE LETRAS (salto regular/aritmético sobre el alfabeto)
+Modelo: Complete la serie con la letra que falta: A D G J ¿?
+Método: convertir cada letra en su posición en el alfabeto (A=1, B=2, C=3...) y comprobar
+si la diferencia entre posiciones consecutivas es constante; aplicar esa misma diferencia
+a la última letra para hallar la posición de la que falta, y convertirla de nuevo a letra.
+Resolución: A(1), D(4), G(7), J(10): diferencia constante = +3. Siguiente posición = 10+3=13 = M.
+Resultado: M
+
+===========================================================
+CATEGORÍA: SERIES DE LETRAS (dos secuencias alternas entrelazadas)
+Modelo: Complete la serie con la letra que falta: H W I V J U ¿?
+Método: separar las letras en dos subseries según su posición (impares y pares dentro de
+la serie dada) y analizar cada una por separado; una suele ser ascendente y la otra
+descendente de una en una.
+Resolución: posiciones impares (1ª,3ª,5ª,7ª): H, I, J, K (ascendente letra a letra) — la
+7ª letra ya es K, dato dado. Posiciones pares (2ª,4ª,6ª): W, V, U (descendente letra a
+letra); la siguiente (8ª posición, par) continúa la bajada: U→T.
+Resultado: T
+
+===========================================================
+CATEGORÍA: SERIES DE LETRAS (grupos de letras consecutivas con salto creciente)
+Modelo: Complete la serie con la letra que falta: A B C F G H L M N ¿?
+Método: identificar grupos de letras consecutivas (aquí, de 3 en 3) y medir cuántas letras
+se saltan entre el final de un grupo y el inicio del siguiente; comprobar si ese salto
+aumenta de forma constante.
+Resolución: grupo 1 = ABC (1-3); grupo 2 = FGH (6-8), salto de 2 letras (D,E) tras el
+grupo 1; grupo 3 = LMN (12-14), salto de 3 letras (I,J,K) tras el grupo 2. El salto crece
+de 1 en 1, así que tras N (14) se saltan 4 letras (O,P,Q,R) y el siguiente grupo empieza en
+la posición 19 = S.
+Resultado: S
+
+===========================================================
+CATEGORÍA: ANALOGÍAS VERBALES (relación simple A es a B como C es a ¿?)
+Modelo: ELECTRICIDAD es a VOLTIOS como SONIDO es a ¿?
+a) Vatios  b) Decibelios  c) Corriente  d) Ruido
+Método: identificar el tipo de relación entre el primer par (aquí, magnitud física y su
+unidad de medida) y aplicar la misma relación al tercer término para encontrar cuál de las
+opciones completa el paralelismo correctamente.
+Resolución: la electricidad se mide en voltios; siguiendo la misma relación
+(magnitud→unidad de medida), el sonido se mide en decibelios.
+Resultado: Decibelios (opción b)
+
+===========================================================
+CATEGORÍA: ANALOGÍAS VERBALES (con hueco también en el primer término)
+Modelo: ¿? es a FRÍO como PARASOL es a ¿?
+a) Paraguas – Playa  b) Abrigo – Sol  c) Trabajo – Vacaciones  d) Estufa – Agua
+Método: primero deducir la relación a partir del segundo par completo de cada opción
+(objeto que protege de algo), y comprobar cuál de las opciones mantiene esa misma relación
+también en el primer hueco.
+Resolución: un parasol protege del sol; buscando qué protege del frío entre las opciones,
+un abrigo protege del frío. La relación "objeto que protege de X" se cumple con
+Abrigo–Frío y Parasol–Sol.
+Resultado: Abrigo – Sol (opción b)
