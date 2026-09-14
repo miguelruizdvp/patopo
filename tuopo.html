@@ -3,21 +3,23 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="icon" type="image/png" href="patopo-icon.png">
 <title>Tuopo · Prototipo</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600;700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#F2EFE6;
-    --paper-2:#EAE5D6;
-    --ink:#1C2333;
-    --navy:#1F3A5F;
-    --navy-2:#173049;
-    --oxblood:#8A2E2E;
-    --gold:#A9822E;
-    --sage:#4C5F49;
-    --line:#C9C2AE;
-    --white:#FFFDF8;
+    --paper:#F4FAF9;
+    --paper-2:#E3F2F1;
+    --ink:#16262A;
+    --navy:#0B6B70;
+    --navy-2:#084F53;
+    --brand:#16A1A8;
+    --oxblood:#C0503F;
+    --gold:#C79B3B;
+    --sage:#3F8F5F;
+    --line:#CFE6E4;
+    --white:#FFFFFF;
   }
   *{box-sizing:border-box;}
   .progress-bar-bg{
@@ -25,10 +27,10 @@
     margin-top:20px;overflow:hidden;
   }
   .progress-bar-fill{
-    height:100%;background:var(--navy);width:0%;
+    height:100%;background:var(--brand);width:0%;
     transition:width .3s ease;border-radius:6px;
   }
-  .progress-counter{margin-top:8px;font-size:13px;color:#6b6653;text-align:center;}
+  .progress-counter{margin-top:8px;font-size:13px;color:#4E6866;text-align:center;}
   .spinner{
     width:36px;height:36px;margin:18px auto 0;
     border:4px solid var(--line);border-top-color:var(--navy);
@@ -47,6 +49,13 @@
     margin:0 auto;
     padding:28px 20px 60px;
   }
+  .home-link{margin-bottom:8px;}
+  .home-link a{
+    font-size:12px;color:#4E6866;text-decoration:none;
+    font-family:'IBM Plex Mono',monospace;letter-spacing:0.02em;
+  }
+  .home-link a:hover{color:var(--navy);text-decoration:underline;}
+  .home-icon{width:14px;height:14px;vertical-align:-2px;margin-right:4px;}
   .letterhead{
     display:flex;
     align-items:baseline;
@@ -66,7 +75,7 @@
     font-size:11px;
     letter-spacing:0.08em;
     text-transform:uppercase;
-    color:#6b6552;
+    color:#4E6866;
   }
   .hidden{display:none !important;}
 
@@ -85,7 +94,7 @@
     color:var(--navy);
   }
   .intro-card p.lead{
-    color:#4a4638;
+    color:#3F5654;
     margin:0 0 24px;
     font-size:14.5px;
   }
@@ -117,7 +126,7 @@
     font-weight:600;
   }
   .pill.disabled{opacity:.35;cursor:not-allowed;}
-  .pill-hint{font-size:12px;color:#7a7360;margin-top:8px;}
+  .pill-hint{font-size:12px;color:#5A716F;margin-top:8px;}
   .toggle-row{
     display:flex;
     align-items:center;
@@ -133,7 +142,7 @@
     border-left:3px solid var(--gold);
     padding:12px 16px;
     font-size:13.5px;
-    color:#4a4638;
+    color:#3F5654;
     margin-bottom:22px;
   }
   .summary-box b{color:var(--ink);}
@@ -150,7 +159,7 @@
   .btn:active{transform:translateY(1px);}
   .btn-primary{background:var(--navy);color:var(--white);}
   .btn-primary:hover{filter:brightness(1.1);}
-  .btn-primary:disabled{background:#9aa3ad;cursor:not-allowed;}
+  .btn-primary:disabled{background:#7FA3A2;cursor:not-allowed;}
   .btn-ghost{background:transparent;color:var(--navy);border:1px solid var(--navy);}
   .btn-ghost:hover{background:rgba(31,58,95,0.06);}
 
@@ -200,7 +209,7 @@
     font-size:12px;
     letter-spacing:0.06em;
     text-transform:uppercase;
-    color:#8a8267;
+    color:#6C8583;
     margin-bottom:16px;
     display:flex;
     justify-content:space-between;
@@ -237,7 +246,7 @@
   .option:hover{border-color:var(--navy);}
   .option.selected{
     border-color:var(--navy);
-    background:#E7EDF3;
+    background:#E3F2F1;
     font-weight:600;
   }
   .option .letter{
@@ -252,10 +261,10 @@
   }
   .option.selected .letter{background:var(--navy);color:var(--white);border-color:var(--navy);}
   .clear-btn{
-    background:none;border:none;color:#9a5252;font-size:12px;cursor:pointer;
+    background:none;border:none;color:#C77A6E;font-size:12px;cursor:pointer;
     padding:4px 0;margin-top:2px;text-decoration:underline;
   }
-  .clear-btn:disabled{color:#c7c1b0;cursor:default;text-decoration:none;}
+  .clear-btn:disabled{color:#CFE6E4;cursor:default;text-decoration:none;}
 
   .exam-nav{
     display:flex;
@@ -288,7 +297,7 @@
     padding:6px 12px;
     border-radius:20px;
   }
-  .veredicto.apto{background:#4C5F49;}
+  .veredicto.apto{background:#3F8F5F;}
   .veredicto.noapto{background:var(--oxblood);}
   .res-block{
     background:var(--white);
@@ -307,13 +316,13 @@
     justify-content:space-between;
     font-size:13.5px;
     padding:5px 0;
-    border-bottom:1px solid #eee6d3;
+    border-bottom:1px solid #E3F2F1;
   }
   .stat-row:last-child{border-bottom:none;}
   .stat-row b{font-family:'IBM Plex Mono',monospace;font-weight:600;}
   .bar-row{margin:10px 0;}
   .bar-label{display:flex;justify-content:space-between;font-size:12.5px;margin-bottom:4px;}
-  .bar-bg{background:#EAE5D6;height:8px;border-radius:4px;overflow:hidden;}
+  .bar-bg{background:#E3F2F1;height:8px;border-radius:4px;overflow:hidden;}
   .bar-fill{background:var(--navy);height:100%;}
   .review-item{
     border:1px solid var(--line);
@@ -322,7 +331,7 @@
     padding:14px 16px;
     margin-bottom:10px;
   }
-  .review-item.blank{border-left-color:#9a8f6f;}
+  .review-item.blank{border-left-color:#8FA6A4;}
   .review-item.correcta{border-left-color:var(--sage);}
   .review-item .rtag{
     font-family:'IBM Plex Mono',monospace;
@@ -331,11 +340,11 @@
     letter-spacing:0.05em;
     color:var(--oxblood);
   }
-  .review-item.blank .rtag{color:#9a8f6f;}
+  .review-item.blank .rtag{color:#8FA6A4;}
   .review-item.correcta .rtag{color:var(--sage);}
   .review-item .rq{font-size:14px;font-weight:500;margin:6px 0 8px;}
   .review-item .rans{font-size:13px;margin:2px 0;}
-  .review-item .rexp{font-size:12.5px;color:#5c5745;margin-top:6px;line-height:1.5;}
+  .review-item .rexp{font-size:12.5px;color:#3B5250;margin-top:6px;line-height:1.5;}
   .review-item .rref{
     font-size:11px;
     color:var(--navy);
@@ -367,6 +376,7 @@
 <body>
 <div class="app">
 
+  <div class="home-link"><a href="index.html"><img src="patopo-icon.png" alt="" class="home-icon">Volver a Patopo</a></div>
   <div class="letterhead">
     <span class="brand">Tuopo</span>
     <span class="exp">Auxiliar Administrativo · CAM</span>
@@ -783,7 +793,7 @@ function renderResultados(){
       <div class="rexp">${q.explanation}</div>
       ${q.ref?`<div class="rref">${q.ref}</div>`:''}
     </div>`;
-  }).join('') : '<p style="font-size:14px;color:#4a4638;">Sin preguntas falladas ni en blanco. Buen trabajo.</p>';
+  }).join('') : '<p style="font-size:14px;color:#3F5654;">Sin preguntas falladas ni en blanco. Buen trabajo.</p>';
 
   document.getElementById('res-correctas').innerHTML = toCorrectas.length ? toCorrectas.map(q=>{
     return `<div class="review-item correcta">
@@ -793,7 +803,7 @@ function renderResultados(){
       <div class="rexp">${resumenBreve(q.explanation)}</div>
       ${q.ref?`<div class="rref">${q.ref}</div>`:''}
     </div>`;
-  }).join('') : '<p style="font-size:14px;color:#4a4638;">Ninguna pregunta acertada esta vez.</p>';
+  }).join('') : '<p style="font-size:14px;color:#3F5654;">Ninguna pregunta acertada esta vez.</p>';
 }
 
 /* Inicializar UI de configuración */

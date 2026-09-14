@@ -4,49 +4,72 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Patopo · Auxiliar Administrativo CAM</title>
+<link rel="icon" type="image/png" href="patopo-icon.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Spectral:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --paper:#F2EFE6; --paper-2:#EAE5D6; --ink:#1C2333; --navy:#1F3A5F;
-    --navy-2:#173049; --oxblood:#8A2E2E; --gold:#A9822E; --sage:#4C5F49;
-    --line:#C9C2AE; --white:#FFFDF8;
+    --paper:#F4FAF9; --paper-2:#E3F2F1; --ink:#16262A; --navy:#0B6B70;
+    --navy-2:#084F53; --brand:#16A1A8; --oxblood:#C0503F; --gold:#C79B3B; --sage:#3F8F5F;
+    --line:#CFE6E4; --white:#FFFFFF;
   }
   *{box-sizing:border-box;}
   body{margin:0;background:var(--paper);color:var(--ink);font-family:'Inter',sans-serif;min-height:100vh;}
-  .app{max-width:760px;margin:0 auto;padding:28px 20px 60px;}
-  .letterhead{
-    display:flex;align-items:baseline;justify-content:space-between;
-    border-bottom:2px solid var(--navy);padding-bottom:10px;margin-bottom:22px;
+  .app{max-width:760px;margin:0 auto;padding:24px 20px 60px;}
+
+  .topbar{display:flex;align-items:center;gap:10px;margin-bottom:22px;}
+  .topbar img{width:30px;height:30px;}
+  .topbar span{font-family:'Spectral',serif;font-weight:700;font-size:19px;color:var(--navy);letter-spacing:.01em;}
+
+  .hero{
+    border-radius:16px;overflow:hidden;margin-bottom:28px;
+    box-shadow:0 8px 24px rgba(11,107,112,0.16);
+    border:1px solid var(--line);
   }
-  .letterhead .brand{font-family:'Spectral',serif;font-weight:700;font-size:22px;color:var(--navy);}
-  .letterhead .exp{font-size:13px;color:#6b6653;}
-  h1{font-family:'Spectral',serif;font-size:28px;color:var(--navy);margin:0 0 8px;}
-  .lead{font-size:15px;color:#4a4638;line-height:1.5;margin:0 0 28px;}
+  .hero img{display:block;width:100%;height:auto;}
+
+  h1{font-family:'Spectral',serif;font-size:29px;color:var(--navy);margin:0 0 8px;line-height:1.25;}
+  .lead{font-size:15px;color:#3F5654;line-height:1.55;margin:0 0 30px;max-width:56ch;}
+
   .cards{display:flex;flex-direction:column;gap:14px;}
   .card{
     display:block;text-decoration:none;color:inherit;
-    background:var(--white);border:1px solid var(--line);border-radius:10px;
-    padding:20px 22px;transition:border-color .15s;
+    background:var(--white);border:1px solid var(--line);border-left:4px solid var(--line);
+    border-radius:10px;padding:18px 22px;
+    transition:border-color .15s, box-shadow .15s, transform .15s;
   }
-  .card:hover{border-color:var(--navy);}
+  .card:hover{
+    border-color:var(--brand);border-left-color:var(--brand);
+    box-shadow:0 4px 16px rgba(22,161,168,0.16);
+    transform:translateY(-1px);
+  }
   .card h2{font-family:'Spectral',serif;font-size:19px;color:var(--navy);margin:0 0 6px;}
-  .card p{font-size:14px;color:#4a4638;margin:0;line-height:1.45;}
+  .card p{font-size:13.5px;color:#3F5654;margin:0;line-height:1.5;}
   .card .tag{
     display:inline-block;margin-top:10px;font-size:11px;letter-spacing:.04em;
     text-transform:uppercase;color:var(--oxblood);font-weight:600;
+  }
+
+  @media (max-width:480px){
+    .hero{margin-bottom:22px;}
+    h1{font-size:25px;}
+    .card{padding:16px 18px;}
   }
 </style>
 </head>
 <body>
 <div class="app">
-  <div class="letterhead">
-    <span class="brand">Patopo</span>
-    <span class="exp">Auxiliar Administrativo · CAM</span>
+  <div class="topbar">
+    <img src="patopo-icon.png" alt="">
+    <span>PATOPO</span>
+  </div>
+
+  <div class="hero">
+    <img src="patopo-banner.jpg" alt="Escritorio de estudio con el logo de Patopo, rodeado de libros, cuadernos y material de la oposición">
   </div>
 
   <h1>¿Qué quieres practicar hoy?</h1>
-  <p class="lead">Elige una de las tres formas de entrenar para el examen.</p>
+  <p class="lead">Elige una de las tres formas de entrenar para el examen. Cada test mezcla preguntas de tu banco propio con preguntas nuevas generadas al momento.</p>
 
   <div class="cards">
     <a class="card" href="miniopo.html">
