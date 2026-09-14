@@ -128,11 +128,23 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
     ? distribucion
     : repartirEntreTemas(elegirAlAzar(temasDisponibles, Math.min(maxTemas || nTotal, nTotal, temasDisponibles.length)), nTotal);
 
+  // Partimos cada tema en llamadas de como mucho 3 preguntas: si un solo
+  // tema concentrara todo (p.ej. al elegir un único tema en Tuopo), pedirlo
+  // todo de golpe en una llamada sería lento (más texto que generar de una
+  // vez) y dejaría la barra de progreso sin moverse hasta el final.
+  const MAX_POR_LLAMADA = 3;
+  const planTroceado = [];
+  for (const item of plan) {
+    if (!item.n || item.n <= 0) continue;
+    for (let restante = item.n; restante > 0; restante -= MAX_POR_LLAMADA) {
+      planTroceado.push({ ...item, n: Math.min(MAX_POR_LLAMADA, restante) });
+    }
+  }
+
   const resultados = [];
   const errores = [];
 
-  const peticiones = plan
-    .filter((item) => item.n && item.n > 0)
+  const peticiones = planTroceado
     .map(async (item) => {
       // Se prioriza el banco propio (no necesita llamar a Gemini) sobre la
       // IA: con 800 preguntas reales ya subidas, no hace falta generar con
