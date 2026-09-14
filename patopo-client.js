@@ -37,7 +37,15 @@ const TEMAS_OFIMATICA = [
   { area: 'ofimatica', slug: 'tema21', nombre: 'Tema 21 · Trabajo colaborativo' },
 ];
 
-const TEMAS_TODOS = [...TEMAS_LEYES, ...TEMAS_OFIMATICA];
+// Oposición paralela de Auxiliar Administrativo de la UPM (examen distinto,
+// sin psicotécnicos). No tiene banco propio de preguntas (solo un resumen
+// de temario), así que sinBanco:true hace que se pida siempre en modo
+// "generar_nueva" directamente, sin desperdiciar un intento en "replicar".
+const TEMAS_UPM = [
+  { area: 'upm', slug: 'upm', nombre: 'Temario completo (sin psicotécnico)', sinBanco: true },
+];
+
+const TEMAS_TODOS = [...TEMAS_LEYES, ...TEMAS_OFIMATICA, ...TEMAS_UPM];
 
 /** Llamada genérica al endpoint. Lanza Error con mensaje legible si falla. */
 async function llamarEndpoint(body) {
@@ -129,8 +137,9 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
       // Se prioriza el banco propio (no necesita llamar a Gemini) sobre la
       // IA: con 800 preguntas reales ya subidas, no hace falta generar con
       // IA casi nunca para leyes/ofimática, y así se evita agotar el límite
-      // de peticiones por minuto del nivel gratuito de Gemini.
-      const modo = Math.random() < 0.85 ? 'replicar' : 'generar_nueva';
+      // de peticiones por minuto del nivel gratuito de Gemini. Los temas
+      // marcados sinBanco (como UPM) van siempre directos a "generar_nueva".
+      const modo = item.sinBanco ? 'generar_nueva' : (Math.random() < 0.85 ? 'replicar' : 'generar_nueva');
       const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
 
       try {
