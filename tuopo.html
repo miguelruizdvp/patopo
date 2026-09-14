@@ -323,6 +323,7 @@
     margin-bottom:10px;
   }
   .review-item.blank{border-left-color:#9a8f6f;}
+  .review-item.correcta{border-left-color:var(--sage);}
   .review-item .rtag{
     font-family:'IBM Plex Mono',monospace;
     font-size:10.5px;
@@ -331,6 +332,7 @@
     color:var(--oxblood);
   }
   .review-item.blank .rtag{color:#9a8f6f;}
+  .review-item.correcta .rtag{color:var(--sage);}
   .review-item .rq{font-size:14px;font-weight:500;margin:6px 0 8px;}
   .review-item .rans{font-size:13px;margin:2px 0;}
   .review-item .rexp{font-size:12.5px;color:#5c5745;margin-top:6px;line-height:1.5;}
@@ -473,6 +475,9 @@
 
     <div class="section-title">Repaso de falladas y en blanco</div>
     <div id="res-review"></div>
+
+    <div class="section-title">Preguntas acertadas</div>
+    <div id="res-correctas"></div>
 
     <div class="footer-actions">
       <button class="btn btn-ghost" onclick="location.reload()">Configurar otro Tuopo</button>
@@ -759,6 +764,15 @@ function renderResultados(){
   }).join('');
 
   const toReview = EXAM_QUESTIONS.filter(q=> answers[q.id]===undefined || answers[q.id]!==q.correct);
+  const toCorrectas = EXAM_QUESTIONS.filter(q=> answers[q.id]!==undefined && answers[q.id]===q.correct);
+
+  function resumenBreve(texto){
+    if(!texto) return '';
+    const corte = texto.indexOf('. ');
+    if(corte > 15 && corte < 180) return texto.slice(0, corte+1);
+    return texto.length > 140 ? texto.slice(0,140).trim()+'…' : texto;
+  }
+
   document.getElementById('res-review').innerHTML = toReview.length ? toReview.map(q=>{
     const isBlank = answers[q.id]===undefined;
     return `<div class="review-item ${isBlank?'blank':''}">
@@ -770,6 +784,16 @@ function renderResultados(){
       ${q.ref?`<div class="rref">${q.ref}</div>`:''}
     </div>`;
   }).join('') : '<p style="font-size:14px;color:#4a4638;">Sin preguntas falladas ni en blanco. Buen trabajo.</p>';
+
+  document.getElementById('res-correctas').innerHTML = toCorrectas.length ? toCorrectas.map(q=>{
+    return `<div class="review-item correcta">
+      <span class="rtag">Acertada</span>
+      <p class="rq">${q.text}</p>
+      <div class="rans">✔ Correcta: <b>${q.options[q.correct]}</b></div>
+      <div class="rexp">${resumenBreve(q.explanation)}</div>
+      ${q.ref?`<div class="rref">${q.ref}</div>`:''}
+    </div>`;
+  }).join('') : '<p style="font-size:14px;color:#4a4638;">Ninguna pregunta acertada esta vez.</p>';
 }
 
 /* Inicializar UI de configuración */
