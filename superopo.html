@@ -596,7 +596,7 @@ async function startExam(){
   actualizarProgreso(0);
 
   try {
-    const distribucionLeyes = PatopoClient.repartirEntreTemas(PatopoClient.TEMAS_LEYES, 30);
+    const distribucionLeyes = PatopoClient.distribucionRealistaLeyes(30);
     const distribucionOfi = PatopoClient.repartirEntreTemas(PatopoClient.TEMAS_OFIMATICA, 30);
 
     const [psicoRes, leyesRes, ofiRes] = await Promise.all([
@@ -730,6 +730,7 @@ function tick(){
 
 function finishExam(){
   clearInterval(interval);
+  PatopoClient.registrarResultados(PSICO.concat(LEYES).concat(OFIMATICA), answers);
   document.getElementById('screen-ej1').classList.add('hidden');
   document.getElementById('screen-ej2').classList.add('hidden');
   document.getElementById('screen-res').classList.remove('hidden');

@@ -725,6 +725,7 @@ function tick(){
 
 function finishExam(){
   clearInterval(interval);
+  PatopoClient.registrarResultados(EXAM_QUESTIONS, answers);
   document.getElementById('screen-exam').classList.add('hidden');
   document.getElementById('screen-res').classList.remove('hidden');
   renderResultados();

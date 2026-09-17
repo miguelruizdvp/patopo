@@ -668,6 +668,7 @@ function tick(){
 
 function finishExam(){
   clearInterval(interval);
+  PatopoClient.registrarResultados(PSICO.concat(LEYES).concat(OFIMATICA), answers);
   document.getElementById('screen-ej1').classList.add('hidden');
   document.getElementById('screen-ej2').classList.add('hidden');
   document.getElementById('screen-res').classList.remove('hidden');
