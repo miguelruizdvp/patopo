@@ -201,10 +201,26 @@
   .clock.warn::before{border-color:var(--oxblood);}
 
   .exam-card{
+    position:relative;
     background:var(--white);
     border:1px solid var(--line);
     padding:22px 24px 18px;
   }
+  .clock-wrap{display:flex;flex-direction:column;align-items:center;gap:6px;}
+  .btn-pause{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.03em;
+    background:var(--white);border:1px solid var(--line);border-radius:6px;
+    padding:3px 9px;cursor:pointer;color:var(--navy);
+  }
+  .btn-pause:hover{border-color:var(--brand);}
+  .pausa-overlay{
+    position:absolute;inset:0;background:rgba(244,250,249,0.95);
+    display:flex;align-items:center;justify-content:center;z-index:10;
+  }
+  .pausa-overlay.hidden{display:none;}
+  .pausa-msg{text-align:center;}
+  .pausa-msg .titulo{font-family:'Spectral',serif;font-size:19px;color:var(--navy);margin-bottom:14px;}
+
   .exam-card .exam-label{
     font-size:12px;
     letter-spacing:0.06em;
@@ -444,9 +460,18 @@
   <div id="screen-exam" class="hidden">
     <div class="exam-top">
       <div class="exam-title">Tuopo</div>
-      <div class="clock" id="clock-exam">00:00</div>
+      <div class="clock-wrap">
+        <div class="clock" id="clock-exam">00:00</div>
+        <button class="btn-pause" onclick="togglePausa()">⏸ Pausar</button>
+      </div>
     </div>
     <div class="exam-card">
+      <div class="pausa-overlay hidden">
+        <div class="pausa-msg">
+          <div class="titulo">⏸ Examen en pausa</div>
+          <button class="btn btn-primary" onclick="togglePausa()">▶ Reanudar</button>
+        </div>
+      </div>
       <div class="exam-label">
         <span id="exam-page-label">Página 1</span>
         <span id="exam-progress">0 contestadas</span>
@@ -716,7 +741,20 @@ function examGoNext(){
 }
 function examGoBack(){ if(examPage>0){ examPage--; renderExam(); } }
 
+let pausado = false;
+function togglePausa(){
+  if(!pausado){
+    if(!confirm('¿Seguro que quieres pausar el tiempo? Las preguntas quedarán bloqueadas hasta que reanudes.')) return;
+    pausado = true;
+  } else {
+    pausado = false;
+  }
+  document.querySelectorAll('.pausa-overlay').forEach(el => el.classList.toggle('hidden', !pausado));
+  document.querySelectorAll('.btn-pause').forEach(el => el.textContent = pausado ? '▶ Reanudar' : '⏸ Pausar');
+}
+
 function tick(){
+  if(pausado) return;
   timeLeft--; timeUsed++;
   document.getElementById('clock-exam').textContent = fmt(timeLeft);
   if(timeLeft<=30) document.getElementById('clock-exam').classList.add('warn');

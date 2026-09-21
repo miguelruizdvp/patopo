@@ -192,11 +192,27 @@
   .clock.warn::before{border-color:var(--oxblood);}
 
   .exam-card{
+    position:relative;
     background:var(--white);
     border:1px solid var(--line);
     border-top:none;
     padding:22px 24px 18px;
   }
+  .clock-wrap{display:flex;flex-direction:column;align-items:center;gap:6px;}
+  .btn-pause{
+    font-family:'IBM Plex Mono',monospace;font-size:10.5px;letter-spacing:.03em;
+    background:var(--white);border:1px solid var(--line);border-radius:6px;
+    padding:3px 9px;cursor:pointer;color:var(--navy);
+  }
+  .btn-pause:hover{border-color:var(--brand);}
+  .pausa-overlay{
+    position:absolute;inset:0;background:rgba(244,250,249,0.95);
+    display:flex;align-items:center;justify-content:center;z-index:10;
+  }
+  .pausa-overlay.hidden{display:none;}
+  .pausa-msg{text-align:center;}
+  .pausa-msg .titulo{font-family:'Spectral',serif;font-size:19px;color:var(--navy);margin-bottom:14px;}
+
   .exam-card .exam-label{
     font-size:12px;
     letter-spacing:0.06em;
@@ -433,9 +449,18 @@
         <div class="tab" id="tab-psico" onclick="ej1GoToSection(0)">Psicotécnico</div>
         <div class="tab" id="tab-leyes" onclick="ej1GoToSection(1)">Leyes</div>
       </div>
-      <div class="clock" id="clock-ej1">65:00</div>
+      <div class="clock-wrap">
+        <div class="clock" id="clock-ej1">65:00</div>
+        <button class="btn-pause" onclick="togglePausa()">⏸ Pausar</button>
+      </div>
     </div>
     <div class="exam-card">
+      <div class="pausa-overlay hidden">
+        <div class="pausa-msg">
+          <div class="titulo">⏸ Examen en pausa</div>
+          <button class="btn btn-primary" onclick="togglePausa()">▶ Reanudar</button>
+        </div>
+      </div>
       <div class="exam-label">
         <span id="ej1-page-label">Página 1 de 5</span>
         <span id="ej1-progress">0 / 60 contestadas</span>
@@ -452,9 +477,18 @@
   <div id="screen-ej2" class="hidden">
     <div class="exam-top">
       <div class="tabs"><div class="tab active">Ofimática</div></div>
-      <div class="clock" id="clock-ej2">35:00</div>
+      <div class="clock-wrap">
+        <div class="clock" id="clock-ej2">35:00</div>
+        <button class="btn-pause" onclick="togglePausa()">⏸ Pausar</button>
+      </div>
     </div>
     <div class="exam-card">
+      <div class="pausa-overlay hidden">
+        <div class="pausa-msg">
+          <div class="titulo">⏸ Examen en pausa</div>
+          <button class="btn btn-primary" onclick="togglePausa()">▶ Reanudar</button>
+        </div>
+      </div>
       <div class="exam-label">
         <span id="ej2-page-label">Página 1 de 5</span>
         <span id="ej2-progress">0 / 30 contestadas</span>
@@ -712,7 +746,20 @@ function ej2GoNext(){
 }
 function ej2GoBack(){ if(ej2Page>0){ ej2Page--; renderEj2(); } }
 
+let pausado = false;
+function togglePausa(){
+  if(!pausado){
+    if(!confirm('¿Seguro que quieres pausar el tiempo? Las preguntas quedarán bloqueadas hasta que reanudes.')) return;
+    pausado = true;
+  } else {
+    pausado = false;
+  }
+  document.querySelectorAll('.pausa-overlay').forEach(el => el.classList.toggle('hidden', !pausado));
+  document.querySelectorAll('.btn-pause').forEach(el => el.textContent = pausado ? '▶ Reanudar' : '⏸ Pausar');
+}
+
 function tick(){
+  if(pausado) return;
   const ej1Visible = !document.getElementById('screen-ej1').classList.contains('hidden');
   const ej2Visible = !document.getElementById('screen-ej2').classList.contains('hidden');
   if(ej1Visible){
