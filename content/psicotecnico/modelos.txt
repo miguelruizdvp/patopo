@@ -160,29 +160,6 @@ Modelos y resultados:
 Método: aplicar directamente las operaciones aritméticas en el orden indicado, sin atajos que puedan
 introducir error; son preguntas de rapidez y precisión de cálculo mental/escrito, no de razonamiento.
 
-
-===========================================================
-CATEGORÍA: SERIES NUMÉRICAS (progresión aritmética o geométrica)
-Nota: estos dos modelos los ha construido y verificado Claude (no proceden de un PDF de
-ADAMS), para cubrir un tipo de ejercicio que faltaba en el banco.
-Modelo A: Complete la serie: 3, 7, 11, 15, 19, ¿?
-Método: comprobar si la diferencia entre términos consecutivos es constante (progresión
-aritmética); si lo es, sumar esa diferencia al último término.
-Resolución: diferencia constante = 4 (7-3=4, 11-7=4, 15-11=4, 19-15=4). Siguiente = 19+4=23.
-Resultado: 23
-Modelo B: Complete la serie: 2, 6, 18, 54, ¿?
-Método: comprobar si el cociente entre términos consecutivos es constante (progresión
-geométrica); si lo es, multiplicar el último término por esa razón.
-Resolución: razón constante = 3 (6/2=3, 18/6=3, 54/18=3). Siguiente = 54×3=162.
-Resultado: 162
-Modelo C (diferencias crecientes): Complete la serie: 1, 2, 4, 7, 11, ¿?
-Método: cuando la diferencia entre términos no es constante, calcular las diferencias
-sucesivas y comprobar si ESAS diferencias siguen a su vez un patrón (aquí, aumentan de 1
-en 1: +1,+2,+3,+4). Aplicar la siguiente diferencia prevista al último término.
-Resolución: diferencias 1,2,3,4 (crecientes de 1 en 1); la siguiente diferencia es 5.
-Siguiente = 11+5=16.
-Resultado: 16
-
 ===========================================================
 CATEGORÍA: SERIES DE LETRAS (salto regular/aritmético sobre el alfabeto)
 Modelo: Complete la serie con la letra que falta: A D G J ¿?
@@ -237,3 +214,98 @@ Resolución: un parasol protege del sol; buscando qué protege del frío entre l
 un abrigo protege del frío. La relación "objeto que protege de X" se cumple con
 Abrigo–Frío y Parasol–Sol.
 Resultado: Abrigo – Sol (opción b)
+
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (aritmética, diferencia constante)
+Modelo: Complete la serie: 3, 7, 11, 15, ¿?
+Método: comprobar si la diferencia entre términos consecutivos es constante (progresión
+aritmética); si lo es, sumar esa diferencia al último término. Truco: si la diferencia
+parece constante a simple vista, basta comprobar el segundo y el cuarto salto para
+confirmarlo, sin recalcular todos.
+Resolución: 7-3=4, 11-7=4, 15-11=4. Diferencia constante = +4. Siguiente = 15+4=19.
+Resultado: 19
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (geométrica, razón constante)
+Modelo: Complete la serie: 2, 6, 18, 54, ¿?
+Método: comprobar si el cociente entre términos consecutivos es constante (progresión
+geométrica); si lo es, multiplicar el último término por esa razón. Truco: si los números
+crecen o caen muy deprisa, sospechar antes de una razón geométrica que de una diferencia
+aritmética.
+Resolución: 6/2=3, 18/6=3, 54/18=3. Razón constante = ×3. Siguiente = 54×3=162.
+Resultado: 162
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (diferencias crecientes)
+Modelo: Complete la serie: 1, 3, 6, 10, 15, ¿?
+Método: cuando la diferencia entre términos no es constante, calcular las diferencias
+sucesivas y comprobar si esas diferencias siguen a su vez un patrón regular (aquí,
+aumentan de 1 en 1). Aplicar la siguiente diferencia prevista al último término. Esta
+familia concreta (1,3,6,10,15,21…) son los números triangulares.
+Resolución: saltos 2,3,4,5 (crecientes de 1 en 1); el siguiente salto es 6.
+Siguiente = 15+6=21.
+Resultado: 21
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (intercaladas, doble patrón)
+Modelo: Complete la serie: 10, 1, 8, 3, 6, 5, ¿?
+Método: cuando una serie de 6 o más términos no muestra un patrón claro de golpe, separar
+los términos en dos subseries según su posición (impares y pares) y analizar cada una por
+separado; el término que falta pertenece a una de las dos subseries según la posición que
+ocupe.
+Resolución: posiciones impares (1ª,3ª,5ª): 10, 8, 6 → -2 en cada paso, siguiente sería 4.
+Posiciones pares (2ª,4ª,6ª): 1, 3, 5 → +2 en cada paso, siguiente sería 7. El término que
+falta ocupa la 7ª posición (impar), así que sigue la subserie de los impares: 6-2=4.
+Resultado: 4
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (cuadrados y potencias)
+Modelo: Complete la serie: 1, 4, 9, 16, 25, ¿?
+Método: comprobar si los términos coinciden con los cuadrados (o cubos) de los números
+naturales consecutivos (1²,2²,3²...); si es así, calcular el siguiente cuadrado/cubo de la
+secuencia. También puede aparecer camuflada como una serie de diferencias impares
+consecutivas (3,5,7,9...), que es otra forma de generar cuadrados.
+Resolución: 1=1², 4=2², 9=3², 16=4², 25=5². Siguiente = 6²=36.
+Resultado: 36
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (Fibonacci y variantes)
+Modelo: Complete la serie: 1, 1, 2, 3, 5, 8, ¿?
+Método: comprobar si cada término es la suma de los dos anteriores (serie de Fibonacci o
+una variante que empieza en otros dos números). Si se cumple, sumar los dos últimos
+términos dados para obtener el siguiente.
+Resolución: 1+1=2, 1+2=3, 2+3=5, 3+5=8. Siguiente = 5+8=13.
+Resultado: 13
+
+===========================================================
+CATEGORÍA: SERIES NUMÉRICAS (mixtas, patrón de operaciones que se repite)
+Modelo: Complete la serie: 3, 6, 12, 11, 22, 44, 43, ¿?
+Método: cuando ni la diferencia ni la razón son constantes, probar si se repite un CICLO de
+operaciones distintas (por ejemplo, "multiplicar por 2, multiplicar por 2, restar 1") a lo
+largo de la serie, en vez de una única operación constante.
+Resolución: el ciclo es ×2, ×2, −1: 3×2=6, 6×2=12, 12−1=11, 11×2=22, 22×2=44, 44−1=43.
+Aplicando el ciclo de nuevo: 43×2=86.
+Resultado: 86
+
+===========================================================
+CATEGORÍA: PROBABILIDAD CLÁSICA (reparto de objetos entre personas)
+Modelo: Se sortean 5 teléfonos móviles, 3 tabletas y 1 ordenador portátil. Si somos 9
+personas y recibiremos un objeto cada uno, ¿qué probabilidad tenemos de que nos toque el
+ordenador portátil?
+Método: comprobar que el número total de objetos coincide con el número de personas (un
+objeto por persona); la probabilidad de que a una persona en concreto le toque un tipo de
+objeto concreto es el número de unidades de ese objeto dividido entre el total de objetos
+(regla de Laplace: casos favorables entre casos posibles).
+Resolución: total de objetos = 5+3+1=9 (coincide con las 9 personas). Casos favorables
+(hay un único portátil) = 1. Probabilidad = 1/9.
+Resultado: 1/9 ≈ 11,11%
+
+===========================================================
+CATEGORÍA: PORCENTAJES DE COMPOSICIÓN (parte sobre un total repartido en categorías)
+Modelo: Ana tiene 12 libros de historia, 16 novelas y 8 ensayos. ¿Cuál es el porcentaje de
+novelas?
+Método: sumar todas las categorías para obtener el total, y calcular qué porcentaje
+representa la categoría preguntada sobre ese total (parte/total × 100).
+Resolución: total de libros = 12+16+8=36. Porcentaje de novelas = 16/36×100 = 44,44%.
+Resultado: 44,44%
