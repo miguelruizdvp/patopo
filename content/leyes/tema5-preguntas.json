@@ -698,5 +698,61 @@
     "referencia": "Art. 107.2 Ley 39/2015",
     "explicacion": "La declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto administrativo, y exigirá la previa audiencia de los interesados (art. 107.2).",
     "requiere_imagen": false
+  },
+  {
+    "id": "tema5_51",
+    "texto": "El interesado podrá identificar un dispositivo electrónico y/o una dirección de correo electrónico que servirán para el envío de los avisos regulados en el artículo 41 de la Ley 39/2015:",
+    "opciones": [
+      "a) Y para las notificaciones.",
+      "b) Pero no para la práctica de notificaciones.",
+      "c) Para la práctica de notificaciones si el interesado así lo establece.",
+      "d) Para todo tipo de comunicación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Art. 41.1 Ley 39/2015",
+    "explicacion": "El dispositivo electrónico o dirección de correo que el interesado identifique sirve únicamente para el envío de avisos de notificación, nunca para la práctica de la notificación en sí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema5_52",
+    "texto": "En los casos en que los órganos administrativos ejerzan su competencia de forma verbal:",
+    "opciones": [
+      "a) La constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación del mismo la autoridad de la que procede.",
+      "b) No se requiere de constancia escrita del mismo.",
+      "c) La constancia escrita del acto, cuando sea necesaria, se efectuará y firmará por el titular del órgano o funcionario que la emita oralmente.",
+      "d) La constancia escrita deberá constar en todo caso."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 36.2 Ley 39/2015",
+    "explicacion": "Si se tratara de resoluciones, el titular de la competencia deberá autorizar una relación de las que haya dictado de forma verbal, con expresión de su contenido.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema5_53",
+    "texto": "En los procedimientos iniciados de oficio, las Administraciones públicas podrán recabar, mediante consulta a las bases de datos del Instituto Nacional de Estadística, los datos sobre el domicilio del interesado recogidos en el Padrón Municipal, remitidos por las Entidades Locales:",
+    "opciones": [
+      "a) A los solos efectos de su iniciación.",
+      "b) A todos los efectos.",
+      "c) Para su conclusión.",
+      "d) Todas las respuestas anteriores son incorrectas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Art. 41.4 Ley 39/2015",
+    "explicacion": "En aplicación de lo previsto en la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema5_54",
+    "texto": "¿Qué debe de garantizar el sistema automatizado de remisión y gestión telemática del BOE para la publicación de los anuncios de notificación infructuosa?",
+    "opciones": [
+      "a) Debe garantizar la celeridad de la publicación, su eficiencia, así como la identificación del órgano remitente.",
+      "b) Debe garantizar la eficacia de la publicación, su transparencia, así como la identificación del órgano remitente.",
+      "c) Debe garantizar la celeridad de la publicación, su correcta y fiel inserción, así como la identificación del órgano remitente.",
+      "d) Debe garantizar la transparencia de la publicación, así como la identificación del órgano remitente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Disposición adicional tercera, apartado 1, in fine, Ley 39/2015",
+    "explicacion": "Este sistema de notificación por medio de anuncio publicado en el BOE se aplica en los casos de notificación infructuosa del art. 44 (interesados desconocidos, lugar de notificación ignorado, o notificación intentada sin éxito), y en los mismos supuestos en procedimientos con normativa específica. La publicación se efectúa sin contraprestación económica.",
+    "requiere_imagen": false
   }
 ]
