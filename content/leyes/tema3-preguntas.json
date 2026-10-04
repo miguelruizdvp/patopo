@@ -698,5 +698,187 @@
     "referencia": "Artículo 24.1 EACM",
     "explicacion": "El Gobierno cesa (y por tanto el Presidente es removido) tras elecciones, pérdida de confianza parlamentaria, dimisión, incapacidad PERMANENTE o fallecimiento; la incapacidad TRANSITORIA no es causa de remoción, ya que es reversible (rehabilitación) y se gestiona mediante Presidente interino.",
     "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p51",
+    "texto": "De acuerdo con lo establecido en la Ley 1/1983, de 13 de diciembre, de Gobierno y Administración de la Comunidad de Madrid, el Consejo de Gobierno:",
+    "opciones": [
+      "a) Es el órgano colegiado que dirige la Administración de la Comunidad de Madrid. A tal fin, ejerce la potestad legislativa, la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía.",
+      "b) Es el órgano colegiado que dirige la política y la Administración de la Comunidad de Madrid. A tal fin, ejerce la iniciativa legislativa, la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley.",
+      "c) Es el órgano representativo que dirige la política de la Comunidad de Madrid. A tal fin, ejerce la iniciativa legislativa, la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley.",
+      "d) Es el órgano que dirige la política y la Administración de la Comunidad de Madrid. A tal fin, ejerce la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 18",
+    "explicacion": "El Consejo de Gobierno es el órgano colegiado que dirige la política y la Administración de la Comunidad de Madrid; a tal fin, ejerce la iniciativa legislativa (no la potestad legislativa, que corresponde a la Asamblea), la función ejecutiva y la potestad reglamentaria, de conformidad con el Estatuto de Autonomía y con la Ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p52",
+    "texto": "Las entidades de derecho público creadas por ley de la Asamblea, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, a quienes se encomienda expresamente en régimen de descentralización actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, susceptibles o no de contraprestación, se denominan:",
+    "opciones": [
+      "a) Consorcios.",
+      "b) Entes de Derecho público sometidos al derecho privado.",
+      "c) Organismos Autónomos.",
+      "d) Sociedades mercantiles."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, art. 2",
+    "explicacion": "Los Organismos Autónomos son las entidades de derecho público creadas por ley de la Asamblea, con personalidad jurídica propia, patrimonio propio y autonomía en su gestión, a quienes se encomienda en régimen de descentralización actividades de fomento, prestacionales, de gestión de servicios públicos o de producción de bienes de interés público, susceptibles o no de contraprestación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p53",
+    "texto": "Ordenar la publicación en el Boletín Oficial de la Comunidad del nombramiento del Presidente del Tribunal Superior de Justicia en Madrid, es competencia de:",
+    "opciones": [
+      "a) El Consejero de Justicia.",
+      "b) El Presidente de la Asamblea de la Comunidad.",
+      "c) El Rey.",
+      "d) El Presidente de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 8",
+    "explicacion": "En su condición de representante ordinario del Estado en la Comunidad Autónoma, corresponde al Presidente ordenar la publicación en el Boletín Oficial de la Comunidad de Madrid del nombramiento del Presidente del Tribunal Superior de Justicia de Madrid, de conformidad con el art. 48.1 del Estatuto de Autonomía.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p54",
+    "texto": "La Ley de Gobierno y Administración de la Comunidad de Madrid, establece que:",
+    "opciones": [
+      "a) Los Secretarios Generales Técnicos y los Directores Generales, ambos de idéntico nivel orgánico, serán nombrados por Decreto del Presidente de la Comunidad de Madrid.",
+      "b) Los Secretarios Generales Técnicos y los Directores Generales, ambos de idéntico nivel orgánico, serán nombrados necesariamente entre funcionarios de carrera de la Administración de la Comunidad de Madrid pertenecientes a Cuerpos, Grupos o Escalas para cuyo ingreso se exija título superior.",
+      "c) Los Secretarios Generales Técnicos y los Directores Generales, ambos de idéntico nivel orgánico, serán nombrados por Orden del Consejero correspondiente y, preferentemente, de entre funcionarios de carrera de cualquier Administración Pública perteneciente a Cuerpos, Grupos o Escalas para cuyo ingreso se exija título superior.",
+      "d) Los Secretarios Generales Técnicos y los Directores Generales, ambos de idéntico nivel orgánico, serán nombrados por Decreto del Consejo de Gobierno, a propuesta del consejero correspondiente y, preferentemente, de entre funcionarios de carrera de cualquier Administración Pública pertenecientes a Cuerpos, Grupos o Escalas para cuyo ingreso se exija título superior."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 45",
+    "explicacion": "Los Secretarios Generales Técnicos y los Directores Generales, ambos de idéntico nivel orgánico, serán nombrados por Decreto del Consejo de Gobierno, a propuesta del Consejero correspondiente y, preferentemente, de entre funcionarios de carrera, de cualquier Administración Pública, pertenecientes a Cuerpos, Grupos o Escalas para cuyo ingreso se exija título superior (no necesariamente de la Administración madrileña, ni por Orden del Consejero ni por Decreto del Presidente).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p55",
+    "texto": "Señale la opción incorrecta. Establece el artículo 37 de la Ley 1/1983, de 13 de diciembre de 1983, del Gobierno y Administración de la Comunidad de Madrid que la actuación de la Comunidad de Madrid se atendrá a los principios de:",
+    "opciones": [
+      "a) Objetividad y publicidad.",
+      "b) Celeridad y economía.",
+      "c) Descentralización, desconcentración, coordinación y participación.",
+      "d) Eficiencia."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 37",
+    "explicacion": "El art. 37 enumera como principios de actuación la objetividad, publicidad, celeridad, EFICACIA (no eficiencia), economía, descentralización, desconcentración, coordinación y participación, con sometimiento a la Ley y al Derecho; \"eficiencia\" no es uno de los principios citados literalmente por el artículo, que habla de eficacia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p56",
+    "texto": "La situación de interinidad en la Presidencia de la Comunidad de Madrid:",
+    "opciones": [
+      "a) No podrá ser superior a dos meses ampliables a otros dos.",
+      "b) Tendrá una duración indefinida hasta que finalice la causa que originó la interinidad.",
+      "c) No podrá ser superior a cuatro meses ampliables a dos más.",
+      "d) Tendrá una duración indefinida hasta que el Consejo de Gobierno comunique la desaparición de las causas que motivaron la interinidad."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 15",
+    "explicacion": "La situación de interinidad en la Presidencia no podrá ser superior a dos meses, ampliables en otros dos, previo acuerdo de la Asamblea de Madrid autorizando dicha prórroga, adoptado por el voto favorable de la mayoría absoluta de sus miembros, a propuesta, en su caso, del Consejo de Gobierno.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p57",
+    "texto": "Bajo la dependencia directa del Presidente, funcionará como órgano de asistencia y asesoramiento, el Gabinete del Presidente. Señala cuál de las siguientes afirmaciones en relación a dicho Gabinete no es correcta:",
+    "opciones": [
+      "a) En él se integran los Asesores del Presidente, en número determinado por él mismo, y no superior a cinco.",
+      "b) El nombramiento y cese de los Asesores se realizará mediante Decreto del Presidente.",
+      "c) El Jefe del Gabinete será nombrado, y en su caso, cesado por Decreto del Gobierno.",
+      "d) El Jefe de Gabinete tendrá nivel orgánico de Director General."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 11",
+    "explicacion": "En el Gabinete del Presidente se integran los Asesores del Presidente, en número determinado por este, y no superior a SEIS (no cinco); su nombramiento y cese se realiza mediante Decreto del Presidente, publicado en el BOCM, y el Jefe de Gabinete es nombrado y, en su caso, cesado por Decreto del Gobierno, con nivel orgánico de Director General.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p58",
+    "texto": "Las normas con rango de Ley emanadas del Gobierno de la Comunidad de Madrid se denominan:",
+    "opciones": [
+      "a) Decretos.",
+      "b) Reales Decretos.",
+      "c) Decretos Legislativos.",
+      "d) Decretos-Leyes."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 36",
+    "explicacion": "De conformidad con el art. 16 del Estatuto de Autonomía, en relación con los arts. 82 a 84 de la Constitución, la Asamblea podrá delegar en el Consejo de Gobierno la potestad de dictar normas con rango de Ley, denominadas Decretos Legislativos, con determinadas excepciones (normas que afecten al ordenamiento básico del Gobierno o régimen jurídico de la Administración, legislación electoral o normas que por su carácter institucional requieran un procedimiento especial).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p59",
+    "texto": "En la actualidad será necesaria la condición de Diputado de la Asamblea de Madrid para ser nombrado:",
+    "opciones": [
+      "a) Presidente de la Comunidad de Madrid.",
+      "b) Consejero.",
+      "c) Viceconsejero.",
+      "d) a) y b) son correctas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 4",
+    "explicacion": "El Presidente de la Comunidad de Madrid es elegido de entre sus miembros por la Asamblea y nombrado por el Rey mediante Real Decreto, por lo que necesariamente ha de ostentar la condición de Diputado de la Asamblea; los Consejeros y Viceconsejeros, en cambio, no necesitan ser Diputados para ser nombrados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p60",
+    "texto": "El sector público institucional de la Comunidad de Madrid estará formado por:",
+    "opciones": [
+      "a) Los organismos vinculados o dependientes de la Administración de la Comunidad de Madrid.",
+      "b) Las Universidades.",
+      "c) Los consorcios adscritos a la Administración de la Comunidad de Madrid.",
+      "d) Las fundaciones."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, art. 2",
+    "explicacion": "El sector público institucional de la Comunidad de Madrid está formado por: a) los organismos públicos vinculados o dependientes de la Administración (organismos autónomos y entes de derecho público); b) las sociedades mercantiles; c) los consorcios adscritos a la Administración de la Comunidad de Madrid; d) las fundaciones del sector público; y e) las universidades públicas. De las opciones, la que recoge con exactitud uno de estos elementos tal y como lo define la ley es la de los consorcios adscritos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p61",
+    "texto": "El cargo de Presidente de la Comunidad de Madrid es incompatible con el ejercicio de cualquier otra función o actividad pública que no derive de aquél, salvo la de:",
+    "opciones": [
+      "a) Presidente de la Asamblea.",
+      "b) Senador.",
+      "c) Diputado del Congreso.",
+      "d) Diputado de la Asamblea."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1983, de 13 de diciembre, del Gobierno y Administración de la Comunidad de Madrid, art. 6",
+    "explicacion": "El cargo de Presidente de la Comunidad de Madrid es incompatible con el ejercicio de cualquier otra función o actividad pública que no derive de aquel, salvo la de Diputado de la Asamblea (condición que, de hecho, es necesaria para ser Presidente); también es incompatible con el ejercicio de toda actividad laboral, profesional o empresarial.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p62",
+    "texto": "Los organismos públicos vinculados o dependientes de la Administración de la Comunidad de Madrid, bien directamente o bien a través de otro organismo público, que se clasifican en:",
+    "opciones": [
+      "a) Organismos autónomos, entes de Derecho público de régimen especial y entes de Derecho público sometidos a régimen general.",
+      "b) Entes de Derecho público de régimen especial y entes de Derecho público sometidos al derecho privado.",
+      "c) Organismos autónomos y entes de Derecho público sometidos al derecho privado.",
+      "d) Organismos autónomos, entes de Derecho público de régimen especial y entes de Derecho público sometidos al derecho privado."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, art. 2",
+    "explicacion": "Los organismos públicos vinculados o dependientes de la Administración de la Comunidad de Madrid se clasifican en: organismos autónomos, entes de Derecho público de régimen especial y entes de Derecho público sometidos al derecho privado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema3-p63",
+    "texto": "Indique cuál de los siguientes es, en todo caso, un órgano de Gobierno de los Organismos Autónomos en la Comunidad de Madrid:",
+    "opciones": [
+      "a) El Consejo de Gobierno.",
+      "b) El Gerente.",
+      "c) El Consejero Delegado.",
+      "d) Todos lo son."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley 1/1984, de 19 de enero, reguladora de la Administración Institucional de la Comunidad de Madrid, art. 7",
+    "explicacion": "Los órganos de Gobierno de los Organismos Autónomos son, en todo caso, el Consejo de Administración, su Presidente y el Gerente; el Consejero-Delegado solo existe, en su caso, cuando así lo prevea la ley de creación del organismo, por lo que no es un órgano necesario en todos ellos como sí lo es el Gerente.",
+    "requiere_imagen": false
   }
 ]

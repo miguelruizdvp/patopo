@@ -348,5 +348,327 @@
     "referencia": "Artículo 9 del Reglamento de la Asamblea de Madrid",
     "explicacion": "La Asamblea se reunirá en sesión constitutiva el día y hora fijados en el Decreto de convocatoria de elecciones y, en su defecto, a las doce horas del vigesimoquinto día siguiente a la proclamación de resultados (o del día hábil inmediato anterior si no fuera hábil).",
     "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p26",
+    "texto": "Las Leyes de la Asamblea de Madrid estarán sujetas:",
+    "opciones": [
+      "a) Únicamente al control del Tribunal Constitucional.",
+      "b) Al control de los Tribunales de Justicia.",
+      "c) Al Tribunal de Cuentas.",
+      "d) Al control de la jurisdicción contencioso-administrativa."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 42",
+    "explicacion": "Las leyes de la Asamblea de Madrid están sujetas únicamente al control de constitucionalidad por el Tribunal Constitucional, a diferencia de las normas reglamentarias del Gobierno y la Administración de la Comunidad, que sí quedan sujetas al control de los Tribunales ordinarios y a la jurisdicción contencioso-administrativa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p27",
+    "texto": "Las leyes aprobadas en la Asamblea de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Serán promulgadas por el Rey en nombre del Presidente de la Comunidad de Madrid.",
+      "b) Entrarán en vigor a los quince días de su publicación en el Boletín Oficial de la Comunidad de Madrid, salvo que en las mismas se disponga otra cosa.",
+      "c) Serán promulgadas en nombre del Rey por el Presidente de la Comunidad.",
+      "d) Entrarán en vigor a los 20 días de su publicación en el Boletín Oficial de la Comunidad de Madrid, salvo que en las mismas se disponga otra cosa."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 40",
+    "explicacion": "Las leyes aprobadas por la Asamblea serán promulgadas, en nombre del Rey, por el Presidente de la Comunidad, que ordenará su publicación en el BOCM y en el BOE, entrando en vigor al día siguiente de su publicación en el BOCM, salvo que en las mismas se disponga otra cosa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p28",
+    "texto": "Conforme establece el artículo 20 del Estatuto de Autonomía de la Comunidad de Madrid:",
+    "opciones": [
+      "a) La moción de censura no podrá ser votada hasta que transcurran dos días desde su presentación.",
+      "b) Si la moción de censura no fuese aprobada por la Asamblea, sus signatarios podrán presentar solamente una más durante el mismo periodo de sesiones.",
+      "c) La moción de censura habrá de ser propuesta, al menos, por un 25 por 100 de los Diputados.",
+      "d) Si la Asamblea adoptara una moción de censura, el Presidente junto con su Gobierno cesará."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 20",
+    "explicacion": "Si la Asamblea adoptara una moción de censura, el Presidente junto con su Gobierno cesará, y el candidato incluido en aquella se entenderá investido de la confianza de la Cámara, siendo nombrado Presidente por el Rey. La moción no podrá votarse hasta que transcurran cinco días (no dos) desde su presentación, deberá ser propuesta por un 15% (no 25%) de los Diputados, y si no prospera sus signatarios no podrán presentar otra durante el mismo periodo de sesiones (no una más).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p29",
+    "texto": "De acuerdo con las bases y la ordenación de la actividad económica general y la política monetaria del Estado, corresponde a la Comunidad de Madrid, en los términos de lo dispuesto en la Constitución, la competencia exclusiva en las siguientes materias:",
+    "opciones": [
+      "a) Instituciones de crédito corporativo público y territorial.",
+      "b) Estadísticas para fines no estatales.",
+      "c) Ordenación del territorio, urbanismo y vivienda.",
+      "d) Tratamiento singular de las zonas de montaña."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 26",
+    "explicacion": "El art. 26 del Estatuto, en el marco de las bases y la ordenación de la actividad económica general y la política monetaria del Estado, atribuye a la Comunidad de Madrid competencia exclusiva sobre instituciones de crédito corporativo, público y territorial, y cajas de ahorro, entre otras materias de contenido económico; las demás opciones (estadísticas, ordenación del territorio o zonas de montaña) son competencias exclusivas reconocidas en otros artículos del Estatuto, no vinculadas a esa base económica.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p30",
+    "texto": "Según previsión del artículo 6 del Estatuto de la Comunidad de Madrid, la villa de Madrid, por su condición de capital del Estado y sede de las instituciones generales tendrá un régimen especial regulado por:",
+    "opciones": [
+      "a) Ley votada en Cortes Generales.",
+      "b) Ley votada en la Asamblea de Madrid.",
+      "c) Ley Orgánica.",
+      "d) El Reglamento de la Asamblea de Madrid."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 6",
+    "explicacion": "La villa de Madrid, por su condición de capital del Estado y sede de las instituciones generales, tendrá un régimen especial regulado por Ley votada en Cortes, que determinará las relaciones entre las instituciones estatales, autonómicas y municipales en el ejercicio de sus respectivas competencias.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p31",
+    "texto": "Si la Asamblea de Madrid no otorgase por mayoría absoluta su confianza al candidato propuesto a la Presidencia de la Comunidad:",
+    "opciones": [
+      "a) Se someterá la misma propuesta a nueva votación 48 horas después y la confianza se entenderá otorgada si obtuviese mayoría simple.",
+      "b) Se someterá la misma propuesta a nueva votación 48 horas después y la confianza se entenderá otorgada si obtuviese mayoría absoluta.",
+      "c) Se someterá nueva propuesta a nueva votación 48 horas después y la confianza se entenderá otorgada si obtuviese mayoría absoluta.",
+      "d) Se someterá nueva propuesta a nueva votación 48 horas después y la confianza se entenderá otorgada si obtuviese mayoría simple."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 18",
+    "explicacion": "Si la Asamblea otorgase por mayoría absoluta su confianza al candidato, el Rey le nombrará Presidente. De no alcanzarse dicha mayoría, se someterá la MISMA propuesta (no una nueva) a nueva votación 48 horas después, y la confianza se entenderá otorgada si obtuviese mayoría simple.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p32",
+    "texto": "El primer período ordinario de sesiones de la Asamblea de la Comunidad de Madrid es:",
+    "opciones": [
+      "a) De febrero a junio.",
+      "b) De febrero a julio.",
+      "c) De septiembre a diciembre.",
+      "d) De septiembre a febrero."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 14",
+    "explicacion": "La Asamblea se reúne en sesiones ordinarias y extraordinarias. Los períodos ordinarios de sesiones son dos al año: el primero de septiembre a diciembre, y el segundo de febrero a junio.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p33",
+    "texto": "¿De qué plazo disponen las Cortes Generales para manifestar reparos sobre un convenio de cooperación de la Comunidad de Madrid con otras Comunidades Autónomas?",
+    "opciones": [
+      "a) 20 días desde la recepción de la comunicación.",
+      "b) 30 días desde la recepción de la comunicación.",
+      "c) 30 días desde la emisión de la comunicación.",
+      "d) No es posible que las Cortes manifiesten reparos sobre los convenios de cooperación; sin embargo, disponen de un mes para manifestar reparos sobre los acuerdos de cooperación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 31",
+    "explicacion": "La celebración de los convenios de cooperación deberá comunicarse a las Cortes Generales antes de su entrada en vigor. Si las Cortes Generales o alguna de las Cámaras manifestaran reparos en el plazo de treinta días a partir de la recepción de la comunicación, el convenio deberá seguir el trámite previsto para los acuerdos de cooperación; transcurrido dicho plazo sin reparos, entrará en vigor.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p34",
+    "texto": "En el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad de Madrid el desarrollo legislativo, la potestad reglamentaria y la ejecución de las siguientes materias:",
+    "opciones": [
+      "a) Cooperativas y entidades asimilables, mutualidades no integradas en la Seguridad Social, conforme a la legislación mercantil.",
+      "b) Protección y tutela de menores y desarrollo de políticas de promoción integral de la juventud.",
+      "c) Gestión de las prestaciones y servicios sociales del sistema de Seguridad Social: INSERSO.",
+      "d) Protección de los ecosistemas en los que se desarrollen la pesca, acuicultura y caza. Espacios naturales protegidos."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 27",
+    "explicacion": "Entre las materias de desarrollo legislativo, potestad reglamentaria y ejecución en el marco de la legislación básica del Estado (art. 27 del Estatuto) se incluye la protección de los ecosistemas en los que se desarrollen la pesca, acuicultura y caza, y los espacios naturales protegidos; las demás opciones corresponden a otros bloques competenciales del Estatuto (competencia exclusiva o de mera ejecución).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p35",
+    "texto": "Corresponde a la Comunidad de Madrid la ejecución de la legislación del Estado en materia de:",
+    "opciones": [
+      "a) Ferias internacionales que se celebren en la Comunidad de Madrid.",
+      "b) Régimen minero y energético.",
+      "c) Régimen Local.",
+      "d) Cooperativas y entidades asimilables, mutualidades no integradas en la Seguridad Social, conforme a la legislación mercantil."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 28",
+    "explicacion": "El art. 28 del Estatuto atribuye a la Comunidad de Madrid la mera ejecución de la legislación del Estado respecto de las ferias internacionales que se celebren en su territorio; el régimen minero y energético, el régimen local y las cooperativas se encuadran en otros bloques de competencia del Estatuto (desarrollo legislativo o exclusiva).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p36",
+    "texto": "¿Qué requisito, de acuerdo con el Estatuto de Autonomía de la Comunidad de Madrid, es imprescindible para que los Convenios de Cooperación de la Comunidad de Madrid con otras Comunidades Autónomas entren en vigor?",
+    "opciones": [
+      "a) Comunicarlos al Gobierno de la Nación.",
+      "b) Comunicarlos a las Cortes Generales.",
+      "c) No cabe la celebración de Convenios de Cooperación entre Comunidades Autónomas.",
+      "d) La realización de un trámite de información pública."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 31",
+    "explicacion": "La celebración de los convenios de cooperación deberá comunicarse a las Cortes Generales antes de su entrada en vigor; si transcurrido el plazo de treinta días no se hubiesen manifestado reparos, el convenio entrará en vigor.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p37",
+    "texto": "En virtud de lo dispuesto en el Estatuto de Autonomía de la Comunidad de Madrid, la responsabilidad política del Presidente del Gobierno podrá ser exigida por la Asamblea mediante la adopción de la moción de censura:",
+    "opciones": [
+      "a) Que deberá ser propuesta, al menos, por un 25 por 100 de los diputados y adoptada por mayoría simple de la Cámara.",
+      "b) Que deberá ser propuesta, al menos, por un 20 por 100 de los diputados y adoptada por mayoría absoluta de la Cámara.",
+      "c) Que deberá ser propuesta, al menos, por un 10 por 100 de los diputados y adoptada por mayoría de 2/3 de la Cámara.",
+      "d) Que deberá ser propuesta, al menos, por un 15 por 100 de los diputados y adoptada por mayoría absoluta de la Cámara."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 20",
+    "explicacion": "La Asamblea puede exigir la responsabilidad política del Presidente o del Gobierno mediante la adopción, por mayoría absoluta, de la moción de censura, que habrá de ser propuesta, al menos, por un 15 por 100 de los Diputados y habrá de incluir un candidato a la Presidencia de la Comunidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p38",
+    "texto": "Según el Estatuto de Autonomía, en materia de relaciones internacionales, la Comunidad de Madrid, en el ámbito de sus competencias, podrá:",
+    "opciones": [
+      "a) Celebrar tratados o convenios internacionales en materias de interés para Madrid.",
+      "b) Celebrar tratados o convenios internacionales en materias de interés para Madrid, contando con la previa autorización del Senado.",
+      "c) Solicitar del Gobierno de la Nación la celebración de tratados o convenios internacionales en materias de interés para Madrid.",
+      "d) El Estatuto de Autonomía no recoge ninguna disposición relativa a cuestiones internacionales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 32",
+    "explicacion": "La Comunidad de Madrid, al carecer de competencia para celebrar tratados internacionales (competencia exclusiva del Estado), únicamente podrá solicitar del Gobierno de la Nación la celebración de los tratados o convenios internacionales que afecten a materias de su interés.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p39",
+    "texto": "Después de cada renovación de la Asamblea Legislativa de la Comunidad de Madrid, ¿quién propone a dicha Asamblea a uno de sus miembros como candidato a la Presidencia de la Comunidad?",
+    "opciones": [
+      "a) El Presidente en funciones de la Comunidad de Madrid.",
+      "b) El Rey.",
+      "c) El Presidente de la Asamblea Legislativa.",
+      "d) El Delegado del Gobierno en la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 18",
+    "explicacion": "Después de cada renovación de la Asamblea, y en los demás supuestos en que se produzca vacante en la Presidencia, el Presidente de la Asamblea, previa consulta con los representantes designados por los grupos políticos con representación en la Asamblea, propondrá a esta uno de sus miembros como candidato a la Presidencia de la Comunidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p40",
+    "texto": "El escudo de la Comunidad de Madrid se establece mediante:",
+    "opciones": [
+      "a) Decreto del Consejo de Gobierno.",
+      "b) Acuerdo del Gobierno.",
+      "c) Orden del Consejero de Presidencia.",
+      "d) Ley de la Asamblea."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 4",
+    "explicacion": "El escudo de la Comunidad de Madrid se establece por Ley de la Asamblea, al igual que la bandera y el himno, símbolos propios de la Comunidad regulados en el art. 4 del Estatuto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p41",
+    "texto": "Señale la respuesta incorrecta. De acuerdo con el Estatuto de Autonomía y en el marco de la legislación básica del Estado y, en su caso, en los términos que la misma establezca, corresponde a la Comunidad de Madrid el desarrollo legislativo, la potestad reglamentaria y la ejecución de las siguientes materias:",
+    "opciones": [
+      "a) Propiedad intelectual e industrial.",
+      "b) Régimen de los montes y aprovechamientos forestales.",
+      "c) Sanidad e higiene.",
+      "d) Protección de los ecosistemas en los que se desarrollen la pesca, acuicultura y caza. Espacios naturales protegidos."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 28",
+    "explicacion": "La propiedad intelectual e industrial no figura entre las materias de desarrollo legislativo del art. 27 del Estatuto, sino entre las de mera ejecución de la legislación del Estado recogidas en el art. 28; el régimen de montes, la sanidad e higiene y la protección de ecosistemas de pesca/caza sí están incluidos en el bloque de desarrollo legislativo del art. 27.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p42",
+    "texto": "¿Cuál de las siguientes no es una competencia exclusiva de la Comunidad de Madrid, de acuerdo con su Estatuto?",
+    "opciones": [
+      "a) Asociaciones.",
+      "b) Espectáculos públicos.",
+      "c) Ordenación del territorio, urbanismo y vivienda.",
+      "d) Artesanía."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 28",
+    "explicacion": "Las asociaciones no son competencia exclusiva de la Comunidad de Madrid, sino competencia de mera ejecución de la legislación del Estado (art. 28.1.4 del Estatuto); los espectáculos públicos, la ordenación del territorio/urbanismo/vivienda y la artesanía sí figuran entre las competencias exclusivas del art. 26.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p43",
+    "texto": "Según el Estatuto de Autonomía de la Comunidad de Madrid, el Presidente de la Comunidad de Madrid podrá acordar la disolución de la Asamblea:",
+    "opciones": [
+      "a) Durante el primer periodo de sesiones de la legislatura.",
+      "b) Cuando esté en tramitación una moción de censura.",
+      "c) Cuando reste menos de un año para la terminación de la legislatura.",
+      "d) Cuando esté convocado un proceso electoral autonómico."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 21",
+    "explicacion": "El Presidente NO podrá acordar la disolución de la Asamblea durante el primer período de sesiones de la legislatura, cuando reste menos de un año para su terminación, cuando esté en tramitación una moción de censura o cuando esté convocado un proceso electoral ESTATAL (no autonómico); por tanto, la disolución sí sería posible estando convocado un proceso electoral autonómico, que no figura entre las prohibiciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p44",
+    "texto": "¿Qué ocurrirá si la Asamblea Legislativa negara su confianza al Presidente de la Comunidad de Madrid?",
+    "opciones": [
+      "a) Que el Presidente de la Comunidad de Madrid presentará su dimisión ante la Asamblea, cuyo Presidente convocará en el plazo máximo de quince días la sesión plenaria para la elección de nuevo Presidente de la Comunidad de Madrid.",
+      "b) Que el Presidente de la Comunidad de Madrid presentará su dimisión ante la Asamblea, cuyo Presidente convocará elecciones en el plazo máximo de quince días.",
+      "c) Que el Presidente de la Comunidad de Madrid convocará elecciones en el plazo de quince días.",
+      "d) Que el Presidente de la Comunidad de Madrid presentará una nueva cuestión de confianza dentro de las cuarenta y ocho horas siguientes, la cual se considerará entonces otorgada por la mayoría simple de la Asamblea."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 19",
+    "explicacion": "Si la Asamblea negara su confianza, el Presidente presentará su dimisión ante la Asamblea, cuyo Presidente convocará en el plazo máximo de quince días la sesión plenaria para la elección de nuevo Presidente de la Comunidad de Madrid, de acuerdo con el procedimiento del art. 18.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p45",
+    "texto": "En relación al Presidente de la Comunidad de Madrid, y de acuerdo con lo previsto en el Estatuto de Autonomía, señale la afirmación correcta:",
+    "opciones": [
+      "a) Puede plantear ante la Asamblea una moción de censura sobre su programa.",
+      "b) Es políticamente responsable ante el pueblo de Madrid.",
+      "c) Previa deliberación del Gobierno, y bajo su exclusiva responsabilidad, podrá acordar la disolución de la Asamblea con anticipación al término natural de la legislatura.",
+      "d) Podrá acordar la disolución de la Asamblea durante el primer período de sesiones de la legislatura."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 21",
+    "explicacion": "El Presidente, previa deliberación del Gobierno y bajo su exclusiva responsabilidad, podrá acordar la disolución anticipada de la Asamblea mediante Decreto, con los límites fijados en el propio artículo (no puede hacerlo, entre otros casos, durante el primer período de sesiones); es el Presidente del Gobierno quien puede plantear ante la Asamblea una cuestión de confianza sobre su programa (no una moción de censura, que corresponde a la Asamblea contra el Presidente), y su responsabilidad política se exige ante la Asamblea, no directamente ante el pueblo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p46",
+    "texto": "La reforma del Estatuto de Autonomía de la Comunidad de Madrid, se encuentra regulada en:",
+    "opciones": [
+      "a) El artículo 69 del Título Sexto del Estatuto de Autonomía.",
+      "b) El artículo 69 del Título Quinto del Estatuto de Autonomía.",
+      "c) El artículo 64 del Título Sexto del Estatuto de Autonomía.",
+      "d) El artículo 65 del último Título."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 64",
+    "explicacion": "La reforma del Estatuto de Autonomía de la Comunidad de Madrid se regula en el artículo 64, ubicado en el Título Sexto del Estatuto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p47",
+    "texto": "La Asamblea Legislativa de la Comunidad de Madrid:",
+    "opciones": [
+      "a) Se dotará de su propio Reglamento que requerirá para su aprobación del voto afirmativo de la mayoría de los Diputados presentes.",
+      "b) No podrá delegar en el Gobierno la potestad de dictar decretos legislativos.",
+      "c) Ratifica los convenios de cooperación que se concluyan con otras Comunidades Autónomas, previa autorización de las Cortes Generales.",
+      "d) Tiene competencia para acordar operaciones de crédito y deuda pública."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 16",
+    "explicacion": "Entre las competencias de la Asamblea, el art. 16 del Estatuto le atribuye la de acordar operaciones de crédito y deuda pública; el Reglamento de la Asamblea requiere para su aprobación el voto de la mayoría ABSOLUTA (no simple de los presentes), la Asamblea sí puede delegar en el Gobierno la potestad de dictar Decretos Legislativos, y los convenios de cooperación se comunican a las Cortes Generales, sin requerir su autorización previa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema2-p48",
+    "texto": "¿Cuál de las siguientes funciones no corresponde a la Asamblea de Madrid?",
+    "opciones": [
+      "a) La potestad reglamentaria general de la Comunidad de Madrid.",
+      "b) El control del Presupuesto de la Comunidad de Madrid.",
+      "c) La aprobación del Presupuesto de la Comunidad de Madrid.",
+      "d) La potestad legislativa de la Comunidad de Madrid."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Ley Orgánica 3/1983, Estatuto de Autonomía de la Comunidad de Madrid, art. 22",
+    "explicacion": "La potestad reglamentaria general no corresponde a la Asamblea sino al Gobierno de la Comunidad de Madrid, que es el órgano colegiado que dirige la política de la Comunidad y al que corresponden las funciones ejecutivas y administrativas, así como el ejercicio de la potestad reglamentaria en materias no reservadas al Estatuto a la Asamblea; esta, en cambio, tiene la potestad legislativa y el control y aprobación del Presupuesto.",
+    "requiere_imagen": false
   }
 ]

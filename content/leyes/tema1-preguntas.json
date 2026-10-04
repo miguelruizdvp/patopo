@@ -698,5 +698,145 @@
     "referencia": "Artículo 35.2 CE",
     "explicacion": "La Ley (ordinaria) regulará un estatuto de los trabajadores.",
     "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p51",
+    "texto": "Si se pretendiera reformar el artículo referente al uso de la informática para garantizar el derecho al honor y a la intimidad familiar, ¿cuál sería el procedimiento a seguir?",
+    "opciones": [
+      "a) Reforma mediante ley Orgánica.",
+      "b) Reforma ordinaria prevista en el artículo 167 de la Constitución.",
+      "c) Reforma agravada prevista en el artículo 168 de la Constitución.",
+      "d) Reforma mediante ley ordinaria."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Constitución Española de 1978, art. 168",
+    "explicacion": "El derecho a la intimidad y al uso de la informática para garantizarlo (art. 18.4 CE) se regula dentro de la Sección 1ª del Capítulo II del Título I, por lo que su reforma sigue el procedimiento agravado del art. 168: aprobación del principio por mayoría de dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación por las nuevas Cámaras por mayoría de dos tercios, y referéndum.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p52",
+    "texto": "El Tribunal Constitucional se compone de doce miembros nombrados por el Rey, de entre ellos:",
+    "opciones": [
+      "a) Cuatro a propuesta del Congreso por mayoría absoluta de sus miembros.",
+      "b) Tres a propuesta del Gobierno.",
+      "c) Tres a propuesta del Consejo General del Poder Judicial.",
+      "d) Cuatro a propuesta del Senado por mayoría de tres quintos de sus miembros."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Constitución Española de 1978, art. 159",
+    "explicacion": "El Tribunal Constitucional se compone de 12 miembros: cuatro a propuesta del Congreso por mayoría de 3/5, cuatro a propuesta del Senado con idéntica mayoría, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p53",
+    "texto": "Entre los derechos a que se refiere el artículo 24 de la Constitución española se encuentra:",
+    "opciones": [
+      "a) El derecho a un proceso público sin dilaciones indebidas y con todas las garantías.",
+      "b) El derecho a ser informado de forma inmediata, y de modo que sea comprensible, de los derechos y de las razones de la detención.",
+      "c) El derecho a no declarar.",
+      "d) Todas son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Constitución Española de 1978, art. 24",
+    "explicacion": "El art. 24 CE reconoce, entre otros, el derecho a la tutela judicial efectiva, al juez ordinario predeterminado por la ley, a la defensa y asistencia de letrado, a ser informado de la acusación, a un proceso público sin dilaciones indebidas y con todas las garantías, a utilizar los medios de prueba pertinentes, a no declarar contra sí mismo y a la presunción de inocencia; todas las opciones son correctas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p54",
+    "texto": "Señale la respuesta incorrecta. Según la Constitución:",
+    "opciones": [
+      "a) La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.",
+      "b) La extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.",
+      "c) Por Tratado o ley, atendiendo al principio de reciprocidad, se establecerán los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.",
+      "d) Los extranjeros gozarán en España de las libertades públicas que garantiza el Título I en los términos que establezcan los tratados y la ley."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Constitución Española de 1978, art. 13",
+    "explicacion": "El art. 13 CE establece que será la LEY (no un Tratado o ley conjuntamente) la que fije los términos en que los ciudadanos extranjeros y los apátridas podrán gozar del derecho de asilo en España; por eso la opción c) es incorrecta, al introducir indebidamente al Tratado como fuente reguladora del asilo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p55",
+    "texto": "¿Cuál es la denominación del Capítulo III del Título I de la Constitución española?",
+    "opciones": [
+      "a) De los españoles y los extranjeros.",
+      "b) De los derechos fundamentales y de las libertades públicas.",
+      "c) De los principios rectores de la política social y económica.",
+      "d) De las garantías de las libertades y derechos fundamentales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Constitución Española de 1978, Título I, Capítulo III",
+    "explicacion": "El Título I (\"De los derechos y deberes fundamentales\") se estructura en capítulos; el Capítulo III lleva por rúbrica \"De los principios rectores de la política social y económica\" (arts. 39 a 52).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p56",
+    "texto": "Según el artículo 94 de la Constitución española los Tratados Internacionales de carácter político:",
+    "opciones": [
+      "a) Deben ser inmediatamente informados, una vez concluidos, al Congreso y al Senado.",
+      "b) Requieren previa autorización de las Cortes Generales.",
+      "c) Exigen ley orgánica de Cortes.",
+      "d) No son vinculantes."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Constitución Española de 1978, art. 94",
+    "explicacion": "El art. 94 CE exige la previa autorización de las Cortes Generales para que el Estado preste su consentimiento en obligarse mediante tratados de carácter político, militar, que afecten a la integridad territorial o a los derechos y deberes del Título I, que impliquen obligaciones financieras para la Hacienda Pública, o que supongan modificación o derogación de alguna ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p57",
+    "texto": "El artículo 29 de la Constitución, relativo al derecho de petición, establece que:",
+    "opciones": [
+      "a) Toda persona natural o jurídica puede ejercer el derecho de petición, individual o colectivamente, por escrito o de palabra, en la forma y con los efectos que determine la ley.",
+      "b) Todos los españoles pueden ejercer el derecho de petición, por escrito y solo individualmente, en la forma y con los efectos que determine la ley.",
+      "c) Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho solo individualmente y con arreglo a lo dispuesto en su legislación específica.",
+      "d) Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar no podrán ejercer este derecho."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Constitución Española de 1978, art. 29",
+    "explicacion": "El art. 29 CE reconoce a todos los españoles el derecho de petición individual y colectiva, por escrito, en la forma y con los efectos que determine la ley; los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar solo podrán ejercerlo individualmente y con arreglo a su legislación específica (no colectivamente, ni les está vetado por completo).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p58",
+    "texto": "Conforme a lo establecido en la Constitución española cualquier ciudadano podrá reclamar ante los Tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad y, en su caso, a través del recurso de amparo ante el Tribunal Constitucional la tutela de:",
+    "opciones": [
+      "a) Las libertades y derechos reconocidos en el artículo 14 y la Sección primera del Capítulo II del Título I.",
+      "b) Las libertades y derechos reconocidos en el artículo 14 y la Sección segunda del Capítulo II del Título I.",
+      "c) Las libertades y derechos reconocidos en la Sección primera del Capítulo II del Título I.",
+      "d) Las libertades y derechos reconocidos en el artículo 15 al 29 del Capítulo II del Título I."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Constitución Española de 1978, art. 53.2",
+    "explicacion": "El art. 53.2 CE permite recabar la tutela de las libertades y derechos reconocidos en el art. 14 (igualdad) y en la Sección primera del Capítulo II del Título I (arts. 15 a 29) ante los Tribunales ordinarios por un procedimiento preferente y sumario y, en su caso, mediante recurso de amparo ante el Tribunal Constitucional; este último recurso también es aplicable a la objeción de conciencia del art. 30.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p59",
+    "texto": "De conformidad con el artículo 22 de la Constitución española, son ilegales:",
+    "opciones": [
+      "a) Las asociaciones secretas.",
+      "b) Las asociaciones de carácter paramilitar.",
+      "c) Las asociaciones que persigan fines o utilicen medios tipificados como delito.",
+      "d) Las asociaciones que no se hallen inscritas en el Registro Nacional de Asociaciones."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Constitución Española de 1978, art. 22",
+    "explicacion": "El art. 22 CE declara ilegales las asociaciones que persigan fines o utilicen medios tipificados como delito; aparte, el propio artículo prohíbe expresamente las asociaciones secretas y las de carácter paramilitar, que son dos categorías prohibidas distintas de la de \"ilegales\"; la inscripción registral solo tiene efectos de publicidad, no es requisito de legalidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "tema1-p60",
+    "texto": "Respecto del ejercicio del derecho de reunión pacífica y sin armas, es correcto afirmar que:",
+    "opciones": [
+      "a) La autoridad gubernativa podrá prohibirlas en los casos de reuniones en lugares de tránsito público y manifestaciones.",
+      "b) No necesitará autorización previa.",
+      "c) Está sujeto, en cualquier caso, al deber de comunicación previa a la autoridad judicial.",
+      "d) No puede ser objeto de ningún tipo de restricciones o limitaciones en un Estado democrático."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Constitución Española de 1978, art. 21",
+    "explicacion": "El art. 21 CE reconoce el derecho de reunión pacífica y sin armas sin necesidad de autorización previa; en los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad (gubernativa, no judicial), que solo podrá prohibirlas cuando existan razones fundadas de alteración del orden público con peligro para personas o bienes.",
+    "requiere_imagen": false
   }
 ]
