@@ -1,356 +1,846 @@
-TEMA 19 — BASES DE DATOS: ACCESS. PRINCIPALES FUNCIONES Y UTILIDADES. TABLAS. CONSULTAS. FORMULARIOS. INFORMES. RELACIONES. IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN DE DATOS. POWER BI.
+BANCO DE PREGUNTAS - TEMA 19 (OFIMÁTICA: BASES DE DATOS - ACCESS 365)
+Fuente: ADAMS - Cuestionario tema 19.01 (test1) + Cuestionario tema 19.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas (ampliado posteriormente a 83, ver preguntas 51-83)
+Todas las preguntas: origen = banco_propio
 
-1. INTRODUCCIÓN A LAS BASES DE DATOS
-Una base de datos es una colección de datos interrelacionados almacenados en conjunto sin redundancias perjudiciales o innecesarias; los datos son independientes de los programas que los usan.
-Requisitos de una buena organización de datos: capacidad de almacenamiento suficiente, simplicidad de acceso, claridad (interfaz sencilla), independencia física y lógica de los datos, compartición de la información entre usuarios (con limitación de acceso donde proceda).
-Integridad de los datos: si un dato está en varios sitios, su borrado/modificación debe reflejarse en todos ellos. Redundancia: un dato almacenado en distintos sitios; debe minimizarse aunque a veces sea necesaria.
-Los programas que gestionan bases de datos se llaman SGBD (Sistemas de Gestión de Bases de Datos). Permiten incorporar, modificar, dar de baja y generar informes de los datos, y relacionar bases de datos por un campo común.
+===========================================================
+1) [ID28763274]
+Pregunta: ¿A qué modelo de base de datos pertenece Access?
+a) Jerárquico
+b) Relacional
+c) En red
+d) Orientado a Objetos
+Respuesta_correcta: b
+Explicación: Microsoft Access pertenece al modelo de base de datos relacional.
 
-2. HISTORIA Y EVOLUCIÓN DE LOS SGBD
-Evolución desde estándares como dBase IV (sucesor de dBase III Plus), RBASE SYSTEM V, ORACLE y PARADOX.
-Transacción con recuperación: evita pérdidas de información por fallo del sistema y actualiza pantallas usadas simultáneamente por varias personas.
-Protección de acceso mediante claves y cifrado de datos.
-Microsoft lanzó ACCESS (bajo Windows). También se incorporaron a sistemas personales Oracle e Informix (diseñadas para sistemas grandes).
-En 1970 apareció el modelo relacional (organización de datos en tablas bidimensionales, formulación matemática). Casi todos los productos recientes se basan en el enfoque relacional. Las agendas electrónicas son un tipo especial de SGBD.
+===========================================================
+2) [ID28759984]
+Pregunta: ¿Qué afirmación acerca de la relación de Access mostrada (T4 con factura/producto/fecha/unidades/dni, T3 con dni clave/n/a/d/t) es falsa?
+a) T3 es el lado 1 de la relación.
+b) T3 es el lado N de la relación.
+c) T4 es el lado N de la relación.
+d) El campo en común de las dos tablas puede llamarse igual.
+Respuesta_correcta: b
+Explicación: T3 es el lado "1" de la relación, ya que es la tabla que posee el campo clave (dni); afirmar que es el lado "N" es falso.
 
-3. MODELOS DE SISTEMAS GESTORES DE BASES DE DATOS
-Sistemas "prerrelacionales": modelo jerárquico (o en árbol) y modelo de red.
+===========================================================
+3) [ID28760469]
+Pregunta: En una consulta de Access, se desea calcular el total de ventas para cada producto (tabla Productos con ProductoID/PrecioUnitario, tabla Ventas con VentaID/ProductoID/Cantidad). ¿Cuál sería la expresión correcta para el campo calculado?
+a) Total_Ventas=[PrecioUnitario] * [Cantidad]
+b) [PrecioUnitario] * [Cantidad]=Total_Ventas
+c) Total_Ventas:[PrecioUnitario] * [Cantidad]
+d) Total_Ventas:[ProductoID] * [Cantidad]
+Respuesta_correcta: c
+Explicación: La sintaxis de un campo calculado en la cuadrícula de consulta es NombreCampo:Expresión; aquí se multiplica PrecioUnitario por Cantidad.
 
-3.1. Modelo jerárquico o en árbol
-Conjunto ordenado de árboles; un tipo de árbol tiene un solo tipo de registro raíz y un conjunto ordenado de subárboles dependientes de nivel más bajo (recuerda la estructura de MS-DOS).
-Integridad referencial: "un hijo no puede existir sin su padre" — al eliminar un padre se elimina automáticamente todo su subárbol. No se puede insertar un hijo sin que exista su padre. Norma básica: un registro hijo solo puede tener un registro padre.
-Ejemplo típico: SUCURSAL → OFICINA / EMPLEADA → HIJOS.
+===========================================================
+4) [ID28761423]
+Pregunta: ¿Qué afirmación acerca de la vista diseño de una tabla es falsa?
+a) Nos permite agregar campos a una tabla.
+b) Nos permite cambiar los tipos de datos de los campos de una tabla.
+c) Nos permite agregar registros a una tabla.
+d) Nos permite modificar el nombre de los campos de una tabla.
+Respuesta_correcta: c
+Explicación: Agregar registros (filas de datos) solo puede hacerse desde la vista Hoja de datos, no desde la vista Diseño.
 
-3.2. Modelo de red
-Forma extendida de la estructura jerárquica. Diferencia clave: en jerárquico un hijo tiene un único padre; en red, un hijo puede tener cualquier número de padres.
-Integridad referencial similar: no se puede insertar un hijo si no existe su padre.
-Ejemplo típico: Curso 1, Curso 2, Curso 3 → Alumnos (relación muchos a muchos entre cursos y alumnos).
+===========================================================
+5) [ID28760932]
+Pregunta: ¿Qué tipo de consulta no muestra ningún dato en pantalla una vez finalizada?
+a) De selección.
+b) De totales.
+c) General.
+d) De acción.
+Respuesta_correcta: d
+Explicación: Las consultas de acción (actualización, eliminación, anexar, creación de tabla) modifican datos sin mostrar una hoja de datos con resultados.
 
-3.3. Modelo relacional
-El usuario percibe los datos en forma de tablas (filas y columnas). "Relación" es sinónimo matemático de "tabla".
-Sinónimos: Archivo secuencial ↔ Relación ↔ Tabla; Registro ↔ Tupla ↔ Fila; Campo ↔ Atributo ↔ Columna.
-Conceptos básicos:
-- Dominio: conjunto de valores del mismo tipo que puede tomar un campo.
-- Relación: subconjunto del producto cartesiano de n dominios, caracterizado por un nombre.
-- Atributo (Campo): columna de una relación, caracterizada por su nombre, que toma valores de un dominio.
-- Campo clave: atributo(s) que distinguen unívocamente los registros de una relación. Puede haber ninguno, uno o varios.
-- Registro (Tupla): conjunto de campos/información sobre una persona u objeto.
-- Tabla: forma de representar una relación; es una "vista" de la base de datos (imagen lógica, no necesariamente física); puede estar limitada por seguridad o interés del usuario.
-- Clave candidata: campo(s) que pueden identificar de forma exclusiva cada registro; elegibles como clave primaria.
-- Clave primaria (Primary key): campo(s) que identifican de manera exclusiva cada registro; no admite valores Nulo y siempre tiene índice exclusivo; se usa para relacionar con claves externas de otras tablas. Una tabla puede tener ningún, un campo, o varios campos como clave principal.
-- Clave foránea (externa o ajena): clave usada en una tabla secundaria que coincide con la clave primaria de la tabla primaria relacionada; puede tener valores duplicados en la secundaria (a diferencia de la primaria). Exige la integridad referencial.
-- Propagación de la clave: cuando la clave principal de una tabla entra a formar parte de otra tabla relacionada (relaciones 1:N o 1:1), ese campo se convierte en clave foránea.
+===========================================================
+6) [ID28761135]
+Pregunta: ¿Qué afirmación acerca de las consultas de Access es cierta?
+a) Me permiten seleccionar los datos que deseo mostrar en base a un único criterio.
+b) Me permiten ordenar los datos que deseo mostrar en base a un único campo.
+c) Me permiten combinar los datos de varias tablas para mostrarlos juntos.
+d) Me permiten seleccionar y ordenar los datos que deseo mostrar en base a un único criterio.
+Respuesta_correcta: c
+Explicación: Las consultas permiten combinar (unir) datos de varias tablas relacionadas en un único resultado, además de filtrar y ordenar por múltiples criterios/campos.
 
-4. ELEMENTOS DE UN SISTEMA GESTOR DE BASES DE DATOS
-Access 365 se integra con OneDrive y SharePoint (compartir bases de datos, trabajar en colaboración, acceder desde cualquier dispositivo con Internet); también con Teams, Outlook y OneNote. Access 365 solo está disponible para PC, no tiene versión online (a diferencia de Word, Excel o PowerPoint).
-Pantalla inicial: Inicio (Nueva base de datos en blanco por defecto "Database1" en carpeta Documentos, o Recientes), Nuevo (documento en blanco o plantillas de office.com), Abrir (bases de datos existentes, locales o en OneDrive). También Cuenta, Comentarios y Opciones.
-La base de datos Access "propiamente dicha" no existe: en realidad son archivos .mdb (antiguo) o .accdb (actual, desde Access 2007) gestionados por un motor: antes Jet, ahora ACE. Se puede crear/mantener un .accdb sin Access mediante DAO, OLE DB, ADO.NET, ADO, ODBC o JDBC junto con el motor ACE.
-Arquitectura: UI de Access (interfaz de usuario: formularios, informes, consultas, macros, asistentes) + Motor ACE (almacenamiento de datos, definición de datos, integridad de datos, manipulación de datos, recuperación de datos vía SQL, cifrado de datos, uso compartido en red, publicación web, importación/exportación/vinculación de datos). Access = interfaz gráfica del motor ACE.
-Al crear una base de datos en blanco, Access solicita crear una tabla en vista Hoja de datos (Tabla1); recomendable definir antes campos y tipos de datos en Vista Diseño.
-Interfaz de Access 365:
-- Panel de navegación (izquierda): objetos organizados por tipo (tablas, consultas, formularios, informes, macros, módulos); se muestra/oculta con F11.
-- Área de trabajo (centro): cada objeto se abre en pestaña independiente.
-- Cinta de opciones: fichas fijas + fichas contextuales según el objeto (Herramientas de tabla, de consulta, de formulario...).
-- Barra de estado (inferior): info del objeto activo, botones de cambio de vista.
-Cintas de opciones: Archivo (gestión de archivos, impresión, configuración), Inicio (vistas, edición, ordenación/filtros, registros, búsquedas, formatos), Crear (Tablas, Consultas, Formularios, Informes, Macros y código), Datos externos (importar/exportar), Herramientas de base de datos (rendimiento, relaciones entre tablas).
-Divisor de bases de datos (Herramientas de base de datos > Mover datos > Base de datos de Access): asistente que divide la BD en Archivo back-end (solo tablas, compartido en multiusuario) y Archivo front-end (consultas, formularios, informes, macros, módulos; conectado al back-end vía tablas vinculadas; cada usuario puede tener su propio front-end).
-Compactar una base de datos/proyecto: copia el archivo y reorganiza su almacenamiento (elimina fragmentación). Se puede activar "Compactar al cerrar" en Archivo > Opciones > Base de datos actual.
-Reparar una base de datos: Access suele detectar daños al abrir y ofrece compactar; si no, compactar manualmente si se comporta de forma imprevisible.
-Ejemplo de BD (librería): tablas AUTORES (Código, Nombre, Apellido, País, Anac, Ciudad, Estudios), LIBROS (ISBN, Título, Autor, Editorial, Año, Precio, Páginas, Ejemplares), EDITORIAL (Código, Nombre, Teléfono, Persona de contacto, Dirección, Ciudad, TServicio).
-Vistas de tabla:
-- Vista Diseño: define/modifica estructura (nombres de campos, tipos, propiedades); no muestra datos; recomendada antes de introducir datos.
-- Vista Hoja de datos: muestra los datos en formato de cuadrícula (filas=registros, columnas=campos); equivalente a hoja de cálculo Excel.
-Cambio de vista: ficha Inicio > comando Ver, o botones de la barra de estado.
+===========================================================
+7) [ID28760990]
+Pregunta: Dentro del diseño de una consulta, si en la fila de criterios ponemos Como "[h-p]*", ¿qué resultado obtendremos?
+a) Se obtendrán todos los valores que empiecen por "h" y por "p" en la columna especificada.
+b) Se obtendrán todos los valores que empiecen por "h" o por "p" en la columna especificada.
+c) No se obtendrá ningún resultado, ya que el criterio utilizado no es válido.
+d) Se obtendrán todos los valores que comiencen con las letras "h" a "p" en la columna especificada.
+Respuesta_correcta: d
+Explicación: El rango entre corchetes [h-p] en un patrón Como es un rango de caracteres válido; selecciona valores cuyo primer carácter esté entre "h" y "p" (inclusive).
 
-4.1. Tablas
-Creación en Vista Diseño: comando "Diseño de tabla" en la cinta Crear. Cinta contextual "Diseño de tabla": cambiar vista, clave principal, insertar/eliminar filas, hoja de propiedades, índices, crear macros, cambiar nombre/eliminar macro, relaciones, dependencias del objeto.
+===========================================================
+8) [ID28761819]
+Pregunta: En una tabla de clientes, tenemos un campo "Nombre" que queremos que sea obligatorio, admita un máximo de 50 caracteres y que los nombres comiencen con una letra. ¿Cuáles serían las propiedades adecuadas?
+a) Requerido: Sí, Tamaño del campo: >50, Regla de validación: Como "[A-Z]*".
+b) Requerido: Sí, Tamaño del campo: 50, Regla de validación: Como "[A-Z]*".
+c) Requerido: Sí, Tamaño del campo: =50, Regla de validación: Como "[A-Z]*".
+d) Requerido: Sí, Tamaño del campo: 50, Máscara: Como "[A-Z]*".
+Respuesta_correcta: b
+Explicación: "Tamaño del campo" se indica como un número simple (50), no con operadores >50 o =50; la regla de que comience por letra se define en Regla de validación, no en Máscara.
 
-4.1.1. Características de los campos en Access
-Nombres de campos/controles/objetos: hasta 64 caracteres; pueden incluir letras, números, espacios y caracteres especiales EXCEPTO puntos (.), signos de exclamación (!), acentos graves (`) y corchetes ([ ]); no pueden empezar por espacios; no admiten caracteres de control (ASCII 0-31); no pueden incluir comillas dobles (") en nombres de tabla/vista/procedimiento de un proyecto Access.
-Tipos de datos en Access (tabla resumen):
-- Texto corto: caracteres alfanuméricos, hasta 255 caracteres.
-- Texto largo (memo): texto largo o enriquecido, hasta 1 GB de caracteres o 2 GB de almacenamiento (2 bytes/carácter); muestra hasta 64.000 caracteres en un control.
-- Número: valores enteros o fraccionarios; 1, 2, 4, 8 o 16 bytes (id. de replicación).
-- Número grande: valor numérico no monetario, cálculo eficaz de números grandes; 8 bytes.
-- Fecha/Hora: fecha y hora; 8 bytes; incluye siempre componente fecha y hora.
-- Fecha/Hora extendida: similar, mayor rango e intervalo, más precisión decimal; cadena codificada de 42 bytes.
-- Moneda (Currency): datos monetarios sin redondeo en cálculos; 15 dígitos a la izquierda y 4 a la derecha de la coma; 8 bytes.
-- Hipervínculo: acceso a páginas web (URL) o archivos (UNC); hasta 8192 caracteres (2048 por parte).
-- Autonumeración: número único insertado automáticamente al agregar registro; usado como clave principal; 4 o 16 bytes (id. de replicación); puede ser secuencial, valor concreto o aleatorio.
-- Sí/No: booleano; formatos Sí/No, Verdadero/Falso, Activado/Desactivado; 1 byte.
-- Objeto OLE: objetos OLE u otros datos binarios de programas Windows; hasta 2 GB.
-- Datos adjuntos: fotos, imágenes, archivos binarios/Office; tipo preferente para imágenes; comprimidos hasta 2 GB, sin comprimir ~700 KB.
-- Asistente para búsquedas: no es un tipo real; inicia el asistente para crear un cuadro combinado que busca valores en otra tabla/consulta/lista.
-- Calculado: expresión con datos de uno o varios campos; tamaño según el tipo de resultado.
-Tamaño máximo de un archivo de base de datos Access: 2 gigabytes.
+===========================================================
+9) [ID28761164]
+Pregunta: ¿En qué pestaña dentro de la cinta de opciones de Access se encuentran las opciones "Guardar" y "Guardar Como"?
+a) Inicio.
+b) Herramientas de la base de datos.
+c) Crear.
+d) Archivo.
+Respuesta_correcta: d
+Explicación: En la ficha Archivo (Backstage) se encuentran los comandos Guardar y Guardar como (Guardar solo es necesario si el autoguardado no está activo, en la versión 365).
 
-4.1.2. Propiedades del campo
-- Tamaño del campo: máximo de datos almacenados (texto, número, autonumeración).
-  * Autonumérico: Entero largo o Id. de réplica.
-  * Numérico: Byte (0-255, 1 byte, sin decimales); Entero (-32.768 a 32.767, 2 bytes, sin decimales); Entero largo (-2.147.483.648 a 2.147.483.647, 4 bytes, sin decimales; recomendado como clave externa para relacionar con Autonumérico); Simple (±3,4×10^38, 4 bytes, 7 dígitos significativos); Doble (±1,797×10^308, 8 bytes, 15 dígitos significativos); Id. de réplica (identificador único global, 16 bytes, no admitido en .accdb); Decimal (±9,999...×10^27, 12 bytes, 28 dígitos decimales).
-- Formato: personaliza la visualización.
-  * Formatos numéricos predefinidos: Número general (sin separador de miles, ej. 3456,79), Moneda (símbolo + 2 decimales + separador miles, ej. 3.456,79 €), Euro (igual que Moneda pero siempre con € independientemente de la configuración regional), Fijo (mínimo 1 dígito y 2 decimales, sin separador miles, ej. 3456,79), Estándar (como Fijo con separador de miles, ej. 3.456,79), Porcentaje (×100 + %, ej. 21,00%), Científico (notación exponencial, ej. 3,46E+03).
-  * Formatos de fecha predefinidos: Fecha general (fecha y hora completas), Fecha larga (día semana, día, mes escrito, año), Fecha mediana (día, mes abreviado, año), Fecha corta (solo fecha numérica), Hora larga (h:m:s), Hora mediana (h:m AM/PM), Hora corta (h:m).
-- Posiciones decimales: número de decimales al mostrar.
-- Nuevos valores: incremento o valor aleatorio en campo autonumeración al agregar registro.
-- Máscara de entrada: caracteres que facilitan la entrada de datos. Caracteres de máscara: 0 (dígito obligatorio 0-9), 9 (dígito opcional 0-9), # (dígito/espacio/signo, opcional), L (letra obligatoria), ? (letra opcional), A (letra o dígito obligatorio), a (letra o dígito opcional), & (carácter/espacio obligatorio), C (caracteres/espacios opcional), . , : ; - / (marcadores decimales/millares/fecha-hora según configuración regional), > (mayúsculas siguientes), < (minúsculas siguientes), ! (rellena de izquierda a derecha), \ (carácter literal siguiente), "" (texto literal entre comillas).
-- Título: texto mostrado por defecto en etiquetas de formularios, informes y consultas.
-- Valor predeterminado: valor automático al agregar registros; modificable después en la tabla.
-- Regla de validación: expresión que debe ser verdadera al agregar/cambiar el valor; se puede usar el generador de expresiones (ej. longitud([campo1])<5).
-- Texto de validación: mensaje mostrado cuando un valor infringe la regla de validación.
-- Requerido: exige que se especifiquen datos en el campo.
-- Permitir longitud cero: permite cadena de longitud cero ("") en campos Texto corto/largo.
-- Indexado: agiliza el acceso a los datos mediante un índice.
-- Compresión Unicode: comprime el texto almacenado (>4.096 caracteres).
-- Modo IME / Modo de oraciones IME: controlan conversión de caracteres/oraciones en versiones asiáticas de Windows.
-- Etiquetas inteligentes: adjuntan una etiqueta inteligente al campo (datos reconocidos y etiquetados, p. ej. nombre de persona o destinatario reciente de Outlook).
-- Solo anexar: seguimiento del historial de valores del campo (propiedad en Sí).
-- Formato del texto: Texto enriquecido (almacena como HTML, permite formato) o Texto sin formato.
-- Alineación del texto: alineación predeterminada dentro de un control.
+===========================================================
+10) [ID28761049]
+Pregunta: ¿Qué afirmación es verdadera si hablamos de consultas de totales?
+a) Me permiten mostrar todas las filas de la tabla y al final también puedo ver las filas con los cálculos de totales.
+b) Solo me permiten ver una fila de totales con todos los totales.
+c) Me permiten ver una fila de totales por cada grupo realizado y en esa fila ver todos los totales de ese grupo.
+d) Me permiten ver una fila de totales por cada grupo realizado y ver un solo total en ese grupo.
+Respuesta_correcta: c
+Explicación: Una consulta de totales agrupa los registros y muestra una fila resumen por grupo, pudiendo incluir varios cálculos agregados distintos en esa misma fila.
 
-4.1.3. Macros de datos
-Añadidas en Access 2010; agregan lógica a eventos de las tablas (adición, actualización, eliminación). Similares a los desencadenadores (triggers) de SQL Server. Se crean desde Crear > Macros y código. Sirven para validar datos y comprobar precisión. Dos tipos: controladas por eventos de tabla ("controladas por eventos") y las que se ejecutan al ser llamadas por nombre ("con nombre").
+===========================================================
+11) [ID28761279]
+Pregunta: En una tabla de empleados, en el campo EDAD no podemos introducir valores inferiores a 18 años ni superiores a 65 años. Indique la regla de validación adecuada.
+a) Entre 18 Y 65.
+b) >18 O <65
+c) >18 Y <65
+d) Edad: >=18 <=65.
+Respuesta_correcta: a
+Explicación: "Entre 18 Y 65" (equivalente a BETWEEN 18 AND 65) es la sintaxis correcta de Access para un rango inclusivo de valores permitidos.
 
-4.2. Relaciones
-Una relación permite trabajar con datos de un campo de una tabla en otro campo de otra tabla, combinando datos de dos tablas.
-No es necesario que los campos relacionados tengan el mismo nombre, pero sí el mismo tipo de datos, salvo que la clave principal sea Autonumérico: en ese caso la propiedad Tamaño del campo de ambos campos relacionados debe ser Entero Largo.
-Se crea arrastrando el campo de una tabla al campo relacionado de la otra (se abre el cuadro "Modificar relaciones").
-Tipos de relaciones:
-- Uno a uno (1 a 1): una fila de una tabla se relaciona con una sola fila de la otra y viceversa.
-- Uno a muchos (1 a ∞): una fila de una tabla se relaciona con varias filas de la otra, pero no al revés.
-- Muchos a muchos (∞ a ∞): una fila de una tabla se relaciona con varias filas de otra y viceversa; se implementa con una tabla de unión intermedia con relaciones 1 a muchos con cada tabla.
-Integridad referencial (una vez creadas las relaciones, se puede exigir): impide añadir un registro en la secundaria si no existe el correspondiente en la principal (evita huérfanos); impide eliminar un registro de la principal si existen registros relacionados en la secundaria; impide modificar la clave primaria de la principal si existen registros relacionados en la secundaria.
-Opciones adicionales junto a la integridad referencial:
-- Actualización en cascada: al modificar la clave primaria en la principal, Access actualiza automáticamente los valores en la secundaria.
-- Eliminación en cascada: al eliminar un registro de la principal, Access elimina automáticamente los registros relacionados en la secundaria.
-Se configuran desde Herramientas de base de datos > Relaciones.
-Tipos de combinaciones (en consultas):
-1. Combinación interna: solo filas donde los campos combinados de ambas tablas coinciden.
-2. Combinación externa izquierda: todos los registros de la tabla izquierda + solo los coincidentes de la derecha (blancos si no hay correspondencia); útil para ver todos los de la principal más los relacionados de la secundaria.
-3. Combinación externa derecha: todos los registros de la tabla derecha + solo los coincidentes de la izquierda (caso inverso a la externa izquierda).
+===========================================================
+12) [ID28761250]
+Pregunta: En un modelo relacional, ¿qué implica la integridad referencial en una relación entre dos tablas?
+a) La obligación de que las claves primarias en ambas tablas sean idénticas.
+b) La garantía de que no se pueden eliminar registros de la tabla principal si hay registros relacionados en la tabla secundaria.
+c) La capacidad de actualizar automáticamente los registros relacionados en ambas tablas al modificar uno de ellos.
+d) La restricción de que solo se pueden insertar registros en la tabla primaria si ya existen en la tabla secundaria.
+Respuesta_correcta: b
+Explicación: La integridad referencial impide eliminar (o modificar la clave de) un registro de la tabla principal mientras existan registros relacionados en la tabla secundaria, evitando referencias huérfanas.
 
-4.3. Introducción de registros en las tablas
-Cinta Inicio con tabla abierta: Ver (alternar Vista Diseño/Vista Hoja de datos), Ascendente/Descendente (ordenar), Selección (filtro por campo/valor), Filtro (aplicar/quitar), Buscar (buscar y reemplazar), Nuevo (nuevo registro al final), Eliminar (registro o columna seleccionados).
+===========================================================
+13) [ID28761337]
+Pregunta: En un formulario de Access, ¿cuál de las siguientes expresiones podemos utilizar en un control para obtener la cantidad de caracteres de un campo denominado "Descripción"?
+a) Longitud:([Descripción]).
+b) Longitud([Descripción]).
+c) =Longitud([Descripción]).
+d) =Largo([Descripción]).
+Respuesta_correcta: c (según clave ADAMS)
+Explicación: Toda expresión usada como origen de control en un formulario debe comenzar por "=". PENDIENTE DE VERIFICAR el nombre exacto de la función: ADAMS indica "Longitud" como la función de Access equivalente a contar caracteres, descartando "Largo" (que es el nombre de la función en Excel). No ha sido posible confirmar con total certeza si el nombre real de esta función en el lenguaje de expresiones de Access es "Longitud" o si en realidad corresponde a "Len" (nombre habitual en VBA/Access, sin traducir); se mantiene la clave de ADAMS sin modificarla.
 
-4.4. Consultas
-Permiten búsquedas, criterios, ordenaciones sobre campos de una o varias tablas relacionadas, u otras tareas de modificación de datos.
-Asistentes para crear consultas (Crear > Consultas > Asistente para consultas), 4 tipos:
-- Asistente para consultas sencillas: selección básica de tablas/consultas y campos.
-- Asistente para tablas de referencias cruzadas: encabezados de fila, columna y valor de agregación.
-- Asistente para búsqueda de duplicados: busca registros con valores duplicados en uno o más campos.
-- Asistente para búsqueda de no coincidentes: busca registros sin relación en otra tabla (registros huérfanos).
-Con "Diseño de consulta" se elige la tabla/consulta origen; tipo por defecto: consulta de selección. Cinta "Diseño de consulta": Ver/Ejecutar, tipos de consulta (Seleccionar, Crear tabla, Anexar, Actualizar, General, Eliminar, Unión, Paso a través, Definición de datos), Agregar tablas, Totales, Parámetros, Nombres de tabla, Hoja de propiedades.
-Categorías: Consultas de selección (recuperan/muestran datos sin modificarlos; las más habituales) y Consultas de acción (modifican datos o estructura: creación de tabla, datos anexados, actualización, eliminación).
-Tipos de consultas en Access 365:
-- Consulta de selección: recupera y muestra datos según criterios; tipo predeterminado.
-- Consulta de parámetros: solicita un valor al usuario en un cuadro de diálogo al ejecutarse; se define con el texto entre corchetes [ ] en la fila Criterios.
-- Consulta de tabla de referencias cruzadas (General): datos resumidos en filas y columnas cruzadas (como tabla dinámica de Excel); requiere encabezados de fila, columna y valor de agregación.
-- Consulta de creación de tabla: genera nueva tabla permanente a partir de resultados de una consulta de selección.
-- Consulta de actualización: modifica valores de campos en registros que cumplan un criterio; NO sirve para añadir ni eliminar registros.
-- Consulta de datos anexados: añade registros de una tabla/consulta a otra tabla existente.
-- Consulta de eliminación: elimina permanentemente registros que cumplan criterios.
-- Consulta de unión (SQL): combina registros de dos o más tablas/consultas en un único conjunto de resultados; solo puede crearse en Vista SQL.
-Internamente Access ejecuta todas las consultas en SQL (Structured Query Language); estándar internacional reconocido por ISO y ANSI; relativamente fácil de leer.
-Vistas de consultas: Vista Diseño (estructura visual: tablas, campos, criterios, orden), Vista Hoja de datos (resultados en filas/columnas), Vista SQL (código SQL editable directamente).
+===========================================================
+14) [ID28761249]
+Pregunta: Los botones que aparecen por defecto en la barra de acceso rápido de Access son:
+a) Guardar, cortar copiar y pegar.
+b) Guardar, deshacer y cortar, copiar y pegar.
+c) Guardar, deshacer y rehacer.
+d) Guardar, deshacer y repetir.
+Respuesta_correcta: c
+Explicación: Por defecto la barra de acceso rápido de Access muestra Guardar, Deshacer y Rehacer.
 
-4.4.1. Consulta de selección
-El usuario selecciona campos, tabla de origen, orden, visualización y criterios. Se ejecuta con el comando Ejecutar (!) o cambiando a Vista Hoja de datos.
-Ejemplo 1: mostrar nombre/apellidos/país de autores + títulos/año/precio de libros + editorial, filtrando autores cuyo nombre empiece por A y año de nacimiento posterior a 1970 (criterios en la misma fila = Y).
-Ejemplo 2 (consulta paramétrica): el criterio no es directo; se escribe algo entre corchetes [...] y al ejecutar se abre un cuadro de diálogo solicitando el dato (p. ej. [Indicar País]).
-Criterios de igualdad según tipo de dato:
-- Texto corto/largo e hipervínculo: entre comillas "texto".
-- Numérico/autonumeración/moneda: número directamente.
-- Fecha: entre almohadillas #dd/mm/aaaa#.
-- Booleano: Verdadero / Falso.
-Caracteres comodín en criterios: * (cero o más caracteres, ej. Qu* → que, qué, quién), ? (un carácter alfabético, ej. B?la → bola, bala, bula), [ ] (un carácter de los indicados, ej. B[ao]la → bola, bala), ! (carácter NO incluido, ej. B[!ao]la → bula), - (carácter de un intervalo ascendente, ej. B[a-c]r → bar, bbr, bcr), # (carácter numérico, también delimita fechas, ej. 1#3 → 103,113,123; >#01/04/2008#), Sí/1/-1 (VERDADERO lógico), 0 (FALSO lógico), " (delimitan texto).
-Criterios en la misma fila = función Y (ambos deben cumplirse); criterios en filas distintas = función O (basta con que se cumpla uno).
-Operadores en consultas de Access:
-- Comparación: = <> > < ≥ ≤.
-- Texto: & o + (concatenación; + solo con dos cadenas de texto), Como (compara cadenas, admite comodines * y ?), IN (verifica si un valor está en un conjunto de valores).
-- Lógicos: AND (y), OR (o), NOT (invierte la condición).
-- Intervalo: Entre (valor dentro de un rango).
-- Nulo: Es nulo (campo sin valor), Es NoEsNulo (campo con valor).
+===========================================================
+15) [ID28761508]
+Pregunta: ¿Cómo denomina el modelo relacional a lo que Access llama "Registro"?
+a) Atributo.
+b) Dominio.
+c) Tupla.
+d) Campo.
+Respuesta_correcta: c
+Explicación: En el modelo relacional, una fila/registro se denomina tupla.
 
-4.4.2. Consulta de creación de tabla
-Crea una tabla nueva a partir de la consulta de datos de otra tabla, eligiendo campos y datos como en una de selección.
+===========================================================
+16) [ID28761537]
+Pregunta: En Access, en una tabla de empleados, tenemos un campo "Apellido" que es obligatorio pero queremos permitir que tenga una longitud cero en caso de que no se conozca. ¿Qué opción seleccionaríamos en la propiedad "Permitir longitud cero"?
+a) No.
+b) Dependiendo del valor predeterminado.
+c) Sí.
+d) No se puede permitir longitud cero en un campo obligatorio.
+Respuesta_correcta: c
+Explicación: "Permitir longitud cero: Sí" posibilita guardar una cadena de longitud cero ("") aunque el campo sea obligatorio (Requerido: Sí).
 
-4.4.3. Consulta Actualizar
-Modifica datos de una tabla; NO sirve para agregar ni eliminar registros. Ejemplo: actualizar campo Ejemplares de tabla Libros a "100" (fila "Actualizar a").
+===========================================================
+17) [ID28760989]
+Pregunta: ¿Cuál de las siguientes respuestas NO pertenece a un informe de Access?
+a) Encabezado de página.
+b) Encabezado del informe.
+c) Encabezado de grupo.
+d) Encabezado de sección.
+Respuesta_correcta: d
+Explicación: Las secciones reales de un informe son: Encabezado del informe, Encabezado de página, Encabezado de grupo, Detalle, Pie de grupo, Pie de página y Pie del informe; "Encabezado de sección" no es una sección estándar.
 
-4.4.4. Consulta General
-Antes llamadas "Tabla de referencias cruzadas". Muestra datos resumidos en filas y columnas cruzadas (como tabla dinámica de Excel); agrupa según dos conjuntos de valores (encabezados de fila/izquierda y de columna/superior), mostrando en la intersección el resultado de una función de agregación (suma, promedio, recuento).
+===========================================================
+18) [ID28760991]
+Pregunta: Para almacenar la edad de una persona, ¿qué tipo de dato numérico es el más idóneo en Access que ocupe el menor espacio posible?
+a) Simple.
+b) Entero.
+c) Entero largo.
+d) Byte.
+Respuesta_correcta: d
+Explicación: El tipo Byte ocupa 1 byte y almacena valores de 0 a 255, suficiente y más compacto que Entero (2 bytes, hasta ±32.767) para representar una edad humana.
 
-4.4.5. Consulta Anexar
-Añade registros a una tabla existente. Ejemplo: añadir a una tabla los registros cuyo campo Nombre_Animal contenga "LAIKA" (fila "Anexar a" indica el campo destino).
+===========================================================
+19) [ID28761394]
+Pregunta: ¿A qué vista de una tabla le corresponde el icono de cuadrícula mostrado en el enunciado?
+a) Vista Diseño.
+b) Vista Hoja de Datos.
+c) Vista Tabla dinámica.
+d) Vista Gráfico dinámico.
+Respuesta_correcta: b
+Explicación: El icono de cuadrícula corresponde a la Vista Hoja de datos.
 
-4.4.6. Consulta Eliminar
-Elimina registros de la tabla existente que coincidan con los criterios especificados (fila "Eliminar: Dónde").
+===========================================================
+20) [ID28761020]
+Pregunta: ¿De qué opción no dispongo al copiar y pegar una tabla en Access?
+a) Estructura solamente.
+b) Estructura y datos.
+c) Datos solamente.
+d) Anexar datos a una tabla existente.
+Respuesta_correcta: c
+Explicación: El cuadro "Pegar tabla como" solo ofrece Estructura solamente, Estructura y datos, y Anexar datos a la tabla existente; no existe una opción "Datos solamente".
 
-4.4.7. Consulta de selección con campo calculado
-Se crea un campo nuevo con una expresión, p. ej.: total:[Consultas]![Importe]*1,21 (incrementa el importe un 21%).
+===========================================================
+21) [ID28760013]
+Pregunta: ¿Cuál de los siguientes no es un Sistema de Gestión de Bases de Datos (SGBD)?
+a) MySQL.
+b) Salesforce.
+c) Oracle.
+d) PostgreSQL.
+Respuesta_correcta: b
+Explicación: Salesforce es una plataforma CRM en la nube, no un SGBD; MySQL, Oracle y PostgreSQL sí lo son.
 
-4.4.8. Consultas de totales
-Calculan subtotales en grupos de registros; una fila de total calcula totales generales de una o varias columnas. Ejemplo: Suma del Importe por cada Especialidad de Veterinarios.
+===========================================================
+22) [ID28761106]
+Pregunta: ¿Qué opción NO posee la propiedad Formato del tipo de datos Sí/No dentro del diseño de una tabla en Access?
+a) 0/1.
+b) Verdadero / Falso.
+c) Sí / No.
+d) Activado / Desactivado.
+Respuesta_correcta: a
+Explicación: Las opciones reales de formato son Verdadero/Falso, Sí/No y Activado/Desactivado; "0/1" no es una opción de formato seleccionable (son los valores de almacenamiento subyacentes).
 
-4.4.9. Consultas con expresiones mediante el Generador de expresiones
-Permite crear campos calculados usando funciones incorporadas (p. ej. Mes([Animales]![Fecha_Nacimiento]) para extraer el mes de nacimiento).
+===========================================================
+23) [ID28760671]
+Pregunta: ¿Cuál es el tamaño máximo para un campo de tipo Número Decimal en Access?
+a) 12 bytes.
+b) 8 bytes.
+c) 16 bytes.
+d) 4 bytes.
+Respuesta_correcta: a
+Explicación: El tipo Decimal requiere 12 bytes de almacenamiento en Access, para valores comprendidos aproximadamente entre ±9,999...×10^27.
 
-4.4.10. Otras consultas
-- Unión: muestra registros de una tabla/consulta junto con datos de una o más tablas, formando un conjunto de registros.
-- Paso a través: consulta SQL específica (usuarios avanzados) para usar tablas de un servidor SQL.
-- Definición de datos: consultas SQL específicas que crean/modifican/eliminan elementos de la estructura de las tablas de origen; se diseñan directamente en Vista SQL.
+===========================================================
+24) [ID28761622]
+Pregunta: ¿Cuál es la extensión correcta que Access le pone a sus bases de datos?
+a) ACCBD.
+b) ACDB.
+c) MDB.
+d) ACCDB.
+Respuesta_correcta: d
+Explicación: Las bases de datos de Access modernas (desde 2007) usan la extensión .accdb; .mdb es el formato heredado de versiones anteriores.
 
-4.5. Formularios
+===========================================================
+25) [ID28761280]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access me permite personalizar el aviso que le saldrá al usuario cuando ha introducido un valor mayor de 100 en un campo que no permite estos valores?
+a) Regla de validación.
+b) Texto de aviso.
+c) No se puede personalizar.
+d) Texto de validación.
+Respuesta_correcta: d
+Explicación: "Regla de validación" define la condición (p. ej. <=100); "Texto de validación" es la propiedad que personaliza el mensaje mostrado cuando no se cumple esa regla.
 
-4.5.1. Cuestiones generales
-Ventanas para obtener/introducir/modificar datos de forma atractiva: pueden usarse para introducir/ver datos de tabla o consulta, cuadros de diálogo con acción basada en la entrada, o paneles de control para abrir otros formularios/informes.
-Tipos de formularios en Access:
-- Formularios de detalles: en blanco, muestran un registro a la vez.
-- Formularios de columnas: cada campo en una columna distinta, claros y ordenados.
-- Formularios tabulares: muestran muchos campos en filas distintas, sin perder datos.
-- Subformularios: muestran datos de una tabla relacionada dentro de otra (p. ej. pedidos de cada cliente).
-Vistas de formularios: Vista Formulario (uso normal, introduce/modifica/elimina datos, no modifica estructura), Vista Diseño (modifica estructura/diseño, no muestra datos reales), Vista Presentación (modifica diseño mientras se ven datos reales, intermedia), Vista Hoja de datos (registros en formato tabla).
+===========================================================
+26) [ID45910072]
+Pregunta: ¿En qué pestaña de Access 365 podemos encontrar el icono Σ "Totales"?
+a) Diseño de consulta.
+b) Herramientas de base de datos.
+c) Crear.
+d) No existe ese botón en Access.
+Respuesta_correcta: a
+Explicación: El botón Totales se encuentra en la ficha contextual Diseño de consulta, grupo Mostrar u ocultar.
 
-4.5.2. Creación de un formulario
-Opciones desde Crear: Formulario (usa todos los campos del origen de registros seleccionado y de sus orígenes relacionados), Diseño del formulario, Formulario en blanco, Asistente para formularios (preguntas detalladas sobre origen, campos, diseño, formato), Navegación, Más formularios.
-Pasos del Asistente para formularios: 1) seleccionar tabla/consulta y campos; 2) elegir distribución (En columnas, Tabular, Hoja de datos, Justificado); 3) establecer título del formulario y elegir si abrirlo o modificar su diseño.
+===========================================================
+27) [ID45910333]
+Pregunta: ¿Qué afirmación acerca del modelo relacional es falsa?
+a) A cada fila se le denomina Tupla.
+b) A cada columna se le denomina Atributo.
+c) A cada tabla se le denomina Relación.
+d) Podemos establecer integridad de datos.
+Respuesta_correcta: d
+Explicación: El término técnico preciso del modelo relacional para este concepto es "integridad referencial", no la expresión genérica "integridad de datos" tal y como aparece formulada en la opción d).
 
-4.6. Informes
-Presentan datos efectivamente en formato impreso; sirven para agrupar/ordenar datos, calcular totales y organizar según necesidades.
-Vistas de informes: Vista Informe (lectura, con datos reales), Vista Preliminar (previsualización antes de imprimir, ajuste de zoom, opciones de impresión), Vista Diseño (estructura: secciones, controles, propiedades, sin datos reales), Vista Presentación (diseño con datos reales visibles).
-Un informe consta de cuatro partes: encabezado de informe, encabezado de página, detalle, pie de página.
-Expresiones de paginación habituales: =[Page] (número de página actual), =[Pages] (número total de páginas), ="Página " & [Page] & " de " & [Pages] (texto "Página 1 de 4"); se insertan en cuadros de texto del encabezado/pie de página, combinables con texto literal usando &.
-Desde Diseño > Agrupación y totales: hasta 10 niveles de ordenación y agrupación por informe; cada nivel puede calcular subtotales, totales, promedios u otras agregaciones. Los informes se crean sobre tablas o consultas.
-Formatos de exportación desde Vista Preliminar: PDF/XPS (preserva el diseño), Excel (hoja de cálculo), Word/RTF (texto enriquecido compatible con Word), Texto (sin formato), HTML (página web), XML (datos), Correo electrónico (informe adjunto).
-El Asistente de Informes ofrece tres tipos de distribución: en columnas, tabular y justificado.
+===========================================================
+28) [ID45910101]
+Pregunta: ¿De qué tipo puede ser la ordenación de una consulta en Access 365?
+a) Alfabética o numérica.
+b) Principal o secundaria.
+c) Ascendente o descendente.
+d) De mayor a menor.
+Respuesta_correcta: c
+Explicación: La propiedad Orden de un campo en el diseño de consulta admite Ascendente o Descendente.
 
-4.7. Macros
-Una macro es un conjunto de una o más acciones (cada una realiza una operación, p. ej. abrir un formulario o imprimir un informe); ayudan a automatizar tareas comunes (ej. imprimir un informe al hacer clic en un botón). Se crean desde Crear.
+===========================================================
+29) [ID45910652]
+Pregunta: ¿Qué afirmación es cierta acerca de la barra de estado de Access 365?
+a) Se encuentra por defecto justo encima de la cinta de opciones.
+b) Su posición es posible cambiarla.
+c) Es personalizable.
+d) Todas las opciones son falsas.
+Respuesta_correcta: c
+Explicación: La barra de estado se ubica siempre en la parte inferior de la ventana (posición fija), pero su contenido es personalizable haciendo clic derecho sobre ella.
 
-4.8. Módulos
-Objetos que agregan funciones a la base de datos, escritos en VBA (Visual Basic para Aplicaciones).
-- Módulos de clase: se adjuntan a formularios/informes; procedimientos específicos de ese objeto.
-- Módulos estándar: no vinculados a objetos específicos, código "global" para toda la base de datos.
-Se crean desde Crear.
+===========================================================
+30) [ID45910217]
+Pregunta: En Access 365, ¿qué tipo de consulta me permite borrar los teléfonos de todos mis clientes (sin eliminar los registros de cliente)?
+a) De anexar.
+b) De eliminación.
+c) De general.
+d) De actualización.
+Respuesta_correcta: d
+Explicación: Vaciar/borrar el contenido de un campo (dejarlo en blanco) para los registros existentes es una modificación del valor del campo, es decir, una consulta de actualización; una consulta de eliminación borraría los registros completos, no solo el campo teléfono.
 
-4.9. Páginas
-Páginas de acceso a datos: funcionalidad de versiones antiguas (anteriores a Access 2007) para crear páginas web de visualización/edición de datos desde Internet/intranet. Eliminada definitivamente en Access 2007; NO existe en Access 365. Se menciona solo como referencia histórica.
+===========================================================
+31) [ID45910391]
+Pregunta: ¿Qué tipo de objeto de Access 365 ha sido creado específicamente para imprimir los datos?
+a) Tabla.
+b) Formulario.
+c) Consulta.
+d) Informe.
+Respuesta_correcta: d
+Explicación: El Informe es el objeto diseñado específicamente para presentar e imprimir datos de forma profesional.
 
-5. IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN DE DATOS
-Opciones en la cinta Datos externos.
-Access permite dos opciones de uso de datos externos:
-- Importar: crea copia de la información en una nueva tabla de Access (convierte datos de otro formato); también puede importar objetos de base de datos (formularios, informes) a otra BD/proyecto Access. El archivo/tabla de origen no se modifica. Se pueden agregar datos a tablas existentes salvo al importar archivos de texto u hojas de cálculo.
-- Vincular: conecta datos de otra base de datos SIN importarlos; permite ver/modificar los datos más recientes en ambas bases sin duplicar copias. Solo se pueden crear vínculos a TABLAS de otra base de datos Access (no a consultas, formularios, informes, macros ni módulos). Se crea una "tabla vinculada" con vínculo a campos y registros de origen; los cambios se reflejan en ambos sentidos, PERO no se puede cambiar la estructura de una tabla vinculada (no se pueden agregar/eliminar campos ni modificar tipos de datos).
-- Excepción con Excel: se puede vincular a un origen Excel creando una tabla vinculada; los cambios en Excel se reflejan en Access, pero los datos de origen no se pueden modificar desde Access.
-Exportación de datos: envía datos y objetos a otra base de datos, hoja de cálculo o formato de archivo; proceso similar a copiar y pegar. Se puede exportar a diversidad de bases de datos, programas y formatos compatibles; la mayoría de objetos de Access se pueden exportar a otra BD/proyecto de Access.
+===========================================================
+32) [ID45910449]
+Pregunta: ¿Qué afirmación acerca de la integridad referencial de Access 365 es falsa?
+a) Permite validar los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+b) Permite evitar las bajas de los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+c) Permite actualizar los datos de un campo de una tabla en base a los datos de otro campo de otra tabla.
+d) Permite la introducción de cualquier dato dentro de un campo de una tabla sin tener en cuenta ningún tipo de validación.
+Respuesta_correcta: d
+Explicación: Es justo lo contrario: la integridad referencial impone validación y restricciones sobre los datos relacionados, no permite introducir cualquier dato sin control.
 
-6. EXPRESIONES Y FUNCIONES EN ACCESS
-Una expresión combina funciones (integradas o definidas por el usuario), identificadores, operadores, valores y constantes, dando como resultado un único valor.
-Ejemplo: =Sum([PRECIO])*0,08 → Sum() función integrada; [PRECIO] identificador; * operador matemático; 0,08 constante.
-Toda expresión válida debe contener al menos una función o un identificador; puede anidarse (usar una expresión como argumento de otra).
-Todas las tablas, consultas, formularios, informes y campos son "objetos", cada uno con un nombre. El conjunto de todos los miembros de un tipo de objeto es una "colección". Los objetos tienen "propiedades" que describen/cambian sus características.
-Un identificador incluye el nombre del elemento y el del elemento al que pertenece. Ejemplo: [EMPLEADOS]![FECHA_NACIMIENTO].
+===========================================================
+33) [ID45910681]
+Pregunta: Dada la expresión Elegir([Mes];"Febrero";"Marzo";"Abril";"Mayo";"Junio"), si el valor del campo [Mes] es 3, ¿cuál será el resultado?
+a) Marzo.
+b) Abril.
+c) 3.
+d) Febrero.
+Respuesta_correcta: b
+Explicación: Elegir(índice, valor1, valor2...) devuelve el valor situado en la posición indicada por índice; con índice=3, el tercer valor de la lista es "Abril" (Febrero=1º, Marzo=2º, Abril=3º).
 
-6.1. Operadores de identificadores
-Tres operadores: ! (signo de exclamación), . (punto), [ ] (corchetes). Se usan colocando cada parte del identificador entre corchetes y uniéndolas con ! o con punto.
+===========================================================
+34) [ID45910420]
+Pregunta: ¿Qué tipo de objetos no se pueden crear en Access 365?
+a) Tablas y Consultas.
+b) Formularios.
+c) Informes.
+d) Aplicaciones
+Respuesta_correcta: d
+Explicación: "Aplicaciones" no es un tipo de objeto de Access; los objetos reales son Tablas, Consultas, Formularios, Informes, Macros y Módulos.
 
-6.2. Utilizar los operadores ! y . (punto) en las expresiones
-- Operador ! : indica que el elemento siguiente ha sido definido por el USUARIO (tabla, formulario, informe, control, campo).
-- Operador . (punto): indica normalmente que el elemento siguiente ha sido definido por MICROSOFT ACCESS (p. ej. propiedades de un campo).
-Ejemplo identificador completo: [Informes]![Ventas]![Id-Empleado].Visible
-- [Informes]: colección de informes abiertos de la base de datos.
-- [Ventas]: informe "Ventas" de la colección Informes.
-- [Id-Empleado]: control "Id-Empleado" del informe "Ventas".
-- Visible: propiedad Visible del control "Id-Empleado".
+===========================================================
+35) [ID45910594]
+Pregunta: ¿Podemos crear una consulta de totales de varias tablas en Access 365?
+a) Sí, en el caso de que se hallen relacionadas.
+b) Sí, siempre.
+c) No, nunca.
+d) Solo si creamos previamente una consulta de selección que una ambas tablas en una sola.
+Respuesta_correcta: a
+Explicación: Es posible agrupar y totalizar datos de varias tablas siempre que estén relacionadas (unidas) en la consulta.
 
-6.3. Ejemplo de funciones
+===========================================================
+36) [ID45910304]
+Pregunta: En Access 365, ¿qué tipo de combinación devuelve todos los registros de ambas tablas, incluyendo los registros coincidentes y no coincidentes?
+a) Combinación Interna.
+b) Combinación cruzada.
+c) Combinación externa Izquierda.
+d) Combinación externa Derecha.
+Respuesta_correcta: b (según clave ADAMS)
+Explicación: PENDIENTE DE VERIFICAR / POSIBLE IMPRECISIÓN: lo descrito en el enunciado (todos los registros de ambas tablas, coincidentes y no coincidentes) corresponde conceptualmente a una combinación externa completa (FULL OUTER JOIN), que Access no ofrece de forma nativa en el cuadro "Propiedades de la combinación" (solo permite combinación interna, externa izquierda o externa derecha). El término real "combinación cruzada" (cross join) designa en cambio el producto cartesiano de dos tablas sin condición de unión, no la descripción dada. Se mantiene la clave de ADAMS sin modificarla, pero se señala la posible inexactitud conceptual de la pregunta/respuesta.
 
-6.3.1. Categoría Agregadas de SQL
-- Cuenta(Expresión): número de registros devueltos por una consulta.
-- Máx(Expresión): máximo de un conjunto de valores de un campo.
-- Min(Expresión): mínimo de un conjunto de valores de un campo.
-- Promedio(Expresión): media aritmética de un conjunto de valores.
-- Suma(Expresión): suma de un conjunto de valores.
+===========================================================
+37) [ID45910188]
+Pregunta: Dados varios iconos de consulta (c2, c4, c5, c3), ¿cuál es el de la consulta de Actualización de Access 365?
+a) C2
+b) C3
+c) C4
+d) C5
+Respuesta_correcta: a
+Explicación: El icono de lápiz con signo de exclamación etiquetado "Actualizar" corresponde a la opción C2 según la captura del enunciado.
 
-6.3.2. Categoría Fecha y Hora
-- AgregFecha(intervalo;número;fecha): añade un intervalo de tiempo a una fecha. Intervalos: "aaaa" año, "m" mes, "d" día, "t" trimestre. Ejemplo: AgregFecha("aaaa";1;"01/01/2024") suma 1 año.
-- Ahora(): fecha y hora actual del sistema.
-- Fecha(): fecha actual del sistema.
-- Año(fecha) / Mes(fecha) / Día(fecha): devuelven el entero correspondiente de una fecha.
-- Hora(hora): entero 0-23. Minuto(hora): entero 0-59. Segundo(hora): entero 0-59.
-- DifFecha(intervalo; fecha1; fecha2; [primer día semana]; [primera semana año]): número de intervalos de tiempo entre dos fechas. Ejemplo: difFecha("d";[Fecha_Pedido];[Fecha_Entrega]) → días transcurridos.
+===========================================================
+38) [ID45910623]
+Pregunta: Dentro de una consulta de Access 365, ¿qué afirmación es falsa respecto a lo que podemos mostrar con la misma?
+a) Campos de una o de varias tablas relacionadas.
+b) Campos calculados en base a los datos de una o de varias tablas relacionadas.
+c) Para poder incluir campos calculados, previamente deben de haber sido definidos dentro las tablas como campos calculados.
+d) Campos de una o de varias consultas relacionadas.
+Respuesta_correcta: c
+Explicación: Los campos calculados pueden definirse directamente en la propia consulta, sin necesidad de haberlos creado antes como campos calculados dentro de la tabla.
 
-6.3.3. Categoría Flujo de programas
-- Conmutador(Expr-1;valor-1;[Expr-2;valor-2]...): evalúa lista de expresiones, devuelve el valor asociado a la primera expresión Verdadero. Ejemplo: calificación según [Nota] (Aprobado, Bien, Notable, Sobresaliente, Suspenso).
-- Elegir(núm_índice;valor1;[valor2]...): elige un elemento de una lista según su posición. Ejemplo: =ELEGIR(1;"rojo";"verde";"azul") devuelve "rojo".
-- SiInm(Expr; parteVerdadera; parteFalsa): evalúa una condición y devuelve un valor u otro. Ejemplo: siInm([EDAD]>=18;"MAYOR DE EDAD";"MENOR DE EDAD").
+===========================================================
+39) [ID45910275]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access 365 me permite evitar que el número sea mayor de 100?
+a) Formato.
+b) Índice.
+c) Máscara de entrada
+d) Regla de validación
+Respuesta_correcta: d
+Explicación: Mediante la Regla de validación (p. ej. "<=100") se restringe el rango de valores admitidos en el campo.
 
-6.3.4. Categoría Texto
-- Izq(cadena;longitud): caracteres desde la izquierda.
-- Der(cadena;longitud): caracteres desde la derecha.
-- Medio(cadena;inicio;[longitud]): caracteres desde una posición.
-- Longitud(cadena): número de caracteres.
+===========================================================
+40) [ID45910739]
+Pregunta: En un cuadro de texto de un informe de Access 365, tenemos la expresión =DifFecha("d";[FechaInicio];Fecha()). Si la fecha de inicio es el 1 de enero de 2023 y la fecha actual es el 15 de enero de 2023, ¿qué resultado mostrará?
+a) 0.
+b) -14.
+c) 15.
+d) 14.
+Respuesta_correcta: d
+Explicación: DifFecha("d";fecha1;fecha2) calcula la diferencia en días entre las dos fechas; del 1 al 15 de enero hay 14 días de diferencia.
 
-6.3.5. Categoría Matemáticas
-- Abs(número): valor absoluto.
-- Int(número) / Fix(número): parte entera.
-- Redondear(número;[precisión]): redondeo a posiciones decimales.
-- Raíz2(número): raíz cuadrada.
+===========================================================
+41) [ID45910159]
+Pregunta: En Access 365, ¿cuál de las siguientes opciones representa correctamente la regla de validación para asegurar que la fecha de contrato sea igual o posterior a enero de 2023?
+a) Año([FechaContrato]) >= 2023 Y Mes([FechaContrato]) >= 1
+b) Año([FechaContrato]) = Año(Fecha()) Y Mes([FechaContrato]) >= Mes(Fecha())
+c) Año([FechaContrato]) >= Año(Fecha()) Y Mes([FechaContrato]) >= Mes(Fecha())
+d) Año([FechaContrato]) >= 2023 Y Mes([FechaContrato]) = 1
+Respuesta_correcta: a
+Explicación: Como el mes de cualquier fecha es siempre >=1, la condición se reduce en la práctica a Año>=2023, que captura correctamente cualquier fecha de enero de 2023 en adelante; las opciones b) y c) usan la fecha actual de forma dinámica (no fija a enero de 2023) y d) restringe erróneamente el mes a ser exactamente enero.
 
-7. POWER BI: HERRAMIENTA DE ANÁLISIS Y VISUALIZACIÓN DE DATOS
+===========================================================
+42) [ID45910507]
+Pregunta: Dada la expresión Conmutador([Cantidad]>=5;"Suficiente";[Cantidad]>=6;"Bien";[Cantidad]>=7;"Notable";[Cantidad]>=9;"Sobresaliente"), si el valor del campo [Cantidad] es 8, ¿cuál será el resultado?
+a) Suficiente.
+b) Bien.
+c) Notable.
+d) Sobresaliente.
+Respuesta_correcta: a
+Explicación: Conmutador() evalúa las condiciones en orden y devuelve el valor asociado a la primera que sea verdadera; como 8>=5 ya es verdadera, devuelve "Suficiente" sin evaluar el resto de condiciones (aunque también se cumplan).
 
-7.1. Introducción
-Herramienta de inteligencia de negocios (Business Intelligence) de Microsoft que transforma grandes volúmenes de datos en información visual, clara y comprensible mediante gráficos interactivos, tablas dinámicas y paneles personalizados. Ampliamente usada en sector privado y, cada vez más, en organismos públicos (informes presupuestarios, control del gasto, indicadores de gestión, datos de personal y servicios).
+===========================================================
+43) [ID45910768]
+Pregunta: En Access 365, ¿qué tipo de combinación devuelve solo los registros que coinciden en ambas tablas y descarta los registros no coincidentes?
+a) Combinación externa Izquierda.
+b) Combinación externa Derecha.
+c) Combinación cruzada.
+d) Combinación Interna.
+Respuesta_correcta: d
+Explicación: La combinación interna (Inner Join) solo devuelve los registros con coincidencia en ambas tablas.
 
-7.2. Componentes principales
-- Power BI Desktop: aplicación gratuita local; conecta, transforma, modela y visualiza datos mediante informes interactivos.
-- Power BI Service: plataforma en la nube (navegador); publicar, compartir y colaborar en tiempo real.
-- Power BI Mobile: app móvil, acceso a paneles/informes desde cualquier lugar.
-- Power BI Gateway: mantiene actualizados datos locales (Excel, SQL locales) en informes publicados en Power BI Service.
-- Power BI Report Builder: informes paginados con formato clásico (contextos administrativos/documentales).
-- Power BI Embedded: incrusta informes de Power BI en otras aplicaciones/portales web (orientado a desarrolladores).
+===========================================================
+44) [ID45910710]
+Pregunta: ¿A qué vista le corresponde el pantallazo de Access 365 mostrado (cuadrícula con columnas C1, C2, C3 y una fila con asterisco al final)?
+a) Vista diseño de una Tabla.
+b) Vista Hoja de Datos de una Tabla.
+c) Vista diseño de una Consulta.
+d) Vista Hoja de Datos de una Consulta.
+Respuesta_correcta: b
+Explicación: El icono mostrado en la barra de título identifica que se trata de la Vista Hoja de datos de una Tabla.
 
-7.3. Funcionalidades principales
-- Conexión a múltiples fuentes de datos: Excel, Access, SQL Server, SharePoint, Google Analytics, bases en la nube, archivos planos, etc.
-- Modelado de datos: combinar tablas, establecer relaciones, jerarquías, columnas calculadas.
-- Visualizaciones interactivas: barras, líneas, mapas, tarjetas, indicadores, matrices, con filtrado dinámico y segmentación cruzada.
-- Lenguaje DAX (Data Analysis Expressions): medidas y cálculos personalizados (totales acumulados, comparativas interanuales, promedios, indicadores compuestos).
-- Transformación de datos con Power Query: limpieza, combinación y preparación automatizada.
-- Actualización automática de informes: programable, vinculada a servicios en la nube.
-- Modos DirectQuery y LiveConnect: trabajan directamente sobre las fuentes sin importarlas, acceso en tiempo real.
-- Funciones de inteligencia artificial: detección de anomalías, análisis de causas (decomposition tree), predicción de tendencias, generación automática de explicaciones, visualizaciones con modelos de aprendizaje automático, sin necesidad de programar.
+===========================================================
+45) [ID45910565]
+Pregunta: ¿En qué orden se mostrarán los registros que devuelve una consulta de Access 365?
+a) Siempre ordenados de menor a mayor por la clave primaria.
+b) Siempre ordenados por la clave primaria, de menor a mayor o viceversa es decisión del usuario.
+c) El orden se especifica a través de la vista diseño de la consulta y siempre por la clave primaria en el caso de que exista. Si no existe se ordenará automáticamente por la clave secundaria.
+d) Se ordenan según la propiedad Orden del diseño de la consulta. En el caso de que haya varios campos con la propiedad Orden, se tendrá en cuenta de izquierda a derecha.
+Respuesta_correcta: d
+Explicación: El orden de los resultados depende de la fila Orden en la cuadrícula de diseño de la consulta; con varios campos ordenados, se aplica prioridad de izquierda a derecha.
 
-7.4. Power Query
-Herramienta integrada para importar, transformar y depurar datos antes del análisis: filtrar columnas/filas, eliminar duplicados, combinar datos de distintas tablas/archivos, cambiar formatos, agrupar y resumir información. Entorno visual e intuitivo sin necesidad de programar; cada paso queda registrado en un flujo de pasos editable, reproduciendo automáticamente la carga y transformación al actualizar los datos.
+===========================================================
+46) [ID45910536]
+Pregunta: Si queremos consultar en Access 365 los datos de personas cuyo nombre empiece por A, ¿qué criterio debemos utilizar?
+a) Como "A*"
+b) Como "*A"
+c) Como "*A*"
+d) Como "A"
+Respuesta_correcta: a
+Explicación: "A*" busca cualquier valor que empiece por la letra A seguida de cualquier cosa (incluido nada).
 
-7.5. Flujo básico de trabajo
-Cinco fases: 1) Conexión a fuentes de datos (Excel, Access, BD relacionales o en la nube); 2) Transformación mediante Power Query; 3) Modelado (relaciones entre tablas, cálculos personalizados); 4) Visualización (gráficos, tarjetas, tablas, paneles interactivos); 5) Publicación y colaboración (subir informes al servicio Power BI, compartir o exportar a PDF/PPT).
+===========================================================
+47) [ID45910362]
+Pregunta: ¿Qué afirmación es verdadera acerca de la relación de Access 365 mostrada (Tabla1: C1 clave, C2, C3 — Tabla2: C4 clave, C5, C6, unidas por una línea)?
+a) La relación tiene activada la integridad referencial.
+b) Es un tipo de relación 1:N.
+c) Es una relación del tipo N:M.
+d) Observamos dos claves primarias y dos claves externas.
+Respuesta_correcta: b
+Explicación: Según la captura del enunciado, la relación une el campo clave primaria de una tabla con un campo que no es clave primaria en la otra, lo que da lugar a una relación de tipo 1:N.
 
-7.6. Aplicaciones de Power BI
-Elaboración de informes financieros y seguimiento del presupuesto (ingresos, gastos, desviaciones); análisis de recursos humanos (horas trabajadas, ausencias, productividad, distribución del personal); supervisión de contratos/proyectos/procesos operativos; visualización de KPIs segmentados por área/departamento/delegación/unidad de negocio; análisis de datos históricos para planificación estratégica (tendencias, patrones, oportunidades de mejora).
+===========================================================
+48) [ID45910478]
+Pregunta: ¿Qué objeto de Access 365 no posee el navegador de registros mostrado en la imagen (Registro: 1 de 5, con flechas de desplazamiento)?
+a) Las tablas.
+b) Las consultas de Selección.
+c) Los formularios.
+d) Los informes.
+Respuesta_correcta: d
+Explicación: Los informes se generan para imprimir/visualizar datos, no para interactuar con ellos, por lo que carecen de navegador de registros (a diferencia de tablas, consultas y formularios).
 
-7.7. Ventajas de Power BI
-Gratuito en versión de escritorio (Power BI Desktop), sin inversión inicial; interfaz intuitiva basada en el entorno Office (reduce curva de aprendizaje); no requiere conocimientos de programación (aunque permite funciones avanzadas con DAX y Power Query); compatibilidad con gran variedad de fuentes de datos locales y en la nube; automatización de tareas y reducción de errores manuales; facilidad para compartir y colaborar (Power BI Service y dispositivos móviles); mejora de la toma de decisiones gracias a información visual, clara, actualizada y basada en datos reales.
+===========================================================
+49) [ID45910130]
+Pregunta: ¿Qué nombre recibe en Access 365 el panel que aparece en la parte izquierda por defecto?
+a) Panel de todos los objetos de Access.
+b) Panel de objetos.
+c) Panel de navegación.
+d) Barra de navegación.
+Respuesta_correcta: c
+Explicación: Se denomina Panel de navegación (visible el nombre al minimizarlo).
 
-7.8. Requisitos técnicos y consideraciones
-- Sistema operativo: Power BI Desktop requiere Windows 10 o superior; NO disponible de forma nativa para macOS (solo vía máquinas virtuales u otras soluciones). Power BI Service se accede vía navegador (Edge, Chrome, Firefox, etc.).
-- Hardware recomendado para Power BI Desktop: procesador 1,4 GHz mínimo (recomendado 2,0 GHz o superior, 64 bits); RAM mínimo 4 GB (recomendado 8 GB o más); disco: al menos 2 GB disponibles; resolución: 1440x900 o superior.
-- Conectividad: bases de datos relacionales (SQL Server, MySQL, PostgreSQL, Oracle...), archivos (Excel, CSV, JSON, XML...), servicios online (SharePoint, Dynamics, Google Analytics, Salesforce...), APIs REST y conectores personalizados.
-- Instalación del gateway de datos (opcional): para acceder a datos locales desde Power BI Service (nube), es necesario instalar el Data Gateway en un servidor/equipo disponible 24/7; actúa de puente seguro entre datos on-premise y entorno cloud.
-- Licencias de usuario: Power BI Free (uso individual local); Power BI Pro (necesaria para compartir y colaborar, requerida por cada usuario que publica o consume dashboards compartidos); Power BI Premium (mayor capacidad de almacenamiento/rendimiento/funcionalidades avanzadas, por usuario o por capacidad).
-- Requisitos de red: acceso a Internet para Power BI Service y fuentes online; configuración de firewalls/proxies que permitan el tráfico hacia los servicios de Microsoft Power BI.
+===========================================================
+50) [ID45910246]
+Pregunta: ¿Qué propiedad de un campo de tabla en Access 365 me permite que el número de caracteres en un campo de texto corto sea mayor de 255?
+a) Formato.
+b) Tamaño del campo.
+c) Regla de validación.
+d) No es posible.
+Respuesta_correcta: d
+Explicación: El tamaño máximo de un campo de tipo Texto corto está limitado a 255 caracteres; para admitir más habría que usar el tipo Texto largo (Memo), no es posible superarlo dentro de Texto corto ajustando "Tamaño del campo".
 
-IDEAS CLAVE
-- Microsoft Access es un SGBD relacional integrado en Microsoft Office; permite crear y administrar bases de datos para almacenar y recuperar información de forma eficiente.
-- Para crear una nueva BD en Access se elige "Nuevo" en la pantalla de inicio: plantilla o base de datos en blanco.
-- Las tablas son la estructura fundamental de una base de datos: filas (registros) y columnas (campos).
-- Los tipos de datos determinan cómo se almacena y utiliza la información en un campo: texto corto, texto largo, número, número grande, fecha/hora, fecha/hora extendida, moneda, hipervínculo, autonumeración, Sí/No, objeto OLE, datos adjuntos, asistente para búsquedas, calculado.
-- Las relaciones establecen cómo se conectan las tablas entre sí; garantizan la integridad referencial. Tipos: uno a uno, uno a muchos, muchos a muchos.
-- Las consultas recuperan, filtran o modifican datos; se dividen en consultas de selección (no modifican datos) y consultas de acción (creación de tabla, actualización, anexado, eliminación).
-- SQL (Structured Query Language) es el lenguaje interno que Access usa para todas las consultas; se puede editar directamente en Vista SQL.
-- Los subformularios muestran datos relacionados de una tabla secundaria dentro de un formulario principal.
-- Los informes presentan datos en formato impreso o electrónico, con agrupación, ordenación y cálculo de totales.
-- Se pueden importar (archivos de Access, hojas Excel, texto, bases SQL, SharePoint...), vincular (solo tablas de otra BD Access) y exportar datos.
-- Una expresión combina funciones, identificadores, operadores, valores y constantes para realizar cálculos y manipular datos.
-- Se puede proteger una BD de Access cifrando con contraseña desde Archivo > Información (requiere abrir la base en modo exclusivo).
-- Power BI es la herramienta de Microsoft para transformar grandes volúmenes de datos en información visual clara y comprensible, mediante gráficos interactivos, tablas dinámicas y paneles personalizados, para tomar decisiones basadas en datos reales.
+===========================================================
+51) [ID-4.2.8]
+Pregunta: Necesitas que el campo de matrícula no admita dos registros con el mismo valor, sin que sea la clave principal. ¿Qué debes configurar?
+a) La propiedad Requerido del campo
+b) Una regla de validación con la lista de valores
+c) Una máscara de entrada específica
+d) Un índice sin duplicados sobre ese campo
+Respuesta_correcta: d
+Explicación: La propiedad Indexado de un campo, con el valor "Sí (Sin duplicados)", impide que se repita el valor en distintos registros sin necesidad de convertir el campo en clave principal; Requerido solo obliga a que tenga algún valor, y una regla de validación no compara entre registros distintos.
+
+===========================================================
+52) [ID-4.3.4]
+Pregunta: ¿Qué ocurre al activar la eliminación en cascada en una relación con integridad referencial?
+a) Al borrar un registro principal se bloquea la operación
+b) Al borrar un registro principal se borran los relacionados
+c) Al borrar un registro principal se guarda una copia previa
+d) Al borrar un registro principal los relacionados quedan vacíos
+Respuesta_correcta: b
+Explicación: Con "Eliminar en cascada los registros relacionados" activado, al borrar un registro del lado "1" de la relación se eliminan automáticamente todos los registros relacionados del lado "N"; sin esta opción activada, la integridad referencial bloquearía la operación (opción a).
+
+===========================================================
+53) [ID-4.4.4]
+Pregunta: Tienes los datos del último trimestre en una tabla temporal y quieres incorporarlos a la tabla histórica. ¿Qué consulta debes ejecutar?
+a) Consulta de creación de tabla
+b) Consulta de tabla de referencias cruzadas
+c) Consulta de datos anexados
+d) Consulta de actualización
+Respuesta_correcta: c
+Explicación: Una consulta de datos anexados (Append) añade los registros de una tabla origen al final de otra tabla destino ya existente, que es justo lo que se necesita para incorporar los registros de la tabla temporal a la histórica; la consulta de actualización (d) modifica el valor de campos en registros ya existentes, pero no inserta registros nuevos procedentes de otra tabla.
+
+===========================================================
+54) [ID-4.4.10]
+Pregunta: Quieres que una consulta muestre una columna con el resultado de multiplicar cantidad por precio. ¿Cómo debes hacerlo?
+a) Escribiendo un campo calculado con un alias y la expresión
+b) Añadiendo un campo nuevo a la tabla de origen
+c) Aplicando un criterio de multiplicación en la fila de criterios
+d) Insertando una consulta de totales sobre esos campos
+Respuesta_correcta: a
+Explicación: En la cuadrícula de diseño de la consulta se crea un campo calculado escribiendo Alias:[Cantidad]*[Precio]; no hace falta modificar la tabla de origen, y ni la fila de criterios ni una consulta de totales sirven para generar una columna con el producto de dos campos.
+
+===========================================================
+55) [ID-4.4.11]
+Pregunta: En una consulta de Access, ¿qué expresa el criterio Es Nulo?
+a) Que el campo coincide con cualquier valor
+b) Que el campo no tiene valor
+c) Que el campo contiene un solo carácter
+d) Que el campo contiene texto vacío
+Respuesta_correcta: b
+Explicación: El criterio "Es Nulo" selecciona los registros en los que el campo no tiene ningún valor almacenado (Null), lo cual es distinto de contener una cadena de texto vacía ("").
+
+===========================================================
+56) [ID-4.4.14]
+Pregunta: En Access, si quieres crear un criterio con funciones y referencias sin escribir toda la sintaxis manualmente, ¿qué herramienta conviene usar?
+a) Asistente para informes
+b) Generador de expresiones
+c) Panel de navegación
+d) Hoja de propiedades
+Respuesta_correcta: b
+Explicación: El Generador de expresiones ofrece un cuadro de diálogo con las funciones, operadores y referencias a campos disponibles para construir una expresión sin tener que teclear toda la sintaxis de memoria.
+
+===========================================================
+57) [ID-4.4.15]
+Pregunta: En Access, si deseas que al ejecutar una consulta se pida al usuario una fecha y se use ese dato como filtro, ¿qué tipo de consulta debes crear?
+a) Consulta de parámetros
+b) Consulta de actualización
+c) Consulta de selección
+d) Consulta de duplicados
+Respuesta_correcta: a
+Explicación: Una consulta de parámetros muestra un cuadro de diálogo solicitando un valor (p. ej. una fecha) en el momento de ejecutarla, y utiliza el dato introducido como criterio de filtro.
+
+===========================================================
+58) [ID-4.4.17]
+Pregunta: Sospechas que una tabla contiene clientes repetidos con el mismo correo electrónico. ¿Qué herramienta de Access lo localiza?
+a) El generador de expresiones
+b) El administrador de tablas vinculadas
+c) El asistente para buscar duplicados
+d) El asistente para buscar no coincidentes
+Respuesta_correcta: c
+Explicación: El Asistente para buscar duplicados crea automáticamente una consulta que localiza los registros con valores repetidos en uno o varios campos indicados, como el correo electrónico.
+
+===========================================================
+59) [ID-4.5.3]
+Pregunta: ¿Qué define a un formulario dividido en Access?
+a) Formulario que muestra dos subformularios vinculados en paralelo
+b) Formulario que alterna entre diseño e impresión según el registro
+c) Formulario que muestra vista de formulario y hoja de datos a la vez
+d) Formulario que divide los campos entre dos páginas de diseño
+Respuesta_correcta: c
+Explicación: El formulario dividido combina en una misma ventana una vista de Formulario (parte superior) y una vista de Hoja de datos (parte inferior) de los mismos registros, sincronizadas entre sí.
+
+===========================================================
+60) [ID-4.5.4]
+Pregunta: ¿Qué es un subformulario en Access?
+a) Una copia del formulario con los controles bloqueados
+b) Un formulario que se abre en una ventana secundaria
+c) Un formulario insertado en otro que muestra los registros relacionados
+d) Un formulario dividido en la vista de diseño y la vista de hoja de datos
+Respuesta_correcta: c
+Explicación: Un subformulario es un formulario insertado como control dentro de otro formulario (principal), utilizado habitualmente para mostrar los registros de una tabla relacionada con el registro activo del formulario principal (relación 1:N).
+
+===========================================================
+61) [ID-4.5.6]
+Pregunta: En un formulario quieres que el usuario elija la provincia de una lista tomada de otra tabla, pudiendo escribir para filtrar. ¿Qué control debes usar?
+a) Cuadro de texto
+b) Casilla de verificación
+c) Grupo de opciones
+d) Cuadro combinado
+Respuesta_correcta: d
+Explicación: El cuadro combinado (ComboBox) permite seleccionar un valor de una lista desplegable, cuyo origen puede ser otra tabla o consulta, y además admite que el usuario escriba para filtrar las opciones mostradas.
+
+===========================================================
+62) [ID-4.5.7]
+Pregunta: ¿Qué define la propiedad Origen del registro de un formulario?
+a) La vista con la que se abre el formulario
+b) El orden en que se recorren los controles con el tabulador
+c) El campo al que se vincula cada control del formulario
+d) La tabla o consulta de la que toma los datos
+Respuesta_correcta: d
+Explicación: La propiedad Origen del registro determina la tabla o consulta que proporciona los datos que mostrará el formulario; el campo concreto de cada control se define en su propiedad Origen del control, no en esta.
+
+===========================================================
+63) [ID-4.5.8]
+Pregunta: ¿Qué caracteriza a la vista Presentación de un formulario de Access?
+a) Permite imprimir el formulario con formato de informe
+b) Permite introducir registros pero no cambiar el diseño
+c) Permite modificar la estructura del formulario sin mostrar dato alguno
+d) Permite ajustar el diseño viendo los datos reales al mismo tiempo
+Respuesta_correcta: d
+Explicación: La vista Presentación es similar a la vista Diseño pero muestra los datos reales mientras se ajusta el aspecto del formulario (anchos de columna, colores, tamaños), lo que facilita ver el resultado del diseño sin cambiar a la vista Formulario.
+
+===========================================================
+64) [ID-4.5.10]
+Pregunta: Quieres que un formulario incluya un elemento en el que al hacer clic se abra un informe. ¿Qué control debes insertar?
+a) Una etiqueta
+b) Un grupo de opciones
+c) Un botón de comando
+d) Un cuadro de texto independiente
+Respuesta_correcta: c
+Explicación: Un botón de comando puede llevar asociada, mediante el Asistente para botones de comando o una macro, la acción de abrir otro objeto (como un informe) al hacer clic sobre él.
+
+===========================================================
+65) [ID-4.6.4]
+Pregunta: En un informe de Access, ¿dónde se coloca un total que resuma todos los registros incluidos?
+a) En el pie de cada grupo
+b) En el pie de cada página
+c) En la sección de detalle
+d) En el pie del informe
+Respuesta_correcta: d
+Explicación: El Pie del informe es la sección que se imprime una sola vez, al final de todo el informe, y es donde se colocan los totales generales referidos a la totalidad de los registros; el pie de cada grupo solo totaliza ese grupo.
+
+===========================================================
+66) [ID-4.6.7]
+Pregunta: Antes de imprimir un informe quieres comprobar cómo quedará repartido en las páginas. ¿Qué vista debes usar?
+a) La vista Informe
+b) La vista Diseño
+c) La vista Presentación
+d) La vista preliminar
+Respuesta_correcta: d
+Explicación: La vista preliminar (Print Preview) muestra el informe exactamente como se imprimirá, página a página, permitiendo comprobar el reparto de los datos entre páginas antes de imprimir.
+
+===========================================================
+67) [ID-4.6.10]
+Pregunta: ¿Qué caracteriza a un informe de etiquetas en Access?
+a) Genera un documento por cada registro de la tabla
+b) Distribuye los datos en una cuadrícula ajustada a una hoja adhesiva
+c) Presenta los datos en columnas con encabezado repetido
+d) Muestra los registros agrupados con subtotales de cada categoría creada
+Respuesta_correcta: b
+Explicación: El Asistente para etiquetas genera un informe especial que distribuye los datos de cada registro en una cuadrícula cuyas medidas coinciden con las de una hoja de etiquetas adhesivas comercial, para imprimir directamente sobre ella.
+
+===========================================================
+68) [ID-4.7.2]
+Pregunta: Trabajas con una tabla vinculada a un libro de Excel. ¿Dónde residen realmente los datos?
+a) En el archivo de Excel, que Access consulta al abrir la tabla
+b) En ambos archivos, sincronizados de forma automática y continua
+c) En una caché temporal que se borra al cerrar Access
+d) En el archivo de Access, con una copia en Excel
+Respuesta_correcta: a
+Explicación: Una tabla vinculada no almacena los datos dentro de la base de datos de Access; solo guarda la ruta de conexión al origen externo (en este caso el libro de Excel), que es donde residen realmente los datos y donde Access los consulta cada vez que se abre la tabla.
+
+===========================================================
+69) [ID-4.7.4]
+Pregunta: ¿Qué herramienta de Access se usa para actualizar o reparar vínculos a tablas externas?
+a) Administrador de panel de navegación
+b) Administrador de tablas vinculadas
+c) Asistente para compactar y reparar
+d) Asistente para análisis de tablas
+Respuesta_correcta: b
+Explicación: El Administrador de tablas vinculadas permite comprobar, actualizar o reparar la ruta de conexión de las tablas vinculadas a orígenes externos cuando estos han cambiado de ubicación o nombre.
+
+===========================================================
+70) [ID-4.7.6]
+Pregunta: Cada mes repites la misma importación desde un archivo con idéntica estructura. ¿Qué opción de Access te ahorra reconfigurarla?
+a) Vincular el archivo de origen en vez de importar sus datos
+b) Guardar los pasos de la importación para reutilizarlos
+c) Crear una consulta de datos anexados
+d) Definir una máscara de entrada en la tabla
+Respuesta_correcta: b
+Explicación: Access permite, al finalizar un asistente de importación, guardar los pasos realizados como una especificación de importación reutilizable, de modo que las siguientes veces solo haya que ejecutarla sin volver a configurar todo el proceso.
+
+===========================================================
+71) [ID-4.7.8]
+Pregunta: Tras importar un archivo, Access crea una tabla adicional con el sufijo de errores de importación. ¿Qué contiene?
+a) Los registros duplicados detectados durante el proceso
+b) El registro de las importaciones realizadas hasta la fecha
+c) Una copia de seguridad de la tabla antes de importar
+d) El detalle de los valores que no se pudieron convertir
+Respuesta_correcta: d
+Explicación: Cuando Access no puede convertir algún valor al tipo de dato del campo destino durante una importación, crea una tabla con el sufijo "_ImportErrors" que detalla esos valores concretos y el motivo del error, para poder revisarlos y corregirlos.
+
+===========================================================
+72) [ID-4.7.11]
+Pregunta: Una tabla vinculada debe pasar a formar parte del propio archivo porque el origen va a desaparecer. ¿Qué debes hacer?
+a) Compactar y reparar la base de datos
+b) Dividir la base de datos en dos archivos
+c) Actualizar el vínculo con el administrador de tablas
+d) Convertir la tabla vinculada en tabla local
+Respuesta_correcta: d
+Explicación: Access permite convertir una tabla vinculada en tabla local (importándola definitivamente a la base de datos actual), lo que hace innecesaria la dependencia del origen externo que va a desaparecer.
+
+===========================================================
+73) [ID-4.8.4]
+Pregunta: ¿Qué significa dividir una base de datos en Access?
+a) Copiar todas las relaciones definidas a un dispositivo externo de respaldo
+b) Separar los objetos de aplicación y las tablas en archivos distintos
+c) Mover solo los informes a una carpeta compartida
+d) Exportar consultas y macros a un libro de Excel
+Respuesta_correcta: b
+Explicación: El Asistente para dividir bases de datos separa una base de datos en dos archivos: un back-end que contiene solo las tablas (los datos), y un front-end con el resto de objetos (consultas, formularios, informes, macros), facilitando el trabajo compartido en red.
+
+===========================================================
+74) [ID-4.8.6]
+Pregunta: ¿Qué caracteriza a una base de datos back-end en Access?
+a) Contiene principalmente formularios e informes de usuario
+b) Contiene principalmente plantillas y hojas de cálculo
+c) Contiene principalmente las tablas de datos compartidas
+d) Contiene principalmente mensajes y carpetas de correo
+Respuesta_correcta: c
+Explicación: En una base de datos dividida, el back-end es el archivo que contiene únicamente las tablas con los datos compartidos; los formularios e informes residen en el front-end que utiliza cada usuario.
+
+===========================================================
+75) [ID-4.9.5]
+Pregunta: ¿Qué diferencia hay entre un informe y un panel en el servicio Power BI?
+a) El informe tiene varias páginas y el panel reúne elementos anclados
+b) El informe contiene datos y el panel solo imágenes fijas
+c) El informe se ve en la web y el panel solo en el móvil
+d) El informe lo crea el usuario y el panel lo genera el propio sistema
+Respuesta_correcta: a
+Explicación: Un informe de Power BI puede tener varias páginas con visualizaciones interactivas conectadas a un conjunto de datos, mientras que un panel (dashboard) es un lienzo de una sola página que reúne elementos (visualizaciones) anclados, a menudo procedentes de distintos informes.
+
+===========================================================
+76) [ID-4.9.6]
+Pregunta: En Power BI, ¿qué es un modelo semántico?
+a) La conexión configurada con el origen de datos
+b) El área de trabajo donde se publica el contenido
+c) El archivo que contiene únicamente el diseño visual del informe publicado
+d) El conjunto de tablas, relaciones y medidas que alimenta los informes
+Respuesta_correcta: d
+Explicación: Un modelo semántico (antes llamado "conjunto de datos") es el conjunto de tablas, relaciones, columnas calculadas y medidas que se publica en Power BI y sobre el que se construyen los informes y paneles.
+
+===========================================================
+77) [ID-4.9.8]
+Pregunta: En Power BI, ¿qué caracteriza a una medida escrita en el lenguaje de cálculo del modelo?
+a) Se evalúa según el contexto de filtro de cada objeto visual
+b) Se calcula una vez por fila y se almacena en la tabla
+c) Se recalcula únicamente al actualizar el origen de datos
+d) Se aplica solo a la página donde se ha definido
+Respuesta_correcta: a
+Explicación: Una medida DAX no almacena un valor fijo: se calcula dinámicamente en el momento de visualizarla, teniendo en cuenta el contexto de filtro (filtros, segmentaciones, filas/columnas de la visualización) en el que se está mostrando; esto la diferencia de una columna calculada, que sí se evalúa una vez por fila y se almacena.
+
+===========================================================
+78) [ID-4.9.9]
+Pregunta: ¿Cuándo conviene usar una columna calculada en lugar de una medida en Power BI?
+a) Cuando el valor debe existir en cada fila para filtrar o agrupar
+b) Cuando se necesita reducir el tamaño del modelo
+c) Cuando el resultado debe mostrarse en una tarjeta
+d) Cuando el cálculo debe responder a los filtros que aplique el usuario
+Respuesta_correcta: a
+Explicación: Una columna calculada se evalúa fila a fila y queda almacenada físicamente en la tabla, por lo que es necesaria cuando ese valor debe estar disponible como tal para usarlo en un filtro, una segmentación o un eje de agrupación; para un resultado agregado que debe responder a los filtros del informe, lo adecuado es una medida (más eficiente en tamaño).
+
+===========================================================
+79) [ID-4.9.11]
+Pregunta: ¿Cuál describe mejor a Power Query en Power BI?
+a) Servicio para compartir paneles con otros usuarios
+b) Lenguaje para definir medidas y columnas calculadas
+c) Visual para resumir indicadores en una sola cifra
+d) Herramienta para obtener, limpiar y transformar datos
+Respuesta_correcta: d
+Explicación: Power Query es el motor de conexión y transformación de datos de Power BI (editor de consultas): permite conectar con los orígenes, limpiar, combinar y dar forma a los datos antes de cargarlos al modelo; el lenguaje de medidas y columnas calculadas es DAX, no Power Query.
+
+===========================================================
+80) [ID-4.9.12]
+Pregunta: Quieres que quien consulte un informe de Power BI pueda filtrar por año con botones visibles en la página. ¿Qué debes insertar?
+a) Un filtro de nivel de informe
+b) Una medida con la condición del año
+c) Una segmentación de datos
+d) Una página de obtención de detalles
+Respuesta_correcta: c
+Explicación: Una segmentación de datos (slicer) es un control visual que se coloca directamente sobre el lienzo de la página y permite al usuario filtrar de forma visible e interactiva, por ejemplo por año, haciendo clic en sus botones.
+
+===========================================================
+81) [ID-4.9.15]
+Pregunta: En Power BI, ¿qué papel cumple Obtener datos?
+a) Definir las relaciones existentes entre las tablas que forman el modelo
+b) Publicar el contenido en el área de trabajo
+c) Conectar el informe con los orígenes desde los que se cargan las tablas
+d) Depurar y transformar las columnas ya cargadas
+Respuesta_correcta: c
+Explicación: "Obtener datos" es el punto de entrada para conectar Power BI con los distintos orígenes (archivos, bases de datos, servicios) desde los que se importarán o consultarán las tablas que formarán el modelo.
+
+===========================================================
+82) [ID-4.9.16]
+Pregunta: ¿En qué situación DirectQuery es la opción más adecuada en Power BI?
+a) Cuando se requiere consultar datos casi en tiempo real
+b) Cuando se quiere reemplazar el origen por una copia
+c) Cuando se busca editar datos dentro del informe
+d) Cuando se necesita importar todo al archivo local
+Respuesta_correcta: a
+Explicación: El modo DirectQuery consulta los datos directamente en el origen cada vez que se interactúa con el informe, en lugar de importar una copia al modelo, lo que resulta adecuado cuando se necesita trabajar con datos actualizados casi en tiempo real.
+
+===========================================================
+83) [ID-4.9.17]
+Pregunta: En la vista de relaciones, detectas un vínculo incorrecto entre dos tablas que ya no debe existir. ¿Cuál es la acción más adecuada?
+a) Eliminar la relación definida entre ambas tablas
+b) Duplicar la relación entre ambas tablas
+c) Actualizar la relación definida entre ambas tablas
+d) Ocultar la relación en ambas tablas
+Respuesta_correcta: a
+Explicación: Si una relación entre dos tablas ya no es correcta ni debe existir, la acción adecuada es eliminarla desde la vista de relaciones; ocultarla solo la quita de la vista sin eliminar el vínculo real del modelo.
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Access 365, no sobre citas legales.
+- Se han recalculado a mano todas las expresiones y funciones del banco (Elegir, Conmutador, DifFecha, Año/Mes, reglas de validación) confirmando los resultados de la clave de ADAMS.
+- Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR / POSIBLE IMPRECISIÓN, sin cambiar la clave:
+  · Pregunta 13 (ID28761337): duda sobre si el nombre real de la función de Access para contar caracteres es "Longitud" (como indica ADAMS) o si en realidad es "Len" (nombre no traducido, habitual en el lenguaje de expresiones de Access).
+  · Pregunta 36 (ID45910304): la descripción dada de "combinación cruzada" (todos los registros de ambas tablas, coincidentes y no coincidentes) corresponde conceptualmente a una combinación externa completa (FULL OUTER JOIN), no al significado real de "combinación cruzada" (producto cartesiano sin condición de unión); Access tampoco ofrece de forma nativa un FULL OUTER JOIN en el cuadro de propiedades de combinación.
+- Resto de las 50 preguntas verificadas sin discrepancias detectadas frente al comportamiento estándar de Access 365.
+- Preguntas 51-83 (ID-4.x.x): añadidas a partir de un nuevo documento aportado por el usuario (nuevas-access-TEMA19.docx, 34 capturas de pantalla, numeración propia tipo "4.2.8"). Las capturas no traían clave de respuestas oficial, solo la opción que el usuario tenía marcada en cada una (círculo rojo) a modo de intento propio; Claude ha verificado cada pregunta de forma independiente contra el comportamiento real de Access 365 / Power BI antes de fijar "Respuesta_correcta".
+  · Pregunta 53 (ID-4.4.4): el documento aportado tenía marcada la opción d) "Consulta de actualización", pero la respuesta correcta es c) "Consulta de datos anexados" (incorporar registros nuevos de una tabla temporal a una tabla histórica es una operación de anexar filas, no de actualizar campos de registros ya existentes); se ha corregido la clave respecto a la marca original.
+  · Preguntas 75-83 (bloque 4.9.x): versan sobre Poder BI (Power BI), no sobre Access propiamente dicho; se han mantenido dentro de tema19 tal y como las aportó el usuario en el mismo documento.

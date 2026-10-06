@@ -698,5 +698,467 @@
     "referencia": null,
     "explicacion": "El tamaño máximo de un campo de tipo Texto corto está limitado a 255 caracteres; para admitir más habría que usar el tipo Texto largo (Memo), no es posible superarlo dentro de Texto corto ajustando \"Tamaño del campo\".",
     "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.2.8",
+    "texto": "Necesitas que el campo de matrícula no admita dos registros con el mismo valor, sin que sea la clave principal. ¿Qué debes configurar?",
+    "opciones": [
+      "a) La propiedad Requerido del campo",
+      "b) Una regla de validación con la lista de valores",
+      "c) Una máscara de entrada específica",
+      "d) Un índice sin duplicados sobre ese campo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La propiedad Indexado de un campo, con el valor \"Sí (Sin duplicados)\", impide que se repita el valor en distintos registros sin necesidad de convertir el campo en clave principal; Requerido solo obliga a que tenga algún valor, y una regla de validación no compara entre registros distintos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.3.4",
+    "texto": "¿Qué ocurre al activar la eliminación en cascada en una relación con integridad referencial?",
+    "opciones": [
+      "a) Al borrar un registro principal se bloquea la operación",
+      "b) Al borrar un registro principal se borran los relacionados",
+      "c) Al borrar un registro principal se guarda una copia previa",
+      "d) Al borrar un registro principal los relacionados quedan vacíos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Con \"Eliminar en cascada los registros relacionados\" activado, al borrar un registro del lado \"1\" de la relación se eliminan automáticamente todos los registros relacionados del lado \"N\"; sin esta opción activada, la integridad referencial bloquearía la operación (opción a).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.4",
+    "texto": "Tienes los datos del último trimestre en una tabla temporal y quieres incorporarlos a la tabla histórica. ¿Qué consulta debes ejecutar?",
+    "opciones": [
+      "a) Consulta de creación de tabla",
+      "b) Consulta de tabla de referencias cruzadas",
+      "c) Consulta de datos anexados",
+      "d) Consulta de actualización"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Una consulta de datos anexados (Append) añade los registros de una tabla origen al final de otra tabla destino ya existente, que es justo lo que se necesita para incorporar los registros de la tabla temporal a la histórica; la consulta de actualización (d) modifica el valor de campos en registros ya existentes, pero no inserta registros nuevos procedentes de otra tabla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.10",
+    "texto": "Quieres que una consulta muestre una columna con el resultado de multiplicar cantidad por precio. ¿Cómo debes hacerlo?",
+    "opciones": [
+      "a) Escribiendo un campo calculado con un alias y la expresión",
+      "b) Añadiendo un campo nuevo a la tabla de origen",
+      "c) Aplicando un criterio de multiplicación en la fila de criterios",
+      "d) Insertando una consulta de totales sobre esos campos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "En la cuadrícula de diseño de la consulta se crea un campo calculado escribiendo Alias:[Cantidad]*[Precio]; no hace falta modificar la tabla de origen, y ni la fila de criterios ni una consulta de totales sirven para generar una columna con el producto de dos campos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.11",
+    "texto": "En una consulta de Access, ¿qué expresa el criterio Es Nulo?",
+    "opciones": [
+      "a) Que el campo coincide con cualquier valor",
+      "b) Que el campo no tiene valor",
+      "c) Que el campo contiene un solo carácter",
+      "d) Que el campo contiene texto vacío"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El criterio \"Es Nulo\" selecciona los registros en los que el campo no tiene ningún valor almacenado (Null), lo cual es distinto de contener una cadena de texto vacía (\"\").",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.14",
+    "texto": "En Access, si quieres crear un criterio con funciones y referencias sin escribir toda la sintaxis manualmente, ¿qué herramienta conviene usar?",
+    "opciones": [
+      "a) Asistente para informes",
+      "b) Generador de expresiones",
+      "c) Panel de navegación",
+      "d) Hoja de propiedades"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Generador de expresiones ofrece un cuadro de diálogo con las funciones, operadores y referencias a campos disponibles para construir una expresión sin tener que teclear toda la sintaxis de memoria.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.15",
+    "texto": "En Access, si deseas que al ejecutar una consulta se pida al usuario una fecha y se use ese dato como filtro, ¿qué tipo de consulta debes crear?",
+    "opciones": [
+      "a) Consulta de parámetros",
+      "b) Consulta de actualización",
+      "c) Consulta de selección",
+      "d) Consulta de duplicados"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una consulta de parámetros muestra un cuadro de diálogo solicitando un valor (p. ej. una fecha) en el momento de ejecutarla, y utiliza el dato introducido como criterio de filtro.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.4.17",
+    "texto": "Sospechas que una tabla contiene clientes repetidos con el mismo correo electrónico. ¿Qué herramienta de Access lo localiza?",
+    "opciones": [
+      "a) El generador de expresiones",
+      "b) El administrador de tablas vinculadas",
+      "c) El asistente para buscar duplicados",
+      "d) El asistente para buscar no coincidentes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El Asistente para buscar duplicados crea automáticamente una consulta que localiza los registros con valores repetidos en uno o varios campos indicados, como el correo electrónico.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.3",
+    "texto": "¿Qué define a un formulario dividido en Access?",
+    "opciones": [
+      "a) Formulario que muestra dos subformularios vinculados en paralelo",
+      "b) Formulario que alterna entre diseño e impresión según el registro",
+      "c) Formulario que muestra vista de formulario y hoja de datos a la vez",
+      "d) Formulario que divide los campos entre dos páginas de diseño"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El formulario dividido combina en una misma ventana una vista de Formulario (parte superior) y una vista de Hoja de datos (parte inferior) de los mismos registros, sincronizadas entre sí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.4",
+    "texto": "¿Qué es un subformulario en Access?",
+    "opciones": [
+      "a) Una copia del formulario con los controles bloqueados",
+      "b) Un formulario que se abre en una ventana secundaria",
+      "c) Un formulario insertado en otro que muestra los registros relacionados",
+      "d) Un formulario dividido en la vista de diseño y la vista de hoja de datos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Un subformulario es un formulario insertado como control dentro de otro formulario (principal), utilizado habitualmente para mostrar los registros de una tabla relacionada con el registro activo del formulario principal (relación 1:N).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.6",
+    "texto": "En un formulario quieres que el usuario elija la provincia de una lista tomada de otra tabla, pudiendo escribir para filtrar. ¿Qué control debes usar?",
+    "opciones": [
+      "a) Cuadro de texto",
+      "b) Casilla de verificación",
+      "c) Grupo de opciones",
+      "d) Cuadro combinado"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El cuadro combinado (ComboBox) permite seleccionar un valor de una lista desplegable, cuyo origen puede ser otra tabla o consulta, y además admite que el usuario escriba para filtrar las opciones mostradas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.7",
+    "texto": "¿Qué define la propiedad Origen del registro de un formulario?",
+    "opciones": [
+      "a) La vista con la que se abre el formulario",
+      "b) El orden en que se recorren los controles con el tabulador",
+      "c) El campo al que se vincula cada control del formulario",
+      "d) La tabla o consulta de la que toma los datos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La propiedad Origen del registro determina la tabla o consulta que proporciona los datos que mostrará el formulario; el campo concreto de cada control se define en su propiedad Origen del control, no en esta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.8",
+    "texto": "¿Qué caracteriza a la vista Presentación de un formulario de Access?",
+    "opciones": [
+      "a) Permite imprimir el formulario con formato de informe",
+      "b) Permite introducir registros pero no cambiar el diseño",
+      "c) Permite modificar la estructura del formulario sin mostrar dato alguno",
+      "d) Permite ajustar el diseño viendo los datos reales al mismo tiempo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La vista Presentación es similar a la vista Diseño pero muestra los datos reales mientras se ajusta el aspecto del formulario (anchos de columna, colores, tamaños), lo que facilita ver el resultado del diseño sin cambiar a la vista Formulario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.5.10",
+    "texto": "Quieres que un formulario incluya un elemento en el que al hacer clic se abra un informe. ¿Qué control debes insertar?",
+    "opciones": [
+      "a) Una etiqueta",
+      "b) Un grupo de opciones",
+      "c) Un botón de comando",
+      "d) Un cuadro de texto independiente"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Un botón de comando puede llevar asociada, mediante el Asistente para botones de comando o una macro, la acción de abrir otro objeto (como un informe) al hacer clic sobre él.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.6.4",
+    "texto": "En un informe de Access, ¿dónde se coloca un total que resuma todos los registros incluidos?",
+    "opciones": [
+      "a) En el pie de cada grupo",
+      "b) En el pie de cada página",
+      "c) En la sección de detalle",
+      "d) En el pie del informe"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El Pie del informe es la sección que se imprime una sola vez, al final de todo el informe, y es donde se colocan los totales generales referidos a la totalidad de los registros; el pie de cada grupo solo totaliza ese grupo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.6.7",
+    "texto": "Antes de imprimir un informe quieres comprobar cómo quedará repartido en las páginas. ¿Qué vista debes usar?",
+    "opciones": [
+      "a) La vista Informe",
+      "b) La vista Diseño",
+      "c) La vista Presentación",
+      "d) La vista preliminar"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La vista preliminar (Print Preview) muestra el informe exactamente como se imprimirá, página a página, permitiendo comprobar el reparto de los datos entre páginas antes de imprimir.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.6.10",
+    "texto": "¿Qué caracteriza a un informe de etiquetas en Access?",
+    "opciones": [
+      "a) Genera un documento por cada registro de la tabla",
+      "b) Distribuye los datos en una cuadrícula ajustada a una hoja adhesiva",
+      "c) Presenta los datos en columnas con encabezado repetido",
+      "d) Muestra los registros agrupados con subtotales de cada categoría creada"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Asistente para etiquetas genera un informe especial que distribuye los datos de cada registro en una cuadrícula cuyas medidas coinciden con las de una hoja de etiquetas adhesivas comercial, para imprimir directamente sobre ella.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.7.2",
+    "texto": "Trabajas con una tabla vinculada a un libro de Excel. ¿Dónde residen realmente los datos?",
+    "opciones": [
+      "a) En el archivo de Excel, que Access consulta al abrir la tabla",
+      "b) En ambos archivos, sincronizados de forma automática y continua",
+      "c) En una caché temporal que se borra al cerrar Access",
+      "d) En el archivo de Access, con una copia en Excel"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una tabla vinculada no almacena los datos dentro de la base de datos de Access; solo guarda la ruta de conexión al origen externo (en este caso el libro de Excel), que es donde residen realmente los datos y donde Access los consulta cada vez que se abre la tabla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.7.4",
+    "texto": "¿Qué herramienta de Access se usa para actualizar o reparar vínculos a tablas externas?",
+    "opciones": [
+      "a) Administrador de panel de navegación",
+      "b) Administrador de tablas vinculadas",
+      "c) Asistente para compactar y reparar",
+      "d) Asistente para análisis de tablas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Administrador de tablas vinculadas permite comprobar, actualizar o reparar la ruta de conexión de las tablas vinculadas a orígenes externos cuando estos han cambiado de ubicación o nombre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.7.6",
+    "texto": "Cada mes repites la misma importación desde un archivo con idéntica estructura. ¿Qué opción de Access te ahorra reconfigurarla?",
+    "opciones": [
+      "a) Vincular el archivo de origen en vez de importar sus datos",
+      "b) Guardar los pasos de la importación para reutilizarlos",
+      "c) Crear una consulta de datos anexados",
+      "d) Definir una máscara de entrada en la tabla"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Access permite, al finalizar un asistente de importación, guardar los pasos realizados como una especificación de importación reutilizable, de modo que las siguientes veces solo haya que ejecutarla sin volver a configurar todo el proceso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.7.8",
+    "texto": "Tras importar un archivo, Access crea una tabla adicional con el sufijo de errores de importación. ¿Qué contiene?",
+    "opciones": [
+      "a) Los registros duplicados detectados durante el proceso",
+      "b) El registro de las importaciones realizadas hasta la fecha",
+      "c) Una copia de seguridad de la tabla antes de importar",
+      "d) El detalle de los valores que no se pudieron convertir"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Cuando Access no puede convertir algún valor al tipo de dato del campo destino durante una importación, crea una tabla con el sufijo \"_ImportErrors\" que detalla esos valores concretos y el motivo del error, para poder revisarlos y corregirlos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.7.11",
+    "texto": "Una tabla vinculada debe pasar a formar parte del propio archivo porque el origen va a desaparecer. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Compactar y reparar la base de datos",
+      "b) Dividir la base de datos en dos archivos",
+      "c) Actualizar el vínculo con el administrador de tablas",
+      "d) Convertir la tabla vinculada en tabla local"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Access permite convertir una tabla vinculada en tabla local (importándola definitivamente a la base de datos actual), lo que hace innecesaria la dependencia del origen externo que va a desaparecer.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.8.4",
+    "texto": "¿Qué significa dividir una base de datos en Access?",
+    "opciones": [
+      "a) Copiar todas las relaciones definidas a un dispositivo externo de respaldo",
+      "b) Separar los objetos de aplicación y las tablas en archivos distintos",
+      "c) Mover solo los informes a una carpeta compartida",
+      "d) Exportar consultas y macros a un libro de Excel"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Asistente para dividir bases de datos separa una base de datos en dos archivos: un back-end que contiene solo las tablas (los datos), y un front-end con el resto de objetos (consultas, formularios, informes, macros), facilitando el trabajo compartido en red.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.8.6",
+    "texto": "¿Qué caracteriza a una base de datos back-end en Access?",
+    "opciones": [
+      "a) Contiene principalmente formularios e informes de usuario",
+      "b) Contiene principalmente plantillas y hojas de cálculo",
+      "c) Contiene principalmente las tablas de datos compartidas",
+      "d) Contiene principalmente mensajes y carpetas de correo"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "En una base de datos dividida, el back-end es el archivo que contiene únicamente las tablas con los datos compartidos; los formularios e informes residen en el front-end que utiliza cada usuario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.5",
+    "texto": "¿Qué diferencia hay entre un informe y un panel en el servicio Power BI?",
+    "opciones": [
+      "a) El informe tiene varias páginas y el panel reúne elementos anclados",
+      "b) El informe contiene datos y el panel solo imágenes fijas",
+      "c) El informe se ve en la web y el panel solo en el móvil",
+      "d) El informe lo crea el usuario y el panel lo genera el propio sistema"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Un informe de Power BI puede tener varias páginas con visualizaciones interactivas conectadas a un conjunto de datos, mientras que un panel (dashboard) es un lienzo de una sola página que reúne elementos (visualizaciones) anclados, a menudo procedentes de distintos informes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.6",
+    "texto": "En Power BI, ¿qué es un modelo semántico?",
+    "opciones": [
+      "a) La conexión configurada con el origen de datos",
+      "b) El área de trabajo donde se publica el contenido",
+      "c) El archivo que contiene únicamente el diseño visual del informe publicado",
+      "d) El conjunto de tablas, relaciones y medidas que alimenta los informes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Un modelo semántico (antes llamado \"conjunto de datos\") es el conjunto de tablas, relaciones, columnas calculadas y medidas que se publica en Power BI y sobre el que se construyen los informes y paneles.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.8",
+    "texto": "En Power BI, ¿qué caracteriza a una medida escrita en el lenguaje de cálculo del modelo?",
+    "opciones": [
+      "a) Se evalúa según el contexto de filtro de cada objeto visual",
+      "b) Se calcula una vez por fila y se almacena en la tabla",
+      "c) Se recalcula únicamente al actualizar el origen de datos",
+      "d) Se aplica solo a la página donde se ha definido"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una medida DAX no almacena un valor fijo: se calcula dinámicamente en el momento de visualizarla, teniendo en cuenta el contexto de filtro (filtros, segmentaciones, filas/columnas de la visualización) en el que se está mostrando; esto la diferencia de una columna calculada, que sí se evalúa una vez por fila y se almacena.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.9",
+    "texto": "¿Cuándo conviene usar una columna calculada en lugar de una medida en Power BI?",
+    "opciones": [
+      "a) Cuando el valor debe existir en cada fila para filtrar o agrupar",
+      "b) Cuando se necesita reducir el tamaño del modelo",
+      "c) Cuando el resultado debe mostrarse en una tarjeta",
+      "d) Cuando el cálculo debe responder a los filtros que aplique el usuario"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una columna calculada se evalúa fila a fila y queda almacenada físicamente en la tabla, por lo que es necesaria cuando ese valor debe estar disponible como tal para usarlo en un filtro, una segmentación o un eje de agrupación; para un resultado agregado que debe responder a los filtros del informe, lo adecuado es una medida (más eficiente en tamaño).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.11",
+    "texto": "¿Cuál describe mejor a Power Query en Power BI?",
+    "opciones": [
+      "a) Servicio para compartir paneles con otros usuarios",
+      "b) Lenguaje para definir medidas y columnas calculadas",
+      "c) Visual para resumir indicadores en una sola cifra",
+      "d) Herramienta para obtener, limpiar y transformar datos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Power Query es el motor de conexión y transformación de datos de Power BI (editor de consultas): permite conectar con los orígenes, limpiar, combinar y dar forma a los datos antes de cargarlos al modelo; el lenguaje de medidas y columnas calculadas es DAX, no Power Query.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.12",
+    "texto": "Quieres que quien consulte un informe de Power BI pueda filtrar por año con botones visibles en la página. ¿Qué debes insertar?",
+    "opciones": [
+      "a) Un filtro de nivel de informe",
+      "b) Una medida con la condición del año",
+      "c) Una segmentación de datos",
+      "d) Una página de obtención de detalles"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Una segmentación de datos (slicer) es un control visual que se coloca directamente sobre el lienzo de la página y permite al usuario filtrar de forma visible e interactiva, por ejemplo por año, haciendo clic en sus botones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.15",
+    "texto": "En Power BI, ¿qué papel cumple Obtener datos?",
+    "opciones": [
+      "a) Definir las relaciones existentes entre las tablas que forman el modelo",
+      "b) Publicar el contenido en el área de trabajo",
+      "c) Conectar el informe con los orígenes desde los que se cargan las tablas",
+      "d) Depurar y transformar las columnas ya cargadas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "\"Obtener datos\" es el punto de entrada para conectar Power BI con los distintos orígenes (archivos, bases de datos, servicios) desde los que se importarán o consultarán las tablas que formarán el modelo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.16",
+    "texto": "¿En qué situación DirectQuery es la opción más adecuada en Power BI?",
+    "opciones": [
+      "a) Cuando se requiere consultar datos casi en tiempo real",
+      "b) Cuando se quiere reemplazar el origen por una copia",
+      "c) Cuando se busca editar datos dentro del informe",
+      "d) Cuando se necesita importar todo al archivo local"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El modo DirectQuery consulta los datos directamente en el origen cada vez que se interactúa con el informe, en lugar de importar una copia al modelo, lo que resulta adecuado cuando se necesita trabajar con datos actualizados casi en tiempo real.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-4.9.17",
+    "texto": "En la vista de relaciones, detectas un vínculo incorrecto entre dos tablas que ya no debe existir. ¿Cuál es la acción más adecuada?",
+    "opciones": [
+      "a) Eliminar la relación definida entre ambas tablas",
+      "b) Duplicar la relación entre ambas tablas",
+      "c) Actualizar la relación definida entre ambas tablas",
+      "d) Ocultar la relación en ambas tablas"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Si una relación entre dos tablas ya no es correcta ni debe existir, la acción adecuada es eliminarla desde la vista de relaciones; ocultarla solo la quita de la vista sin eliminar el vínculo real del modelo.",
+    "requiere_imagen": false
   }
 ]
