@@ -569,3 +569,49 @@ Método: calcular las horas dedicadas a cada tarea conocida aplicando las fracci
 total semanal, sumarlas, y restar esa suma del total para obtener las horas de la tarea restante.
 Resolución: Programar=1/4×48=12h. Enseñanza=2/8×48=12h. Resto (marketing)=48−12−12=24h.
 Resultado: 24 horas (opción c)
+
+===========================================================
+CATEGORÍA: Trabajo conjunto con rendimientos distintos durante días distintos (totales a sumar)
+Modelo: En un archivo se digitalizan expedientes. El equipo A digitaliza 180 expedientes/día y el
+equipo B digitaliza 120 expedientes/día. Si A trabaja 3 días y B trabaja 5 días, ¿cuántos expedientes
+se digitalizan en total?
+A) 900  B) 960  C) 1.140  D) 1.200
+Método: calcular por separado el total digitalizado por cada equipo (rendimiento diario × número de
+días que trabaja cada uno, que no tienen por qué coincidir), y sumar ambos totales.
+Resolución: Equipo A=180×3=540 expedientes. Equipo B=120×5=600 expedientes. Total=540+600=1.140.
+Resultado: 1.140 expedientes (opción C)
+
+===========================================================
+CATEGORÍA: Reparto de un total anual entre personas y conversión a un periodo menor
+Modelo: Doce gestores de cobro recaudan 2.448.000 € al año (todos recaudan lo mismo). ¿Cuánto
+recaudarán 3 gestores en 2 meses?
+A) 102.000 €  B) 122.400 €  C) 153.000 €  D) Ninguna es correcta
+Método: dividir la recaudación anual total entre el número de gestores para obtener lo que recauda
+uno solo al año, dividir ese resultado entre 12 para obtener la recaudación mensual de un gestor, y
+multiplicar por el número de gestores y de meses que pide la pregunta.
+Resolución: Recaudación anual de un gestor=2.448.000/12=204.000€. Recaudación mensual de un
+gestor=204.000/12=17.000€. Recaudación de 3 gestores en 2 meses=3×17.000×2=102.000€.
+Resultado: 102.000 € (opción A)
+
+===========================================================
+CATEGORÍA: Ecuación de segundo grado a partir de una relación entre dos incógnitas (reparto en paquetes)
+Modelo: El departamento de compras necesita repartir 1.250 unidades en paquetes iguales. Si se quiere
+que el número de paquetes sea el doble del número de unidades por paquete, ¿cuántas unidades
+contiene cada paquete?
+A) 18  B) 25  C) 30  D) 42
+Método: llamar x al número de unidades por paquete, expresar el número de paquetes como 2x (el doble),
+plantear que el producto de ambos (unidades por paquete × número de paquetes) es igual al total a
+repartir, y despejar x resolviendo la ecuación resultante.
+Resolución: Unidades por paquete=x. Número de paquetes=2x. Total=x×2x=2x²=1.250 → x²=625 → x=25.
+Resultado: 25 unidades por paquete (opción B)
+
+===========================================================
+CATEGORÍA: Ahorro de tiempo por reducción de un tiempo medio unitario (multiplicado por el volumen)
+Modelo: Un ayuntamiento tramita licencias. El tiempo medio por licencia se reduce de 25 min a 20 min
+gracias a un nuevo procedimiento. Si se tramitan 180 licencias, ¿cuánto tiempo total se ahorra?
+A) 12 horas  B) 15 horas  C) 18 horas  D) 20 horas
+Método: calcular el ahorro de tiempo por cada unidad (diferencia entre el tiempo medio antiguo y el
+nuevo), multiplicar ese ahorro unitario por el número total de unidades tramitadas, y convertir el
+resultado de minutos a horas.
+Resolución: Ahorro por licencia=25−20=5 min. Ahorro total=180×5=900 min=900/60=15 horas.
+Resultado: 15 horas (opción B)
