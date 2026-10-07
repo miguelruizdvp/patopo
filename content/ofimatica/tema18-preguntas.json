@@ -698,5 +698,747 @@
     "referencia": null,
     "explicacion": "El grupo Mostrar de la pestaña Vista en Excel incluye: Navegación, Regla, Líneas de cuadrícula, Barra de fórmulas y Encabezados.",
     "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.1.12",
+    "texto": "Trabajas con muchas hojas mensuales en un mismo libro y quieres identificar de un vistazo las hojas del primer trimestre sin renombrarlas. ¿Qué debes aplicar?",
+    "opciones": [
+      "a) Activar un filtro de datos en las hojas",
+      "b) Aplicar un color de etiqueta a las hojas",
+      "c) Aplicar un formato de celda a las hojas",
+      "d) Insertar un comentario visible en las hojas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Haciendo clic derecho sobre la pestaña de una hoja se puede asignar un color de etiqueta, lo que permite identificar visualmente un grupo de hojas (p. ej. las del primer trimestre) sin necesidad de cambiar su nombre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.2.5",
+    "texto": "Una columna contiene nombres completos y en la de al lado escribes manualmente el primer apellido de las tres primeras filas. Excel propone rellenar el resto. ¿Qué función actúa?",
+    "opciones": [
+      "a) La función EXTRAE aplicada al rango",
+      "b) El relleno rápido",
+      "c) El controlador de relleno con series",
+      "d) El asistente de texto en columnas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Relleno rápido (Flash Fill) detecta el patrón seguido en las primeras filas introducidas a mano y propone automáticamente completar el resto de la columna siguiendo ese mismo patrón, sin necesidad de escribir ninguna fórmula.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.2.14",
+    "texto": "En una celda de una hoja, deseas impedir que se escriban valores fuera del rango de 1 a 100. ¿Qué debes aplicar?",
+    "opciones": [
+      "a) Aplicar un mensaje de error solo",
+      "b) Aplicar un valor predeterminado fijo",
+      "c) Aplicar un mensaje de entrada",
+      "d) Aplicar una regla de validación"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Datos>>Validación de datos permite definir una regla (p. ej. número entero entre 1 y 100) que restringe los valores que se pueden escribir en la celda; el mensaje de error y el mensaje de entrada son elementos complementarios de esa misma validación, no la restricción en sí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.3.3",
+    "texto": "¿Qué distingue al formato Contabilidad del formato Moneda en Excel?",
+    "opciones": [
+      "a) Impide que se introduzcan valores negativos en las celdas afectadas",
+      "b) Admite más decimales que el formato Moneda",
+      "c) Alinea el símbolo al borde de la celda y los ceros como guion",
+      "d) Convierte automáticamente entre divisas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El formato Contabilidad alinea el símbolo de moneda en el extremo izquierdo de la celda y los valores decimales a la derecha, y además muestra los valores cero como un guion; el formato Moneda, en cambio, coloca el símbolo justo delante del número.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.2.11",
+    "texto": "Necesitas sustituir un texto por otro en toda la hoja, pero solo cuando la celda contenga exactamente esa palabra. ¿Qué opción debes activar en Reemplazar?",
+    "opciones": [
+      "a) Buscar dentro de las fórmulas",
+      "b) Coincidir con el contenido de toda la celda",
+      "c) Coincidir mayúsculas y minúsculas",
+      "d) Buscar por filas en lugar de por columnas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "La opción \"Coincidir con el contenido de toda la celda\" del cuadro Buscar y reemplazar restringe las coincidencias a las celdas cuyo contenido es exactamente igual al texto buscado, en vez de a cualquier celda que simplemente lo contenga.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.2.12",
+    "texto": "Has definido una validación de datos y quieres que el usuario reciba un aviso pero pueda escribir igualmente un valor fuera del rango. ¿Qué estilo de mensaje de error debes elegir?",
+    "opciones": [
+      "a) Información de la celda",
+      "b) Detener",
+      "c) Mensaje de entrada",
+      "d) Advertencia"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "De los tres estilos de alerta de validación de datos, \"Detener\" impide por completo introducir un valor no válido; \"Advertencia\" muestra el aviso pero permite al usuario aceptar y continuar con el valor introducido; \"Mensaje de entrada\" no es un estilo de alerta de error, sino el texto informativo que aparece al seleccionar la celda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.2.13",
+    "texto": "Configuras una celda para que solo admita números del 1 al 10 y quieres que al seleccionarla aparezca una indicación antes de escribir. ¿Qué elemento debes usar?",
+    "opciones": [
+      "a) Configurar un subtotal automático",
+      "b) Configurar un mensaje de error",
+      "c) Configurar un mensaje de entrada",
+      "d) Configurar un formato condicional"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El Mensaje de entrada de la Validación de datos se muestra en cuanto el usuario selecciona la celda, antes de escribir nada, a modo de indicación; el mensaje de error, en cambio, solo aparece después de introducir un valor no válido.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.3.7",
+    "texto": "¿Qué diferencia hay entre las líneas de división de la hoja y los bordes aplicados a las celdas?",
+    "opciones": [
+      "a) Las líneas de división no pueden ocultarse nunca",
+      "b) Las líneas de división solo se ven en pantalla salvo que se indique lo contrario",
+      "c) Los bordes se pierden al modificar el ancho de las columnas o el alto de las filas",
+      "d) Los bordes solo aparecen en las celdas con datos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Las líneas de división son una ayuda visual de la cuadrícula que, por defecto, no se imprime ni aparece en la hoja de cálculo exportada a menos que se active explícitamente (Diseño de página>>Opciones de la hoja>>Imprimir); los bordes, en cambio, son un formato real de la celda que sí se imprime siempre que se aplique.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.3.8",
+    "texto": "¿Qué ventaja aporta aplicar un estilo de celda en lugar de dar formato manualmente?",
+    "opciones": [
+      "a) Reduce el tamaño del archivo del libro",
+      "b) Convierte el rango en una tabla con filtros",
+      "c) Bloquea el contenido de todas las celdas afectadas por el estilo",
+      "d) Al modificar el estilo cambian todas las celdas que lo usan"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Un estilo de celda agrupa varias características de formato bajo un nombre; si se modifica la definición del estilo, el cambio se aplica automáticamente a todas las celdas que tengan ese estilo asignado, a diferencia del formato manual, que habría que cambiar celda a celda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.3.9",
+    "texto": "Quieres que cada celda de una columna de importes muestre una barra proporcional a su valor sin salir de la propia celda. ¿Qué debes aplicar?",
+    "opciones": [
+      "a) Formato condicional con barras de datos",
+      "b) Un gráfico de columnas insertado en la hoja",
+      "c) Formato condicional con escalas de color",
+      "d) Un minigráfico de columnas por cada celda"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El formato condicional \"Barras de datos\" dibuja dentro de cada celda una barra cuya longitud es proporcional al valor numérico de esa celda, sin necesidad de insertar ningún gráfico independiente; las escalas de color, en cambio, colorean el fondo de la celda según su valor, pero no dibujan una barra.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.6",
+    "texto": "¿Cómo se escribe en una fórmula la referencia a la celda B4 de una hoja llamada Ventas?",
+    "opciones": [
+      "a) Ventas:B4",
+      "b) Ventas!B4",
+      "c) Ventas.B4",
+      "d) Ventas-B4"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "En Excel, una referencia a una celda de otra hoja se escribe como NombreDeHoja!Referencia, separando el nombre de la hoja de la referencia de celda mediante el signo de exclamación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.8",
+    "texto": "Una fórmula devuelve el error #¿NOMBRE? no reconocido. ¿Cuál es la causa más probable?",
+    "opciones": [
+      "a) Se ha dividido un valor entre cero",
+      "b) Se ha escrito mal el nombre de una función o de un rango",
+      "c) Se ha eliminado una celda a la que apuntaba",
+      "d) Se ha usado un texto donde se esperaba un dato numérico válido"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El error #¿NOMBRE? aparece cuando Excel no reconoce el texto escrito en la fórmula como el nombre de una función, un rango con nombre o una referencia válida, típicamente por una errata al escribirlo; dividir entre cero produce #¡DIV/0!, eliminar una celda referenciada produce #¡REF!, y un texto donde se espera un número produce #¡VALOR!.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.3.1",
+    "texto": "¿Qué es un formato personalizado en una hoja de cálculo?",
+    "opciones": [
+      "a) Un código creado por el usuario para mostrar datos con una apariencia específica",
+      "b) Un ajuste de sangría que desplaza hacia dentro la primera línea de cada párrafo del texto",
+      "c) Una regla automática para resaltar celdas según su contenido",
+      "d) Un efecto tipográfico para agrandar la inicial de un texto"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Un formato de número personalizado es un código de símbolos (definido por el usuario en Formato de celdas>>Número>>Personalizada) que controla cómo se muestra el valor almacenado en la celda, sin alterar el valor real; no debe confundirse con el formato condicional (que resalta celdas según su contenido) ni con ajustes de párrafo o tipografía, propios de un procesador de texto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.9",
+    "texto": "¿Qué error muestra Excel cuando una fórmula intenta dividir entre una celda vacía o con valor cero?",
+    "opciones": [
+      "a) El error de referencia no válida",
+      "b) El error de valor incorrecto",
+      "c) El error de división entre cero",
+      "d) El error de nombre no reconocido"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Dividir entre una celda vacía (que Excel trata como cero) o entre un cero explícito produce el error #¡DIV/0!, el error de división entre cero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.10",
+    "texto": "¿Qué caracteriza a una referencia 3D en una hoja de cálculo?",
+    "opciones": [
+      "a) Apunta a un título o figura dentro del documento",
+      "b) Fija una celda para que no cambie al copiar",
+      "c) Abarca la misma celda o rango en varias hojas",
+      "d) Nombra una celda para usarla sin coordenadas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Una referencia 3D (p. ej. Hoja1:Hoja4!B2) abarca la misma celda o rango a través de un conjunto de hojas consecutivas del libro, permitiendo aplicar una misma fórmula (como SUMA) sobre todas ellas a la vez.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.11",
+    "texto": "Una suma devuelve un error de valor porque uno de los datos del rango es un texto. ¿Qué comprobación conviene hacer primero?",
+    "opciones": [
+      "a) Verificar si la hoja está protegida contra escritura",
+      "b) Verificar si el rango incluye celdas de otra hoja",
+      "c) Verificar si algún número está almacenado como texto",
+      "d) Verificar si la fórmula tiene referencias absolutas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Una causa muy habitual de que una celda que \"parece\" un número provoque un error #¡VALOR! en una suma es que ese número esté realmente almacenado como texto (p. ej. por venir de una importación), lo cual suele delatarse por su alineación a la izquierda y un pequeño indicador de error en la celda.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.14",
+    "texto": "En una hoja de cálculo, una fórmula muestra #¡REF! después de eliminar una columna que la fórmula usaba. ¿Cuál es la causa más probable?",
+    "opciones": [
+      "a) La fórmula contiene un rango con formato distinto",
+      "b) La fórmula usa un nombre definido duplicado",
+      "c) La fórmula quedó con una referencia no válida",
+      "d) La fórmula recibió texto donde esperaba un número"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Al eliminar una columna, fila o celda a la que una fórmula hacía referencia directa, esa referencia deja de existir y Excel muestra el error #¡REF! (referencia no válida) en todas las fórmulas que dependían de ella.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.15",
+    "texto": "Una fórmula devuelve un resultado inesperado y quieres ver con flechas de qué celdas depende. ¿Qué herramienta debes usar?",
+    "opciones": [
+      "a) Rastrear precedentes",
+      "b) Comprobación de errores",
+      "c) Ventana de inspección",
+      "d) Rastrear dependientes"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Fórmulas>>Auditoría de fórmulas>>Rastrear precedentes dibuja flechas desde las celdas de las que depende la fórmula activa hacia esta; Rastrear dependientes hace lo contrario, mostrando qué otras fórmulas dependen de la celda seleccionada.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.4.16",
+    "texto": "Excel avisa de una referencia circular en una hoja. ¿Qué significa?",
+    "opciones": [
+      "a) Que una fórmula se refiere directa o indirectamente a su propia celda",
+      "b) Que el libro contiene demasiadas fórmulas anidadas unas dentro de otras",
+      "c) Que una fórmula apunta a una celda vacía",
+      "d) Que dos hojas del libro se referencian entre sí"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una referencia circular se produce cuando una fórmula incluye, de forma directa o a través de una cadena de otras fórmulas (indirecta), una referencia a la propia celda donde está escrita, por lo que Excel no puede calcular un resultado estable y muestra un aviso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.4",
+    "texto": "¿Qué estructura tiene la función SI en Excel?",
+    "opciones": [
+      "a) Una expresión y un valor alternativo ante error",
+      "b) Un rango, un criterio y un rango de suma",
+      "c) Un valor buscado, una tabla y un número de columna",
+      "d) Una condición, el valor si se cumple y el valor si no"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La sintaxis de SI es SI(prueba_lógica; valor_si_verdadero; valor_si_falso): una condición y los dos valores alternativos según se cumpla o no.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.5",
+    "texto": "¿Qué hace la función CONTAR.SI en Excel?",
+    "opciones": [
+      "a) Busca un valor y devuelve una coincidencia",
+      "b) Suma celdas que cumplen un único criterio",
+      "c) Cuenta celdas que cumplen varios criterios",
+      "d) Cuenta celdas que cumplen un único criterio"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "CONTAR.SI(rango; criterio) cuenta cuántas celdas de un rango cumplen un único criterio; para varios criterios a la vez existe CONTAR.SI.CONJUNTO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.6",
+    "texto": "¿Qué devuelve la función Y cuando uno de sus argumentos es falso?",
+    "opciones": [
+      "a) VERDADERO, si al menos uno se cumple",
+      "b) Un error, porque los argumentos deben coincidir",
+      "c) El primer argumento verdadero de la lista",
+      "d) FALSO, porque exige que se cumplan todos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La función Y() devuelve VERDADERO únicamente si todos sus argumentos son verdaderos; basta con que uno solo sea falso para que el resultado completo sea FALSO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.7",
+    "texto": "En una hoja con importes de ventas, región y producto, necesitas sumar solo los importes donde la región sea \"Norte\" y el producto sea \"A\". ¿Qué función conviene usar?",
+    "opciones": [
+      "a) SUMAR.SI.CONJUNTO",
+      "b) BUSCARX",
+      "c) CONTAR.SI.CONJUNTO",
+      "d) SUMAR.SI"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "SUMAR.SI.CONJUNTO permite sumar un rango aplicando varios criterios simultáneamente (aquí, región=\"Norte\" Y producto=\"A\"); SUMAR.SI solo admite un único criterio.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.8",
+    "texto": "¿Qué hace SUMAR.SI?",
+    "opciones": [
+      "a) Suma valores que cumplen un criterio",
+      "b) Busca valores y devuelve coincidencias",
+      "c) Cuenta celdas que cumplen un criterio",
+      "d) Suma valores que cumplen varios criterios"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "SUMAR.SI(rango; criterio; rango_suma) suma los valores de un rango que cumplen un único criterio; para varios criterios a la vez está SUMAR.SI.CONJUNTO.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.10",
+    "texto": "¿Qué diferencia hay entre aplicar la función REDONDEAR y reducir los decimales con el formato?",
+    "opciones": [
+      "a) El formato modifica el valor y la función no",
+      "b) La función no puede emplearse dentro de otras fórmulas anidadas",
+      "c) La función solo admite dos decimales como máximo",
+      "d) La función modifica el valor y el formato solo su presentación"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "REDONDEAR() cambia realmente el valor almacenado en la celda al número de decimales indicado, por lo que ese nuevo valor se usará en cálculos posteriores; reducir los decimales mediante el botón de formato solo cambia cuántos decimales se muestran en pantalla, pero el valor interno completo se conserva para los cálculos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.11",
+    "texto": "¿Qué diferencia a la función HOY de la función AHORA?",
+    "opciones": [
+      "a) HOY funciona en fórmulas y AHORA solo en formatos",
+      "b) HOY admite argumentos y AHORA no los admite",
+      "c) HOY se actualiza siempre y AHORA queda fija al escribirla",
+      "d) HOY devuelve solo la fecha y AHORA añade también la hora"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "HOY() devuelve únicamente la fecha actual, mientras que AHORA() devuelve la fecha y además la hora actual; ambas son funciones volátiles que se recalculan cada vez que se abre o recalcula el libro.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.12",
+    "texto": "Necesitas formar en una celda el texto que une el nombre y el apellido guardados en dos columnas. ¿Qué función es la más directa?",
+    "opciones": [
+      "a) EXTRAE",
+      "b) SUSTITUIR",
+      "c) CONCAT",
+      "d) TEXTO"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "CONCAT (sucesora de CONCATENAR) une directamente el contenido de varias celdas o rangos en un único texto; EXTRAE recorta caracteres de un texto, SUSTITUIR reemplaza texto dentro de una cadena y TEXTO da formato a un valor como texto, pero ninguna de ellas une dos celdas por sí sola.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.13",
+    "texto": "Una columna contiene códigos de nueve caracteres y necesitas quedarte con los tres primeros. ¿Qué función debes usar?",
+    "opciones": [
+      "a) DERECHA",
+      "b) IZQUIERDA",
+      "c) ESPACIOS",
+      "d) LARGO"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "IZQUIERDA(texto; núm_caracteres) extrae el número indicado de caracteres empezando por la izquierda del texto; DERECHA haría lo mismo mutuo pero desde el final, ESPACIOS elimina espacios sobrantes y LARGO solo devuelve la longitud del texto, no un extracto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.14",
+    "texto": "Quieres que una fórmula muestre el texto \"No encontrado\" en lugar de un error. ¿Qué función debes emplear?",
+    "opciones": [
+      "a) SI.CONJUNTO",
+      "b) SI.ERROR",
+      "c) SI",
+      "d) ESERROR"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "SI.ERROR(valor; valor_si_error) evalúa una fórmula y, si esta devuelve cualquier tipo de error, muestra en su lugar el valor alternativo indicado (aquí, el texto \"No encontrado\"); ESERROR solo comprueba si hay error y devuelve VERDADERO/FALSO, sin sustituir el resultado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.16",
+    "texto": "¿Cuál es la principal limitación de BUSCARV frente a BUSCARX?",
+    "opciones": [
+      "a) Solo funciona si los datos están ordenados alfabéticamente",
+      "b) Solo devuelve valores numéricos como resultado",
+      "c) Solo admite rangos de una única hoja",
+      "d) Solo busca en la primera columna y mira hacia la derecha"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "BUSCARV siempre busca el valor en la primera columna del rango indicado y solo puede devolver datos de columnas situadas a su derecha; BUSCARX, en cambio, puede buscar y devolver resultados en cualquier dirección, sin esa restricción de posición.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.17",
+    "texto": "Necesitas contar los pedidos de una región concreta realizados además dentro de un intervalo de fechas. ¿Qué función debes usar?",
+    "opciones": [
+      "a) CONTAR.SI.CONJUNTO",
+      "b) CONTARA",
+      "c) CONTAR.SI",
+      "d) SUMAR.SI.CONJUNTO"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "CONTAR.SI.CONJUNTO permite combinar varios criterios a la vez (región concreta Y fecha dentro de un intervalo, que en la práctica son dos criterios sobre el campo fecha: >= fecha inicial Y <= fecha final); CONTAR.SI solo admite un único criterio.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.5.18",
+    "texto": "En la sintaxis de una función de Excel, ¿qué indican los argumentos escritos entre corchetes en la ayuda?",
+    "opciones": [
+      "a) Que deben escribirse entre corchetes en la fórmula",
+      "b) Que son opcionales y pueden omitirse",
+      "c) Que solo admiten referencias a rangos",
+      "d) Que deben ser valores de tipo texto"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "En la sintaxis mostrada por la ayuda de Excel, los argumentos encerrados entre corchetes [ ] son opcionales y pueden omitirse en la fórmula; los corchetes son solo una convención de la documentación y nunca se escriben realmente en la fórmula.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.1",
+    "texto": "Necesitas ordenar una lista primero por región y, dentro de cada región, por importe descendente. ¿Qué debes usar?",
+    "opciones": [
+      "a) Una tabla dinámica con las dos columnas en filas",
+      "b) El botón de orden ascendente sobre ambas columnas",
+      "c) Una ordenación personalizada con varios niveles",
+      "d) Dos autofiltros aplicados de forma sucesiva"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Datos>>Ordenar permite definir una ordenación personalizada con varios niveles (Ordenar por / Luego por), especificando un criterio y un sentido distinto para cada nivel, como región y, dentro de ella, importe descendente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.6",
+    "texto": "¿Qué describe mejor el Autofiltro en Excel?",
+    "opciones": [
+      "a) Búsqueda global que recorre todas las hojas del libro",
+      "b) Resumen automático que agrupa registros por categorías",
+      "c) Filtro visual con botones para tablas dinámicas segmentadas",
+      "d) Filtro estándar con flechas en los encabezados de columnas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El Autofiltro añade flechas desplegables en los encabezados de las columnas del rango, desde las que se pueden aplicar filtros por valor, texto, número o color en cada columna.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.7",
+    "texto": "En una lista con Autofiltro, varias celdas tienen relleno amarillo porque requieren revisión. Si quieres ver solo esas filas, ¿qué debes aplicar?",
+    "opciones": [
+      "a) Aplicar una ordenación alfabética sobre esa columna",
+      "b) Aplicar un filtro por color sobre el relleno amarillo",
+      "c) Aplicar un filtro de texto con la palabra amarillo",
+      "d) Aplicar quitar duplicados sobre las filas marcadas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El Autofiltro permite filtrar por color de relleno (o de fuente) directamente desde el menú desplegable de la columna, mostrando únicamente las filas cuya celda tiene ese color aplicado, sin necesidad de buscar texto ni ordenar.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.10",
+    "texto": "¿Qué obtienes al aplicar Dar formato como tabla a un rango de datos?",
+    "opciones": [
+      "a) Un rango con bordes y colores alternos, sin ninguna función más",
+      "b) Una tabla dinámica sobre los datos seleccionados",
+      "c) Un rango protegido frente a modificaciones",
+      "d) Un objeto con filtros, fila de totales y referencias por nombre"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "\"Dar formato como tabla\" convierte el rango en una tabla estructurada de Excel, que añade automáticamente flechas de Autofiltro en los encabezados, permite activar una fila de totales y habilita referencias estructuradas (por el nombre de la columna) en las fórmulas, además del formato visual.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.11",
+    "texto": "Quieres poder contraer y expandir bloques de filas de una hoja mediante los signos del margen izquierdo. ¿Qué debes aplicar?",
+    "opciones": [
+      "a) La opción de ocultar las filas seleccionadas",
+      "b) Un filtro sobre la columna de categorías",
+      "c) Una tabla dinámica con los datos agrupados",
+      "d) Un esquema con la opción de agrupar filas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Datos>>Esquema>>Agrupar crea un esquema que añade los símbolos +/- en el margen izquierdo de la hoja, permitiendo contraer y expandir bloques de filas (o columnas) agrupados, a diferencia de simplemente ocultarlas, que no deja ningún control visual para volver a mostrarlas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.12",
+    "texto": "Quieres filtrar una tabla dinámica o una tabla con botones grandes y visibles en lugar de menús desplegables. ¿Qué debes insertar?",
+    "opciones": [
+      "a) Un cuadro de grupo con casillas",
+      "b) Una validación de datos con lista",
+      "c) Un autofiltro sobre los encabezados",
+      "d) Una segmentación de datos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Una segmentación de datos (slicer) muestra, para cada valor posible de un campo, un botón grande y siempre visible en la hoja sobre el que se puede hacer clic para filtrar, a diferencia del Autofiltro, que oculta las opciones dentro de un menú desplegable.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.6.13",
+    "texto": "Tienes ventas repartidas en varios rangos y necesitas reunirlas en un único resumen. ¿Qué acción corresponde a Consolidar?",
+    "opciones": [
+      "a) Filtrar un solo rango con botones de segmentación visual",
+      "b) Eliminar filas repetidas dentro de una tabla estructurada",
+      "c) Combinar varios rangos en un solo resumen de datos",
+      "d) Dividir una columna en varias según un separador"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Datos>>Consolidar combina los datos de varios rangos (de la misma hoja, de otras hojas o incluso de otros libros) en un único resumen, aplicando una función de agregación (como suma o promedio) sobre los valores que comparten la misma posición o etiqueta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.2",
+    "texto": "Has añadido filas nuevas al rango de origen y la tabla dinámica no las refleja. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Actualizar la tabla dinámica y revisar el rango de origen",
+      "b) Volver a crear la tabla dinámica desde cero",
+      "c) Cambiar el diseño del informe al formato tabular en lugar de compacto",
+      "d) Ordenar de nuevo los datos de origen"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una tabla dinámica no se actualiza automáticamente al cambiar los datos de origen; hay que actualizarla (Analizar tabla dinámica>>Actualizar) y, si las filas nuevas quedaron fuera del rango original definido, además ampliar ese rango de origen para que las incluya.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.4",
+    "texto": "En una tabla dinámica, ¿qué define el área de columnas?",
+    "opciones": [
+      "a) Los campos que forman los filtros del informe",
+      "b) Los campos que forman las etiquetas de fila",
+      "c) Los campos que forman las etiquetas de columna",
+      "d) Los campos que forman los cálculos resumidos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El área de columnas de una tabla dinámica determina qué campo (o campos) se usan para generar las etiquetas que encabezan las columnas del informe, de forma análoga a como el área de filas genera las etiquetas de fila.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.5",
+    "texto": "Una tabla dinámica muestra una fila por cada fecha de venta y quieres resumirla por meses. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Ordenar el campo de fecha de forma ascendente",
+      "b) Filtrar el campo de fecha por el año en curso",
+      "c) Cambiar el resumen del campo a promedio",
+      "d) Agrupar el campo de fecha por meses"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Haciendo clic derecho sobre una etiqueta de fecha en la tabla dinámica y eligiendo Agrupar, se pueden combinar las fechas individuales en periodos superiores como meses, trimestres o años, condensando así las filas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.6",
+    "texto": "¿Cuál es la función del área de valores en una tabla dinámica?",
+    "opciones": [
+      "a) Definir etiquetas de fila para agrupar registros",
+      "b) Definir etiquetas de columna para comparar categorías",
+      "c) Calcular agregaciones de los campos numéricos",
+      "d) Aplicar filtros globales a todo el informe"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El área de valores es donde se colocan los campos numéricos que se quieren resumir, aplicando una función de agregación (suma, promedio, cuenta, etc.) cruzada con las etiquetas de fila y columna definidas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.7",
+    "texto": "Tienes una tabla dinámica de ventas y quieres filtrar todo el informe para ver solo la región Norte sin cambiar las categorías de filas ni de columnas. ¿Dónde debes colocar el campo Región?",
+    "opciones": [
+      "a) En el área de columnas",
+      "b) En el área de valores",
+      "c) En el área de filtros",
+      "d) En el área de filas"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El área de filtros permite añadir un campo que filtra el informe completo (aquí, mostrando solo la región Norte) sin alterar la estructura de filas y columnas que ya se ha definido con otros campos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.8",
+    "texto": "¿Para qué sirve la opción Resumir valores por en una tabla dinámica?",
+    "opciones": [
+      "a) Para cambiar la posición de un campo entre filas y columnas",
+      "b) Para cambiar el tipo de resumen de un campo de valores",
+      "c) Para cambiar el origen de datos usado por la tabla dinámica",
+      "d) Para cambiar la forma porcentual de mostrar un resultado"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "\"Resumir valores por\" permite elegir la función de agregación que se aplica a un campo del área de valores (suma, promedio, máximo, cuenta, etc.); cambiar cómo se muestra el resultado en porcentaje corresponde, en cambio, a la opción \"Mostrar valores como\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.9",
+    "texto": "Quieres que una tabla dinámica muestre el peso de cada región sobre el total en lugar del importe. ¿Qué debes configurar?",
+    "opciones": [
+      "a) Agregar un campo calculado con la división",
+      "b) Resumir valores por promedio del campo",
+      "c) Aplicar un formato de porcentaje a todas las celdas",
+      "d) Mostrar valores como porcentaje del total general"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La opción \"Mostrar valores como>>% del total general\" recalcula automáticamente cada valor del área de valores como el porcentaje que representa sobre la suma total, sin necesidad de crear ningún campo calculado adicional.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.10",
+    "texto": "¿Qué caracteriza a un gráfico dinámico frente a un gráfico normal?",
+    "opciones": [
+      "a) No puede insertarse en una hoja independiente",
+      "b) Se actualiza y filtra junto con la tabla dinámica asociada",
+      "c) Requiere que los datos del origen estén siempre ordenados por fecha",
+      "d) Solo admite representaciones de tipo circular"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Un gráfico dinámico está vinculado a su tabla dinámica de origen, de modo que al actualizar, filtrar o reorganizar la tabla dinámica, el gráfico refleja automáticamente esos mismos cambios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.11",
+    "texto": "Necesitas que una tabla dinámica muestre el margen calculado como diferencia entre dos campos del origen. ¿Qué debes crear?",
+    "opciones": [
+      "a) Una columna nueva en el rango de origen",
+      "b) Un elemento calculado sobre un campo de filas",
+      "c) Un campo calculado dentro de la tabla dinámica",
+      "d) Una segmentación de datos con los dos campos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Un campo calculado se define directamente dentro de la tabla dinámica (Analizar>>Campos, elementos y conjuntos>>Campo calculado) mediante una fórmula que combina otros campos existentes (p. ej. Importe−Coste), sin tener que modificar el rango de datos de origen.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.12",
+    "texto": "¿Qué diferencia al diseño de informe tabular del diseño compacto en una tabla dinámica?",
+    "opciones": [
+      "a) El tabular calcula los subtotales de forma automática",
+      "b) El tabular impide aplicar filtros a la tabla",
+      "c) El tabular solo admite un campo en el área de filas",
+      "d) El tabular sitúa cada campo de fila en su propia columna"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "En el diseño tabular, cada campo del área de filas ocupa su propia columna independiente, mostrando todas las etiquetas de forma más expandida; en el diseño compacto, en cambio, todos los campos de fila se apilan en una sola columna con sangrías.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.13",
+    "texto": "En una tabla dinámica quieres ver el detalle que hay detrás de una categoría concreta sin cambiar el resto del informe. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Cambiar el resumen del campo de valores",
+      "b) Aplicar un filtro que deje solo esa categoría",
+      "c) Expandir ese elemento con el control de detalle",
+      "d) Añadir el campo de detalle al área de filtros"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Haciendo clic en el control +/- situado junto a una etiqueta de fila o columna se expande únicamente ese elemento para mostrar su siguiente nivel de detalle, sin alterar el filtrado ni el resto de la estructura del informe.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.7.14",
+    "texto": "Tienes tres tablas dinámicas del mismo origen y quieres filtrarlas todas a la vez con un solo control. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Insertar una segmentación y conectarla a las tres tablas",
+      "b) Agrupar las tres tablas en la misma hoja de cálculo",
+      "c) Aplicar el mismo filtro manualmente en cada tabla",
+      "d) Consolidar las tres tablas en un único informe"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Una misma segmentación de datos puede conectarse (Opciones de segmentación de datos>>Conexiones de informe) a varias tablas dinámicas que compartan el mismo origen, de modo que al pulsar un botón se filtran todas simultáneamente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.8.7",
+    "texto": "Tienes una tabla con pares de valores de altura y peso de varias personas y quieres analizar si existe relación entre ambas variables. ¿Qué tipo de gráfico debes usar?",
+    "opciones": [
+      "a) Gráfico de dispersión",
+      "b) Gráfico combinado",
+      "c) Gráfico radial",
+      "d) Minigráficos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El gráfico de dispersión (XY) representa cada par de valores como un punto en un plano de dos ejes numéricos, siendo el tipo de gráfico adecuado para visualizar si existe correlación o relación entre dos variables numéricas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-3.9.4",
+    "texto": "¿Qué consigue activar la opción de imprimir los encabezados de fila y de columna de una hoja?",
+    "opciones": [
+      "a) Que se impriman los títulos definidos en la tabla",
+      "b) Que se muestren en el papel las líneas de división de la hoja",
+      "c) Que aparezcan las letras de columna y los números de fila",
+      "d) Que la primera fila se repita en cada página"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Diseño de página>>Opciones de la hoja>>Encabezados>>Imprimir añade al documento impreso las letras de columna (A, B, C…) y los números de fila (1, 2, 3…) de la cuadrícula de Excel, tal y como se ven en pantalla.",
+    "requiere_imagen": false
   }
 ]
