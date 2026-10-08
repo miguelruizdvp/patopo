@@ -698,5 +698,635 @@
     "referencia": null,
     "explicacion": "El icono de flecha circular con aspa roja, en la pestaña Enviar y recibir, grupo Descargar, corresponde a «Cancelar todo».",
     "requiere_imagen": true
+  },
+  {
+    "id": "ID-5.1.5",
+    "texto": "¿Qué particularidad tiene una carpeta de búsqueda en Outlook?",
+    "opciones": [
+      "a) Mueve automáticamente los mensajes según una regla que defina el usuario",
+      "b) Muestra mensajes que cumplen un criterio sin moverlos de su carpeta",
+      "c) Copia los mensajes encontrados a una carpeta nueva",
+      "d) Guarda el historial de las búsquedas realizadas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Una carpeta de búsqueda es una carpeta virtual que muestra todos los mensajes que cumplen el criterio definido, estén donde estén, sin moverlos ni copiarlos físicamente de su carpeta real.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.8",
+    "texto": "¿Para qué sirven las categorías de color en Outlook?",
+    "opciones": [
+      "a) Cambiar el color de fondo de la ventana principal de la aplicación",
+      "b) Distinguir los mensajes leídos de los no leídos",
+      "c) Etiquetar elementos de distintos tipos con una marca visual común",
+      "d) Asignar una prioridad de envío a cada mensaje"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Las categorías de color permiten etiquetar correos, citas, contactos o tareas con una marca visual común, para organizarlos y localizarlos independientemente del módulo en que se encuentren.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.9",
+    "texto": "¿Qué efecto tiene aplicar una marca de seguimiento a un mensaje recibido?",
+    "opciones": [
+      "a) Impide que el mensaje se elimine por error",
+      "b) Envía un aviso automático al remitente del mensaje",
+      "c) Lo mueve a una carpeta de pendientes del buzón",
+      "d) Lo señala como pendiente y lo suma a la lista de tareas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Una marca de seguimiento (Follow Up) señala el mensaje como pendiente de una acción y lo añade automáticamente a la lista de tareas pendientes (To-Do List), sin moverlo de carpeta ni avisar al remitente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.10",
+    "texto": "¿Qué es un archivo de datos de Outlook con extensión PST?",
+    "opciones": [
+      "a) Una copia cifrada de la libreta de direcciones",
+      "b) Una plantilla para crear mensajes reutilizables",
+      "c) Un archivo de configuración con los parámetros del servidor de correo",
+      "d) Un archivo local que almacena mensajes y elementos del buzón"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Un archivo .pst es un archivo de datos local que almacena una copia de los mensajes y demás elementos del buzón (p. ej. para archivado u copias de seguridad), a diferencia del .ost usado en modo caché.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.12",
+    "texto": "¿Qué aporta el modo de intercambio en caché en una cuenta de Outlook?",
+    "opciones": [
+      "a) Sincroniza el buzón únicamente al abrir el programa",
+      "b) Comprime los mensajes antiguos para ahorrar espacio",
+      "c) Mantiene una copia local del buzón para trabajar sin conexión",
+      "d) Descarga únicamente los encabezados de los mensajes que llegan"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El modo de intercambio en caché (Cached Exchange Mode) mantiene una copia local (.ost) del buzón de Exchange, permitiendo seguir consultando y trabajando con el correo aunque se pierda la conexión con el servidor.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.13",
+    "texto": "¿Qué finalidad tiene la sección Favoritos del panel de carpetas de Outlook?",
+    "opciones": [
+      "a) Guardar los mensajes marcados con una estrella",
+      "b) Almacenar copias de las carpetas más consultadas",
+      "c) Situar arriba accesos a las carpetas de uso más frecuente",
+      "d) Reunir los contactos con los que más se intercambia correo"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Favoritos es un área situada en la parte superior del panel de carpetas que ofrece accesos directos a las carpetas que el usuario usa con más frecuencia, sin duplicar su contenido.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.1.14",
+    "texto": "¿Qué hace la herramienta Limpiar conversación en Outlook?",
+    "opciones": [
+      "a) Comprime los datos adjuntos de todos los mensajes que componen el hilo entero",
+      "b) Borra todos los mensajes del hilo salvo el primero",
+      "c) Elimina los mensajes del hilo cuyo texto ya está incluido en otro posterior",
+      "d) Traslada la conversación completa a Elementos eliminados"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Limpiar conversación analiza el hilo y elimina los mensajes redundantes cuyo contenido íntegro ya está incluido en un mensaje posterior de la misma conversación, conservando los mensajes con información única.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.2.7",
+    "texto": "¿Qué condición es imprescindible para que funcione la recuperación de un mensaje ya enviado en Outlook?",
+    "opciones": [
+      "a) Que el mensaje se haya enviado con confirmación de lectura",
+      "b) Que el destinatario esté en la misma organización y no lo haya abierto",
+      "c) Que hayan transcurrido menos de cinco minutos desde que se envió el correo",
+      "d) Que el mensaje se haya marcado con importancia alta"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Recuperar este mensaje (Recall) solo funciona entre cuentas de la misma organización Exchange/Microsoft 365, y únicamente si el destinatario todavía no ha abierto el mensaje; no depende del tiempo transcurrido ni de confirmaciones de lectura.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.2.11",
+    "texto": "Necesitas incluir en un mensaje otro correo que recibiste la semana pasada. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Adjuntar el elemento de Outlook desde el comando de datos adjuntos",
+      "b) Exportar el mensaje a un archivo y adjuntarlo",
+      "c) Reenviar el mensaje antiguo al nuevo destinatario",
+      "d) Copiar el texto del mensaje antiguo y pegarlo en el cuerpo del nuevo"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Desde Insertar/Adjuntar > Elemento de Outlook se puede adjuntar directamente un correo ya existente (como objeto .msg) al mensaje que se está redactando, sin necesidad de exportarlo ni copiar su texto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.2.12",
+    "texto": "Envías un correo importante y quieres saber si el servidor del destinatario lo recibió correctamente, sin esperar a que lo abran. ¿Qué opción debes solicitar?",
+    "opciones": [
+      "a) Confirmación de lectura",
+      "b) Revisión ortográfica al enviar",
+      "c) Bloquear remitente",
+      "d) Confirmación de entrega"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La confirmación de entrega avisa cuando el servidor de correo del destinatario ha recibido el mensaje, independientemente de si se ha abierto; la confirmación de lectura, en cambio, solo llega cuando el destinatario lo abre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.2.13",
+    "texto": "Al abrir un mensaje aparece un aviso indicando que se han bloqueado las imágenes. ¿Cuál es el motivo?",
+    "opciones": [
+      "a) Impedir que el mensaje se imprima con formato",
+      "b) Evitar que el remitente confirme que la dirección está activa",
+      "c) Acelerar la sincronización del buzón con el servidor de correo",
+      "d) Reducir el espacio que el mensaje ocupa en el buzón"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Outlook bloquea por defecto la descarga automática de imágenes externas para evitar que remitentes (a menudo de spam) confirmen, mediante balizas web, que la dirección de correo está activa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.2.17",
+    "texto": "Un hilo de correo se está alargando y prefieres tratarlo en una reunión. ¿Qué opción de Outlook lo resuelve en un paso?",
+    "opciones": [
+      "a) Reenviar el mensaje al calendario propio",
+      "b) Responder con reunión",
+      "c) Marcar el mensaje con seguimiento y fecha",
+      "d) Adjuntar el hilo a una cita del calendario"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "«Responder con reunión» convierte en un solo paso el mensaje recibido en una convocatoria de reunión, incluyendo automáticamente como asistentes a los participantes del hilo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.3.4",
+    "texto": "¿Dónde se establece el formato con el que se redactarán todos los mensajes nuevos?",
+    "opciones": [
+      "a) En la configuración de la cuenta de correo",
+      "b) En las opciones de Outlook, apartado Correo",
+      "c) En las propiedades de la carpeta Bandeja de entrada",
+      "d) En la pestaña Formato de texto de cada mensaje"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El formato predeterminado de redacción (HTML, texto enriquecido o texto sin formato) se configura de forma global en Archivo > Opciones > Correo, apartado \"Redactar mensajes\".",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.3.10",
+    "texto": "¿Qué permiten los temas o la papelería en la redacción de mensajes de Outlook?",
+    "opciones": [
+      "a) Convertir el mensaje al formato de texto sin formato alguno",
+      "b) Guardar el mensaje como plantilla reutilizable",
+      "c) Insertar automáticamente la firma corporativa",
+      "d) Aplicar un conjunto coordinado de fuentes, colores y fondo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los temas y la papelería aplican de forma conjunta un diseño coordinado de fuentes, colores y fondo/textura al mensaje; no equivalen a una plantilla reutilizable ni insertan firmas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.3.11",
+    "texto": "Escribes con frecuencia el mismo párrafo de condiciones en tus mensajes. ¿Qué función de Outlook evita repetirlo?",
+    "opciones": [
+      "a) Las categorías de color del mensaje",
+      "b) Las respuestas automáticas de ausencia",
+      "c) Los pasos rápidos de la cinta",
+      "d) Los elementos rápidos"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los elementos rápidos (Quick Parts) permiten guardar fragmentos de texto reutilizables (como un párrafo de condiciones) e insertarlos de nuevo con un par de clics, sin tener que volver a escribirlos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.3.18",
+    "texto": "Un jefe envía un correo con opciones como Aceptar, Rechazar y Quizá para obtener respuestas uniformes del equipo. ¿Qué característica de Outlook está utilizando y con qué finalidad principal?",
+    "opciones": [
+      "a) Botones de voto para recoger respuestas predefinidas",
+      "b) Texto enriquecido para permitir un formato intermedio",
+      "c) Firma predeterminada para identificar al remitente automáticamente",
+      "d) Papelería para aplicar un diseño visual al mensaje"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los botones de voto permiten incluir en el mensaje un conjunto de respuestas predefinidas (como Aceptar/Rechazar/Quizá) para que los destinatarios respondan con un solo clic y las respuestas puedan contabilizarse de forma uniforme.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.3",
+    "texto": "¿Qué efecto tiene incluir una dirección en la lista de remitentes bloqueados?",
+    "opciones": [
+      "a) Sus mensajes van directamente a Correo no deseado",
+      "b) Sus mensajes se eliminan sin llegar al buzón",
+      "c) Sus mensajes se devuelven al remitente con un aviso",
+      "d) Sus mensajes se marcan como leídos automáticamente"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los mensajes de un remitente en la lista de remitentes bloqueados se envían directamente a la carpeta Correo no deseado; no se eliminan ni se devuelven al remitente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.4",
+    "texto": "Un boletín que sí te interesa acaba siempre en Correo no deseado. ¿Cuál es la solución más estable?",
+    "opciones": [
+      "a) Crear una carpeta de búsqueda para ese remitente",
+      "b) Reducir el nivel de protección a Sin filtrado",
+      "c) Mover el mensaje a la Bandeja de entrada cada vez",
+      "d) Añadir el remitente a la lista de remitentes seguros"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Añadir el remitente a la lista de remitentes seguros garantiza de forma estable que sus futuros mensajes no se clasifiquen como correo no deseado, sin necesidad de bajar el nivel general de protección ni de mover el mensaje manualmente cada vez.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.7",
+    "texto": "¿De qué tres elementos se compone una regla de Outlook?",
+    "opciones": [
+      "a) Criterio, plantilla y destinatario",
+      "b) Remitente, asunto y carpeta de destino",
+      "c) Origen, filtro y periodicidad",
+      "d) Condición, acción y excepción"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Toda regla de Outlook se define mediante una condición (qué mensajes afecta), una acción (qué hacer con ellos) y, opcionalmente, una excepción (casos en que no se aplica).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.8",
+    "texto": "Tienes seleccionado un mensaje y quieres una regla que trate igual a los que lleguen de ese remitente. ¿Cuál es la vía más rápida?",
+    "opciones": [
+      "a) Añadir el remitente a la lista de contactos seguros",
+      "b) Abrir el asistente y escribir la dirección manualmente",
+      "c) Usar la opción Crear regla sobre el mensaje seleccionado",
+      "d) Aplicar un paso rápido que mueva el mensaje"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Con el mensaje seleccionado, la opción Crear regla (Inicio > Reglas > Crear regla) rellena automáticamente las condiciones a partir de ese mensaje (remitente, asunto, etc.), siendo la vía más rápida frente a escribir la dirección a mano en el asistente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.9",
+    "texto": "¿En qué orden aplica Outlook las reglas a un mensaje entrante?",
+    "opciones": [
+      "a) En orden alfabético según el nombre de cada regla",
+      "b) Primero las del servidor y después todas las del cliente",
+      "c) En orden de creación, de la más antigua a la más reciente",
+      "d) En el orden en que aparecen en la lista, de arriba abajo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Outlook aplica las reglas en el orden en que figuran en la lista del Administrador de reglas y alertas, de arriba abajo; ese orden puede reorganizarse manualmente y no depende del nombre ni de la fecha de creación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.11",
+    "texto": "¿Qué distingue a una regla del lado del cliente en Outlook?",
+    "opciones": [
+      "a) Depende de la carpeta Borradores para activarse",
+      "b) Se ejecuta siempre en el servidor de correo",
+      "c) Funciona solo con cuentas sin conexión permanente",
+      "d) Requiere Outlook en ejecución para ciertas acciones"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Las reglas del lado del cliente (p. ej. las que mueven mensajes a una carpeta personal o reproducen un sonido) solo se ejecutan cuando Outlook está abierto; las reglas del lado del servidor, en cambio, se aplican aunque el programa esté cerrado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.12",
+    "texto": "Has creado una regla nueva y quieres aplicarla también a los mensajes que ya están en la Bandeja de entrada. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Marcar los mensajes como no leídos y esperar",
+      "b) Mover los mensajes a otra carpeta y después devolverlos",
+      "c) Reiniciar Outlook para que la regla se aplique",
+      "d) Usar la opción Ejecutar reglas ahora sobre esa carpeta"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La opción «Ejecutar reglas ahora» permite aplicar una regla de forma retroactiva sobre los mensajes ya existentes en una carpeta, sin tener que reiniciar Outlook ni mover los mensajes manualmente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.4.13",
+    "texto": "Una directora quiere que otra persona gestione su calendario y responda convocatorias en su nombre. ¿Qué configuración corresponde a ese caso?",
+    "opciones": [
+      "a) Cambiar el tema de cada convocatoria",
+      "b) Asignar un delegado con permisos",
+      "c) Crear una firma automática global",
+      "d) Insertar una nota al pie compartida"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Asignar un delegado (Archivo > Configuración de cuenta > Acceso delegado) con permisos sobre el calendario permite que otra persona gestione las citas y responda convocatorias en nombre del titular del buzón.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.2",
+    "texto": "¿Qué significa adjuntar una tarjeta de presentación en un mensaje?",
+    "opciones": [
+      "a) Importar contactos desde otro programa",
+      "b) Convertir un mensaje recibido en contacto guardado",
+      "c) Insertar un contacto como tarjeta de presentación",
+      "d) Añadir una firma con datos personales"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Adjuntar una tarjeta de presentación inserta en el mensaje un contacto (propio o de la libreta de direcciones) en formato de tarjeta de presentación electrónica, que el destinatario puede guardar directamente como contacto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.3",
+    "texto": "¿Qué caracteriza a la Lista global de direcciones frente a la carpeta Contactos?",
+    "opciones": [
+      "a) Solo contiene los contactos con los que se ha escrito",
+      "b) Se sincroniza únicamente al iniciar Outlook",
+      "c) La crea el usuario con sus contactos personales",
+      "d) La mantiene la organización y recoge a todos sus usuarios"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "La Lista global de direcciones (GAL) es un directorio centralizado que mantiene la organización (a través de Exchange) con todos sus usuarios, a diferencia de la carpeta Contactos, que es personal y la gestiona cada usuario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.7",
+    "texto": "Necesitas llevarte tus contactos a otro programa de correo. ¿Qué formato de exportación es el más compatible?",
+    "opciones": [
+      "a) Un grupo de contactos exportado",
+      "b) Un archivo de datos de Outlook",
+      "c) Una tarjeta de presentación por contacto",
+      "d) Un archivo de valores separados por comas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El archivo de valores separados por comas (CSV) es el formato de exportación más universal y compatible para importar contactos en otros programas de correo, frente a formatos propios de Outlook como el .pst.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.10",
+    "texto": "¿Qué describe mejor un archivo VCF al exportar contactos?",
+    "opciones": [
+      "a) Acceso directo a una carpeta local",
+      "b) Archivo de datos que almacena el buzón de correo completo",
+      "c) Formato para intercambiar información de contacto",
+      "d) Plantilla para crear documentos de texto"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El formato VCF (vCard) es un estándar para intercambiar información de contacto (nombre, teléfono, correo, etc.) entre distintas aplicaciones y dispositivos, a diferencia del .pst, que almacena todo el buzón.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.11",
+    "texto": "Guardas un contacto y Outlook avisa de que ya existe otro con datos parecidos. ¿Qué opciones ofrece?",
+    "opciones": [
+      "a) Únicamente sobrescribir el contacto anterior",
+      "b) Fusionar los dos contactos sin ninguna posibilidad de revisarlos antes",
+      "c) Actualizar el contacto existente o guardar el nuevo por separado",
+      "d) Únicamente descartar el contacto que se está creando"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Ante un posible contacto duplicado, Outlook permite actualizar el contacto existente con los nuevos datos o bien guardar el nuevo contacto como un elemento independiente, dejando la decisión al usuario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.5.12",
+    "texto": "¿Qué permiten las distintas vistas de la carpeta Contactos de Outlook?",
+    "opciones": [
+      "a) Convertir los contactos en destinatarios de una convocatoria",
+      "b) Filtrar los contactos por su frecuencia de uso",
+      "c) Sincronizar los contactos con el servidor de la organización",
+      "d) Presentar las fichas como tarjetas o como una lista con columnas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Las vistas de Contactos (Tarjeta de presentación, Tarjeta, Teléfono, Lista, etc.) permiten mostrar las fichas como tarjetas visuales o como una lista detallada organizada en columnas, sin afectar a la sincronización ni al filtrado por uso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.1",
+    "texto": "¿Qué distingue a una cita de una reunión en el calendario de Outlook?",
+    "opciones": [
+      "a) La reunión se repite en el tiempo y la cita es puntual",
+      "b) La reunión incluye asistentes convocados y la cita no",
+      "c) La reunión admite recordatorio y la cita no lo admite",
+      "d) La reunión ocupa toda la jornada y la cita solo unas horas"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "La diferencia esencial es que una reunión convoca a otros asistentes (se les envía una invitación), mientras que una cita es un elemento del calendario sin asistentes convocados. Tanto citas como reuniones pueden ser puntuales o periódicas, admiten recordatorio y pueden ocupar cualquier duración, por lo que a), c) y d) no son correctas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.5",
+    "texto": "En una serie periódica del calendario, ¿qué es una ocurrencia?",
+    "opciones": [
+      "a) Una excepción aplicada a la serie",
+      "b) Una repetición individual de la serie",
+      "c) Una vista resumida de la serie",
+      "d) Una regla de creación de la serie"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Una ocurrencia es cada una de las repeticiones individuales que forman una serie periódica (por ejemplo, cada reunión semanal concreta dentro de la serie), y puede modificarse de forma independiente del resto de la serie.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.6",
+    "texto": "Necesitas cambiar la hora de una sola sesión de una reunión periódica. ¿Qué debes elegir al abrirla?",
+    "opciones": [
+      "a) Cancelar la serie y crearla de nuevo",
+      "b) Abrir toda la serie",
+      "c) Duplicar la reunión en la fecha correcta",
+      "d) Abrir esta ocurrencia"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Al abrir un elemento de una serie periódica, Outlook pregunta si se desea abrir solo esta ocurrencia o toda la serie; para modificar únicamente una sesión concreta (como su hora) hay que elegir «Abrir esta ocurrencia».",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.7",
+    "texto": "¿Qué permite la vista superpuesta de calendarios en Outlook?",
+    "opciones": [
+      "a) Ver varios calendarios en una misma cuadrícula de horas",
+      "b) Combinar varios calendarios en uno solo de forma permanente",
+      "c) Comparar la disponibilidad de los asistentes a una reunión",
+      "d) Copiar las citas de un calendario a otro automáticamente"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La vista superpuesta (Overlay) muestra varios calendarios a la vez en una misma cuadrícula de horas, uno encima de otro, facilitando la comparación visual sin fusionarlos de forma permanente ni afectar a su contenido.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.10",
+    "texto": "Quieres que un compañero pueda ver el detalle de tus citas pero sin modificarlas. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Publicar el calendario en la lista global de direcciones",
+      "b) Compartir el calendario concediéndole permiso de lectura",
+      "c) Enviarle una copia del calendario por correo cada semana",
+      "d) Asignarle un delegado sobre tu buzón de correo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Compartir el calendario con un permiso de lectura (p. ej. «Revisor») permite que otro usuario vea el detalle de las citas sin poder modificarlas, a diferencia de un delegado, que sí tendría permisos de edición.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.6.11",
+    "texto": "¿Qué diferencia hay entre la vista Mes y la vista Semana del calendario?",
+    "opciones": [
+      "a) La vista Mes no permite crear citas nuevas",
+      "b) La vista Mes muestra únicamente los eventos que duran todo el día",
+      "c) La vista Mes resume el periodo y la Semana detalla las horas",
+      "d) La vista Mes oculta las reuniones con asistentes"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La vista Mes ofrece una visión resumida y compacta de todo el periodo, mientras que la vista Semana detalla las citas distribuidas por franjas horarias; ambas vistas permiten crear citas y muestran todo tipo de eventos y reuniones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.7.4",
+    "texto": "¿Qué ofrece el Asistente para programación al preparar una convocatoria?",
+    "opciones": [
+      "a) Un listado de las reuniones ya aceptadas por cada asistente",
+      "b) Una propuesta de agenda con los puntos a tratar",
+      "c) Un aviso a los asistentes para que confirmen su horario",
+      "d) Una cuadrícula con la disponibilidad de todos los asistentes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El Asistente para programación (Scheduling Assistant) muestra una cuadrícula horaria con la disponibilidad de todos los asistentes y salas convocados, facilitando encontrar un hueco libre común.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.7.5",
+    "texto": "Has enviado una convocatoria y quieres saber cuántos han aceptado. ¿Dónde lo consultas?",
+    "opciones": [
+      "a) En la carpeta Elementos enviados del buzón",
+      "b) En la pestaña de seguimiento de la reunión abierta",
+      "c) En las propiedades del calendario compartido",
+      "d) En el asistente para programación de la convocatoria"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Al abrir la reunión organizada desde el calendario, la pestaña/botón Seguimiento (Tracking) muestra el estado de las respuestas (aceptada, rechazada, provisional o pendiente) de cada asistente convocado; las propiedades del calendario compartido no recogen esa información.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.7.7",
+    "texto": "Recibes una convocatoria y consideras que debería asistir también un compañero no invitado. ¿Qué puedes hacer?",
+    "opciones": [
+      "a) Reenviar la convocatoria, si el organizador no lo ha impedido",
+      "b) Crear una reunión paralela con los mismos datos",
+      "c) Aceptar la reunión en su nombre desde el calendario compartido",
+      "d) Añadirlo directamente a la lista de asistentes"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Un asistente puede reenviar la convocatoria recibida a otra persona para invitarla, salvo que el organizador haya desactivado expresamente la opción de reenvío de la convocatoria.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.7.10",
+    "texto": "Al convertir una reunión suelta en periódica, ¿qué ocurre con los asistentes ya convocados?",
+    "opciones": [
+      "a) Pierden las respuestas que ya habían enviado",
+      "b) Solo conservan la primera sesión en su calendario",
+      "c) Deben ser convocados de nuevo desde cero",
+      "d) Reciben una actualización con el patrón de repetición"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Al aplicar periodicidad a una reunión ya convocada, Outlook envía automáticamente a los asistentes una actualización con el nuevo patrón de repetición, sin necesidad de volver a convocarlos desde cero ni perder lo ya enviado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.7.13",
+    "texto": "Un organizador no quiere recibir mensajes de aceptación o rechazo en su bandeja, pero aún enviará la convocatoria. ¿Qué configuración debe ajustar?",
+    "opciones": [
+      "a) Desactivar Solicitar respuestas",
+      "b) Desactivar Buscar hora",
+      "c) Desactivar la Zona horaria del evento",
+      "d) Desactivar Recordatorio"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Al desactivar la opción «Solicitar respuestas» en la convocatoria, los asistentes no generan mensajes de aceptación/rechazo/provisional al organizador, aunque la convocatoria se sigue enviando con normalidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.8.1",
+    "texto": "¿Qué es una solicitud de tarea en Outlook?",
+    "opciones": [
+      "a) Mensaje para publicar un elemento en una carpeta",
+      "b) Mensaje para asignar una tarea a otra persona",
+      "c) Mensaje para convocar una reunión con asistentes",
+      "d) Mensaje para compartir una nota con otro usuario"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Una solicitud de tarea es un mensaje especial mediante el cual se asigna una tarea a otra persona, que puede aceptarla o rechazarla; a diferencia de la convocatoria de reunión, no implica una cita en el calendario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.8.2",
+    "texto": "¿Qué caracteriza a una nota de Outlook frente a una tarea?",
+    "opciones": [
+      "a) Genera un recordatorio en la fecha indicada",
+      "b) Recoge un texto suelto sin fecha ni seguimiento asociado",
+      "c) Se asigna a otra persona para que la complete",
+      "d) Aparece en el calendario y ocupa una franja horaria propia"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Una nota es simplemente un texto libre sin fecha de vencimiento ni seguimiento de estado asociado, a diferencia de una tarea, que sí puede tener fecha, recordatorio, estado de progreso y asignarse a otra persona.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.8.6",
+    "texto": "Buscas un mensaje y no aparece, aunque sabes que está en el buzón. ¿Qué conviene revisar primero?",
+    "opciones": [
+      "a) El nivel de protección configurado en el filtro de correo no deseado",
+      "b) El estado de lectura de los mensajes de la carpeta",
+      "c) El ámbito de la búsqueda, que puede estar limitado a una carpeta",
+      "d) La vista de conversación aplicada a la lista"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Lo primero que conviene revisar es el ámbito de la búsqueda (carpeta actual, subcarpetas, buzón actual o todos los elementos de Outlook), ya que una búsqueda limitada a una sola carpeta no encontrará mensajes guardados en otras.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-5.8.9",
+    "texto": "¿Cómo se entiende mejor la búsqueda avanzada?",
+    "opciones": [
+      "a) Modo de búsqueda limitado solo al asunto del mensaje",
+      "b) Modo de búsqueda con un único criterio predefinido",
+      "c) Modo de búsqueda con criterios detallados sobre los elementos",
+      "d) Modo de búsqueda que ordena los resultados aunque no los filtra"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La búsqueda avanzada permite combinar criterios detallados (remitente, asunto, fecha, tamaño, datos adjuntos, etc.) sobre los distintos campos de los elementos, en lugar de limitarse a un único criterio o solo al asunto.",
+    "requiere_imagen": false
   }
 ]

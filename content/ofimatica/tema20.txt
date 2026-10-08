@@ -1,275 +1,967 @@
-TEMA 20 — CORREO ELECTRÓNICO: OUTLOOK. CONCEPTOS ELEMENTALES Y FUNCIONAMIENTO. ENVIAR, RECIBIR, RESPONDER Y REENVIAR MENSAJES. CREACIÓN DE MENSAJES. REGLAS DE MENSAJE. LIBRETA DE DIRECCIONES. AGENDA. CONVOCATORIAS Y CITAS.
+BANCO DE PREGUNTAS - TEMA 20 (OFIMÁTICA: CORREO ELECTRÓNICO - OUTLOOK 365)
+Fuente: ADAMS - Cuestionario tema 20.01 (test1) + Cuestionario tema 20.03 (test2)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
+Preguntas 51-95: añadidas a partir de nuevos-outook.docx (práctica Outlook 365) -> banco ampliado a 95 preguntas
+Todas las preguntas: origen = banco_propio
 
-1. CORREO ELECTRÓNICO: CONCEPTOS ELEMENTALES Y FUNCIONAMIENTO
-El correo electrónico (e-mail) es uno de los servicios de Internet más utilizados; medio para recibir y enviar mensajes privados a través de redes de ordenadores. Se implantó como medio principal de comunicación entre grupos y comunidades científicas y culturales.
-Los envíos constan de remitente y destinatario, cada uno con una dirección de correo electrónico. El mensaje viaja desde el ordenador origen hasta el destino pasando por ordenadores intermedios que remiten el mensaje hasta el destino final.
-Ventajas del e-mail: Rapidez (llega en segundos independientemente del lugar), Coste (sin cargos por envío), Adaptación (se pueden añadir imágenes, sonidos, vídeos, hojas de cálculo), Fiabilidad (no suelen perderse; los errores se devuelven al remitente con aviso), Comodidad (se guardan, modifican y reutilizan; se pueden recuperar mensajes borrados).
-Inconvenientes del e-mail: Inseguridad (fácil interferencia al pasar por muchos dispositivos), Errores (envíos a destinatario equivocado por automatización), Publicidad (correo basura, virus o enlaces peligrosos).
+===========================================================
+1) [ID41620401]
+Pregunta: ¿Cuál es el método abreviado de teclado para crear rápidamente una nota en Outlook 365, estando situados en cualquier sección o módulo del programa?
+a) Ctrl + Mayus + N
+b) CRTL + U
+c) Ctrl + Mayus + B
+d) Ctrl + Alt + M
+Respuesta_correcta: a
+Explicación: Ctrl+Mayús+N crea una nueva nota desde cualquier ubicación de Outlook 365.
 
-1.1. Características
-El correo electrónico se diferencia del resto de servicios de Internet en que los dos ordenadores implicados (emisor y receptor) NO necesitan estar en contacto obligatoriamente al mismo tiempo (a diferencia de FTP, Telnet, Archie, Gopher, que exigen ambos ordenadores y toda la red activos simultáneamente). Si el ordenador/red destino está fuera de servicio, el mensaje llegará cuando vuelva a estar operativo en un plazo razonable.
+===========================================================
+2) [ID41411213]
+Pregunta: Al escribir el nombre de un destinatario en un correo, ¿la función Autocompletar sugiere direcciones que coincidan con contactos guardados en Outlook 365?
+a) No, eso solo está disponible en el campo CCO.
+b) Si, nos proporcionara aquellas direcciones coincidentes con la ingresada.
+c) Outlook no dispone de la opción autocompletar.
+d) Solo se autocompleta el nombre del destinatario si los caracteres escritos coinciden con una dirección de correo de un usuario perteneciente a nuestra organización.
+Respuesta_correcta: b
+Explicación: Autocompletar está activo por defecto ("Usar lista de Autocompletar para sugerir nombres...") y sugiere direcciones coincidentes en los campos Para, CC y CCO.
 
-1.2. Dirección de correo electrónico
-Necesaria para enviar y recibir correspondencia; identifica de forma inequívoca en la red (dato obligatorio para enviar). Deben ser únicas (no puede haber dos personas con la misma dirección). Formato semejante a direcciones IP, con identificador de usuario añadido.
-Características:
-- Nombre de usuario: identifica al usuario (ej. en "usuario@gmail.com", "usuario").
-- Símbolo @: separa nombre de usuario del dominio.
-- Dominio: nombre del servidor de correo que gestiona la dirección (ej. "gmail.com").
-- Extensión: parte final que indica tipo de organización o país (ej. ".com").
-- Longitud total de una dirección de correo: no debe exceder 320 caracteres. Parte local (antes de "@"): entre 1 y 64 caracteres. Nombre de dominio (después de "@"): limitado a 255 caracteres.
+===========================================================
+3) [ID41671922]
+Pregunta: ¿Cuál es el atajo de teclado para abrir un mensaje recibido en Outlook 365?
+a) Mayus + M
+b) Ctrl + V
+c) Alt + C
+d) Ctrl + A
+Respuesta_correcta: d
+Explicación: Ctrl+A abre el elemento seleccionado en Outlook 365. En las aplicaciones de Windows/Office en español, Ctrl+A corresponde habitualmente a "Abrir" (no a "Seleccionar todo", que en español usa Ctrl+E), a diferencia de la convención en inglés (Ctrl+O=Open, Ctrl+A=Select All); de ahí que aquí sea coherente con la clave de ADAMS.
 
-1.3. Protocolos
-Un protocolo es un conjunto de reglas y convenciones para el intercambio correcto de información en Internet. Existen servidores E-MAIL SERVERS con distintos protocolos:
-- SMTP (Simple Mail Transfer Protocol): usado por el ordenador local al enviar un mensaje; correo SALIENTE.
-- POP (Post Office Protocol): usado por el destinatario para recuperar/leer el mensaje; el mensaje se DESCARGA al equipo local; correo ENTRANTE.
-- IMAP (Internet Message Access Protocol): usado por el destinatario para recuperar/leer el mensaje; el mensaje NO se descarga al equipo local; correo ENTRANTE.
+===========================================================
+4) [ID41620691]
+Pregunta: ¿Dónde podemos encontrar la pestaña Revisar de entre las aplicaciones o elementos de Outlook 365?
+a) Es una de las pestañas predeterminadas de la cinta de opciones de la aplicación de Correo de Outlook 365.
+b) Es una de las pestañas que forman parte de la cinta de opciones de la aplicación Calendario de Outlook 365.
+c) Es una de las pestañas que aparecen por defecto en la cinta de opciones que se muestra en la ventana de creación de un nuevo elemento de Outlook, ya sea correo, cita, tarea o contacto.
+d) Es una de las pestañas existentes en la cinta de opciones de la aplicación de Tareas de Outlook 365.
+Respuesta_correcta: c
+Explicación: La pestaña Revisar aparece al crear cualquier elemento nuevo (correo, cita, tarea o contacto), para corregir la información introducida.
 
-1.4. Funcionamiento
-Al enviar un mensaje, el ordenador local transmite al SMTP local, que recoge el mensaje y, según la dirección del destinatario, decide la mejor ruta. El mensaje va saltando entre ordenadores hasta ser transferido al servidor POP/IMAP del destinatario. Finalmente se transfiere desde el servidor POP al ordenador final. Si un ordenador intermedio está fuera de servicio, el servidor correspondiente guarda el mensaje y lo reenvía cuando se solucione.
+===========================================================
+5) [ID41620082]
+Pregunta: En la aplicación Calendario de Outlook 365, ¿cuál de las siguientes entradas no es un tipo de vista elegible del grupo Vista Actual, en la pestaña Vista?
+a) Vista previa
+b) Lista
+c) Activa
+d) Reuniones
+Respuesta_correcta: d
+Explicación: Las vistas reales del grupo son Calendario, Vista previa, Lista y Activa; "Reuniones" no es una de ellas.
 
-1.5. Acceso al correo electrónico
-Dos posibilidades:
-- Web Mail: acceso vía servicio WWW mediante navegador, con dirección de correo y contraseña.
-- Programas Cliente: se instala un programa de correo, configurando cuenta, contraseña y protocolo de servidor a utilizar.
+===========================================================
+6) [ID41671510]
+Pregunta: En Outlook 365 ¿cómo se denomina la opción que permite llamar la atención de un usuario en el cuerpo de un mensaje utilizando el símbolo @?
+a) Llamada
+b) Referencia
+c) Mención
+d) Indicador
+Respuesta_correcta: c
+Explicación: Se denomina Mención (@mención).
 
-1.5.1. El Web Mail
-Solución práctica ante el crecimiento de Internet. Características: solo requiere usuario y contraseña; no necesita configuración; se puede consultar desde cualquier ordenador; incluye todas las opciones de gestión (enviar, reenviar, borrar, responder, organizar en carpetas); no necesita programa cliente, solo navegador. Ejemplos: Gmail, Yahoo! Mail, Outlook.com (antes Hotmail).
+===========================================================
+7) [ID41411590]
+Pregunta: ¿Cómo se accede a los contenidos del Backstage en Outlook 365?
+a) Modulo Calendario / Inicio
+b) Módulo Tareas / Carpeta
+c) Módulo Correo / Archivo
+d) Módulo Personas / Ayuda
+Respuesta_correcta: c
+Explicación: El acceso al Backstage se realiza desde la pestaña Archivo, disponible desde cualquier módulo de Outlook 365.
 
-1.5.2. Programas Cliente de correo electrónico
-Permiten trabajar con varias cuentas a la vez, organizar mejor los emails, crear copias de seguridad y acceder a mensajes sin conexión. Se configuran para usar protocolos POP3 o IMAP. Programas más utilizados: Eudora, Microsoft Outlook (incluido en Microsoft 365), Mailbird, Lotus Notes → IBM Notes, Thunderbird.
+===========================================================
+8) [ID44752233]
+Pregunta: Sobre una carpeta de Outlook, ¿qué nivel de permiso debemos dar a otro usuario si queremos que pueda crear y leer elementos, así como modificar y eliminar los elementos que él mismo cree?
+a) Autor.
+b) Revisor.
+c) Colaborador.
+d) Editor.
+Respuesta_correcta: a
+Explicación: El permiso "Autor" permite crear y leer elementos, y modificar/eliminar únicamente los elementos que el propio usuario haya creado.
 
-A) Microsoft Outlook
-Outlook 365 es parte de Microsoft 365 (servicio por suscripción). Integrado con OneDrive y otros servicios en la nube: autoguardado, colaboración en tiempo real, acceso desde cualquier navegador web. Se integra con Teams, SharePoint, OneNote y Planner.
-Primera acción: configurar la cuenta de correo electrónico. Después: recibir/enviar correos, programar eventos en calendario, establecer recordatorios, personalizar configuración.
+===========================================================
+9) [ID41411445]
+Pregunta: ¿Cuál de las siguientes opciones no es uno de los tres comandos que ofrece Outlook 365 en la parte superior derecha de la ventana de lectura de un mensaje?
+a) Responder.
+b) Archivar.
+c) Responder a todos.
+d) Reenviar.
+Respuesta_correcta: b
+Explicación: Los tres comandos son Responder, Responder a todos y Reenviar; Archivar no aparece ahí.
 
-La interfaz de Outlook 365
-- Barra de navegación (izquierda): cambia entre Correo (CTRL+1), Calendario (CTRL+2), Contactos/Personas (CTRL+3), Tareas (CTRL+4) y otros.
-- Panel de carpetas: estructura de carpetas del buzón (Bandeja de entrada, Enviados, Borradores, Eliminados, Correo no deseado, Archivo, etc.) y personalizadas; se puede marcar como Favoritas.
-- Lista de mensajes (panel central): remitente, asunto, fecha, vista previa; no leídos en negrita; ordenable por fecha/remitente/asunto/tamaño.
-- Panel de lectura (panel derecho): contenido completo sin abrir ventana independiente; configurable a la derecha, abajo o desactivado (Vista > Diseño > Panel de lectura).
-- Barra de tareas pendientes (derecha, opcional): calendario, tareas pendientes, contactos importantes (Vista > Diseño > Barra Tareas pendientes).
+===========================================================
+10) [ID41671481]
+Pregunta: Seleccionado Correo en el panel de navegación, ¿cuál de las siguientes Vistas es la seleccionada por defecto (según el pantallazo del enunciado)?
+a) Compacta
+b) Única
+c) Vista Previa
+d) Unificada
+Respuesta_correcta: a
+Explicación: La vista Compacta es la mostrada según la captura del enunciado.
 
-Cinta de opciones Pestaña Archivo
-- Información: agregar cuenta, cambiar configuración de cuentas existentes, administrar tamaño del buzón, definir reglas y alertas.
-- Abrir y Exportar: abrir archivo de calendario (.ics, .vcs), abrir archivo de datos de Outlook (.pst), importar/exportar archivos y configuraciones, abrir carpeta compartida.
-- Guardar como: opciones para guardar un mensaje.
-- Guardar datos adjuntos: guardar archivos adjuntos de un mensaje.
-- Imprimir: mensajes, contactos, calendarios, reuniones, tareas.
-- Cuenta de Office: espacio de almacenamiento disponible y detalles de licencia.
-- Comentarios: proporcionar feedback a Microsoft.
-- Opciones: personalizar configuración (correo, calendario, tareas, idioma, accesibilidad...).
-Botones adicionales:
-- Configuración de la cuenta: Configuración de la cuenta (añadir/quitar cuentas o cambiar configuración de conexiones existentes; se puede tener más de una cuenta activa); Configuración de la sincronización y nombre de cuenta; Delegar acceso (conceder a otro usuario permisos para gestionar correo/calendario/tareas en nombre del titular; enviar mensajes y convocatorias, responder y gestionar calendario; se configura en Archivo > Opciones de cuenta > Delegar acceso; útil cuando el titular no puede atender el correo); Descargar libreta de direcciones; Cambiar perfil; Administrar perfiles.
-- Respuestas automáticas: respuestas cuando no se está disponible (vacaciones, fuera de oficina).
-- Herramientas: Limpieza de buzón (Archivo > Herramientas > Limpiar buzón): Buscar elementos por antigüedad y tamaño, Autoarchivar (mueve elementos antiguos a archivo .pst local liberando espacio), Vaciar elementos eliminados (borrado definitivo de la carpeta Elementos eliminados); Vaciar carpeta eliminados; Limpiar elementos antiguos (mueve a un archivo de Outlook).
-- Administrar reglas y alertas: organizar correo en carpetas, descartar correo, etc.
-- Administrar complementos: añadir complementos.
+===========================================================
+11) [ID41620256]
+Pregunta: Estando en la aplicación Calendario de Outlook 365, ¿cuál es la organización por defecto que se aplica a la cuadrícula del calendario en el área de trabajo (al restablecer la vista)?
+a) Día
+b) Semana laboral
+c) Semana
+d) Mes
+Respuesta_correcta: d
+Explicación: Al restablecer la vista de Calendario, Outlook 365 organiza por defecto los eventos usando la cuadrícula del Mes.
 
-Cinta de opciones Pestaña Inicio (pantalla principal)
-- Grupo Nuevo: crear nuevo mensaje y nuevos elementos (mensajes, citas, reuniones, contactos, tareas).
-- Grupo Eliminar: eliminar correos o moverlos a Elementos Eliminados; Omitir conversación (mueve mensajes actuales y futuros de una conversación a Elementos eliminados); Limpiar (elimina mensajes redundantes de la conversación); Correo no deseado (marcar elementos o remitentes/dominios como no deseados); Eliminar; Archivo (mueve a la carpeta Archivo).
-- Grupo Informe: denunciar suplantación de identidad y correo no deseado.
-- Grupo Responder: responder, responder a todos, reenviar, responder con convocatoria de reunión o mensaje instantáneo.
-- Grupo Pasos rápidos: varias acciones con un solo clic.
-- Grupo Mover: mover correos a carpetas; Reglas (crear reglas de correo para automatizar acciones con mensajes entrantes); Enviar a OneNote (colocar el correo en un bloc de notas en OneNote).
-- Grupo Etiquetas: categorías de color para organizar/dar seguimiento; marcar como leído/no leído.
-- Grupo Buscar: opciones de búsqueda de correos.
-- Otras: Leer en voz alta; Todas las aplicaciones (administrar complementos y aplicaciones instalados).
+===========================================================
+12) [ID30581203]
+Pregunta: Teniendo en cuenta la cabecera de un mensaje (Para: CARLOSALCARAZ2022@YAHOO.COM, CC: alexiaputellas@yahoo.com, CCO: andresiniesta2011@gmail.com), ¿cuál de las siguientes afirmaciones es falsa?
+a) Carlos Alcaraz no recibirá el mensaje de correo porque su dirección se ha redactado en mayúsculas.
+b) Carlos Alcaraz, Alexia Putellas y Andrés Iniesta recibirán indistintamente el correo enviado.
+c) Ni Carlos Alcaraz ni Alexia Putellas tendrán conocimiento que el correo lo ha recibido también Andrés Iniesta.
+d) Andrés Iniesta sabrá que Carlos Alcaraz y Alexia Putellas han recibido el correo, y Carlos Alcaraz sabrá que también lo ha recibido Alexia Putellas y viceversa ella con él.
+Respuesta_correcta: a
+Explicación: Las direcciones de correo no distinguen mayúsculas/minúsculas; Carlos Alcaraz sí recibirá el mensaje con normalidad, por lo que esta afirmación es la falsa.
 
-Cinta de opciones Pestaña Enviar y recibir
-Actualizar carpetas (global o individual), mostrar estado de descargas, configurar descarga de encabezados, trabajar sin conexión, configurar grupos de envío/recepción (una o varias cuentas, fuentes RSS y calendarios).
+===========================================================
+13) [ID41431732]
+Pregunta: ¿Cómo se reconoce visualmente que un correo tiene aplicado un seguimiento desde la herramienta de Etiquetas en Outlook 365?
+a) Por medio del icono una bandera de color rojo a su derecha y porque aparece un fondo de color verde en el fondo del elemento de correo.
+b) Por medio del icono una bandera de color rojo a la izquierda del elemento de correo y porque dispondrá de un fondo de color azul claro.
+c) Por medio del icono de una bandera de color rojo en su parte derecha y porque dicho correo aparecerá resaltado con un fondo de color amarillo claro.
+d) Por medio de una bandera de color rojo en la parte derecha del elemento de correo, además de un estilo negrita en el texto del Asunto del mensaje.
+Respuesta_correcta: c
+Explicación: Se muestra una bandera roja a la derecha del elemento y un fondo resaltado en amarillo claro.
 
-Cinta de opciones Pestaña Carpeta
-- Grupo Nuevo: crear nueva carpeta en el buzón; Nueva Carpeta de Búsqueda (organiza y muestra automáticamente mensajes que cumplen ciertos criterios/reglas de búsqueda).
-- Grupo Acciones: cambiar nombre, copiar/mover, eliminar la carpeta.
-- Grupo Limpiar: marcar correos como no leídos, aplicar reglas, ordenar carpetas alfabéticamente, limpiar mensajes redundantes, eliminar todos los elementos, recuperar elementos eliminados.
-- Grupo favoritos: marcar carpetas como "Favoritas".
-- Grupo Propiedades: Directiva (retención de la carpeta); Propiedades de la Carpeta (nombre, dirección de correo asociada, permisos); Permisos de carpeta (uso compartido); Configuración de Autoarchivar (archivos .pst que almacenan correos, contactos, calendarios).
+===========================================================
+14) [ID42490521]
+Pregunta: ¿Qué función tiene el comando "Informe" de la pestaña Inicio de la cinta de opciones de Outlook 365?
+a) Informar de phishing y de correo no deseado.
+b) Informar de virus.
+c) Informar de mensajes almacenados en borrador.
+d) Informar de actualizaciones y complementos de la aplicación.
+Respuesta_correcta: a
+Explicación: El comando Informe ofrece "Informar de suplantación de identidad (phishing)" e "Informar de correo no deseado".
 
-Cinta de opciones Pestaña Vista
-- Grupo vista actual: configuraciones personalizadas por carpeta; tres tipos de vista: compacta, Única y Vista previa.
-- Grupo mensajes: Mostrar mensajes en conversaciones (agrupa correos con el mismo asunto en una sola conversación).
-- Bandeja de entrada Prioritarios: muestra la bandeja "Prioritarios".
-- Grupo organización: organizar/personalizar apariencia de los elementos.
-- Grupo Diseño: Panel de Carpetas (mostrar/ocultar/minimizar, Favoritos); Panel de Lectura (ubicación derecha/inferior/desactivado); Barra de Tareas Pendientes (Calendario, Tareas, Personas).
-- Immersive Reader: ajuste de tamaño de texto/espaciado, lectura en voz alta.
+===========================================================
+15) [ID41411851]
+Pregunta: ¿Cuál de los siguientes no es uno de los tipos de correo electrónico según su propósito?
+a) Correo electrónico personal.
+b) Correo electrónico corporativo.
+c) Correo electrónico institucional.
+d) Correo electrónico Investigacional.
+Respuesta_correcta: d
+Explicación: "Correo electrónico Investigacional" no es una categoría estándar; sí lo son personal, corporativo/empresarial e institucional (además del de marketing/transaccional).
 
-1.6. Elementos comunes a los programas de correo electrónico
-Todo programa organiza los mensajes en carpetas. Carpetas principales de Outlook (versión escritorio):
-- Bandeja de entrada: recibe mensajes entrantes; no leídos en negrita; número de correos sin leer junto al nombre.
-- Bandeja de salida: mensajes pendientes de envío (aún pueden modificarse); al enviarse pasan a Elementos enviados; el número indica correos retenidos.
-- Elementos enviados: copia de mensajes ya transmitidos con éxito.
-- Borradores: mensajes guardados sin enviar (manual o autoguardado).
-- Elementos eliminados (Papelera): mensajes eliminados (SUPR o CTRL+D); recuperables; eliminación permanente sin pasar por esta carpeta: MAYÚS+SUPR; el número indica elementos guardados.
-- Correo no deseado: mensajes sospechosos detectados por filtros de Microsoft o de remitentes bloqueados.
-- Archivo: mensajes antiguos quitados de la vista principal pero conservados a largo plazo.
+===========================================================
+16) [ID42284538]
+Pregunta: Cuando se adjunta un archivo en un mensaje de correo electrónico, éste no podrá ser:
+a) Un archivo PDF.
+b) Una hoja de cálculo de Excel.
+c) Un vídeo o imagen.
+d) Podrá ser cualquiera de los anteriores.
+Respuesta_correcta: d
+Explicación: Cualquiera de esos tipos de archivo (PDF, hoja de cálculo, vídeo/imagen) puede adjuntarse a un correo.
 
-2. ENVIAR, RECIBIR, RESPONDER Y REENVIAR MENSAJES. CREACIÓN DE MENSAJES
+===========================================================
+17) [ID41389935]
+Pregunta: Al responder a un mensaje con la opción «Responder» de Outlook 365, ¿qué opción está activada por defecto?
+a) Adjuntar el mensaje original.
+b) Incluir el texto del mensaje original.
+c) No incluir el mensaje original.
+d) Prefijo en cada línea del mensaje original.
+Respuesta_correcta: b
+Explicación: Por defecto, Outlook incluye el texto del mensaje original al responder.
 
-2.1. Crear y enviar mensajes
-Se redacta un nuevo mensaje desde el botón de la pantalla principal. Si hay más de una cuenta configurada, aparece el botón "De" (encima de "Para") para elegir la cuenta emisora.
-Estructura del mensaje: CABECERA (De, Para, CC, CCO, Asunto) y CUERPO.
-Campos de la cabecera:
-- De: remitente, autocompletado; visualizable/modificable activando Opciones > Mostrar Campos.
-- Para: destinatario(s); varias direcciones separadas por "," o ";".
-- CC: copia a otros destinatarios además de los principales; los principales SÍ saben que hay copia; separar direcciones con ";" o ",".
-- CCO: copia a otros destinatarios, PERO los principales NO saben que se ha enviado copia; se activa desde Opciones > Mostrar Campos.
-- Nota: para poder enviar, al menos uno de los tres campos (Para, CC, CCO) debe contener una dirección correcta.
-- Asunto: tema del mensaje; no obligatorio.
-- Adjuntar: añadir archivos de texto, imágenes, etc.; el conjunto de adjuntos tiene un límite de tamaño superior; NO se pueden adjuntar carpetas.
-El Cuerpo del mensaje es la zona de redacción: se pueden modificar fuentes, formatear párrafos, insertar elementos.
-Al enviar (botón Enviar), el mensaje pasa a la Bandeja de salida y, tras enviarse, a Elementos enviados; mientras esté en Bandeja de salida se puede reabrir y modificar.
-Cintas que genera Outlook al crear un correo: Mensaje, Insertar, Opciones, Formato de texto, Revisar.
+===========================================================
+18) [ID42698881]
+Pregunta: Señale cuál de las siguientes opciones se encuentra en Archivo>>Herramientas de configuración del buzón de Outlook 365:
+a) Delegar acceso.
+b) Descargar libreta de direcciones.
+c) Limpiar elementos antiguos.
+d) Respuestas automáticas.
+Respuesta_correcta: c
+Explicación: Bajo "Herramientas" de configuración del buzón se agrupan Limpieza de buzón, Vaciar carpeta Elementos eliminados y Limpiar elementos antiguos; las otras opciones citadas están en otros apartados de Archivo.
 
-2.2. Barra de herramientas de mensaje nuevo
-En la pestaña Mensaje, entre otras: Libreta de direcciones, Comprobar nombres, Adjuntar archivo, Vínculo, Firma, Componentes de Loop, Asignar directiva, Seguimiento, Importancia alta, Importancia baja.
+===========================================================
+19) [ID41431703]
+Pregunta: ¿Cuál de las siguientes opciones de Seguimiento (Vista correo) de un mensaje no existe entre las opciones predeterminadas de Outlook 365 (cuenta Local o Exchange)?
+a) Hoy.
+b) Mañana.
+c) Sin fecha
+d) El próximo mes.
+Respuesta_correcta: d
+Explicación: Las opciones reales son Hoy, Mañana, Esta semana, La próxima semana, Sin fecha y Personalizar; "El próximo mes" no existe.
 
-Libreta de direcciones
-Almacena información de contacto de personas y organizaciones: nombre, dirección de correo, teléfono, dirección postal, empresa, cargo, fecha de cumpleaños y aniversarios, entre otros. Funciones principales:
-- Acceso: Inicio > Buscar > Libreta de direcciones, o CTRL+MAYÚS+B.
-- Autocompletar: al escribir en Para/CC/CCO, sugiere contactos coincidentes.
-- Comprobar nombres: verifica que las direcciones corresponden a contactos válidos.
-- Grupos de contactos (listas de distribución): enviar a varios contactos escribiendo solo el nombre del grupo en Para.
-- Gestión de contactos: se crean/editan/organizan desde la sección Personas del panel de navegación; se puede importar/exportar en formato .csv o vCard (.vcf).
-Para añadir contacto o crear grupo: opción Personas del menú izquierdo; cinta con Nuevo contacto, Nuevo grupo de contactos, Nuevos elementos, Eliminar, Reunión, Más, Cambiar vista, Acciones, Compartir, Etiquetas, Grupos, Buscar personas, Libreta de direcciones.
+===========================================================
+20) [ID41431384]
+Pregunta: ¿Cuál es el atajo de teclado para marcar como «No leído» un mensaje seleccionado en Outlook 365?
+a) Ctrl + G
+b) Ctrl + O
+c) Alt + X
+d) Mayus + F1
+Respuesta_correcta: b
+Explicación: Ctrl+O marca como No leído el elemento o elementos seleccionados en Outlook 365.
 
-Comprobar nombres: cuando no se recuerda la dirección completa, se puede escribir parte del nombre y usar el comando Comprobar nombres.
+===========================================================
+21) [ID41431761]
+Pregunta: En la ventana de redacción de nuevo mensaje de Outlook 365, ¿cuál de los siguientes comandos no aparece por defecto en la barra de herramientas de acceso rápido?
+a) Guardar.
+b) Deshacer.
+c) Adjuntar archivo
+d) Repetir.
+Respuesta_correcta: c
+Explicación: Por defecto solo aparecen Guardar, Deshacer y Repetir; Adjuntar archivo no está en la barra de acceso rápido por defecto.
 
-Adjuntar archivo: añade archivos al mensaje; muestra últimos archivos usados o permite explorar el equipo. El auge de adjuntos ralentiza envío/recepción y puede saturar/bloquear cuentas por espacio limitado. Para reducir tamaño se pueden usar herramientas de compresión: Winzip, WinRar. Todos los mensajes de correo tienen la extensión .eml. El estándar MIME (Multipurpose Internet Mail Extensions) permite el envío/recepción de cualquier tipo de fichero adjunto.
+===========================================================
+22) [ID41671835]
+Pregunta: ¿Cuál es el atajo de teclado para Responder a todos en Outlook 365?
+a) Ctrl + Mayus + R
+b) Mayus + O
+c) Ctrl + Q
+d) Ctrl + Alt + S
+Respuesta_correcta: a
+Explicación: Ctrl+Mayús+R responde a todos los destinatarios del mensaje.
 
-Adjuntar elemento: permite añadir una tarjeta de presentación o un mensaje recibido como fichero adjunto.
+===========================================================
+23) [ID35399868]
+Pregunta: En Outlook 365, ¿cuál de los siguientes no es un grado de confidencialidad al redactar un mensaje?
+a) Privado
+b) Personal
+c) Público
+d) General
+Respuesta_correcta: a
+Explicación: Los grados reales son Personal, Público, General, Confidencial y Extremadamente confidencial; "Privado" no es uno de ellos.
 
-Firma: texto (información de contacto, cita favorita) que se añade automáticamente al final de los mensajes.
-- Firma de correo: texto/imagen/combinación añadida automáticamente al final; suele incluir nombre, cargo, empresa, teléfono. Se configura en Archivo > Opciones > Correo > Firmas; se pueden crear varias y asignar distintas por cuenta o tipo de mensaje (nuevos vs. respuestas).
-- Firma digital: certificado electrónico criptográfico que autentica la identidad del remitente y garantiza que el contenido no ha sido modificado; NO es texto visible, es un elemento de seguridad invisible; se aplica desde "Firmar digitalmente" en las opciones del mensaje; requiere un certificado digital válido.
+===========================================================
+24) [ID35400013]
+Pregunta: En Outlook 365, ¿en cuál de las siguientes bandejas permanecen los correos que aún no han podido salir?
+a) Bandeja de pendientes
+b) Bandeja exterior
+c) Bandeja de salida
+d) Bandeja de excluidos
+Respuesta_correcta: c
+Explicación: En la Bandeja de salida permanecen los correos que, por problemas del servidor o falta de conexión, no han podido enviarse.
 
-Seguimiento: establece una marca para recordar volver a trabajar con el mensaje.
+===========================================================
+25) [ID30580063]
+Pregunta: ¿A qué diseño de la cinta de opciones pertenece el pantallazo mostrado (barra compacta de una sola línea)?
+a) Cinta de opciones clásica
+b) Cinta de opciones reducida.
+c) Cinta de opciones portátil.
+d) Cinta de opciones simplificada.
+Respuesta_correcta: d
+Explicación: Es la cinta de opciones simplificada de Outlook 365, que organiza las herramientas en una sola línea ocultando los comandos menos usados.
 
-Importancia alta e importancia baja: prioridad al enviar; tres niveles: normal (por defecto), alta (admiración cerrada roja), baja (flecha azul hacia abajo).
+===========================================================
+26) [ID44753365]
+Pregunta: En Outlook, ¿qué opción no está disponible en el comando "Barra de tareas pendientes" de la pestaña Vista?
+a) Notas.
+b) Calendario.
+c) Tareas.
+d) Personas.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Calendario, Personas, Tareas y Desactivado; "Notas" no está entre ellas.
 
-Botón de Propiedades avanzadas (menú desplegable): incluye Configuración de seguridad (firmar digitalmente el correo), Opciones de votación y seguimiento (acuse de recibo o lectura), Opciones de entrega: Enviar respuestas a (redirige respuestas a otra dirección), No entregar antes de (fecha/hora de entrega diferida; el mensaje se guarda en Bandeja de salida hasta esa fecha), Caduca después de (fecha de caducidad; tras ella se marca como no disponible en el buzón del destinatario), Solicitar confirmación de entrega (notifica cuando llega al servidor del destinatario), Solicitar confirmación de lectura (notifica cuando el destinatario abre el mensaje).
+===========================================================
+27) [ID41390233]
+Pregunta: ¿Qué significado tiene el campo CC que aparece en la cabecera de un mensaje en Outlook 365?
+a) Copia Certificada.
+b) Contestar con.
+c) Con Copia.
+d) Copia Carbón.
+Respuesta_correcta: d
+Explicación: CC procede de "Carbon Copy" (Copia Carbón), en referencia a las copias hechas con papel carbón en las máquinas de escribir.
 
-2.3. Recibir, responder y reenviar mensajes
-Al acceder al correo se muestran los mensajes recibidos; los no leídos en negrita; la Bandeja de entrada muestra el número de mensajes sin leer.
-Para revisar si hay mensajes nuevos: pestaña Enviar y recibir > Enviar y recibir todas las carpetas (F9).
-- Si el mensaje es respuesta a otro, el asunto aparece precedido de RE:
-- Si el mensaje es reenviado, el asunto aparece precedido de RV o FW:
-Un clip indica archivos adjuntos; una marca de exclamación indica importancia alta.
-Comandos disponibles (con mensaje seleccionado o abierto):
-- Responder (CTRL+R): respuesta solo al remitente original; los demás destinatarios de Para/CC no la reciben; asunto con RE:
-- Responder a todos (CTRL+MAYÚS+R): respuesta al remitente y a todos los destinatarios de Para y CC del mensaje original; los de CCO NO la reciben; precaución para no enviar información a destinatarios no deseados; asunto con RE:
-- Reenviar (CTRL+F): envía el mensaje a una nueva dirección que el usuario debe especificar; el remitente y destinatarios originales NO reciben copia del reenvío; se puede añadir texto adicional antes del mensaje reenviado; asunto con RV: (en español) o FW: (en inglés, "Forward").
-Configuración adicional del gestor de correo: Archivo > Opciones, con categorías: General (interfaz de usuario, predeterminado), Correo (editor de mensajes, ortografía/gramática, firmas, fondos, paneles de lectura, alertas, respuestas/reenvíos, seguimiento, guardado, formato), Calendario (jornada laboral, avisos, previsualización), Personas (cómo se muestran los contactos), Tareas (seguimiento de tareas), Búsqueda (forma de buscar, indización, resultados), Avanzado (paneles de Outlook, inicio/salida, archivado, sonidos, exportación, fuentes RSS, programación de envío/recepción, codificación de mensajes según idioma).
-Desde el menú izquierdo de Outlook también se accede a Personas, Calendario, panel de tareas To Do, lista de tareas pendientes y el resto de aplicaciones de Microsoft 365.
+===========================================================
+28) [ID42284480]
+Pregunta: ¿Cuál de los siguientes no es un programa cliente de correo electrónico?
+a) Mailbird.
+b) Thunderbird.
+c) Postbox.
+d) Vivaldi.
+Respuesta_correcta: d
+Explicación: Vivaldi es un navegador web, no un cliente de correo; Mailbird, Thunderbird y Postbox sí son clientes de correo.
 
-2.4. Criterios de búsqueda en Outlook
-Se pueden escribir frases en el cuadro de búsqueda de la lista de mensajes; se admiten operadores, signos de puntuación y palabras clave para restringir resultados.
-Concordancia de prefijos: al escribir "ray", Outlook devuelve mensajes con ray, Ray, rayo, rayas, pero NO Saray ni pararrayos. Funciona igual con números: "9876" devuelve 9876, 98765, 987600, pero no 19876 ni 59876.
+===========================================================
+29) [ID41432023]
+Pregunta: ¿Qué atajo de teclado nos lleva por defecto al módulo o sección «Personas» en Outlook 365?
+a) Alt + 3
+b) Shift + 3
+c) Ctrl + 3
+d) Mayus + 2
+Respuesta_correcta: c
+Explicación: Ctrl+3 está asociado por defecto a la aplicación Personas.
 
-2.4.1. Conceptos básicos de búsqueda
-Outlook analiza mensajes y muchos tipos de datos adjuntos buscando la palabra/frase en remitente, asunto, cuerpo o datos adjuntos. Al escribir una dirección de correo, devuelve mensajes que la contengan en cualquier lugar y también los enviados desde esa dirección; para limitar a "enviados desde" se especifica en el cuadro de búsqueda con el formato "de:".
+===========================================================
+30) [ID41620285]
+Pregunta: ¿Qué permiso de carpeta de Outlook 365 permite crear nuevos elementos, pero no permite leer o editar elementos existentes en dicha carpeta?
+a) Editor.
+b) Colaborador.
+c) Revisor.
+d) Propietario.
+Respuesta_correcta: b
+Explicación: El permiso "Colaborador" solo permite ver la carpeta y crear elementos, sin leer ni editar los ya existentes.
 
-2.4.2. Tablas de referencia de búsqueda
-Operadores lógicos Y, NO, O (deben escribirse en mayúsculas), además de <, >, =.
-Ejemplos relevantes: "miguel" (todas las variaciones); "miguel tórrez" (cualquiera de los dos, no necesariamente juntos); "miguel Y tórrez" (ambos); "miguel NO tórrez"; "miguel O tórrez"; "\"miguel\"" (frase exacta, con comillas); De:"miguel tórrez" (enviados desde); De:"X" sobre:"Y" (enviados desde X con Y en asunto/cuerpo/adjuntos); Recibido: ayer / la semana pasada (fechas relativas: hoy, mañana, ayer, esta semana, mes siguiente, semana pasada, mes pasado, año que viene, días y meses); Pendiente: la semana pasada (marcados para seguimiento); Tamaño del mensaje: muy pequeño/pequeño/medio/grande/muy grande/enorme (rangos en KB/MB); Tiene datos adjuntos: sí; Archivos adjuntos: nombre; Asunto:"frase"; Cc:"nombre" o Cc:dirección; Cco: nombre; Categoría: palabra; Marca de seguimiento: seguimiento; Tiene indicador: true; operadores de comparación < > = en tamaño y fechas (Recibido:=1/1/2016, Recibido >= fecha y <= fecha, sin usar dos puntos en los intervalos); Enviado: ayer; Para: nombre (buscando en Elementos enviados); Lectura: no / lectura:false.
+===========================================================
+31) [ID30579462]
+Pregunta: ¿Cuál es el formato predeterminado que utiliza Outlook en la redacción y creación de un mensaje de correo electrónico?
+a) HTML.
+b) TTX.
+c) DOCX.
+d) RFT.
+Respuesta_correcta: a
+Explicación: HTML es el formato predeterminado para redactar mensajes en Outlook.
 
-2.4.3. Búsquedas en los contactos
-Solo devuelven resultados correctos ejecutadas desde una carpeta de Contactos: Nombre:, Apellido:, Alias:, Puesto:, Teléfono trabajo:, Teléfono particular:, Teléfono móvil:, Fax trabajo:, Dirección particular: (entre paréntesis), Ciudad trabajo:, Código postal trabajo:, Calle: (entre paréntesis), Cumpleaños:.
+===========================================================
+32) [ID41671630]
+Pregunta: En caso de tener tareas asignadas que no se han realizado, ¿dónde las podemos encontrar en Outlook 365?
+a) Sección Tareas pendientes > carpeta Lista de tareas
+b) Sección Correo > carpeta Tareas pendientes
+c) Sección To Do > Control de tareas > carpeta Mis tareas pendientes
+d) Sección Tareas > carpeta Lista de tareas pendientes
+Respuesta_correcta: d
+Explicación: Las tareas pendientes se localizan en la Sección Tareas, carpeta Lista de tareas pendientes.
 
-3. REGLAS DE MENSAJES
-Organizan el correo entrante: se crea una regla y, según van entrando los mensajes, se distribuyen en carpetas según las especificaciones definidas, o se realizan otras tareas (reenvíos, contestaciones automáticas).
-Se crean/modifican desde Archivo > Información > "Administrar reglas y alertas" (Reglas y alertas). Ventana con pestañas "Reglas de correo electrónico" y "Administrar alertas"; botones Nueva regla, Cambiar regla, Copiar, Eliminar, Ejecutar reglas ahora, Opciones; casilla "Habilitar reglas en todos los mensajes descargados desde fuentes RSS".
-El comando "Nueva regla" abre el Asistente para reglas, con plantillas de ejemplo: Mantenerse organizado (mover a carpeta mensajes de una persona; mover a carpeta mensajes con palabras específicas en el asunto; mover a carpeta mensajes enviados a un grupo público; marcar mensajes de una persona como tarea para seguimiento; mover elementos RSS de una fuente específica a una carpeta), Mantenerse actualizado (mostrar el correo de una persona en Alerta de nuevo elemento; reproducir un sonido al recibir mensajes de alguien; enviar alerta al móvil), o Iniciar desde una regla en blanco (aplicar regla a mensajes que reciba / a mensajes que envíe).
-Se puede crear, por ejemplo, una carpeta donde almacenar correos que cumplan una condición sobre un campo (remitente, Para, CC, CCO, Asunto, cuerpo del mensaje, etc.).
+===========================================================
+33) [ID42490608]
+Pregunta: Indique cuál es el procedimiento adecuado para acceder a la opción "Delegar acceso" en Outlook 365.
+a) Pestaña Inicio>>Mover.
+b) Pestaña Carpeta>>Permisos de carpeta.
+c) Pestaña Archivo>>Herramientas.
+d) Pestaña Archivo>>Configuración de la cuenta.
+Respuesta_correcta: d
+Explicación: Dentro de la pestaña Archivo, en el desplegable "Configuración de la cuenta" se incluye la opción "Delegar acceso".
 
-4. PROTOCOLOS DE RECEPCIÓN
+===========================================================
+34) [ID44753394]
+Pregunta: ¿Qué función de Outlook permite automatizar respuestas cuando estás ausente?
+a) Filtros de correo.
+b) Mensajes de seguimiento.
+c) Respuestas automáticas.
+d) Delegar acceso.
+Respuesta_correcta: c
+Explicación: Respuestas automáticas notifica a los contactos, mediante un correo automático, que no se puede responder de inmediato.
 
-4.1. POP3 (Post Office Protocol)
-Ventaja principal: carpetas y mensajes se guardan en el ordenador local, permitiendo leer el correo sin estar conectado a la red. Al leer/bajar mensajes se libera espacio en el buzón del HOST (menos riesgo de que se llene y no se puedan recibir más mensajes). Ideal para conectarse siempre desde el mismo ordenador. Requiere un programa cliente instalado y configurado (Outlook, Lotus Notes, Eudora, etc.).
+===========================================================
+35) [ID30694159]
+Pregunta: ¿Cuál es el método abreviado para acceder a la Libreta de direcciones?
+a) ALT+MAYUS+B
+b) CTRL+MAYUS+C
+c) CTRL+MAYUS+B
+d) ALT+MAYUS+C
+Respuesta_correcta: c
+Explicación: Ctrl+Mayús+B abre la Libreta de direcciones en Outlook.
 
-4.2. IMAP (Internet Message Access Protocol)
-Diferencia principal respecto a POP3: mensajes y carpetas se guardan en el HOST (no se descargan al PC). Muy útil para conectarse desde ordenadores compartidos (los mensajes no pueden ser leídos por terceros al no quedarse en el PC); permite acceder a la totalidad de los mensajes desde cualquier ordenador. El acceso vía navegador (Web Mail) utiliza el protocolo IMAP.
+===========================================================
+36) [ID41620459]
+Pregunta: ¿Qué método abreviado permite cambiar a la sección Accesos directos según el panel de navegación mostrado (opción en 7ª posición)?
+a) Ctrl + 4
+b) Alt + 5
+c) Ctrl + 7
+d) Mayus + 7
+Respuesta_correcta: c
+Explicación: El número del atajo se corresponde con la posición de la entrada en la barra de navegación contada desde arriba; en el ejemplo, Accesos directos ocupa la 7ª posición, de ahí Ctrl+7.
 
-5. PROBLEMAS
-El principal problema actual es el spam: correos no solicitados (correo basura), normalmente publicidad engañosa en grandes cantidades. Suelen indicar un remitente falso, por lo que es difícil localizar al remitente real y no sirve de nada contestar (las respuestas las reciben usuarios ajenos). No existe forma de discriminar la verdadera dirección del remitente de una falsa (similar al correo postal, donde nada impide poner un remitente aleatorio). Existen tecnologías como la firma de mensajes mediante criptografía de clave pública.
-Otros problemas de seguridad y veracidad:
-- Virus informáticos: se propagan mediante ficheros adjuntos, infectando el ordenador de quien los abre.
-- Phishing: correos fraudulentos que intentan conseguir información bancaria.
-- Hoax (engaños): difunden noticias falsas masivamente.
-- Cadenas de correo electrónico: reenviar un mensaje a mucha gente; aunque parece inofensivo, la publicación de listas de direcciones contribuye a la propagación a gran escala de spam, virus, phishing y hoax.
+===========================================================
+37) [ID41411764]
+Pregunta: ¿Qué comando se debe escribir en el cuadro de búsqueda o en Ejecutar de Windows 10/11 para abrir Outlook 365 sin pasar por el Menú Inicio?
+a) correoutlook
+b) msoutlook
+c) outlook
+d) outlk365
+Respuesta_correcta: c
+Explicación: Escribiendo "outlook" en el cuadro Ejecutar o de búsqueda de Windows se abre la aplicación directamente.
 
-5.1. Recomendaciones
-Ante un mensaje sobre algo desconocido (aunque lo mande alguien conocido), conviene consultar su veracidad (buscadores, sitio web de la supuesta fuente, webs fiables especializadas).
-Solo reenviar si se está seguro de que es cierto e importante, poniendo las direcciones de los destinatarios en CCO (poniendo solo la propia dirección en Para) y borrando del cuerpo los encabezados previos con direcciones de email (mejor copiar el cuerpo sin encabezados previos y pegarlo en un mensaje nuevo o tras reenviar, borrando el texto repetido de envíos anteriores). Así se evita la propagación de spam, malware, phishing o hoax.
-Con mensajes con ficheros adjuntos: cuidado especial si el remitente es desconocido (posible malware); solo abrir si se está seguro de la procedencia e inocuidad.
-Ante ofrecimientos sospechosos de darse de baja de futuros mensajes/boletines: no responder, no escribir a direcciones tipo "bajas@..." o "unsubscribe@...", no pinchar enlaces (confirmaría a los spammers que la cuenta existe y está activa, generando más spam). Si el proveedor lo ofrece, marcar como "Es spam" / "Correo no deseado" / "Marcar como spam".
+===========================================================
+38) [ID41411503]
+Pregunta: ¿En qué pestaña de la cinta de opciones de Outlook 365 se ubica el comando «Comprobar accesibilidad» al redactar un nuevo mensaje?
+a) Mensaje
+b) Insertar
+c) Revisar
+d) Opciones
+Respuesta_correcta: c
+Explicación: «Comprobar accesibilidad» se encuentra en la pestaña Revisar al redactar un nuevo mensaje.
 
-5.2. Soluciones
-No hay fórmula 100% eficaz; existen diversas técnicas basadas en filtros para detectar correo no deseado. Clientes de correo con reglas para detección de spam (eliminación o bandejas especiales). Programas comerciales: SpamExperts Desktop, Xeeon Antispam, SpamExperts Home, SpamFighter, Ad Muncher, Anti Spam Umbrella. La mayoría de compañías de software antivirus incorporan herramientas de detección de spam, phishing, spyware, etc.
+===========================================================
+39) [ID30580179]
+Pregunta: ¿Cuál de los siguientes iconos representa la función «Marcar todos como leídos» para aplicar dicha etiqueta a todos los elementos de correo de la carpeta actual?
+a) (icono con sobre y línea superior)
+b) (icono con sobre y check)
+c) (icono con sobre abierto en la pestaña Carpeta)
+d) (icono de carpeta)
+Respuesta_correcta: c
+Explicación: El icono correspondiente se ubica en la pestaña Carpeta, grupo Limpiar, bajo «Marcar todos como leídos».
 
-Métodos abreviados de navegación básica (selección relevante): CTRL+1 Correo; CTRL+2 Calendario; CTRL+3 Contactos; CTRL+4 Tareas; CTRL+5 Lista de tareas pendientes; CTRL+6 Lista de carpetas; CTRL+MAYÚS+I Bandeja de entrada; CTRL+MAYÚS+O Bandeja de salida; CTRL+R Responder; CTRL+MAYÚS+R Responder a todos; CTRL+ALT+R Responder con convocatoria de reunión; CTRL+F Reenviar; CTRL+ALT+J Marcar como correo deseado; CTRL+MAYÚS+V Enviar a una carpeta; F9 Comprobar nuevos mensajes; CTRL+U Crear mensaje desde correo/cita desde calendario; CTRL+MAYÚS+M Crear mensaje desde cualquier vista; CTRL+O Marcar como no leído; CTRL+SUPRIMIR Mover a eliminados; CTRL+MAYÚS+B Abrir libreta de direcciones; INSERTAR Marca rápida a mensaje sin abrir; CTRL+MAYÚS+G Marcar mensaje para seguimiento; CTRL+Q Marcar como leído; CTRL+ENTRAR Enviar; CTRL+P Imprimir; ALT+ENTRAR Propiedades del elemento; CTRL+MAYÚS+T Crear una tarea.
+===========================================================
+40) [ID35399810]
+Pregunta: En Outlook 365, ¿cuál es el método abreviado para reenviar un correo?
+a) CTRL+U
+b) CTRL+A
+c) CTRL+R
+d) CTRL+F
+Respuesta_correcta: d
+Explicación: Ctrl+F reenvía (Forward) el mensaje seleccionado; Ctrl+R es Responder.
 
-6. AGENDA. CONVOCATORIAS Y CITAS
+===========================================================
+41) [ID30581232]
+Pregunta: ¿Cuál de los siguientes iconos representa el comando Reenviar, que permite redirigir un elemento a otros destinatarios?
+a) (icono de avión de papel)
+b) (icono flecha circular morada)
+c) (icono de flecha recta azul)
+d) (icono de flechas circulares verdes)
+Respuesta_correcta: c
+Explicación: El icono de flecha recta corresponde al comando Reenviar en la pestaña Inicio, grupo Responder.
 
-6.1. Introducción
-Outlook 365 no es solo correo, sino también un completo gestor de calendario para organizar citas personales, convocar reuniones y mantener planificación eficiente y sincronizada, mejorando la gestión del tiempo a nivel personal y organizacional.
+===========================================================
+42) [ID41431413]
+Pregunta: ¿Cuál es el atajo de teclado para crear un nuevo mensaje de correo únicamente desde la aplicación/módulo Correo de Outlook 365?
+a) Ctrl + U
+b) Alt + N
+c) Mayus + M
+d) Ctrl + Alt + U
+Respuesta_correcta: a (según clave ADAMS)
+Explicación: PENDIENTE DE VERIFICAR / POSIBLE ERROR: el atajo ampliamente documentado para crear un nuevo elemento del tipo correspondiente al módulo activo en Outlook es Ctrl+N (nuevo correo si se está en el módulo Correo), que no figura entre las opciones ofrecidas; el enunciado añade que Ctrl+Mayús+M crea un mensaje nuevo desde cualquier posición de Outlook, lo cual sí es correcto y coincide con lo documentado. Se mantiene la clave de ADAMS (Ctrl+U) sin modificarla, pero no ha sido posible confirmar con seguridad ese atajo concreto.
 
-El Calendario de Outlook como agenda
-Herramienta de agenda integrada; organiza el tiempo visualmente mostrando eventos en distintas vistas temporales. Se accede desde el icono de Calendario en la barra de navegación o con CTRL+2.
-Vistas disponibles:
-- Vista Día (ALT+1): eventos de un día concreto organizados por horas.
-- Vista Semana laboral: cinco días laborables de la semana actual.
-- Vista Semana (ALT+2): siete días de la semana.
-- Vista Mes (ALT+4): mes completo con eventos de cada día.
-- Vista Programación: eventos en formato de tabla horizontal, útil para comparar disponibilidad.
-Se sincroniza automáticamente con Microsoft Teams y otros servicios de Microsoft 365: las reuniones creadas en Teams aparecen en el calendario de Outlook y viceversa.
-Desde el Calendario se puede: ver la disponibilidad de otros usuarios de la organización antes de crear una reunión; compartir el calendario propio; suscribirse a calendarios externos (festivos, calendarios de equipo); configurar el horario laboral para que Outlook lo tenga en cuenta al sugerir horas de reunión.
-Desde el módulo Calendario se puede: crear, editar y eliminar citas y reuniones; enviar invitaciones; gestionar respuestas de los asistentes; consultar la disponibilidad de otros usuarios.
-Diferencia entre cita y convocatoria:
-- Cita: evento personal programado en el propio calendario del usuario, SIN incluir a otros participantes.
-- Convocatoria o reunión: evento al que se invita a uno o más asistentes; Outlook envía las invitaciones por correo, muestra la disponibilidad de los asistentes y agrega el evento al calendario de los invitados que acepten.
-Se accede a la sección Calendario seleccionando su icono en la barra lateral izquierda.
+===========================================================
+43) [ID42284509]
+Pregunta: En el comando "Limpiar" de la pestaña Inicio de Outlook, ¿qué opción no está disponible?
+a) Limpiar mensaje.
+b) Limpiar conversación.
+c) Limpiar carpeta.
+d) Limpiar carpeta y subcarpetas.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Limpiar conversación, Limpiar carpeta y Limpiar carpeta y subcarpetas; "Limpiar mensaje" no existe.
 
-6.2. Creación de citas o convocatorias
-Para crear una cita/evento personal: pestaña Inicio > botón "Nueva cita". Para crear una reunión con más participantes: botón "Nueva reunión".
-Campos comunes a cita y reunión:
-- Título: nombre del evento, visible en el calendario.
-- Ubicación: lugar físico o virtual (sala física, Teams, etc.).
-- Fecha y hora: inicio y fin de la reunión/cita.
-- Campo notas/texto: detalles, agenda, documentos.
-- Aviso: alertas configurables de 0 a 2 semanas antes.
-- Categorizar: colores para organización visual.
-- Importancia alta/baja: importancia de la reunión.
-- Convertir en periódica: define la recurrencia del evento (frecuencia Diaria/Semanal/Mensual/Anual, rango de repetición con comienzo, finalización en fecha, después de X repeticiones, o sin fecha de finalización).
-- Privado: oculta detalles del evento a otros usuarios que vean el calendario.
-- Pestaña Insertar: permite adjuntar documentos al evento.
+===========================================================
+44) [ID30691889]
+Pregunta: ¿En qué pestaña de la cinta de opciones de la aplicación Correo de Outlook 365 se encuentra el icono de "Trabajar sin conexión" (globo con círculo rojo)?
+a) Mensaje.
+b) Enviar y recibir.
+c) Carpeta.
+d) Inicio.
+Respuesta_correcta: b
+Explicación: El icono de Trabajar sin conexión está en la pestaña Enviar y recibir.
 
-6.3. Creación de convocatorias / reuniones
-Al crear una convocatoria con más de un participante aparecen campos adicionales:
-- Agregar asistentes: campos "Obligatorio" y "Opcional" para incluir correos de participantes.
-- Asistente para programación: visualiza la disponibilidad de los invitados en tiempo real.
-- Reunión de Skype (o Teams): inserta automáticamente un enlace de reunión virtual.
-- Opciones de respuesta: solicitar confirmación a los invitados y/o permitir nuevas propuestas de plazos.
-- Reenviar: permite que los invitados puedan reenviar la reunión (o reenviar como iCalendar).
+===========================================================
+45) [ID41411300]
+Pregunta: Al terminar de revisar los errores ortográficos/gramaticales de un correo tras ejecutar el Editor ortográfico y gramatical, ¿qué sucederá a continuación en Outlook 365?
+a) Se cerrará la ventana principal del correo electrónico y se mostrará una vista previa del correo antes de enviarlo.
+b) Aparecerá un cuadro de dialogo preguntando si se desea reanudar una segunda comprobación desde el principio del documento.
+c) Aparecerá un cuadro de diálogo confirmando que se ha terminado de revisar las sugerencias del editor.
+d) Aparecerá un cuadro de dialogo solicitando una evaluación del funcionamiento del corrector ortográfico.
+Respuesta_correcta: c
+Explicación: Aparece un cuadro de diálogo "Ha terminado de revisar las sugerencias del editor".
 
-6.4. Consulta y modificación de eventos
-Una vez creada la reunión, se visualiza en la ventana de Calendario (vista por Día, Semana, Semana Laboral o Mes). Al hacer clic sobre el evento se muestran sus detalles y actualizaciones (p. ej. respuestas de los participantes: aceptaron, aceptaron provisionalmente, rechazaron). Desde esa ventana se puede cancelar la reunión o modificarla; los cambios se comunican a los asistentes por correo electrónico.
+===========================================================
+46) [ID42285206]
+Pregunta: En Outlook 365, ¿cuál de las siguientes no es una opción de "Bloquear"?
+a) Bloquear el dominio del remitente.
+b) Bloquear remitente.
+c) No bloquear al remitente nunca.
+d) No bloquear a este grupo o lista de distribución de correo nunca.
+Respuesta_correcta: a
+Explicación: Las opciones reales son Bloquear remitente, No bloquear al remitente nunca, No bloquear nunca el dominio del remitente y No bloquear a este grupo o lista de distribución nunca; "Bloquear el dominio del remitente" (en positivo) no es una opción tal cual está redactada.
 
-Atajos de teclado en el calendario: Ctrl+2 Ir a Calendario; Ctrl+U Crear nueva cita; Ctrl+Mayús+Q Crear nueva convocatoria de reunión; Ctrl+Mayús+R Responder a todos en una reunión; Ctrl+F Reenviar una cita o reunión; Ctrl+D Rechazar una invitación; Ctrl+T Vista de hoy; Alt+1 Vista Día; Alt+2 Vista Semana; Alt+4 Vista Mes; Ctrl+Flecha derecha/izquierda Día siguiente/anterior; Alt+Flecha abajo/arriba Semana siguiente/anterior; Alt+AvPag/RePag Mes siguiente/anterior.
+===========================================================
+47) [ID41431848]
+Pregunta: Al imprimir un elemento de correo seleccionado en Outlook 365, ¿es posible conocer el número total de páginas que se imprimirán?
+a) Si, pero para acceder a esta información se necesita ir al apartado «Opciones de impresión»...
+b) Si, al acceder al comando Imprimir, en la vista previa se mostrará en la parte inferior de la ventana el número de página actual y el total de páginas.
+c) No, hasta que no se complete el proceso de impresión no se podrá conocer cuantas páginas serán necesarias...
+d) Ninguna respuesta es correcta.
+Respuesta_correcta: b
+Explicación: En la vista previa de impresión se muestra en la parte inferior el número de página actual y el total (p. ej. "1 de 3").
 
-IDEAS CLAVE
-- El correo electrónico es un sistema de comunicación electrónica que permite enviar mensajes y archivos digitales a través de Internet.
-- Una dirección de correo electrónico consta de nombre de usuario y dominio, separados por "@" (arroba). Ejemplo: usuario@adams.com.
-- Protocolo más común: SMTP para enviar mensajes; POP3 o IMAP para acceder a los mensajes.
-- El webmail se accede a través de un navegador web en lugar de un cliente de correo de escritorio.
-- El spam es correo no deseado enviado masivamente sin consentimiento; se puede proteger el correo con filtros o reglas.
-- El phishing intenta engañar a los destinatarios para obtener información confidencial haciéndose pasar por una entidad confiable.
-- Elementos esenciales de la interfaz de un gestor de correo: bandeja de entrada, borradores, elementos enviados, elementos eliminados, bandeja de salida, correo no deseado.
-- Partes principales de un mensaje: encabezado/cabecera, cuerpo del mensaje y archivos adjuntos.
-- CC muestra la dirección del destinatario al que se envió copia; CCO oculta las direcciones de los destinatarios en copia.
-- Microsoft Outlook es la aplicación de gestión de correo electrónico y organización personal de la suite Office.
-- Acciones más comunes con un mensaje recibido: Responder, Responder a todos, Reenviar.
-- Un archivo PST (Personal Storage Table) almacena correos, contactos, calendarios y otros elementos de Outlook; sirve para copias de seguridad y archivado.
-- La vista de conversación agrupa correos con el mismo asunto en un hilo.
-- Formatos de texto en correos de Outlook: texto sin formato, HTML, Texto enriquecido (Rich Text).
-- Una cita es un evento personal sin otros participantes; una convocatoria es un evento al que se invita a uno o más asistentes.
+===========================================================
+48) [ID41411706]
+Pregunta: El icono mostrado (silueta de dos personas) ¿a cuál de los Módulos/Aplicaciones se corresponde en Outlook 365?
+a) Módulo Correo
+b) Módulo Contactos
+c) Módulo Personas
+d) Modulo Tareas Compartidas
+Respuesta_correcta: c
+Explicación: Es el icono del módulo Personas.
+
+===========================================================
+49) [ID41620343]
+Pregunta: ¿Cuál es el atajo de teclado para crear nueva carpeta de búsqueda en Outlook 365?
+a) Mayus + S
+b) Ctrl + S
+c) Ctrl + Mayus + P
+d) Ctrl + Alt + P
+Respuesta_correcta: c
+Explicación: Ctrl+Mayús+P crea una nueva carpeta de búsqueda.
+
+===========================================================
+50) [ID30692005]
+Pregunta: ¿Cuál de los siguientes iconos de la aplicación de correo de Outlook 365 se corresponde con la función «Cancelar todo» en el proceso de descarga?
+a) (icono globo con aspa roja)
+b) (icono documento tachado)
+c) (icono flecha circular con aspa roja)
+d) (icono globo simple)
+Respuesta_correcta: c
+Explicación: El icono de flecha circular con aspa roja, en la pestaña Enviar y recibir, grupo Descargar, corresponde a «Cancelar todo».
+
+===========================================================
+51) [ID-5.1.5]
+Pregunta: ¿Qué particularidad tiene una carpeta de búsqueda en Outlook?
+a) Mueve automáticamente los mensajes según una regla que defina el usuario
+b) Muestra mensajes que cumplen un criterio sin moverlos de su carpeta
+c) Copia los mensajes encontrados a una carpeta nueva
+d) Guarda el historial de las búsquedas realizadas
+Respuesta_correcta: b
+Explicación: Una carpeta de búsqueda es una carpeta virtual que muestra todos los mensajes que cumplen el criterio definido, estén donde estén, sin moverlos ni copiarlos físicamente de su carpeta real.
+
+===========================================================
+52) [ID-5.1.8]
+Pregunta: ¿Para qué sirven las categorías de color en Outlook?
+a) Cambiar el color de fondo de la ventana principal de la aplicación
+b) Distinguir los mensajes leídos de los no leídos
+c) Etiquetar elementos de distintos tipos con una marca visual común
+d) Asignar una prioridad de envío a cada mensaje
+Respuesta_correcta: c
+Explicación: Las categorías de color permiten etiquetar correos, citas, contactos o tareas con una marca visual común, para organizarlos y localizarlos independientemente del módulo en que se encuentren.
+
+===========================================================
+53) [ID-5.1.9]
+Pregunta: ¿Qué efecto tiene aplicar una marca de seguimiento a un mensaje recibido?
+a) Impide que el mensaje se elimine por error
+b) Envía un aviso automático al remitente del mensaje
+c) Lo mueve a una carpeta de pendientes del buzón
+d) Lo señala como pendiente y lo suma a la lista de tareas
+Respuesta_correcta: d
+Explicación: Una marca de seguimiento (Follow Up) señala el mensaje como pendiente de una acción y lo añade automáticamente a la lista de tareas pendientes (To-Do List), sin moverlo de carpeta ni avisar al remitente.
+
+===========================================================
+54) [ID-5.1.10]
+Pregunta: ¿Qué es un archivo de datos de Outlook con extensión PST?
+a) Una copia cifrada de la libreta de direcciones
+b) Una plantilla para crear mensajes reutilizables
+c) Un archivo de configuración con los parámetros del servidor de correo
+d) Un archivo local que almacena mensajes y elementos del buzón
+Respuesta_correcta: d
+Explicación: Un archivo .pst es un archivo de datos local que almacena una copia de los mensajes y demás elementos del buzón (p. ej. para archivado u copias de seguridad), a diferencia del .ost usado en modo caché.
+
+===========================================================
+55) [ID-5.1.12]
+Pregunta: ¿Qué aporta el modo de intercambio en caché en una cuenta de Outlook?
+a) Sincroniza el buzón únicamente al abrir el programa
+b) Comprime los mensajes antiguos para ahorrar espacio
+c) Mantiene una copia local del buzón para trabajar sin conexión
+d) Descarga únicamente los encabezados de los mensajes que llegan
+Respuesta_correcta: c
+Explicación: El modo de intercambio en caché (Cached Exchange Mode) mantiene una copia local (.ost) del buzón de Exchange, permitiendo seguir consultando y trabajando con el correo aunque se pierda la conexión con el servidor.
+
+===========================================================
+56) [ID-5.1.13]
+Pregunta: ¿Qué finalidad tiene la sección Favoritos del panel de carpetas de Outlook?
+a) Guardar los mensajes marcados con una estrella
+b) Almacenar copias de las carpetas más consultadas
+c) Situar arriba accesos a las carpetas de uso más frecuente
+d) Reunir los contactos con los que más se intercambia correo
+Respuesta_correcta: c
+Explicación: Favoritos es un área situada en la parte superior del panel de carpetas que ofrece accesos directos a las carpetas que el usuario usa con más frecuencia, sin duplicar su contenido.
+
+===========================================================
+57) [ID-5.1.14]
+Pregunta: ¿Qué hace la herramienta Limpiar conversación en Outlook?
+a) Comprime los datos adjuntos de todos los mensajes que componen el hilo entero
+b) Borra todos los mensajes del hilo salvo el primero
+c) Elimina los mensajes del hilo cuyo texto ya está incluido en otro posterior
+d) Traslada la conversación completa a Elementos eliminados
+Respuesta_correcta: c
+Explicación: Limpiar conversación analiza el hilo y elimina los mensajes redundantes cuyo contenido íntegro ya está incluido en un mensaje posterior de la misma conversación, conservando los mensajes con información única.
+
+===========================================================
+58) [ID-5.2.7]
+Pregunta: ¿Qué condición es imprescindible para que funcione la recuperación de un mensaje ya enviado en Outlook?
+a) Que el mensaje se haya enviado con confirmación de lectura
+b) Que el destinatario esté en la misma organización y no lo haya abierto
+c) Que hayan transcurrido menos de cinco minutos desde que se envió el correo
+d) Que el mensaje se haya marcado con importancia alta
+Respuesta_correcta: b
+Explicación: Recuperar este mensaje (Recall) solo funciona entre cuentas de la misma organización Exchange/Microsoft 365, y únicamente si el destinatario todavía no ha abierto el mensaje; no depende del tiempo transcurrido ni de confirmaciones de lectura.
+
+===========================================================
+59) [ID-5.2.11]
+Pregunta: Necesitas incluir en un mensaje otro correo que recibiste la semana pasada. ¿Qué debes hacer?
+a) Adjuntar el elemento de Outlook desde el comando de datos adjuntos
+b) Exportar el mensaje a un archivo y adjuntarlo
+c) Reenviar el mensaje antiguo al nuevo destinatario
+d) Copiar el texto del mensaje antiguo y pegarlo en el cuerpo del nuevo
+Respuesta_correcta: a
+Explicación: Desde Insertar/Adjuntar > Elemento de Outlook se puede adjuntar directamente un correo ya existente (como objeto .msg) al mensaje que se está redactando, sin necesidad de exportarlo ni copiar su texto.
+
+===========================================================
+60) [ID-5.2.12]
+Pregunta: Envías un correo importante y quieres saber si el servidor del destinatario lo recibió correctamente, sin esperar a que lo abran. ¿Qué opción debes solicitar?
+a) Confirmación de lectura
+b) Revisión ortográfica al enviar
+c) Bloquear remitente
+d) Confirmación de entrega
+Respuesta_correcta: d
+Explicación: La confirmación de entrega avisa cuando el servidor de correo del destinatario ha recibido el mensaje, independientemente de si se ha abierto; la confirmación de lectura, en cambio, solo llega cuando el destinatario lo abre.
+
+===========================================================
+61) [ID-5.2.13]
+Pregunta: Al abrir un mensaje aparece un aviso indicando que se han bloqueado las imágenes. ¿Cuál es el motivo?
+a) Impedir que el mensaje se imprima con formato
+b) Evitar que el remitente confirme que la dirección está activa
+c) Acelerar la sincronización del buzón con el servidor de correo
+d) Reducir el espacio que el mensaje ocupa en el buzón
+Respuesta_correcta: b
+Explicación: Outlook bloquea por defecto la descarga automática de imágenes externas para evitar que remitentes (a menudo de spam) confirmen, mediante balizas web, que la dirección de correo está activa.
+
+===========================================================
+62) [ID-5.2.17]
+Pregunta: Un hilo de correo se está alargando y prefieres tratarlo en una reunión. ¿Qué opción de Outlook lo resuelve en un paso?
+a) Reenviar el mensaje al calendario propio
+b) Responder con reunión
+c) Marcar el mensaje con seguimiento y fecha
+d) Adjuntar el hilo a una cita del calendario
+Respuesta_correcta: b
+Explicación: «Responder con reunión» convierte en un solo paso el mensaje recibido en una convocatoria de reunión, incluyendo automáticamente como asistentes a los participantes del hilo.
+
+===========================================================
+63) [ID-5.3.4]
+Pregunta: ¿Dónde se establece el formato con el que se redactarán todos los mensajes nuevos?
+a) En la configuración de la cuenta de correo
+b) En las opciones de Outlook, apartado Correo
+c) En las propiedades de la carpeta Bandeja de entrada
+d) En la pestaña Formato de texto de cada mensaje
+Respuesta_correcta: b
+Explicación: El formato predeterminado de redacción (HTML, texto enriquecido o texto sin formato) se configura de forma global en Archivo > Opciones > Correo, apartado "Redactar mensajes".
+
+===========================================================
+64) [ID-5.3.10]
+Pregunta: ¿Qué permiten los temas o la papelería en la redacción de mensajes de Outlook?
+a) Convertir el mensaje al formato de texto sin formato alguno
+b) Guardar el mensaje como plantilla reutilizable
+c) Insertar automáticamente la firma corporativa
+d) Aplicar un conjunto coordinado de fuentes, colores y fondo
+Respuesta_correcta: d
+Explicación: Los temas y la papelería aplican de forma conjunta un diseño coordinado de fuentes, colores y fondo/textura al mensaje; no equivalen a una plantilla reutilizable ni insertan firmas.
+
+===========================================================
+65) [ID-5.3.11]
+Pregunta: Escribes con frecuencia el mismo párrafo de condiciones en tus mensajes. ¿Qué función de Outlook evita repetirlo?
+a) Las categorías de color del mensaje
+b) Las respuestas automáticas de ausencia
+c) Los pasos rápidos de la cinta
+d) Los elementos rápidos
+Respuesta_correcta: d
+Explicación: Los elementos rápidos (Quick Parts) permiten guardar fragmentos de texto reutilizables (como un párrafo de condiciones) e insertarlos de nuevo con un par de clics, sin tener que volver a escribirlos.
+
+===========================================================
+66) [ID-5.3.18]
+Pregunta: Un jefe envía un correo con opciones como Aceptar, Rechazar y Quizá para obtener respuestas uniformes del equipo. ¿Qué característica de Outlook está utilizando y con qué finalidad principal?
+a) Botones de voto para recoger respuestas predefinidas
+b) Texto enriquecido para permitir un formato intermedio
+c) Firma predeterminada para identificar al remitente automáticamente
+d) Papelería para aplicar un diseño visual al mensaje
+Respuesta_correcta: a
+Explicación: Los botones de voto permiten incluir en el mensaje un conjunto de respuestas predefinidas (como Aceptar/Rechazar/Quizá) para que los destinatarios respondan con un solo clic y las respuestas puedan contabilizarse de forma uniforme.
+
+===========================================================
+67) [ID-5.4.3]
+Pregunta: ¿Qué efecto tiene incluir una dirección en la lista de remitentes bloqueados?
+a) Sus mensajes van directamente a Correo no deseado
+b) Sus mensajes se eliminan sin llegar al buzón
+c) Sus mensajes se devuelven al remitente con un aviso
+d) Sus mensajes se marcan como leídos automáticamente
+Respuesta_correcta: a
+Explicación: Los mensajes de un remitente en la lista de remitentes bloqueados se envían directamente a la carpeta Correo no deseado; no se eliminan ni se devuelven al remitente.
+
+===========================================================
+68) [ID-5.4.4]
+Pregunta: Un boletín que sí te interesa acaba siempre en Correo no deseado. ¿Cuál es la solución más estable?
+a) Crear una carpeta de búsqueda para ese remitente
+b) Reducir el nivel de protección a Sin filtrado
+c) Mover el mensaje a la Bandeja de entrada cada vez
+d) Añadir el remitente a la lista de remitentes seguros
+Respuesta_correcta: d
+Explicación: Añadir el remitente a la lista de remitentes seguros garantiza de forma estable que sus futuros mensajes no se clasifiquen como correo no deseado, sin necesidad de bajar el nivel general de protección ni de mover el mensaje manualmente cada vez.
+
+===========================================================
+69) [ID-5.4.7]
+Pregunta: ¿De qué tres elementos se compone una regla de Outlook?
+a) Criterio, plantilla y destinatario
+b) Remitente, asunto y carpeta de destino
+c) Origen, filtro y periodicidad
+d) Condición, acción y excepción
+Respuesta_correcta: d
+Explicación: Toda regla de Outlook se define mediante una condición (qué mensajes afecta), una acción (qué hacer con ellos) y, opcionalmente, una excepción (casos en que no se aplica).
+
+===========================================================
+70) [ID-5.4.8]
+Pregunta: Tienes seleccionado un mensaje y quieres una regla que trate igual a los que lleguen de ese remitente. ¿Cuál es la vía más rápida?
+a) Añadir el remitente a la lista de contactos seguros
+b) Abrir el asistente y escribir la dirección manualmente
+c) Usar la opción Crear regla sobre el mensaje seleccionado
+d) Aplicar un paso rápido que mueva el mensaje
+Respuesta_correcta: c
+Explicación: Con el mensaje seleccionado, la opción Crear regla (Inicio > Reglas > Crear regla) rellena automáticamente las condiciones a partir de ese mensaje (remitente, asunto, etc.), siendo la vía más rápida frente a escribir la dirección a mano en el asistente.
+
+===========================================================
+71) [ID-5.4.9]
+Pregunta: ¿En qué orden aplica Outlook las reglas a un mensaje entrante?
+a) En orden alfabético según el nombre de cada regla
+b) Primero las del servidor y después todas las del cliente
+c) En orden de creación, de la más antigua a la más reciente
+d) En el orden en que aparecen en la lista, de arriba abajo
+Respuesta_correcta: d
+Explicación: Outlook aplica las reglas en el orden en que figuran en la lista del Administrador de reglas y alertas, de arriba abajo; ese orden puede reorganizarse manualmente y no depende del nombre ni de la fecha de creación.
+
+===========================================================
+72) [ID-5.4.11]
+Pregunta: ¿Qué distingue a una regla del lado del cliente en Outlook?
+a) Depende de la carpeta Borradores para activarse
+b) Se ejecuta siempre en el servidor de correo
+c) Funciona solo con cuentas sin conexión permanente
+d) Requiere Outlook en ejecución para ciertas acciones
+Respuesta_correcta: d
+Explicación: Las reglas del lado del cliente (p. ej. las que mueven mensajes a una carpeta personal o reproducen un sonido) solo se ejecutan cuando Outlook está abierto; las reglas del lado del servidor, en cambio, se aplican aunque el programa esté cerrado.
+
+===========================================================
+73) [ID-5.4.12]
+Pregunta: Has creado una regla nueva y quieres aplicarla también a los mensajes que ya están en la Bandeja de entrada. ¿Qué debes hacer?
+a) Marcar los mensajes como no leídos y esperar
+b) Mover los mensajes a otra carpeta y después devolverlos
+c) Reiniciar Outlook para que la regla se aplique
+d) Usar la opción Ejecutar reglas ahora sobre esa carpeta
+Respuesta_correcta: d
+Explicación: La opción «Ejecutar reglas ahora» permite aplicar una regla de forma retroactiva sobre los mensajes ya existentes en una carpeta, sin tener que reiniciar Outlook ni mover los mensajes manualmente.
+
+===========================================================
+74) [ID-5.4.13]
+Pregunta: Una directora quiere que otra persona gestione su calendario y responda convocatorias en su nombre. ¿Qué configuración corresponde a ese caso?
+a) Cambiar el tema de cada convocatoria
+b) Asignar un delegado con permisos
+c) Crear una firma automática global
+d) Insertar una nota al pie compartida
+Respuesta_correcta: b
+Explicación: Asignar un delegado (Archivo > Configuración de cuenta > Acceso delegado) con permisos sobre el calendario permite que otra persona gestione las citas y responda convocatorias en nombre del titular del buzón.
+
+===========================================================
+75) [ID-5.5.2]
+Pregunta: ¿Qué significa adjuntar una tarjeta de presentación en un mensaje?
+a) Importar contactos desde otro programa
+b) Convertir un mensaje recibido en contacto guardado
+c) Insertar un contacto como tarjeta de presentación
+d) Añadir una firma con datos personales
+Respuesta_correcta: c
+Explicación: Adjuntar una tarjeta de presentación inserta en el mensaje un contacto (propio o de la libreta de direcciones) en formato de tarjeta de presentación electrónica, que el destinatario puede guardar directamente como contacto.
+
+===========================================================
+76) [ID-5.5.3]
+Pregunta: ¿Qué caracteriza a la Lista global de direcciones frente a la carpeta Contactos?
+a) Solo contiene los contactos con los que se ha escrito
+b) Se sincroniza únicamente al iniciar Outlook
+c) La crea el usuario con sus contactos personales
+d) La mantiene la organización y recoge a todos sus usuarios
+Respuesta_correcta: d
+Explicación: La Lista global de direcciones (GAL) es un directorio centralizado que mantiene la organización (a través de Exchange) con todos sus usuarios, a diferencia de la carpeta Contactos, que es personal y la gestiona cada usuario.
+
+===========================================================
+77) [ID-5.5.7]
+Pregunta: Necesitas llevarte tus contactos a otro programa de correo. ¿Qué formato de exportación es el más compatible?
+a) Un grupo de contactos exportado
+b) Un archivo de datos de Outlook
+c) Una tarjeta de presentación por contacto
+d) Un archivo de valores separados por comas
+Respuesta_correcta: d
+Explicación: El archivo de valores separados por comas (CSV) es el formato de exportación más universal y compatible para importar contactos en otros programas de correo, frente a formatos propios de Outlook como el .pst.
+
+===========================================================
+78) [ID-5.5.10]
+Pregunta: ¿Qué describe mejor un archivo VCF al exportar contactos?
+a) Acceso directo a una carpeta local
+b) Archivo de datos que almacena el buzón de correo completo
+c) Formato para intercambiar información de contacto
+d) Plantilla para crear documentos de texto
+Respuesta_correcta: c
+Explicación: El formato VCF (vCard) es un estándar para intercambiar información de contacto (nombre, teléfono, correo, etc.) entre distintas aplicaciones y dispositivos, a diferencia del .pst, que almacena todo el buzón.
+
+===========================================================
+79) [ID-5.5.11]
+Pregunta: Guardas un contacto y Outlook avisa de que ya existe otro con datos parecidos. ¿Qué opciones ofrece?
+a) Únicamente sobrescribir el contacto anterior
+b) Fusionar los dos contactos sin ninguna posibilidad de revisarlos antes
+c) Actualizar el contacto existente o guardar el nuevo por separado
+d) Únicamente descartar el contacto que se está creando
+Respuesta_correcta: c
+Explicación: Ante un posible contacto duplicado, Outlook permite actualizar el contacto existente con los nuevos datos o bien guardar el nuevo contacto como un elemento independiente, dejando la decisión al usuario.
+
+===========================================================
+80) [ID-5.5.12]
+Pregunta: ¿Qué permiten las distintas vistas de la carpeta Contactos de Outlook?
+a) Convertir los contactos en destinatarios de una convocatoria
+b) Filtrar los contactos por su frecuencia de uso
+c) Sincronizar los contactos con el servidor de la organización
+d) Presentar las fichas como tarjetas o como una lista con columnas
+Respuesta_correcta: d
+Explicación: Las vistas de Contactos (Tarjeta de presentación, Tarjeta, Teléfono, Lista, etc.) permiten mostrar las fichas como tarjetas visuales o como una lista detallada organizada en columnas, sin afectar a la sincronización ni al filtrado por uso.
+
+===========================================================
+81) [ID-5.6.1]
+Pregunta: ¿Qué distingue a una cita de una reunión en el calendario de Outlook?
+a) La reunión se repite en el tiempo y la cita es puntual
+b) La reunión incluye asistentes convocados y la cita no
+c) La reunión admite recordatorio y la cita no lo admite
+d) La reunión ocupa toda la jornada y la cita solo unas horas
+Respuesta_correcta: b
+Explicación: La diferencia esencial es que una reunión convoca a otros asistentes (se les envía una invitación), mientras que una cita es un elemento del calendario sin asistentes convocados. Tanto citas como reuniones pueden ser puntuales o periódicas, admiten recordatorio y pueden ocupar cualquier duración, por lo que a), c) y d) no son correctas.
+
+===========================================================
+82) [ID-5.6.5]
+Pregunta: En una serie periódica del calendario, ¿qué es una ocurrencia?
+a) Una excepción aplicada a la serie
+b) Una repetición individual de la serie
+c) Una vista resumida de la serie
+d) Una regla de creación de la serie
+Respuesta_correcta: b
+Explicación: Una ocurrencia es cada una de las repeticiones individuales que forman una serie periódica (por ejemplo, cada reunión semanal concreta dentro de la serie), y puede modificarse de forma independiente del resto de la serie.
+
+===========================================================
+83) [ID-5.6.6]
+Pregunta: Necesitas cambiar la hora de una sola sesión de una reunión periódica. ¿Qué debes elegir al abrirla?
+a) Cancelar la serie y crearla de nuevo
+b) Abrir toda la serie
+c) Duplicar la reunión en la fecha correcta
+d) Abrir esta ocurrencia
+Respuesta_correcta: d
+Explicación: Al abrir un elemento de una serie periódica, Outlook pregunta si se desea abrir solo esta ocurrencia o toda la serie; para modificar únicamente una sesión concreta (como su hora) hay que elegir «Abrir esta ocurrencia».
+
+===========================================================
+84) [ID-5.6.7]
+Pregunta: ¿Qué permite la vista superpuesta de calendarios en Outlook?
+a) Ver varios calendarios en una misma cuadrícula de horas
+b) Combinar varios calendarios en uno solo de forma permanente
+c) Comparar la disponibilidad de los asistentes a una reunión
+d) Copiar las citas de un calendario a otro automáticamente
+Respuesta_correcta: a
+Explicación: La vista superpuesta (Overlay) muestra varios calendarios a la vez en una misma cuadrícula de horas, uno encima de otro, facilitando la comparación visual sin fusionarlos de forma permanente ni afectar a su contenido.
+
+===========================================================
+85) [ID-5.6.10]
+Pregunta: Quieres que un compañero pueda ver el detalle de tus citas pero sin modificarlas. ¿Qué debes hacer?
+a) Publicar el calendario en la lista global de direcciones
+b) Compartir el calendario concediéndole permiso de lectura
+c) Enviarle una copia del calendario por correo cada semana
+d) Asignarle un delegado sobre tu buzón de correo
+Respuesta_correcta: b
+Explicación: Compartir el calendario con un permiso de lectura (p. ej. «Revisor») permite que otro usuario vea el detalle de las citas sin poder modificarlas, a diferencia de un delegado, que sí tendría permisos de edición.
+
+===========================================================
+86) [ID-5.6.11]
+Pregunta: ¿Qué diferencia hay entre la vista Mes y la vista Semana del calendario?
+a) La vista Mes no permite crear citas nuevas
+b) La vista Mes muestra únicamente los eventos que duran todo el día
+c) La vista Mes resume el periodo y la Semana detalla las horas
+d) La vista Mes oculta las reuniones con asistentes
+Respuesta_correcta: c
+Explicación: La vista Mes ofrece una visión resumida y compacta de todo el periodo, mientras que la vista Semana detalla las citas distribuidas por franjas horarias; ambas vistas permiten crear citas y muestran todo tipo de eventos y reuniones.
+
+===========================================================
+87) [ID-5.7.4]
+Pregunta: ¿Qué ofrece el Asistente para programación al preparar una convocatoria?
+a) Un listado de las reuniones ya aceptadas por cada asistente
+b) Una propuesta de agenda con los puntos a tratar
+c) Un aviso a los asistentes para que confirmen su horario
+d) Una cuadrícula con la disponibilidad de todos los asistentes
+Respuesta_correcta: d
+Explicación: El Asistente para programación (Scheduling Assistant) muestra una cuadrícula horaria con la disponibilidad de todos los asistentes y salas convocados, facilitando encontrar un hueco libre común.
+
+===========================================================
+88) [ID-5.7.5]
+Pregunta: Has enviado una convocatoria y quieres saber cuántos han aceptado. ¿Dónde lo consultas?
+a) En la carpeta Elementos enviados del buzón
+b) En la pestaña de seguimiento de la reunión abierta
+c) En las propiedades del calendario compartido
+d) En el asistente para programación de la convocatoria
+Respuesta_correcta: b
+Explicación: Al abrir la reunión organizada desde el calendario, la pestaña/botón Seguimiento (Tracking) muestra el estado de las respuestas (aceptada, rechazada, provisional o pendiente) de cada asistente convocado; las propiedades del calendario compartido no recogen esa información.
+
+===========================================================
+89) [ID-5.7.7]
+Pregunta: Recibes una convocatoria y consideras que debería asistir también un compañero no invitado. ¿Qué puedes hacer?
+a) Reenviar la convocatoria, si el organizador no lo ha impedido
+b) Crear una reunión paralela con los mismos datos
+c) Aceptar la reunión en su nombre desde el calendario compartido
+d) Añadirlo directamente a la lista de asistentes
+Respuesta_correcta: a
+Explicación: Un asistente puede reenviar la convocatoria recibida a otra persona para invitarla, salvo que el organizador haya desactivado expresamente la opción de reenvío de la convocatoria.
+
+===========================================================
+90) [ID-5.7.10]
+Pregunta: Al convertir una reunión suelta en periódica, ¿qué ocurre con los asistentes ya convocados?
+a) Pierden las respuestas que ya habían enviado
+b) Solo conservan la primera sesión en su calendario
+c) Deben ser convocados de nuevo desde cero
+d) Reciben una actualización con el patrón de repetición
+Respuesta_correcta: d
+Explicación: Al aplicar periodicidad a una reunión ya convocada, Outlook envía automáticamente a los asistentes una actualización con el nuevo patrón de repetición, sin necesidad de volver a convocarlos desde cero ni perder lo ya enviado.
+
+===========================================================
+91) [ID-5.7.13]
+Pregunta: Un organizador no quiere recibir mensajes de aceptación o rechazo en su bandeja, pero aún enviará la convocatoria. ¿Qué configuración debe ajustar?
+a) Desactivar Solicitar respuestas
+b) Desactivar Buscar hora
+c) Desactivar la Zona horaria del evento
+d) Desactivar Recordatorio
+Respuesta_correcta: a
+Explicación: Al desactivar la opción «Solicitar respuestas» en la convocatoria, los asistentes no generan mensajes de aceptación/rechazo/provisional al organizador, aunque la convocatoria se sigue enviando con normalidad.
+
+===========================================================
+92) [ID-5.8.1]
+Pregunta: ¿Qué es una solicitud de tarea en Outlook?
+a) Mensaje para publicar un elemento en una carpeta
+b) Mensaje para asignar una tarea a otra persona
+c) Mensaje para convocar una reunión con asistentes
+d) Mensaje para compartir una nota con otro usuario
+Respuesta_correcta: b
+Explicación: Una solicitud de tarea es un mensaje especial mediante el cual se asigna una tarea a otra persona, que puede aceptarla o rechazarla; a diferencia de la convocatoria de reunión, no implica una cita en el calendario.
+
+===========================================================
+93) [ID-5.8.2]
+Pregunta: ¿Qué caracteriza a una nota de Outlook frente a una tarea?
+a) Genera un recordatorio en la fecha indicada
+b) Recoge un texto suelto sin fecha ni seguimiento asociado
+c) Se asigna a otra persona para que la complete
+d) Aparece en el calendario y ocupa una franja horaria propia
+Respuesta_correcta: b
+Explicación: Una nota es simplemente un texto libre sin fecha de vencimiento ni seguimiento de estado asociado, a diferencia de una tarea, que sí puede tener fecha, recordatorio, estado de progreso y asignarse a otra persona.
+
+===========================================================
+94) [ID-5.8.6]
+Pregunta: Buscas un mensaje y no aparece, aunque sabes que está en el buzón. ¿Qué conviene revisar primero?
+a) El nivel de protección configurado en el filtro de correo no deseado
+b) El estado de lectura de los mensajes de la carpeta
+c) El ámbito de la búsqueda, que puede estar limitado a una carpeta
+d) La vista de conversación aplicada a la lista
+Respuesta_correcta: c
+Explicación: Lo primero que conviene revisar es el ámbito de la búsqueda (carpeta actual, subcarpetas, buzón actual o todos los elementos de Outlook), ya que una búsqueda limitada a una sola carpeta no encontrará mensajes guardados en otras.
+
+===========================================================
+95) [ID-5.8.9]
+Pregunta: ¿Cómo se entiende mejor la búsqueda avanzada?
+a) Modo de búsqueda limitado solo al asunto del mensaje
+b) Modo de búsqueda con un único criterio predefinido
+c) Modo de búsqueda con criterios detallados sobre los elementos
+d) Modo de búsqueda que ordena los resultados aunque no los filtra
+Respuesta_correcta: c
+Explicación: La búsqueda avanzada permite combinar criterios detallados (remitente, asunto, fecha, tamaño, datos adjuntos, etc.) sobre los distintos campos de los elementos, en lugar de limitarse a un único criterio o solo al asunto.
+
+===========================================================
+NOTAS DE VERIFICACIÓN GENERALES
+- Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Outlook 365, no sobre citas legales.
+- Una pregunta queda señalada como PENDIENTE DE VERIFICAR / POSIBLE ERROR, sin cambiar la clave:
+  · Pregunta 42 (ID41431413): atajo para crear un nuevo mensaje solo desde el módulo Correo — la clave marca Ctrl+U, pero el atajo ampliamente documentado para "nuevo elemento del módulo activo" es Ctrl+N (que en español también empieza por N de "Nuevo", coincidiendo con el inglés "New"), y no figura entre las opciones del enunciado.
+- Importante sobre atajos en español: a diferencia del inglés (Ctrl+O=Open, Ctrl+A=Select All), en las aplicaciones de Windows/Office en español Ctrl+A suele ser "Abrir" y Ctrl+E "Seleccionar todo". Esto se tuvo en cuenta al revisar los atajos de este banco (p. ej. confirma la pregunta 3, Ctrl+A para abrir un mensaje).
+- El resto de las 50 preguntas —incluyendo atajos de teclado contrastados como Ctrl+O para "No leído" (pregunta 20) y Ctrl+F para "Reenviar" (pregunta 40), ambos coherentes con el comportamiento documentado de Outlook— no presentan discrepancias detectadas.
+- Preguntas 51-95 (IDs [ID-5.x.x]): añadidas a partir del documento nuevos-outook.docx (33 capturas, 45 preguntas de práctica sobre Outlook 365). Las respuestas marcadas en rojo en el documento original son intentos de la propia opositora, no una clave oficial, así que cada pregunta se verificó de forma independiente contra el comportamiento real de Outlook 365 en lugar de asumir el círculo como correcto.
+  · Pregunta 81 (ID-5.6.1): el círculo marcaba la opción a) ("La reunión se repite en el tiempo y la cita es puntual"), pero eso es incorrecto -- tanto las citas como las reuniones pueden ser puntuales o periódicas. La diferencia real entre cita y reunión es que la reunión convoca a otros asistentes; se ha fijado la clave en b).
+  · Pregunta 88 (ID-5.7.5): el círculo marcaba la opción c) ("En las propiedades del calendario compartido"), pero las propiedades del calendario no recogen el estado de las respuestas de los asistentes. Esa información se consulta en la pestaña/botón Seguimiento (Tracking) de la reunión abierta; se ha fijado la clave en b).
+  · Pregunta 91 (ID-5.7.13): el documento original no traía ninguna opción marcada con círculo. Se ha resuelto de forma independiente: a) Desactivar Solicitar respuestas.
