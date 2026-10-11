@@ -1,277 +1,286 @@
-[
-  {
-    "id": "tema9_01",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Quedan excluidos del ámbito de la Ley de Contratos del Sector Público:",
-    "opciones": {"a": "Los contratos onerosos del Sector Público.", "b": "Los contratos subvencionados por entidades que tengan la consideración de poder adjudicador que celebren las personas físicas o jurídicas.", "c": "Las autorizaciones y concesiones sobre bienes de dominio público.", "d": "Los contratos celebrados por fondos sin personalidad jurídica."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 9.1 Ley 9/2017 (LCSP)",
-    "explicacion": "Se encuentran excluidas de la Ley las autorizaciones y concesiones sobre bienes de dominio público y los contratos de explotación de bienes patrimoniales distintos a los definidos en el art. 14, que se regularán por su legislación específica (art. 9.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_02",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "La duración de los contratos de concesión de obras, y de concesión de servicios que comprendan la ejecución de obras y la explotación de servicio, no podrá exceder, incluyendo las posibles prórrogas, de:",
-    "opciones": {"a": "Cuarenta años.", "b": "Veinticinco años.", "c": "Veinte años.", "d": "Díez años."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 29.6.a LCSP",
-    "explicacion": "La duración de los contratos de concesión de obras, y de concesión de servicios que comprendan la ejecución de obras y la explotación de servicio, no podrá exceder, incluyendo las prórrogas, de cuarenta años (art. 29.6.a).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_03",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "En el procedimiento de adjudicación de contratos de diálogo competitivo:",
-    "opciones": {"a": "Está prohibida toda negociación.", "b": "No se puede limitar el número de empresas a las que se invitará.", "c": "El órgano de contratación evaluará las ofertas presentadas.", "d": "La mesa especial de diálogo competitivo dirige un diálogo con los candidatos seleccionados."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 327 LCSP",
-    "explicacion": "Para asistir al órgano de contratación en los procedimientos de diálogo competitivo se constituye una mesa especial, a la que se incorporan personas cualificadas, que dirige un diálogo con los candidatos seleccionados (art. 327).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_04",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "En el ámbito del sector público, y a los efectos de Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, no tendrán la consideración de Administraciones Públicas:",
-    "opciones": {"a": "Las Entidades que integran la Administración Local.", "b": "Los Organismos Autónomos.", "c": "Las entidades públicas empresariales.", "d": "Las Universidades públicas."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 3.2 LCSP",
-    "explicacion": "El art. 3.2 solo otorga la consideración de Administraciones Públicas a las entidades mencionadas en las letras a), b), c) y l) del apartado 1 del art. 3, y a ciertos consorcios; las entidades públicas empresariales no figuran entre ellas.",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_05",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "No tendrán la consideración de contrato de suministro:",
-    "opciones": {"a": "Los contratos relativos a propiedades incorporales o valores negociables.", "b": "Aquellos en los que el empresario se obligue a entregar una pluralidad de bienes de forma sucesiva y por precio unitario sin que la cuantía total se defina con exactitud al tiempo de celebrar el contrato, por estar subordinadas las entregas a las necesidades del adquirente.", "c": "Los que tengan por objeto la adquisición y el arrendamiento de equipos y sistemas de telecomunicaciones o para el tratamiento de la información, sus dispositivos y programas, y la cesión del derecho de uso de estos últimos, en cualquiera de sus modalidades de puesta a disposición.", "d": "Los que tengan por objeto la adquisición de energía primaria o energía transformada."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 16.2 LCSP",
-    "explicacion": "No tendrán la consideración de contrato de suministro los contratos relativos a propiedades incorporales o valores negociables, salvo la excepción prevista para programas de ordenador (art. 16.2); las opciones b), c) y d) están recogidas expresamente en el art. 16.3 como contratos que SÍ se consideran de suministro en todo caso.",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_06",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "La publicación en el perfil del contratante de la información relativa a los contratos menores deberá realizarse al menos:",
-    "opciones": {"a": "Anualmente.", "b": "Semestralmente.", "c": "Trimestralmente.", "d": "Mensualmente."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 63.4 LCSP",
-    "explicacion": "La publicación de la información relativa a los contratos menores deberá realizarse al menos trimestralmente (art. 63.4).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_07",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "En el supuesto de que el contratista, por causas imputables al mismo, hubiera incurrido en demora respecto al cumplimiento del plazo total fijado:",
-    "opciones": {"a": "La Administración podrá optar por la resolución del contrato.", "b": "La Administración deberá resolver el contrato, sin otro trámite que la audiencia del contratista.", "c": "La Administración podrá optar por la resolución del contrato o por la ampliación del plazo inicial de ejecución.", "d": "La Administración deberá imponer las penalidades diarias previstas en la Ley."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 193.3 LCSP",
-    "explicacion": "Cuando el contratista, por causas imputables al mismo, hubiere incurrido en demora respecto al cumplimiento del plazo total, la Administración podrá optar, atendidas las circunstancias del caso, por la resolución del contrato o por la imposición de penalidades diarias (art. 193.3); no existe la alternativa de 'ampliación del plazo inicial de ejecución' que plantea la opción c).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_08",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Están sujetos a regulación armonizada los contratos de obras cuyo valor estimado sea:",
-    "opciones": {"a": "Superior a 5.548.000 euros.", "b": "Igual o superior a 5.404.000 euros.", "c": "Igual o superior a 5.845.000 euros.", "d": "Superior a 5.538.000 euros."},
-    "respuesta_correcta": "b",
-    "referencia": "Art. 20.1 LCSP",
-    "explicacion": "Están sujetos a regulación armonizada los contratos de obras, de concesión de obras y de concesión de servicios cuyo valor estimado sea igual o superior a 5.404.000 euros (art. 20.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_09",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Quedan exceptuados de la publicación en el perfil del contratante los contratos menores cuyo valor estimado fuera:",
-    "opciones": {"a": "Inferior a diez mil euros, siempre que el sistema de pago utilizado por los poderes adjudicadores no fuera el de anticipo de caja fija u otro sistema similar para realizar pagos menores.", "b": "Inferior a siete mil euros, en cualquier caso.", "c": "Inferior a cinco mil euros, siempre que el sistema de pago utilizado por los poderes adjudicadores fuera el de anticipo de caja fija u otro sistema similar para realizar pagos menores.", "d": "Ninguna de las respuestas anteriores es correcta, puesto que no existe ninguna excepción a la obligación de publicar en el perfil del contratante relativa a los contratos menores."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 63.4 LCSP",
-    "explicacion": "Quedan exceptuados de la publicación los contratos menores cuyo valor estimado fuera inferior a cinco mil euros, siempre que el sistema de pago utilizado fuera el de anticipo de caja fija u otro sistema similar (art. 63.4).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_10",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Cuando no esté garantizado que, en condiciones normales de funcionamiento, el concesionario vaya a recuperar las inversiones realizadas ni a cubrir los costes en que hubiera incurrido como consecuencia de la explotación de las obras que sean objeto de la concesión, se considerará que el concesionario asume:",
-    "opciones": {"a": "Un riesgo operacional.", "b": "Un riesgo de demanda.", "c": "Un riesgo de suministro.", "d": "Un riesgo de explotación."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 14.4 LCSP",
-    "explicacion": "Se considerará que el concesionario asume un riesgo operacional cuando no esté garantizado que, en condiciones normales de funcionamiento, vaya a recuperar las inversiones realizadas ni a cubrir los costes de explotación (art. 14.4).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_11",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Establece la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, que son contratos subvencionados sujetos a una regulación armonizada:",
-    "opciones": {"a": "Los contratos de concesión de obras y los contratos de concesión de servicios que sean subvencionados, de forma directa o indirecta y en más de un 50 por 100 de su importe, por entidades que formen parte del sector público.", "b": "Los contratos de obras y los contratos de servicios que sean subvencionados, de forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores.", "c": "Los contratos de obras y los contratos de servicios que sean subvencionados, de forma indirecta y en más de un 75 por 100 de su importe, por entidades que tengan la consideración de Administración Pública.", "d": "Los contratos de obras y de suministros que sean subvencionados, de forma directa y en más de un 50% de su importe por entidades que tengan la consideración de poderes adjudicadores."},
-    "respuesta_correcta": "b",
-    "referencia": "Art. 23.1 LCSP",
-    "explicacion": "Son contratos subvencionados sujetos a regulación armonizada los contratos de obras y de servicios que sean subvencionados, de forma directa y en más de un 50 por 100 de su importe, por entidades que tengan la consideración de poderes adjudicadores (art. 23.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_12",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Los órganos de contratación de las Administraciones Públicas estarán asistidos por:",
-    "opciones": {"a": "Las Juntas Consultivas de Contratación Pública.", "b": "Las Mesas de Contratación.", "c": "Las Juntas de Contratación.", "d": "El Registros Oficiales de Licitadores y Empresas Clasificadas."},
-    "respuesta_correcta": "b",
-    "referencia": "Art. 326.1 LCSP",
-    "explicacion": "Salvo cuando la competencia corresponda a una Junta de Contratación, los órganos de contratación de las Administraciones Públicas estarán asistidos por una mesa de contratación (art. 326.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_13",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "No procederá en ningún caso la constitución de garantía provisional:",
-    "opciones": {"a": "En el procedimiento abierto.", "b": "En el procedimiento abierto simplificado.", "c": "En el procedimiento negociado.", "d": "En el procedimiento restringido."},
-    "respuesta_correcta": "b",
-    "referencia": "Art. 159.4.b LCSP",
-    "explicacion": "En el procedimiento abierto simplificado no procederá la constitución de garantía provisional por parte de los licitadores (art. 159.4.b).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_14",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "El orden jurisdiccional civil será el competente para resolver:",
-    "opciones": {"a": "Las cuestiones relativas a la adjudicación de los contratos administrativos.", "b": "Las cuestiones que se susciten en relación con la adjudicación de los contratos privados de las Administraciones Públicas.", "c": "Las relativas a la preparación de los contratos de entidades del sector público que no tengan el carácter de poderes adjudicadores.", "d": "Las controversias que se susciten entre las partes en relación con los efectos y extinción de los contratos privados de las entidades que tengan la consideración de poderes adjudicadores, sean o no Administraciones Públicas."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 27.2.a LCSP",
-    "explicacion": "El orden jurisdiccional civil será competente para resolver las controversias entre las partes en relación con los efectos y extinción de los contratos privados de las entidades que tengan la consideración de poderes adjudicadores, sean o no Administraciones Públicas (art. 27.2.a).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_15",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "El anuncio de licitación para la adjudicación de contratos de las Administraciones Públicas:",
-    "opciones": {"a": "Se podrán publicar en el perfil del contratante.", "b": "Se publicará en todo caso en el Diario Oficial de la Unión Europea.", "c": "Deberá publicarse en el perfil del contratante.", "d": "Se publicará en todo caso en el Boletín Oficial del Estado."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 63 LCSP",
-    "explicacion": "Los órganos de contratación difunden exclusivamente a través de Internet su perfil de contratante, en el que debe publicarse, entre otra información, los anuncios de convocatoria de las licitaciones (art. 63.1 y 63.3.c).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_16",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "El órgano de contratación no ostenta la prerrogativa de:",
-    "opciones": {"a": "Interpretar los contratos administrativos.", "b": "Acordar la resolución de los contratos administrativos y determinar los efectos de ésta.", "c": "Suspender la ejecución de los contratos administrativos.", "d": "Modificar los contratos administrativos por razones de oportunidad."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 190 LCSP",
-    "explicacion": "El órgano de contratación ostenta la prerrogativa de modificar los contratos administrativos, pero por razones de INTERÉS PÚBLICO, no por razones de oportunidad (art. 190).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_17",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, considerara poderes adjudicadores a:",
-    "opciones": {"a": "Las Mutuas colaboradoras con la Seguridad Social.", "b": "Los fondos sin personalidad jurídica.", "c": "Los partidos políticos.", "d": "Las sociedades mercantiles en cuyo capital social la participación, directa o indirecta, de las Entidades Gestoras y los Servicios Comunes de la Seguridad Social sea superior al 50 por 100."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 3.3.c LCSP",
-    "explicacion": "Se considerarán poderes adjudicadores, entre otras entidades, las Mutuas colaboradoras con la Seguridad Social (art. 3.3.c).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_18",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "La Ley de Contratos del Sector Público tiene por objeto regular la contratación del sector público, a fin de garantizar que la misma se ajusta a los principios de:",
-    "opciones": {"a": "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.", "b": "Libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los órganos de contratación.", "c": "Libertad de acceso de los órganos de contratación, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores.", "d": "Libertad de acceso a las licitaciones, transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 1.1 LCSP",
-    "explicacion": "La Ley tiene por objeto regular la contratación del sector público a fin de garantizar que se ajusta a los principios de libertad de acceso a las licitaciones, publicidad y transparencia de los procedimientos, y no discriminación e igualdad de trato entre los licitadores (art. 1.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_19",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Señale la respuesta incorrecta. En la Comunidad de Madrid será necesario acuerdo del Gobierno autonómico en la celebración de contratos de:",
-    "opciones": {"a": "Cuantía indeterminada.", "b": "En los contratos de carácter plurianual para modificar porcentajes o anualidades.", "c": "Contratos de obra celebrado bajo la modalidad de abono total del precio.", "d": "Cuando el sistema de pago consista en el arrendamiento con opción a compra y el número de anualidades supere los cinco años."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 64.1 Ley 1/1983 (Gobierno y Administración de la CM)",
-    "explicacion": "Se requiere Acuerdo del Gobierno cuando el sistema de pago sea arrendamiento financiero o con opción de compra y el número de anualidades supere CUATRO años, no cinco (art. 64.1.d), por lo que la opción d) es la incorrecta.",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_20",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Son contratos sujetos a una regulación armonizada los contratos de obras, los de concesión de obras, los de concesión de servicios, los de suministro y los de servicios cuyo valor estimado sea igual o superior a las cuantías establecidas en la ley, siempre que la entidad contratante:",
-    "opciones": {"a": "Forme parte del sector público.", "b": "Tenga el carácter de poder adjudicador.", "c": "Tenga la consideración de Administración Pública.", "d": "Satisfaga necesidades de interés general que no tengan carácter industrial o mercantil."},
-    "respuesta_correcta": "b",
-    "referencia": "Art. 19.1 LCSP",
-    "explicacion": "Son contratos sujetos a regulación armonizada los indicados siempre que la entidad contratante tenga el carácter de poder adjudicador (art. 19.1).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_21",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Siempre que se celebren por una Administración Pública, tendrán carácter administrativo:",
-    "opciones": {"a": "Los contratos de obra celebrados por entidades del sector público que, siendo poder adjudicador, no reúnan la condición de Administraciones Públicas.", "b": "Los contratos de concesión de servicios celebrados por entidades del sector público que no reúnan la condición de poder adjudicador.", "c": "Los contratos que tengan naturaleza administrativa especial por estar vinculados al giro o tráfico específico de la Administración contratante, o por satisfacer de forma directa o inmediata una finalidad pública de la específica competencia de aquella.", "d": "Los contratos celebrados por las Administraciones Públicas cuyo objeto sea la suscripción a revistas, publicaciones periódicas y bases de datos."},
-    "respuesta_correcta": "c",
-    "referencia": "Art. 25.1.b LCSP",
-    "explicacion": "Tendrán carácter administrativo, entre otros, los contratos con naturaleza administrativa especial por estar vinculados al giro o tráfico específico de la Administración contratante o por satisfacer una finalidad pública de su específica competencia (art. 25.1.b); en cambio, los de suscripción a revistas y publicaciones periódicas tienen carácter privado (art. 25.1.a.2º).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_22",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "De conformidad con la Ley 9/2017, de 8 de noviembre, de contratos del Sector Público, en ningún caso podrán formar parte de las Juntas de Contratación:",
-    "opciones": {"a": "El personal de elección o designación política.", "b": "Personal interino.", "c": "Funcionarios de carrera.", "d": "Empleados públicos."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 323.4 LCSP",
-    "explicacion": "En ningún caso podrán formar parte de las Juntas de Contratación ni emitir informes de valoración de las ofertas los cargos públicos representativos, los altos cargos, el personal de elección o designación política ni el personal eventual (art. 323.4).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_23",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Respecto de la duración de los contratos del sector público, el artículo 29 de la Ley 9/2017 establece que:",
-    "opciones": {"a": "El contrato podrá prever exclusivamente una prórroga, siempre que sus características permanezcan inalterables durante el período de duración de ésta.", "b": "La prórroga se acordará por el órgano de contratación pero no será obligatoria para el empresario.", "c": "La prórroga se acordará por el órgano de contratación y será obligatoria para el empresario, siempre que su preaviso se produzca al menos con seis meses de antelación a la finalización del plazo de duración del contrato, salvo que en el pliego que rija el contrato se establezca uno mayor.", "d": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 29.2 LCSP",
-    "explicacion": "En ningún caso podrá producirse la prórroga por el consentimiento tácito de las partes (art. 29.2, último inciso). El contrato puede prever una o VARIAS prórrogas (no exclusivamente una, opción a), y la prórroga es obligatoria para el empresario si el preaviso se produce con al menos DOS meses de antelación, no seis (opción c).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_24",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Los órganos de contratación difundirán exclusivamente a través de Internet su perfil de contratante, respecto del cual es correcto afirmar que:",
-    "opciones": {"a": "La forma de acceso al perfil de contratante deberá hacerse constar en los pliegos y documentos equivalentes, así como en los anuncios de licitación en todos los casos.", "b": "La difusión del perfil de contratante obstará la utilización de otros medios de publicidad adicionales en los casos en que así se establezca.", "c": "El acceso a la información del perfil de contratante requerirá identificación previa.", "d": "Toda la información contenida en los perfiles de contratante se publicará en formatos abiertos y reutilizables, y permanecerá accesible al público durante un periodo de tiempo no inferior a 10 años, sin perjuicio de que se permita el acceso a expedientes anteriores ante solicitudes de información."},
-    "respuesta_correcta": "a",
-    "referencia": "Art. 63.1 LCSP",
-    "explicacion": "La forma de acceso al perfil de contratante deberá hacerse constar en los pliegos y documentos equivalentes, así como en los anuncios de licitación en todos los casos (art. 63.1); además, la difusión del perfil NO obsta la utilización de otros medios de publicidad adicionales, al contrario de lo que afirma la opción b).",
-    "origen": "banco"
-  },
-  {
-    "id": "tema9_25",
-    "area": "leyes",
-    "tema": "tema9",
-    "texto": "Los contratos privados que celebren las Administraciones Públicas se regirán:",
-    "opciones": {"a": "Íntegramente por normas de Derecho Privado.", "b": "En cualquier caso, por normas de Derecho Administrativo.", "c": "En cuanto a su preparación, efectos y extinción, en defecto de normas específicas, por las Secciones 1.ª y 2.ª del Capítulo I del Título I del Libro Segundo de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público con carácter general, aplicándose supletoriamente las restantes normas de derecho administrativo o, en su caso, las normas de derecho privado.", "d": "En lo que respecta a sus efectos, modificación y extinción, por el derecho privado."},
-    "respuesta_correcta": "d",
-    "referencia": "Art. 26.2 LCSP",
-    "explicacion": "Los contratos privados de las Administraciones Públicas se rigen, en cuanto a su preparación y ADJUDICACIÓN (no 'efectos y extinción', como dice erróneamente la opción c), por las Secciones 1.ª y 2.ª del Libro Segundo de la LCSP; en lo que respecta a sus efectos, modificación y extinción, se rigen por el derecho privado (art. 26.2), que es justamente lo que afirma la opción d).",
-    "origen": "banco"
-  }
-]
+BANCO DE PREGUNTAS — TEMA 10 (LEYES): El Texto Refundido de la Ley del Estatuto Básico del Empleado Público. Personal al servicio de las AAPP
+Fuente: ADAMS, Tema10-Cuestionario1 (25 preguntas, con clave de soluciones oficial de ADAMS)
+Normativa base: RDL 5/2015 (TREBEP), Ley 30/1984, Ley 53/1984 (Incompatibilidades), RD 33/1986 (Régimen Disciplinario), RD 365/1995 (Situaciones administrativas), RD 462/2002 (Indemnizaciones), Ley 1/1986 de la Función Pública de la Comunidad de Madrid
+Origen: banco propio (ADAMS)
+
+---
+ID: 38164655
+Pregunta: Prevé el Estatuto Básico del Empleado Público que el permiso del progenitor diferente de la madre biológica por nacimiento, guarda con fines de adopción, acogimiento o adopción de un hijo o hija, tendrá una duración de:
+a) Seis semanas.
+b) Ocho semanas.
+c) Doce semanas.
+d) Diecinueve semanas.
+Respuesta correcta: d
+Referencia: Art. 49.c TREBEP (RDL 5/2015)
+Explicación: El permiso del progenitor diferente de la madre biológica tiene una duración de diecinueve semanas (art. 49.c TREBEP, según la redacción vigente en la edición 2025 del material).
+
+---
+ID: 38163582
+Pregunta: La creación, refundición, modificación o supresión de Cuerpos o Escalas de la Administración del Estado deberá realizarse:
+a) Anualmente, al menos.
+b) A través de las relaciones de puestos de trabajo.
+c) A través de una Ley aprobada por las Cortes Generales.
+d) No se podrán crear nuevos Cuerpos o Escalas.
+Respuesta correcta: c
+Referencia: Art. 75.2 TREBEP
+Explicación: Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por ley de las Cortes Generales (o de las asambleas legislativas, en las CCAA). No se hace por RPT ni con periodicidad anual.
+
+---
+ID: 38164393
+Pregunta: Las disposiciones del Estatuto Básico del Empleado Público sólo se aplicarán directamente cuando así lo disponga su legislación específica a:
+a) Al personal funcionario al servicio de la Administración de Justicia.
+b) Al personal funcionario al servicio de la Administración del Estado.
+c) Al personal funcionario al servicio de las Administraciones de las ciudades de Ceuta y Melilla.
+d) Al personal funcionario al servicio de las Universidades Públicas.
+Respuesta correcta: a
+Referencia: Art. 4.c TREBEP
+Explicación: El art. 4 incluye a jueces, magistrados, fiscales y demás personal funcionario al servicio de la Administración de Justicia. Los funcionarios de la Administración del Estado, de Ceuta y Melilla y de las Universidades sí están directamente sujetos al EBEP.
+
+---
+ID: 38164597
+Pregunta: Establece el Real Decreto 462/2002, sobre indemnizaciones por razón de servicio que dan origen a indemnización o compensación:
+a) El especial rendimiento y dedicación extraordinaria.
+b) El interés o iniciativa con que desempeñen los puestos de trabajo.
+c) Los servicios extraordinarios prestados fuera de la jornada normal de trabajo.
+d) Los desplazamientos dentro del término municipal por razones de servicio.
+Respuesta correcta: d
+Referencia: Art. 20 RD 462/2002
+Explicación: El RD 462/2002 regula el resarcimiento de los gastos por desplazamientos dentro del término municipal por razón del servicio (art. 20). Las otras opciones son conceptos retributivos (productividad y gratificaciones), no indemnizaciones por razón de servicio.
+
+---
+ID: 38163915
+Pregunta: En la Comunidad de Madrid, el nombramiento de los funcionarios de carrera lo realiza:
+a) El Gobierno de la Comunidad de Madrid.
+b) El Consejero de Economía, Hacienda y Empleo.
+c) El Consejero de Empleo.
+d) El Vicepresidente y Consejero de Presidencia.
+Respuesta correcta: b
+Referencia: Ley 1/1986 de la Función Pública de la Comunidad de Madrid (clave ADAMS; la solución no cita artículo)
+Explicación: Según la clave de ADAMS, lo realiza el Consejero de Economía, Hacienda y Empleo. Ojo: la denominación de las consejerías cambia con cada reestructuración del Gobierno; lo estable es que el nombramiento lo hace el consejero competente en materia de función pública.
+
+---
+ID: 38163886
+Pregunta: Señale, de entre los siguientes, cuál no es un Cuerpo Especial del Grupo A en la Comunidad de Madrid:
+a) El Cuerpo de Inspectores de Hacienda de la Comunidad de Madrid.
+b) El Cuerpo Superior de Inspección Sanitaria.
+c) El Cuerpo de Técnicos Superiores Especialistas.
+d) El Cuerpo de Técnicos Medioambientales.
+Respuesta correcta: d
+Referencia: Art. 34 Ley 1/1986 de la Función Pública de la CM
+Explicación: El art. 34 recoge el Cuerpo de Técnicos Superiores Medioambientales, no «de Técnicos Medioambientales». Los otros tres sí figuran literalmente como Cuerpos de Administración Especial del Grupo A.
+
+---
+ID: 38164089
+Pregunta: Constituye falta grave de los funcionarios:
+a) La desobediencia abierta a las órdenes e instrucciones de un superior.
+b) El abuso de autoridad en el ejercicio del cargo.
+c) El descuido o negligencia en el ejercicio de funciones.
+d) El abandono del servicio, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas.
+Respuesta correcta: b
+Referencia: Art. 7.1.b RD 33/1986 (Reglamento de Régimen Disciplinario)
+Explicación: El abuso de autoridad en el ejercicio del cargo es falta grave (art. 7.1.b). La desobediencia abierta y el abandono del servicio son faltas muy graves, y el descuido o negligencia es falta leve.
+
+---
+ID: 38164451
+Pregunta: No procede nombramiento por el órgano u autoridad competente para los:
+a) Los funcionarios de carrera.
+b) Los funcionarios interinos.
+c) El personal laboral.
+d) El personal eventual.
+Respuesta correcta: c
+Referencia: Art. 11 TREBEP
+Explicación: El personal laboral presta servicios en virtud de contrato de trabajo formalizado por escrito, no por nombramiento. Funcionarios de carrera, interinos y personal eventual son nombrados.
+
+---
+ID: 38164509
+Pregunta: La ley 30/1984, de 2 de agosto, incluye como retribuciones complementarias:
+a) Las comisiones de servicio.
+b) Los traslados de residencia.
+c) Las gratificaciones por servicios extraordinarios.
+d) Las pagas extraordinarias.
+Respuesta correcta: c
+Referencia: Art. 23.3 Ley 30/1984
+Explicación: Son retribuciones complementarias el complemento de destino, el específico, el de productividad y las gratificaciones por servicios extraordinarios. Las pagas extraordinarias son retribuciones básicas, y comisiones de servicio y traslados son indemnizaciones, no retribuciones.
+
+---
+ID: 38164480
+Pregunta: Las infracciones graves, en materia de responsabilidad disciplinaria, prescriben:
+a) A los 3 años.
+b) A los 2 años.
+c) Al año.
+d) A los seis meses.
+Respuesta correcta: b
+Referencia: Art. 97.1 TREBEP
+Explicación: Las infracciones muy graves prescriben a los tres años, las graves a los dos años y las leves a los seis meses. (Las sanciones: muy graves 3 años, graves 2 años, leves 1 año.)
+
+---
+ID: 38164568
+Pregunta: Con carácter general, las sanciones por faltas graves son impuestas, en la Comunidad de Madrid, por:
+a) Los Consejeros.
+b) Los Secretarios Generales.
+c) Los Jefes de Servicio.
+d) El Gobierno.
+Respuesta correcta: a
+Referencia: Ley 1/1986 de la Función Pública de la Comunidad de Madrid (clave ADAMS; la solución no cita artículo)
+Explicación: Según la clave de ADAMS, con carácter general las sanciones por faltas graves las imponen los Consejeros.
+
+---
+ID: 38164959
+Pregunta: Será requisito necesario para autorizar la compatibilidad de actividades públicas el que la cantidad total percibida por ambos puestos o actividades no supere, en el caso de los funcionarios del Subgrupo A1, la correspondiente al principal, estimada en régimen de dedicación ordinaria incrementada en:
+a) Un 45%.
+b) Un 50%.
+c) Un 25%.
+d) Un 30%.
+Respuesta correcta: d
+Referencia: Art. 7.1 Ley 53/1984 de Incompatibilidades
+Explicación: El incremento es del 30% para el grupo A (A1), 35% para B, 40% para C y 45% para D; 50% para E. Además, no puede superar la remuneración de Director general.
+
+---
+ID: 38164539
+Pregunta: El Cuerpo de Letrados de la Comunidad de Madrid está encuadrado en:
+a) Cuerpos de Administración General del Grupo A.
+b) Cuerpos de Administración Especial del Grupo A.
+c) Cuerpos de Administración General del Grupo B.
+d) Cuerpos de Administración Especial del Grupo B.
+Respuesta correcta: b
+Referencia: Art. 34.4 Ley 1/1986 de la Función Pública de la CM
+Explicación: El art. 34 enumera los Cuerpos de Administración Especial del Grupo A, entre ellos el Cuerpo de Letrados de la Comunidad de Madrid.
+
+---
+ID: 38163857
+Pregunta: Las relaciones de puestos de trabajo indicarán obligatoriamente para cada uno de ellos:
+a) Los requisitos necesarios para su desempeño.
+b) En todo caso, el complemento específico que tenga atribuido.
+c) Las gratificaciones por servicios extraordinarios prestados fuera de la jornada ordinaria.
+d) La forma de selección.
+Respuesta correcta: a
+Referencia: Art. 15.1.b Ley 30/1984
+Explicación: Las RPT indican en todo caso denominación, tipo y sistema de provisión, requisitos exigidos para el desempeño y nivel de complemento de destino; el complemento específico solo «en su caso», por lo que b) no es correcta.
+
+---
+ID: 38164988
+Pregunta: Son funcionarios de carrera:
+a) Quienes, en virtud de nombramiento laboral, están vinculados a una Administración Pública por una relación reglamentaria regulada por el Derecho Laboral para el desempeño de servicios profesionales retribuidos de carácter permanente.
+b) Quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.
+c) Quienes, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales para el desempeño de funciones administrativas, con carácter general.
+d) Ninguna de las anteriores es correcta.
+Respuesta correcta: b
+Referencia: Art. 9.1 TREBEP
+Explicación: Definición literal del art. 9.1: nombramiento legal, relación estatutaria regulada por el Derecho Administrativo, servicios profesionales retribuidos de carácter permanente. La c) describe al funcionario interino.
+
+---
+ID: 38163944
+Pregunta: Según establece el Estatuto Básico del Empleado Público, las funcionarias víctimas de violencia de género tendrán derecho a la reducción de la jornada de trabajo:
+a) Con disminución proporcional de la retribución en todo caso.
+b) Manteniendo sus retribuciones íntegras en todo caso.
+c) Manteniendo sus retribuciones íntegras cuando reduzca su jornada a la mitad.
+d) Manteniendo sus retribuciones íntegras cuando reduzca su jornada en un tercio o menos.
+Respuesta correcta: d
+Referencia: Art. 49.d TREBEP
+Explicación: Tienen derecho a la reducción con disminución proporcional de la retribución, pero mantienen sus retribuciones íntegras cuando reduzcan su jornada en un tercio o menos.
+
+---
+ID: 38164831
+Pregunta: Señale, de entre las siguientes, cuál no es una causa de pérdida de la condición de funcionario de la Comunidad de Madrid:
+a) Pérdida de la nacionalidad.
+b) Renuncia por escrito del interesado, en cualquier caso.
+c) Separación del servicio.
+d) Jubilación forzosa o voluntaria.
+Respuesta correcta: b
+Referencia: Art. 64 TREBEP
+Explicación: La renuncia voluntaria debe manifestarse por escrito y ser aceptada, y no puede aceptarse si el funcionario está sujeto a expediente disciplinario o procesado por un delito; por eso no lo es «en cualquier caso».
+
+---
+ID: 38164031
+Pregunta: Señale la opción incorrecta. Las gratificaciones por servicios extraordinarios de los empleados público:
+a) Se establecen al no poder remunerarse los servicios a través de las restantes prestaciones complementarias.
+b) No pueden ser fijas en la cuantía ni periódicas en su devengo.
+c) Se establecen por trabajos realizados dentro del horario de trabajo.
+d) Tienen carácter excepcional.
+Respuesta correcta: c
+Referencia: Art. 24.d TREBEP y art. 23.3.d Ley 30/1984
+Explicación: Las gratificaciones retribuyen servicios extraordinarios prestados fuera de la jornada normal de trabajo, no dentro del horario; por eso c) es la incorrecta.
+
+---
+ID: 38164060
+Pregunta: En la clasificación de los funcionarios de carrera, el antiguo Grupo A equivale al actual:
+a) Grupo A2.
+b) Subgrupo A1.
+c) Grupo C1.
+d) Grupo B.
+Respuesta correcta: b
+Referencia: Disposición transitoria 3ª.2 TREBEP
+Explicación: Equivalencias: Grupo A = Subgrupo A1; Grupo B = Subgrupo A2; Grupo C = Subgrupo C1; Grupo D = Subgrupo C2; Grupo E = Agrupaciones Profesionales.
+
+---
+ID: 38164422
+Pregunta: Los funcionarios declarados en expectativa de destino pasarán a la situación de excedencia forzosa:
+a) Por el transcurso de un período de seis meses.
+b) Por el incumplimiento de la obligación de participar en los concursos para puestos adecuados a su Cuerpo, Escala o Categoría, situados en la Comunidad Autónoma donde estaban destinados.
+c) Por el incumplimiento de la obligación de participar en los concursos para puestos adecuados a su Cuerpo, Escala o Categoría, situados en la provincia donde estaban destinados.
+d) Por el incumplimiento de la obligación de participar en los concursos para puestos adecuados a su Cuerpo, Escala o Categoría, situados en la localidad donde estaban destinados.
+Respuesta correcta: c
+Referencia: Art. 12 RD 365/1995 (Reglamento de Situaciones Administrativas)
+Explicación: Están obligados a participar en los concursos para puestos de su Cuerpo situados en la provincia donde estaban destinados; el incumplimiento determina el pase a excedencia forzosa. También pasan a ella tras un año en expectativa (no seis meses).
+
+---
+ID: 38164118
+Pregunta: Según la Ley 1/1986, de 10 de abril, de la Función Pública, los funcionarios de la Comunidad de Madrid pueden encontrarse en alguna de las siguientes situaciones (señale la opción incorrecta):
+a) Servicios extraordinarios.
+b) Excedencia.
+c) Servicios especiales.
+d) Suspensión.
+Respuesta correcta: a
+Referencia: Art. 58 Ley 1/1986 de la Función Pública de la CM
+Explicación: El art. 58 recoge servicio activo, excedencias, servicios en otras Administraciones, servicios especiales y suspensión. «Servicios extraordinarios» no es una situación administrativa.
+
+---
+ID: 38163973
+Pregunta: Según establece el TREBEP, las sanciones por faltas leves prescriben:
+a) A los 6 meses.
+b) A los tres años.
+c) Al año.
+d) A los dos años.
+Respuesta correcta: c
+Referencia: Art. 97.1 TREBEP
+Explicación: Las sanciones por faltas leves prescriben al año (graves a los dos años, muy graves a los tres). Ojo: las infracciones leves prescriben a los seis meses; aquí se pregunta por las sanciones.
+
+---
+ID: 38164626
+Pregunta: La regulación de las incompatibilidades de los funcionarios se encuentra en:
+a) La Ley Orgánica 1/1985, de 18 de enero.
+b) La Ley 53/1984, de 26 de diciembre.
+c) El Real Decreto 598/1986, de 30 de abril.
+d) Real Decreto 462/2002, de 24 de mayo.
+Respuesta correcta: b
+Referencia: Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al servicio de las AAPP
+Explicación: La norma específica es la Ley 53/1984, de Incompatibilidades. El RD 462/2002 regula las indemnizaciones por razón del servicio.
+
+---
+ID: 38164538
+Pregunta: La situación administrativa de suspensión de funciones podrá ser:
+a) Firme.
+b) Permanente.
+c) Provisional.
+d) Las respuestas a) y c) son correctas.
+Respuesta correcta: d
+Referencia: Art. 90 TREBEP
+Explicación: La suspensión puede ser firme (por sentencia en causa criminal o sanción disciplinaria, máximo seis años en este último caso) o provisional (durante la tramitación de un procedimiento judicial o disciplinario).
+
+---
+ID: 38164002
+Pregunta: La reducción de jornada por guarda legal abarca:
+a) El cuidado de hijos menores de catorce años.
+b) El cuidado de mayores en cualquier circunstancia.
+c) El cuidado de personas con discapacidad.
+d) El cuidado de un familiar hasta el cuarto grado de consanguinidad o afinidad.
+Respuesta correcta: c
+Referencia: Art. 48.h TREBEP
+Explicación: Abarca el cuidado directo de un menor de doce años (no catorce), de persona mayor que requiera especial dedicación (no «en cualquier circunstancia»), de una persona con discapacidad que no desempeñe actividad retribuida, y de un familiar hasta el segundo grado (no cuarto).
+
+---
+NOTAS DE VERIFICACIÓN
+- Las 25 claves coinciden con la clave oficial de ADAMS y con el articulado citado en sus soluciones.
+- Preguntas 5 y 11 (ID38163915, ID38164568): la solución de ADAMS no cita artículo; se mantiene la clave sin poder contrastarla con texto legal. En la 5, la denominación de la consejería puede estar desfasada respecto al Gobierno actual de la Comunidad de Madrid.
+- Pregunta 1 (ID38164655): la duración de 19 semanas corresponde a la redacción del art. 49.c TREBEP vigente en la edición 2025 del material de ADAMS.
+- Varias preguntas citan normas históricas (Ley 30/1984, RD 365/1995) tal y como las cita ADAMS, aunque algunas estén parcialmente derogadas por el TREBEP.
