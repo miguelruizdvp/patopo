@@ -698,5 +698,621 @@
     "referencia": null,
     "explicacion": "Es incorrecta porque entre el segundo y tercer párrafo de la captura no hay distancia alguna (el tercer párrafo empieza justo donde terminan los bordes verticales del segundo), por lo que no todos los párrafos emplean un espaciado posterior de al menos 10 pto.",
     "requiere_imagen": true
+  },
+  {
+    "id": "ID-2.1.2",
+    "texto": "En la regla horizontal de Word, ¿qué controlan los marcadores triangulares situados en sus extremos?",
+    "opciones": [
+      "a) El ancho de las columnas de una tabla",
+      "b) Las posiciones de tabulación predeterminadas",
+      "c) Las sangrías del párrafo donde está el cursor",
+      "d) Los márgenes generales de toda la sección"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Los marcadores triangulares de la regla (sangría de primera línea, sangría francesa y sangría izquierda/derecha) controlan las sangrías del párrafo donde está el cursor. Los márgenes se ajustan en las zonas grises de la regla, y las tabulaciones se colocan con marcas en la propia regla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.1.4",
+    "texto": "¿Qué es el iniciador de cuadro de diálogo en la interfaz de Office?",
+    "opciones": [
+      "a) Pequeño icono que abre la vista Backstage completa",
+      "b) Pequeño botón que abre opciones avanzadas de un grupo",
+      "c) Pequeño panel que muestra comandos básicos del grupo",
+      "d) Pequeño botón que cambia entre pestañas de la cinta"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Es la pequeña flecha situada en la esquina inferior derecha de algunos grupos de la cinta, que abre el cuadro de diálogo o panel con las opciones avanzadas de ese grupo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.1.5",
+    "texto": "¿Qué caracteriza a la barra de herramientas de acceso rápido en Office?",
+    "opciones": [
+      "a) Barra personalizable con comandos frecuentes",
+      "b) Barra lateral con opciones del panel activo",
+      "c) Barra fija con pestañas principales del programa",
+      "d) Barra contextual con herramientas según el objeto"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La barra de herramientas de acceso rápido es personalizable: permite añadir los comandos de uso frecuente para tenerlos siempre visibles, con independencia de la pestaña activa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.1.12",
+    "texto": "Necesitas comparar visualmente dos documentos distintos y que se desplacen a la vez. ¿Qué opción de la pestaña Vista debes usar?",
+    "opciones": [
+      "a) Ver en paralelo con desplazamiento síncrono",
+      "b) Cambiar a la vista de varias páginas",
+      "c) Organizar todo en ventanas independientes",
+      "d) Dividir la ventana del documento activo"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "«Ver en paralelo» muestra dos documentos uno junto al otro, y con «Desplazamiento síncrono» se mueven a la vez. «Dividir» trabaja con un solo documento y «Organizar todo» no sincroniza el desplazamiento.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.1.16",
+    "texto": "Necesitas ver al mismo tiempo dos partes alejadas del mismo documento en una sola ventana. ¿Qué acción es la más adecuada?",
+    "opciones": [
+      "a) Dividir ventana",
+      "b) Cambiar de vista",
+      "c) Aumentar el zoom",
+      "d) Mostrar para revisión"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Vista > Dividir parte la ventana en dos paneles con desplazamiento independiente sobre el mismo documento, de modo que se pueden ver a la vez dos zonas alejadas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.2.4",
+    "texto": "Quieres evitar que la última línea de un párrafo quede sola al inicio de la página siguiente. ¿Qué opción de párrafo debes activar?",
+    "opciones": [
+      "a) Salto de página anterior",
+      "b) No dividir el párrafo",
+      "c) Control de líneas viudas y huérfanas",
+      "d) Conservar junto con el párrafo siguiente"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El «Control de líneas viudas y huérfanas» (pestaña Líneas y saltos de página) impide que quede una sola línea de un párrafo aislada al principio o al final de una página. «No dividir el párrafo» es más drástico: mantiene todo el párrafo en la misma página.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.2.5",
+    "texto": "Necesitas que una columna de importes quede alineada por la coma decimal, aunque las cifras tengan distinta longitud. ¿Qué debes usar?",
+    "opciones": [
+      "a) Una tabulación izquierda",
+      "b) Un espaciado entre caracteres",
+      "c) Una tabulación decimal",
+      "d) Una sangría derecha"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La tabulación decimal alinea los números por el separador decimal, sea cual sea el número de cifras a cada lado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.2.6",
+    "texto": "Has dado formato a un título y quieres aplicar exactamente el mismo a otros tres títulos del documento. ¿Qué herramienta es la más directa?",
+    "opciones": [
+      "a) Copiar formato",
+      "b) Copiar y pegar el texto",
+      "c) Inspector de estilo",
+      "d) Buscar y reemplazar"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Copiar formato (la brocha) traslada todo el formato de un texto a otros; con doble clic en la brocha se puede aplicar a varios fragmentos seguidos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.2.12",
+    "texto": "Estás numerando apartados y subapartados con la forma 1, 1.1, 1.1.1. ¿Qué tipo de lista debes aplicar?",
+    "opciones": [
+      "a) Lista con viñetas",
+      "b) Lista ordenada por tabulación",
+      "c) Lista multinivel",
+      "d) Lista numerada simple"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La lista multinivel permite numeración jerárquica (1, 1.1, 1.1.1...) con varios niveles de esquema.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.6",
+    "texto": "¿Qué diferencia a una nota al final de una nota al pie en Word?",
+    "opciones": [
+      "a) La nota al final se imprime siempre en cursiva",
+      "b) La nota al final se agrupa al término del documento o la sección",
+      "c) La nota al final no admite numeración automática",
+      "d) La nota al final no puede aparecer en la tabla de contenido del documento"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "La nota al pie aparece en la parte inferior de la misma página que su referencia; la nota al final se agrupa al terminar el documento o la sección.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.7",
+    "texto": "Quieres que la portada de un informe no muestre el encabezado que llevan el resto de páginas. ¿Qué opción debes activar?",
+    "opciones": [
+      "a) Ocultar el texto del encabezado",
+      "b) Páginas pares e impares diferentes",
+      "c) Primera página diferente",
+      "d) Vincular al encabezado anterior"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La opción «Primera página diferente» (pestaña Diseño de encabezado y pie) permite que la primera página tenga un encabezado/pie distinto o ninguno.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.8",
+    "texto": "¿Qué indica un salto de página en un documento de Word?",
+    "opciones": [
+      "a) El inicio de una nueva sección con otro formato",
+      "b) El inicio de una nueva página en el documento",
+      "c) El cambio de vista del documento a modo lectura",
+      "d) El paso forzado del texto a otra columna"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Un salto de página fuerza que el texto siguiente empiece en una nueva página. El cambio de formato lo marcan los saltos de sección y el paso a otra columna, el salto de columna.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.9",
+    "texto": "¿Cómo se interpreta un salto de columna en un documento con texto en varias columnas?",
+    "opciones": [
+      "a) Fuerza que el texto continúe en la siguiente columna",
+      "b) Fuerza que el formato cambie en la sección siguiente",
+      "c) Fuerza que la inicial ocupe varias líneas del párrafo",
+      "d) Fuerza que el texto comience en la página siguiente"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Un salto de columna hace que el texto que sigue empiece en la parte superior de la columna siguiente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.11",
+    "texto": "En un manual quieres escribir una remisión que indique el número de página de una figura y se actualice si esta se mueve. ¿Qué debes insertar?",
+    "opciones": [
+      "a) Una nota al pie",
+      "b) Una referencia cruzada",
+      "c) Un hipervínculo externo",
+      "d) Un marcador de posición"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Una referencia cruzada (Insertar > Referencia cruzada) enlaza con un elemento como una figura y muestra su número de página, actualizándose automáticamente (F9) si cambia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.12",
+    "texto": "Necesitas que solo una parte del documento se presente a dos columnas y el resto siga a una. ¿Qué debes insertar alrededor de ese bloque?",
+    "opciones": [
+      "a) Saltos de columna",
+      "b) Saltos de sección",
+      "c) Saltos de línea",
+      "d) Saltos de página"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El número de columnas es una propiedad de la sección; por tanto hay que aislar ese bloque con saltos de sección (normalmente continuos).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.15",
+    "texto": "Estás preparando un índice alfabético al final de un manual. ¿Cuál es el paso previo imprescindible?",
+    "opciones": [
+      "a) Insertar una referencia cruzada por término",
+      "b) Marcar las entradas de índice en el texto",
+      "c) Numerar las páginas del documento",
+      "d) Aplicar estilos de título a los apartados"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Para generar un índice alfabético hay que marcar antes las entradas (Referencias > Marcar entrada) en el texto; después se inserta el índice.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.16",
+    "texto": "Has añadido nuevos títulos y cambiado páginas en un documento. ¿En qué situación no bastará con insertar una tabla de contenido nueva, sino que conviene actualizar la existente?",
+    "opciones": [
+      "a) Cuando ya existe una tabla y solo deben refrescarse sus entradas",
+      "b) Cuando se necesita citar una fuente concreta dentro de un párrafo",
+      "c) Cuando se quiere crear un enlace a otra parte del texto",
+      "d) Cuando se desea ver la estructura en el panel lateral"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Si la tabla de contenido ya existe, basta con actualizarla (Actualizar tabla / F9), eligiendo si solo los números de página o toda la tabla; insertar otra duplicaría la tabla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.3.18",
+    "texto": "En un documento académico, ¿qué elemento se genera analizando el conjunto de citas usadas y no solo la estructura de títulos?",
+    "opciones": [
+      "a) La referencia cruzada",
+      "b) El panel de navegación",
+      "c) La bibliografía",
+      "d) La tabla de contenido"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La bibliografía se genera a partir de las fuentes citadas en el documento, mientras que la tabla de contenido y el panel de navegación se basan en la estructura de títulos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.4.5",
+    "texto": "¿Qué hace el comando «Dividir tabla»?",
+    "opciones": [
+      "a) Duplica la tabla en otra página del documento",
+      "b) Separa una celda en varias columnas internas",
+      "c) Convierte una tabla en texto con separadores",
+      "d) Separa una tabla en dos tablas independientes"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Dividir tabla parte la tabla en dos por la fila donde está el cursor. Separar una celda en varias es «Dividir celdas».",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.4.7",
+    "texto": "Una tabla de Word contiene una lista de apellidos desordenada y quieres organizarla alfabéticamente. ¿Qué debes hacer?",
+    "opciones": [
+      "a) Usar el comando Ordenar de las herramientas de tabla",
+      "b) Convertir la tabla en texto y reescribirla",
+      "c) Insertar una fila de encabezado a la tabla",
+      "d) Aplicar un filtro automático sobre la columna de apellidos"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Word permite ordenar el contenido de una tabla con el comando Ordenar (Herramientas de tabla > Disposición). El filtro automático es una función de Excel, no de las tablas de Word.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.4.9",
+    "texto": "Quieres que cada figura de un informe lleve un rótulo numerado que se actualice al insertar figuras nuevas. ¿Qué debes usar?",
+    "opciones": [
+      "a) Una nota al pie por cada figura",
+      "b) La opción Insertar título",
+      "c) Un cuadro de texto bajo cada imagen",
+      "d) El texto alternativo de la imagen"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Insertar título (Referencias) añade un rótulo con numeración automática («Figura 1», «Figura 2»...) que se renumera al añadir o mover figuras.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.4.11",
+    "texto": "¿Qué permite la opción «Repetir filas de título» en una tabla extensa?",
+    "opciones": [
+      "a) Copiar automáticamente el título al final de la tabla",
+      "b) Repetir la primera columna en cada vista del documento",
+      "c) Mantener visibles varias filas al desplazarse por pantalla",
+      "d) Mostrar el encabezado de la tabla en cada página impresa"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Repetir filas de título hace que la fila (o filas) de encabezado de la tabla se repita en la parte superior de cada página a la que se extiende la tabla.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.4.14",
+    "texto": "Insertas una imagen en línea en un párrafo y quieres que se comporte como un carácter del texto al mover el cursor. ¿Qué tipo de imagen necesitas?",
+    "opciones": [
+      "a) Imagen en línea con el texto",
+      "b) Imagen detrás del texto escrito",
+      "c) Imagen cuadrada alrededor del texto",
+      "d) Imagen delante del texto escrito"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La imagen «En línea con el texto» se trata como un carácter más: se desplaza con el cursor y con el texto. Las demás opciones son imágenes flotantes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.5.8",
+    "texto": "Vas a enviar un formulario y necesitas que los destinatarios solo puedan escribir en determinadas zonas del documento. ¿Qué debes aplicar?",
+    "opciones": [
+      "a) Activar el control de cambios",
+      "b) Restringir la edición del documento",
+      "c) Inspeccionar el documento antes de enviarlo",
+      "d) Marcar el documento como final"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Restringir la edición (Revisar > Restringir edición) permite limitar los cambios a zonas editables, como en un formulario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.5.10",
+    "texto": "¿Qué hace la herramienta Inspeccionar documento?",
+    "opciones": [
+      "a) Detectar metadatos, comentarios y contenido oculto",
+      "b) Traducir el texto según el idioma configurado",
+      "c) Aceptar cambios pendientes y cerrar la revisión",
+      "d) Contar palabras, caracteres y páginas del archivo"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Inspeccionar documento (Archivo > Información) busca información oculta o personal —metadatos, comentarios, marcas de revisión, texto oculto— y permite eliminarla antes de compartir.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.5.11",
+    "texto": "¿Qué significa responder un comentario en un documento?",
+    "opciones": [
+      "a) Resolver un comentario para ocultarlo de la lista",
+      "b) Crear un comentario nuevo sobre otra parte del texto",
+      "c) Contestar a un comentario ya insertado en el documento",
+      "d) Mencionar a una persona dentro de un comentario"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Responder añade una contestación dentro del hilo de un comentario ya existente. Resolverlo es otra acción distinta.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.5.12",
+    "texto": "Una observación ya fue atendida y no necesita más seguimiento, pero quieres conservar el historial del hilo. ¿Qué acción debes realizar?",
+    "opciones": [
+      "a) Responder el comentario existente",
+      "b) Cambiar el idioma del comentario",
+      "c) Insertar un comentario nuevo",
+      "d) Resolver el comentario existente"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Resolver un comentario lo marca como atendido y lo atenúa, pero conserva el hilo y puede reabrirse; eliminarlo borraría el historial.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.6.5",
+    "texto": "¿Qué finalidad tiene la función de Autorrecuperación en Word?",
+    "opciones": [
+      "a) Convertir los archivos antiguos al formato actual",
+      "b) Guardar copias periódicas por si la aplicación se cierra mal",
+      "c) Guardar cada versión del archivo en la nube",
+      "d) Reparar los documentos dañados al abrirlos"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "La Autorrecuperación guarda copias temporales a intervalos regulares para recuperar el trabajo si Word se cierra inesperadamente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.6.6",
+    "texto": "Cerraste Word sin guardar un documento nuevo y quieres intentar recuperarlo. ¿Dónde debes buscar primero?",
+    "opciones": [
+      "a) En Recuperar documentos sin guardar, dentro de la pestaña Archivo",
+      "b) En el historial de versiones del archivo alojado en la nube corporativa",
+      "c) En la lista de documentos recientes",
+      "d) En la Papelera de reciclaje del sistema"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Archivo > Información > Administrar documento > Recuperar documentos sin guardar abre la carpeta con las copias de autorrecuperación de documentos nunca guardados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.6.8",
+    "texto": "¿Qué efecto real tiene la opción Marcar como final en un documento de Word?",
+    "opciones": [
+      "a) Impide de forma definitiva cualquier modificación del texto",
+      "b) Exige una contraseña para abrir el archivo",
+      "c) Elimina los metadatos y los comentarios",
+      "d) Lo abre en modo de solo lectura como aviso, sin bloquearlo"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Marcar como final indica que el documento es una versión final y lo abre como solo lectura, pero no es una protección real: cualquier usuario puede pulsar «Editar de todas formas».",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.6.9",
+    "texto": "Al abrir un documento antiguo, la barra de título indica Modo de compatibilidad. ¿Qué significa?",
+    "opciones": [
+      "a) Que el documento contiene macros sin firmar",
+      "b) Que el archivo procede de un procesador de textos distinto al de Office",
+      "c) Que se han desactivado funciones no admitidas por el formato original",
+      "d) Que el documento está protegido contra escritura"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El modo de compatibilidad aparece al abrir archivos de versiones anteriores de Word y desactiva las funciones nuevas que no admite el formato original.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.3",
+    "texto": "¿Qué puede utilizarse como origen de datos en una combinación de correspondencia?",
+    "opciones": [
+      "a) Solo un archivo de texto separado por comas",
+      "b) Una hoja de Excel, una tabla de Access o los contactos de Outlook",
+      "c) Solo una lista de contactos de Outlook",
+      "d) Solo una tabla creada dentro del propio documento principal de Word"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El origen de datos puede ser una hoja de Excel, una base de datos de Access, los contactos de Outlook, un archivo de texto o una lista escrita en Word; no se limita a una sola fuente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.4",
+    "texto": "¿Qué se inserta en el documento principal para que aparezca el dato correspondiente a cada destinatario?",
+    "opciones": [
+      "a) Una referencia cruzada",
+      "b) Un marcador de posición",
+      "c) Un cuadro de texto",
+      "d) Un campo de combinación"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Los campos de combinación (««Nombre»», «Apellidos»...) se sustituyen por los datos de cada registro del origen al generar las cartas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.5",
+    "texto": "¿Qué ventaja aporta el elemento Bloque de direcciones frente a insertar los campos uno a uno?",
+    "opciones": [
+      "a) Filtra los destinatarios sin dirección registrada",
+      "b) Ordena la lista de destinatarios por código postal",
+      "c) Comprueba que las direcciones existan realmente",
+      "d) Compone la dirección completa con el formato adecuado"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El Bloque de direcciones agrupa varios campos (nombre, calle, código postal, ciudad...) y los coloca con el formato habitual de una dirección postal.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.6",
+    "texto": "¿Qué permite configurar el elemento Línea de saludo en una combinación de correspondencia?",
+    "opciones": [
+      "a) El número de copias que recibirá cada persona",
+      "b) El idioma con el que se revisará cada carta",
+      "c) El formato del saludo y el texto para destinatarios sin nombre",
+      "d) El orden en que se imprimirán los destinatarios incluidos en la lista"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La Línea de saludo permite elegir el formato (p. ej. «Estimado Sr. Pérez,») y el texto alternativo que se usará cuando falte el nombre del destinatario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.7",
+    "texto": "Antes de generar las cartas quieres comprobar cómo queda cada una con datos reales. ¿Qué debes usar?",
+    "opciones": [
+      "a) Vista previa de resultados",
+      "b) Vista preliminar de impresión",
+      "c) Comprobación de errores del documento",
+      "d) Vista Diseño de impresión"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Vista previa de resultados sustituye los campos por los datos reales y permite recorrer los registros antes de finalizar la combinación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.8",
+    "texto": "Quieres obtener un único archivo con todas las cartas generadas para revisarlas antes de imprimir. ¿Qué opción debes elegir al finalizar?",
+    "opciones": [
+      "a) Guardar el documento principal",
+      "b) Editar documentos individuales",
+      "c) Enviar mensajes de correo electrónico",
+      "d) Imprimir documentos directamente"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "«Editar documentos individuales» genera un nuevo documento con todas las cartas combinadas, que se puede revisar y guardar antes de imprimirlo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.7.11",
+    "texto": "En una carta combinada quieres que aparezca un párrafo distinto según el importe de cada destinatario. ¿Qué debes insertar?",
+    "opciones": [
+      "a) Una referencia cruzada condicional",
+      "b) Un comentario de revisión por registro",
+      "c) Una regla Si... entonces... si no",
+      "d) Un campo de combinación adicional"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La regla «Si... entonces... si no» (grupo Escribir e insertar campos) muestra un texto u otro según el valor de un campo del registro.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.4",
+    "texto": "Quieres que Word proponga siempre una carpeta concreta al guardar documentos nuevos. ¿Dónde se configura?",
+    "opciones": [
+      "a) En las propiedades del documento activo",
+      "b) En las opciones avanzadas de la cinta",
+      "c) En la configuración de la plantilla Normal",
+      "d) En las opciones de Word, apartado Guardar"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Archivo > Opciones > Guardar permite fijar la «ubicación predeterminada de archivo local» que Word propone al guardar.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.6",
+    "texto": "¿Para qué se usa un bloque de creación en Word?",
+    "opciones": [
+      "a) Para revisar cambios pendientes del documento",
+      "b) Para insertar contenido predefinido reutilizable",
+      "c) Para dividir un documento en secciones nuevas",
+      "d) Para aplicar permisos de lectura al archivo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Los bloques de creación (portadas, cuadros de texto, encabezados, elementos rápidos...) son contenido predefinido que se guarda y se reutiliza en cualquier documento.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.7",
+    "texto": "Estás escribiendo una abreviatura que Word cambia automáticamente y quieres que en ese caso no la modifique. ¿Qué debes configurar?",
+    "opciones": [
+      "a) Las excepciones de autocorrección",
+      "b) El control de cambios",
+      "c) El permiso de visualización del texto",
+      "d) La plantilla Normal"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "En Opciones de autocorrección existe la pestaña/botón «Excepciones», donde se indican abreviaturas que Word no debe corregir ni poner en mayúscula.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.10",
+    "texto": "¿Qué determina el ajuste Tema de Office en las opciones generales de Word?",
+    "opciones": [
+      "a) El conjunto de fuentes y colores del documento",
+      "b) El estilo de las tablas insertadas en el texto",
+      "c) La plantilla que se aplica de forma predeterminada a los documentos",
+      "d) El aspecto visual de la interfaz, con variantes claras y oscuras"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El Tema de Office (Archivo > Opciones > General) cambia el aspecto de la interfaz de Office —colorido, gris oscuro, negro, blanco—, no el formato del documento. Las fuentes y colores del documento se definen con el comando Temas de la pestaña Diseño.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.11",
+    "texto": "Quieres asignar una combinación de teclas propia a un comando que usas mucho en Word. ¿Dónde se hace?",
+    "opciones": [
+      "a) En Personalizar cinta de opciones, botón de métodos abreviados",
+      "b) En las opciones avanzadas de edición",
+      "c) En la barra de herramientas de acceso rápido, con el botón derecho",
+      "d) En las propiedades de la plantilla Normal"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Archivo > Opciones > Personalizar cinta de opciones > Métodos abreviados de teclado: Personalizar permite asignar la combinación a cualquier comando.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-2.8.12",
+    "texto": "Quieres reducir el riesgo de perder trabajo acortando la frecuencia con que Word guarda copias temporales. ¿Qué debes modificar?",
+    "opciones": [
+      "a) El intervalo de comprobación de la ortografía",
+      "b) El intervalo de autorrecuperación en las opciones de guardado",
+      "c) El tiempo de espera del autoguardado de los archivos en la nube",
+      "d) El número de acciones que se pueden deshacer"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "En Archivo > Opciones > Guardar se ajusta «Guardar información de Autorrecuperación cada X minutos»; un intervalo menor reduce el trabajo que se puede perder.",
+    "requiere_imagen": false
   }
 ]
