@@ -1160,5 +1160,397 @@
     "referencia": null,
     "explicacion": "Si una relación entre dos tablas ya no es correcta ni debe existir, la acción adecuada es eliminarla desde la vista de relaciones; ocultarla solo la quita de la vista sin eliminar el vínculo real del modelo.",
     "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.1",
+    "texto": "El origen de un informe puede ser…",
+    "opciones": [
+      "a) Tablas, consultas, formularios y otros informes",
+      "b) Solo tablas",
+      "c) Solo tablas y consultas",
+      "d) Tablas, consultas y formularios"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El origen de datos (Origen del registro) de un informe es una tabla o una consulta; no pueden serlo formularios ni otros informes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.2",
+    "texto": "¿Cuál sería el resultado de poner la expresión <>Agosto en el criterio del campo mes de una consulta?",
+    "opciones": [
+      "a) Muestra todos los meses menos Agosto",
+      "b) Muestra todos los meses que alfabéticamente estén antes y después de agosto",
+      "c) Muestra todos los meses que estén antes y después de agosto",
+      "d) La expresión es incorrecta, faltan comillas (“)"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Según la clave del cuestionario de origen, el texto debe ir entre comillas (<>\"Agosto\"). Matiz: en la práctica Access suele añadir las comillas automáticamente al salir de la celda de criterios, en cuyo caso mostraría todos los meses menos agosto (opción a); se mantiene la clave del cuestionario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.3",
+    "texto": "¿Cuál de los siguientes objetos no pertenece a la estructura de una base de datos en Access?",
+    "opciones": [
+      "a) Plantillas",
+      "b) Módulos",
+      "c) Informes",
+      "d) Macros"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Los objetos de una base de datos Access son tablas, consultas, formularios, informes, macros y módulos. Las plantillas no son un objeto de la base de datos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.4",
+    "texto": "En una tabla de Access ¿Cuál de los siguientes tipos de datos es solo de lectura?",
+    "opciones": [
+      "a) Número",
+      "b) Objeto OLE",
+      "c) Hipervínculo",
+      "d) Autonumeración"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El campo Autonumeración lo genera Access automáticamente para cada registro y el usuario no puede modificarlo: es de solo lectura.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.5",
+    "texto": "¿Cuál de las siguientes respuestas no es una vista de una consulta?",
+    "opciones": [
+      "a) Vista Presentación",
+      "b) Vista Hoja de datos",
+      "c) Vista Diseño",
+      "d) Vista SQL"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las vistas de una consulta son Hoja de datos, Diseño y SQL. La vista Presentación es propia de formularios e informes.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.6",
+    "texto": "Al tener una tabla en vista hoja de datos, ¿Con qué método se pueden agregar registros nuevos?",
+    "opciones": [
+      "a) Grupo Registros",
+      "b) Grupo Buscar",
+      "c) Ctrl++",
+      "d) Todas son correctas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Se puede añadir un registro con Inicio > Registros > Nuevo, con Buscar > Ir a > Nuevo, y con el método abreviado Ctrl++.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.7",
+    "texto": "¿Cuál de las siguientes afirmaciones sobre el diseño de una tabla es cierta?",
+    "opciones": [
+      "a) La descripción de cada campo es obligatoria",
+      "b) Cada campo puede tener propiedades distintas",
+      "c) La clave principal es obligatoria",
+      "d) No es obligatorio asignar un tipo de datos a cada campo"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Cada campo tiene sus propias propiedades. La descripción es opcional, la clave principal es recomendable pero no obligatoria, y todo campo debe tener un tipo de datos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.8",
+    "texto": "¿Qué indica el icono de lápiz que aparece a la izquierda de un registro de una tabla en vista Hoja de datos?",
+    "opciones": [
+      "a) Que se está editando el registro, se grabará cuando se cambie de registro",
+      "b) El registro está seleccionado",
+      "c) Que se está editando el registro, se grabará cuando se dé a intro",
+      "d) Que se está editando el registro, se grabará cuando se cambie de campo"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El lápiz indica que el registro está en edición; los cambios se guardan al pasar a otro registro (no al cambiar de campo).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.9",
+    "texto": "¿Cuál de los siguientes filtros no pertenece a Access?",
+    "opciones": [
+      "a) Filtro de intervalos",
+      "b) Filtro de texto",
+      "c) Filtro de números",
+      "d) Filtro de fechas"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Access ofrece filtros de texto, de números y de fechas según el tipo de campo; no existe un «filtro de intervalos».",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.10",
+    "texto": "¿Qué indica el signo + que aparece a la izquierda de cada registro de una tabla en vista Hoja de datos?",
+    "opciones": [
+      "a) Que a cada registro de esta tabla (principal) le corresponden varios de otra tabla (relacionada)",
+      "b) Que cada registro de esta tabla tiene más campos que no se ven",
+      "c) Que a cada registro de esta tabla (relacionada) le corresponden varios registros de otra tabla (principal)",
+      "d) Que hay varios registros de esta tabla (principal) que corresponden a uno de otra tabla (relacionada)"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El signo + despliega la subhoja de datos: muestra los registros de la tabla relacionada que corresponden al registro de la tabla principal (lado «uno»).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.11",
+    "texto": "¿Para qué se utiliza el signo & en Access?",
+    "opciones": [
+      "a) Es un operador que se usa como regla de validación de un campo",
+      "b) Se usa para filtrar los registros de una tabla",
+      "c) Es un comodín que se usa en los criterios de las consultas",
+      "d) Es un operador que se usa para unir"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "& es el operador de concatenación: une textos (p. ej. [Nombre] & \" \" & [Apellidos]).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.12",
+    "texto": "¿Cuál de las siguientes respuestas NO es un tipo de formulario rápido en Access?",
+    "opciones": [
+      "a) Formulario",
+      "b) Formulario dividido",
+      "c) Autoformulario",
+      "d) Varios elementos"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Los formularios rápidos del grupo Formularios son Formulario, Formulario dividido y Varios elementos; «Autoformulario» era un asistente de versiones antiguas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.13",
+    "texto": "¿Qué expresión es correcta para crear un campo calculado que multiplique dos campos en una consulta?",
+    "opciones": [
+      "a) total: cantidad*precio",
+      "b) =[cantidad]*[precio]",
+      "c) total:[cantidad*precio]",
+      "d) total:[cantidad]*[precio]"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Un campo calculado en la cuadrícula de la consulta se escribe «Nombre: expresión», con cada campo entre corchetes: total:[cantidad]*[precio].",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.14",
+    "texto": "¿Cuál de las siguientes respuestas es válida para entrar en las propiedades de un control en un formulario?",
+    "opciones": [
+      "a) Doble clic en el control",
+      "b) Alt+Intro",
+      "c) F4",
+      "d) Todas son válidas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Se abre la hoja de propiedades con doble clic en el control, con Alt+Intro o con F4.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.15",
+    "texto": "En el grupo Controles de un formulario o informe, ¿para qué se utiliza el comando «Insertar salto de página»?",
+    "opciones": [
+      "a) Crea un salto de página en un formulario o informe",
+      "b) Crea un subformulario",
+      "c) Crea un cuadro combinado",
+      "d) Crea un subinforme"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "El control «Insertar salto de página» marca el punto donde empieza una nueva página al imprimir un formulario o informe.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.16",
+    "texto": "Para cambiar la manera en la que se van enfocando los campos de un formulario se ha de configurar...",
+    "opciones": [
+      "a) El orden de entrada",
+      "b) La alineación de los campos",
+      "c) El orden de tabulación",
+      "d) Las propiedades del formulario"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "El orden de tabulación (Diseño > Orden de tabulación) determina la secuencia en que el cursor pasa de un control a otro al pulsar Tab o Intro.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.17",
+    "texto": "El panel «Agrupación, orden y total», con los botones «Agregar un grupo» y «Agregar un orden», indica:",
+    "opciones": [
+      "a) La manera en la que se agrupa y/o ordena una tabla",
+      "b) La manera en la que se agrupa y/o ordena un informe",
+      "c) La manera en la que se agrupa y/o ordena una consulta",
+      "d) La manera en la que se agrupa y/o ordena un formulario"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "El panel Agrupación, orden y total es propio de los informes (y se abre en vista Diseño o Presentación).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.18",
+    "texto": "¿Cuál es el motivo para hacer una consulta de selección?",
+    "opciones": [
+      "a) Filtrar datos",
+      "b) Copiar datos",
+      "c) Borrar datos",
+      "d) Crear una tabla"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La consulta de selección recupera y filtra datos de una o varias tablas sin modificarlos. Copiar, borrar o crear tablas son consultas de acción.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.19",
+    "texto": "¿Cuál de los siguientes nombres de campo no es válido en una tabla de Access?",
+    "opciones": [
+      "a) Nombre Alumno",
+      "b) Nombre_Alumno",
+      "c) Nombre-Alumno",
+      "d) Nombre.Alumno"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "Un nombre de campo no puede contener punto, signo de exclamación, corchetes ni acento grave. El espacio, el guion y el guion bajo sí se admiten.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.20",
+    "texto": "En una relación de uno a varios entre la tabla Empleados (lado «uno», con IdEmpleado como clave) y la tabla Pedidos (lado «varios», con IdEmpleado), ¿cuál de las siguientes afirmaciones NO es correcta?",
+    "opciones": [
+      "a) No se puede modificar el nombre de un empleado por estar relacionado con los Pedidos.",
+      "b) La tabla Empleados es principal y la tabla Pedidos relacionada.",
+      "c) La tabla Empleados podría ser relacionada de otra tabla.",
+      "d) La tabla Pedidos podría ser principal de otra tabla."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "La relación solo se apoya en el campo clave (IdEmpleado): modificar otros campos, como el nombre, no está restringido por la relación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.21",
+    "texto": "Se están rellenando los datos de los alumnos. Al llegar al campo DNI nos encontramos con el patrón: __.___.___-_ ¿Qué propiedad ha intervenido?",
+    "opciones": [
+      "a) Valor predeterminado",
+      "b) Regla de validación",
+      "c) Máscara de entrada",
+      "d) Texto de validación"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "La máscara de entrada muestra un patrón que guía y limita lo que el usuario puede escribir en el campo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.22",
+    "texto": "¿Qué extensión de archivo tienen las bases de datos creadas en Access?",
+    "opciones": [
+      "a) accdb",
+      "b) mdb",
+      "c) accbd",
+      "d) accdbx"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Las bases de datos de Access modernas usan la extensión .accdb; .mdb es el formato heredado de versiones anteriores.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.23",
+    "texto": "Si hubiera que editar el formato de un campo en un informe, por ejemplo para visualizarlo en cursiva ¿en qué vista habría que trabajar?",
+    "opciones": [
+      "a) Vista preliminar",
+      "b) Vista Diseño",
+      "c) Vista Presentación",
+      "d) b y c son correctas"
+    ],
+    "respuesta_correcta": "d",
+    "referencia": null,
+    "explicacion": "El formato de los controles de un informe se edita en Vista Diseño o en Vista Presentación; la vista preliminar solo permite ver cómo se imprimirá.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.25",
+    "texto": "En una consulta de la tabla Productos, en la cuadrícula de diseño aparece el criterio \"Herramientas\" en el campo IdCategoría (fila Criterios) y el criterio >5 en el campo Unidades, escrito en la fila «O». ¿Cuál sería el resultado de la consulta?",
+    "opciones": [
+      "a) Todos los registros de la categoría Herramientas y que las unidades superen 5",
+      "b) Todos los registros de la categoría Herramientas o que las unidades superen 5",
+      "c) Todos los registros de la categoría Herramientas y que las unidades sean menor de 5",
+      "d) Todos los registros de la categoría Herramientas o que las unidades sean menor de 5"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Los criterios en filas distintas (Criterios y O) se combinan con O: devuelve los registros de la categoría Herramientas o con más de 5 unidades. En la misma fila se combinarían con Y.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.26",
+    "texto": "En un formulario aparece un marco titulado «Situación» con tres botones de opción (Armario, Panel, Estantería), de los que solo se puede elegir uno. ¿Qué tipo de objeto es?",
+    "opciones": [
+      "a) Grupo de opciones",
+      "b) Botones de opción",
+      "c) Cuadro combinado",
+      "d) Opciones excluyentes"
+    ],
+    "respuesta_correcta": "a",
+    "referencia": null,
+    "explicacion": "Un grupo de opciones es un marco que contiene varios botones de opción excluyentes entre sí, y guarda como valor el de la opción elegida.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.27",
+    "texto": "¿Qué afirmación es la correcta?",
+    "opciones": [
+      "a) Access es un gestos de base de datos planas",
+      "b) Access es un gestor de tablas",
+      "c) Access es un gestor de base de datos relacionales",
+      "d) Access es un gestor de base de datos integrales"
+    ],
+    "respuesta_correcta": "c",
+    "referencia": null,
+    "explicacion": "Access es un sistema gestor de bases de datos relacionales (SGBDR): organiza la información en tablas relacionadas entre sí.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.29",
+    "texto": "Para Ver o Crear relaciones entre tablas ¿A qué ficha o pestaña de Access debemos acudir?",
+    "opciones": [
+      "a) Inicio",
+      "b) Herramientas de base de datos",
+      "c) Herramientas de tabla",
+      "d) Crear"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Las relaciones se gestionan desde Herramientas de base de datos > Relaciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "ID-AGE1.30",
+    "texto": "Hay que realizar una base de datos con dos tablas. Una tabla de Campus donde almacenar todos los campus de la Universidad y otra tabla de Centros para introducir todos los centros con sus datos e indicar al campus que pertenece cada centro. ¿Qué tipo de relación habrá que realizar entre la tabla Campus y la tabla Centros?",
+    "opciones": [
+      "a) De uno a uno",
+      "b) De uno a varios",
+      "c) De varios a varios",
+      "d) Se necesitaría una tabla intermedia"
+    ],
+    "respuesta_correcta": "b",
+    "referencia": null,
+    "explicacion": "Un campus tiene varios centros y cada centro pertenece a un solo campus: relación de uno a varios (Campus en el lado «uno»).",
+    "requiere_imagen": false
   }
 ]

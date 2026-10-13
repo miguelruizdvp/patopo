@@ -1,6 +1,6 @@
 BANCO DE PREGUNTAS - TEMA 19 (OFIMÁTICA: BASES DE DATOS - ACCESS 365)
 Fuente: ADAMS - Cuestionario tema 19.01 (test1) + Cuestionario tema 19.03 (test2)
-IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas (ampliado posteriormente a 83, ver preguntas 51-83)
+IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas (ampliado posteriormente a 111, ver preguntas 51-111)
 Todas las preguntas: origen = banco_propio
 
 ===========================================================
@@ -834,6 +834,286 @@ Respuesta_correcta: a
 Explicación: Si una relación entre dos tablas ya no es correcta ni debe existir, la acción adecuada es eliminarla desde la vista de relaciones; ocultarla solo la quita de la vista sin eliminar el vínculo real del modelo.
 
 ===========================================================
+84) [ID-AGE1.1]
+Pregunta: El origen de un informe puede ser…
+a) Tablas, consultas, formularios y otros informes
+b) Solo tablas
+c) Solo tablas y consultas
+d) Tablas, consultas y formularios
+Respuesta_correcta: c
+Explicación: El origen de datos (Origen del registro) de un informe es una tabla o una consulta; no pueden serlo formularios ni otros informes.
+
+===========================================================
+85) [ID-AGE1.2]
+Pregunta: ¿Cuál sería el resultado de poner la expresión <>Agosto en el criterio del campo mes de una consulta?
+a) Muestra todos los meses menos Agosto
+b) Muestra todos los meses que alfabéticamente estén antes y después de agosto
+c) Muestra todos los meses que estén antes y después de agosto
+d) La expresión es incorrecta, faltan comillas (“)
+Respuesta_correcta: d
+Explicación: Según la clave del cuestionario de origen, el texto debe ir entre comillas (<>"Agosto"). Matiz: en la práctica Access suele añadir las comillas automáticamente al salir de la celda de criterios, en cuyo caso mostraría todos los meses menos agosto (opción a); se mantiene la clave del cuestionario.
+
+===========================================================
+86) [ID-AGE1.3]
+Pregunta: ¿Cuál de los siguientes objetos no pertenece a la estructura de una base de datos en Access?
+a) Plantillas
+b) Módulos
+c) Informes
+d) Macros
+Respuesta_correcta: a
+Explicación: Los objetos de una base de datos Access son tablas, consultas, formularios, informes, macros y módulos. Las plantillas no son un objeto de la base de datos.
+
+===========================================================
+87) [ID-AGE1.4]
+Pregunta: En una tabla de Access ¿Cuál de los siguientes tipos de datos es solo de lectura?
+a) Número
+b) Objeto OLE
+c) Hipervínculo
+d) Autonumeración
+Respuesta_correcta: d
+Explicación: El campo Autonumeración lo genera Access automáticamente para cada registro y el usuario no puede modificarlo: es de solo lectura.
+
+===========================================================
+88) [ID-AGE1.5]
+Pregunta: ¿Cuál de las siguientes respuestas no es una vista de una consulta?
+a) Vista Presentación
+b) Vista Hoja de datos
+c) Vista Diseño
+d) Vista SQL
+Respuesta_correcta: a
+Explicación: Las vistas de una consulta son Hoja de datos, Diseño y SQL. La vista Presentación es propia de formularios e informes.
+
+===========================================================
+89) [ID-AGE1.6]
+Pregunta: Al tener una tabla en vista hoja de datos, ¿Con qué método se pueden agregar registros nuevos?
+a) Grupo Registros
+b) Grupo Buscar
+c) Ctrl++
+d) Todas son correctas
+Respuesta_correcta: d
+Explicación: Se puede añadir un registro con Inicio > Registros > Nuevo, con Buscar > Ir a > Nuevo, y con el método abreviado Ctrl++.
+
+===========================================================
+90) [ID-AGE1.7]
+Pregunta: ¿Cuál de las siguientes afirmaciones sobre el diseño de una tabla es cierta?
+a) La descripción de cada campo es obligatoria
+b) Cada campo puede tener propiedades distintas
+c) La clave principal es obligatoria
+d) No es obligatorio asignar un tipo de datos a cada campo
+Respuesta_correcta: b
+Explicación: Cada campo tiene sus propias propiedades. La descripción es opcional, la clave principal es recomendable pero no obligatoria, y todo campo debe tener un tipo de datos.
+
+===========================================================
+91) [ID-AGE1.8]
+Pregunta: ¿Qué indica el icono de lápiz que aparece a la izquierda de un registro de una tabla en vista Hoja de datos?
+a) Que se está editando el registro, se grabará cuando se cambie de registro
+b) El registro está seleccionado
+c) Que se está editando el registro, se grabará cuando se dé a intro
+d) Que se está editando el registro, se grabará cuando se cambie de campo
+Respuesta_correcta: a
+Explicación: El lápiz indica que el registro está en edición; los cambios se guardan al pasar a otro registro (no al cambiar de campo).
+
+===========================================================
+92) [ID-AGE1.9]
+Pregunta: ¿Cuál de los siguientes filtros no pertenece a Access?
+a) Filtro de intervalos
+b) Filtro de texto
+c) Filtro de números
+d) Filtro de fechas
+Respuesta_correcta: a
+Explicación: Access ofrece filtros de texto, de números y de fechas según el tipo de campo; no existe un «filtro de intervalos».
+
+===========================================================
+93) [ID-AGE1.10]
+Pregunta: ¿Qué indica el signo + que aparece a la izquierda de cada registro de una tabla en vista Hoja de datos?
+a) Que a cada registro de esta tabla (principal) le corresponden varios de otra tabla (relacionada)
+b) Que cada registro de esta tabla tiene más campos que no se ven
+c) Que a cada registro de esta tabla (relacionada) le corresponden varios registros de otra tabla (principal)
+d) Que hay varios registros de esta tabla (principal) que corresponden a uno de otra tabla (relacionada)
+Respuesta_correcta: a
+Explicación: El signo + despliega la subhoja de datos: muestra los registros de la tabla relacionada que corresponden al registro de la tabla principal (lado «uno»).
+
+===========================================================
+94) [ID-AGE1.11]
+Pregunta: ¿Para qué se utiliza el signo & en Access?
+a) Es un operador que se usa como regla de validación de un campo
+b) Se usa para filtrar los registros de una tabla
+c) Es un comodín que se usa en los criterios de las consultas
+d) Es un operador que se usa para unir
+Respuesta_correcta: d
+Explicación: & es el operador de concatenación: une textos (p. ej. [Nombre] & " " & [Apellidos]).
+
+===========================================================
+95) [ID-AGE1.12]
+Pregunta: ¿Cuál de las siguientes respuestas NO es un tipo de formulario rápido en Access?
+a) Formulario
+b) Formulario dividido
+c) Autoformulario
+d) Varios elementos
+Respuesta_correcta: c
+Explicación: Los formularios rápidos del grupo Formularios son Formulario, Formulario dividido y Varios elementos; «Autoformulario» era un asistente de versiones antiguas.
+
+===========================================================
+96) [ID-AGE1.13]
+Pregunta: ¿Qué expresión es correcta para crear un campo calculado que multiplique dos campos en una consulta?
+a) total: cantidad*precio
+b) =[cantidad]*[precio]
+c) total:[cantidad*precio]
+d) total:[cantidad]*[precio]
+Respuesta_correcta: d
+Explicación: Un campo calculado en la cuadrícula de la consulta se escribe «Nombre: expresión», con cada campo entre corchetes: total:[cantidad]*[precio].
+
+===========================================================
+97) [ID-AGE1.14]
+Pregunta: ¿Cuál de las siguientes respuestas es válida para entrar en las propiedades de un control en un formulario?
+a) Doble clic en el control
+b) Alt+Intro
+c) F4
+d) Todas son válidas
+Respuesta_correcta: d
+Explicación: Se abre la hoja de propiedades con doble clic en el control, con Alt+Intro o con F4.
+
+===========================================================
+98) [ID-AGE1.15]
+Pregunta: En el grupo Controles de un formulario o informe, ¿para qué se utiliza el comando «Insertar salto de página»?
+a) Crea un salto de página en un formulario o informe
+b) Crea un subformulario
+c) Crea un cuadro combinado
+d) Crea un subinforme
+Respuesta_correcta: a
+Explicación: El control «Insertar salto de página» marca el punto donde empieza una nueva página al imprimir un formulario o informe.
+
+===========================================================
+99) [ID-AGE1.16]
+Pregunta: Para cambiar la manera en la que se van enfocando los campos de un formulario se ha de configurar...
+a) El orden de entrada
+b) La alineación de los campos
+c) El orden de tabulación
+d) Las propiedades del formulario
+Respuesta_correcta: c
+Explicación: El orden de tabulación (Diseño > Orden de tabulación) determina la secuencia en que el cursor pasa de un control a otro al pulsar Tab o Intro.
+
+===========================================================
+100) [ID-AGE1.17]
+Pregunta: El panel «Agrupación, orden y total», con los botones «Agregar un grupo» y «Agregar un orden», indica:
+a) La manera en la que se agrupa y/o ordena una tabla
+b) La manera en la que se agrupa y/o ordena un informe
+c) La manera en la que se agrupa y/o ordena una consulta
+d) La manera en la que se agrupa y/o ordena un formulario
+Respuesta_correcta: b
+Explicación: El panel Agrupación, orden y total es propio de los informes (y se abre en vista Diseño o Presentación).
+
+===========================================================
+101) [ID-AGE1.18]
+Pregunta: ¿Cuál es el motivo para hacer una consulta de selección?
+a) Filtrar datos
+b) Copiar datos
+c) Borrar datos
+d) Crear una tabla
+Respuesta_correcta: a
+Explicación: La consulta de selección recupera y filtra datos de una o varias tablas sin modificarlos. Copiar, borrar o crear tablas son consultas de acción.
+
+===========================================================
+102) [ID-AGE1.19]
+Pregunta: ¿Cuál de los siguientes nombres de campo no es válido en una tabla de Access?
+a) Nombre Alumno
+b) Nombre_Alumno
+c) Nombre-Alumno
+d) Nombre.Alumno
+Respuesta_correcta: d
+Explicación: Un nombre de campo no puede contener punto, signo de exclamación, corchetes ni acento grave. El espacio, el guion y el guion bajo sí se admiten.
+
+===========================================================
+103) [ID-AGE1.20]
+Pregunta: En una relación de uno a varios entre la tabla Empleados (lado «uno», con IdEmpleado como clave) y la tabla Pedidos (lado «varios», con IdEmpleado), ¿cuál de las siguientes afirmaciones NO es correcta?
+a) No se puede modificar el nombre de un empleado por estar relacionado con los Pedidos.
+b) La tabla Empleados es principal y la tabla Pedidos relacionada.
+c) La tabla Empleados podría ser relacionada de otra tabla.
+d) La tabla Pedidos podría ser principal de otra tabla.
+Respuesta_correcta: a
+Explicación: La relación solo se apoya en el campo clave (IdEmpleado): modificar otros campos, como el nombre, no está restringido por la relación.
+
+===========================================================
+104) [ID-AGE1.21]
+Pregunta: Se están rellenando los datos de los alumnos. Al llegar al campo DNI nos encontramos con el patrón: __.___.___-_ ¿Qué propiedad ha intervenido?
+a) Valor predeterminado
+b) Regla de validación
+c) Máscara de entrada
+d) Texto de validación
+Respuesta_correcta: c
+Explicación: La máscara de entrada muestra un patrón que guía y limita lo que el usuario puede escribir en el campo.
+
+===========================================================
+105) [ID-AGE1.22]
+Pregunta: ¿Qué extensión de archivo tienen las bases de datos creadas en Access?
+a) accdb
+b) mdb
+c) accbd
+d) accdbx
+Respuesta_correcta: a
+Explicación: Las bases de datos de Access modernas usan la extensión .accdb; .mdb es el formato heredado de versiones anteriores.
+
+===========================================================
+106) [ID-AGE1.23]
+Pregunta: Si hubiera que editar el formato de un campo en un informe, por ejemplo para visualizarlo en cursiva ¿en qué vista habría que trabajar?
+a) Vista preliminar
+b) Vista Diseño
+c) Vista Presentación
+d) b y c son correctas
+Respuesta_correcta: d
+Explicación: El formato de los controles de un informe se edita en Vista Diseño o en Vista Presentación; la vista preliminar solo permite ver cómo se imprimirá.
+
+===========================================================
+107) [ID-AGE1.25]
+Pregunta: En una consulta de la tabla Productos, en la cuadrícula de diseño aparece el criterio "Herramientas" en el campo IdCategoría (fila Criterios) y el criterio >5 en el campo Unidades, escrito en la fila «O». ¿Cuál sería el resultado de la consulta?
+a) Todos los registros de la categoría Herramientas y que las unidades superen 5
+b) Todos los registros de la categoría Herramientas o que las unidades superen 5
+c) Todos los registros de la categoría Herramientas y que las unidades sean menor de 5
+d) Todos los registros de la categoría Herramientas o que las unidades sean menor de 5
+Respuesta_correcta: b
+Explicación: Los criterios en filas distintas (Criterios y O) se combinan con O: devuelve los registros de la categoría Herramientas o con más de 5 unidades. En la misma fila se combinarían con Y.
+
+===========================================================
+108) [ID-AGE1.26]
+Pregunta: En un formulario aparece un marco titulado «Situación» con tres botones de opción (Armario, Panel, Estantería), de los que solo se puede elegir uno. ¿Qué tipo de objeto es?
+a) Grupo de opciones
+b) Botones de opción
+c) Cuadro combinado
+d) Opciones excluyentes
+Respuesta_correcta: a
+Explicación: Un grupo de opciones es un marco que contiene varios botones de opción excluyentes entre sí, y guarda como valor el de la opción elegida.
+
+===========================================================
+109) [ID-AGE1.27]
+Pregunta: ¿Qué afirmación es la correcta?
+a) Access es un gestos de base de datos planas
+b) Access es un gestor de tablas
+c) Access es un gestor de base de datos relacionales
+d) Access es un gestor de base de datos integrales
+Respuesta_correcta: c
+Explicación: Access es un sistema gestor de bases de datos relacionales (SGBDR): organiza la información en tablas relacionadas entre sí.
+
+===========================================================
+110) [ID-AGE1.29]
+Pregunta: Para Ver o Crear relaciones entre tablas ¿A qué ficha o pestaña de Access debemos acudir?
+a) Inicio
+b) Herramientas de base de datos
+c) Herramientas de tabla
+d) Crear
+Respuesta_correcta: b
+Explicación: Las relaciones se gestionan desde Herramientas de base de datos > Relaciones.
+
+===========================================================
+111) [ID-AGE1.30]
+Pregunta: Hay que realizar una base de datos con dos tablas. Una tabla de Campus donde almacenar todos los campus de la Universidad y otra tabla de Centros para introducir todos los centros con sus datos e indicar al campus que pertenece cada centro. ¿Qué tipo de relación habrá que realizar entre la tabla Campus y la tabla Centros?
+a) De uno a uno
+b) De uno a varios
+c) De varios a varios
+d) Se necesitaría una tabla intermedia
+Respuesta_correcta: b
+Explicación: Un campus tiene varios centros y cada centro pertenece a un solo campus: relación de uno a varios (Campus en el lado «uno»).
+
+===========================================================
 NOTAS DE VERIFICACIÓN GENERALES
 - Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Access 365, no sobre citas legales.
 - Se han recalculado a mano todas las expresiones y funciones del banco (Elegir, Conmutador, DifFecha, Año/Mes, reglas de validación) confirmando los resultados de la clave de ADAMS.
@@ -844,3 +1124,6 @@ NOTAS DE VERIFICACIÓN GENERALES
 - Preguntas 51-83 (ID-4.x.x): añadidas a partir de un nuevo documento aportado por el usuario (nuevas-access-TEMA19.docx, 34 capturas de pantalla, numeración propia tipo "4.2.8"). Las capturas no traían clave de respuestas oficial, solo la opción que el usuario tenía marcada en cada una (círculo rojo) a modo de intento propio; Claude ha verificado cada pregunta de forma independiente contra el comportamiento real de Access 365 / Power BI antes de fijar "Respuesta_correcta".
   · Pregunta 53 (ID-4.4.4): el documento aportado tenía marcada la opción d) "Consulta de actualización", pero la respuesta correcta es c) "Consulta de datos anexados" (incorporar registros nuevos de una tabla temporal a una tabla histórica es una operación de anexar filas, no de actualizar campos de registros ya existentes); se ha corregido la clave respecto a la marca original.
   · Preguntas 75-83 (bloque 4.9.x): versan sobre Poder BI (Power BI), no sobre Access propiamente dicho; se han mantenido dentro de tema19 tal y como las aportó el usuario en el mismo documento.
+- Preguntas 84-111 (ID-AGE1.x): añadidas a partir del PDF «Cuestionario1 de Access» de age.josenrique.es (30 preguntas con clave de respuestas incluida). Las 28 claves se han contrastado con el comportamiento real de Access y coinciden con la del cuestionario. Se omiten 2 preguntas: la 24 (idéntica a una ya existente en el banco, sobre qué NO pertenece a un informe) y la 28 (las cuatro opciones son solo iconos, imposible sin imagen). Las preguntas 8, 10, 15, 17, 20, 25 y 26 dependían de una captura en el original; se han reescrito describiendo el contenido de la imagen para que se entiendan sin ella.
+  · Pregunta 85 (ID-AGE1.2): se mantiene la clave del cuestionario (d, «faltan comillas»), pero en Access real las comillas suelen añadirse solas al escribir <>Agosto en el criterio, con lo que el resultado práctico sería la opción a; POSIBLE DISCREPANCIA entre la clave y el comportamiento real.
+  · Pregunta 105 (ID-AGE1.22): trata el mismo hecho (extensión .accdb) que otra pregunta ya existente, aunque con otras opciones.
