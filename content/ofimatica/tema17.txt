@@ -2,6 +2,7 @@ BANCO DE PREGUNTAS - TEMA 17 (OFIMÁTICA: PROCESADORES DE TEXTO - WORD 365)
 Fuente: ADAMS - Cuestionario tema 17.01 (test1) + Cuestionario tema 17.03 (test2)
 IDs de pregunta sin solape entre ambos cuestionarios -> banco de 50 preguntas distintas
 Preguntas 51-94: añadidas a partir de nuevas-word-tema17.docx (práctica Word 365) -> banco ampliado a 94 preguntas
+Preguntas 95-124: añadidas a partir del PDF Cuestionario2 de Word (age.josenrique.es) -> banco ampliado a 124 preguntas
 Todas las preguntas: origen = banco_propio
 
 ===========================================================
@@ -945,6 +946,306 @@ Respuesta_correcta: b
 Explicación: En Archivo > Opciones > Guardar se ajusta «Guardar información de Autorrecuperación cada X minutos»; un intervalo menor reduce el trabajo que se puede perder.
 
 ===========================================================
+95) [ID-AGE2.1]
+Pregunta: ¿Cuál de las siguientes afirmaciones sobre trabajar en la Vista esquema en Word es verdadera?
+a) Hay hasta 6 niveles
+b) Hay hasta 7 niveles
+c) Hay hasta 8 niveles
+d) Hay hasta 9 niveles
+Respuesta_correcta: d
+Explicación: La Vista esquema de Word permite trabajar con hasta 9 niveles de esquema (Nivel 1 a Nivel 9), además del texto independiente.
+
+===========================================================
+96) [ID-AGE2.2]
+Pregunta: En Word ¿Dónde aparece el nombre del documento?
+a) En la barra de estado
+b) En la ficha Inicio
+c) En la barra de tareas
+d) Ninguna es correcta
+Respuesta_correcta: d
+Explicación: El nombre del documento aparece en la barra de título de la ventana de Word, que no figura entre las opciones.
+
+===========================================================
+97) [ID-AGE2.3]
+Pregunta: ¿Cuál de las siguientes respuestas NO es una vista en Word?
+a) Modo de lectura
+b) Borrador
+c) Normal
+d) Diseño Web
+Respuesta_correcta: c
+Explicación: Las vistas de Word son Modo lectura, Diseño de impresión, Diseño Web, Esquema y Borrador. «Normal» no es una vista de Word actual.
+
+===========================================================
+98) [ID-AGE2.4]
+Pregunta: Al hacer triple clic en el margen izquierdo de un documento de Word se selecciona...
+a) Todo el documento
+b) Una frase
+c) Un párrafo
+d) Una página
+Respuesta_correcta: a
+Explicación: En el margen izquierdo, un clic selecciona una línea, doble clic un párrafo y triple clic todo el documento.
+
+===========================================================
+99) [ID-AGE2.5]
+Pregunta: En Word, para poder mostrar el portapapeles de office hay que ir a la ficha…
+a) Insertar
+b) Vista
+c) Disposición
+d) Inicio
+Respuesta_correcta: d
+Explicación: El Portapapeles de Office se muestra desde la ficha Inicio, con el iniciador de cuadro de diálogo del grupo Portapapeles.
+
+===========================================================
+100) [ID-AGE2.6]
+Pregunta: ¿Cuál de las siguientes respuestas NO es una opción en el cuadro de diálogos de Párrafo?
+a) Alineación vertical
+b) Nivel de esquema
+c) Sangría de primera línea
+d) Salto de página anterior
+Respuesta_correcta: a
+Explicación: La alineación vertical se configura en Configurar página (pestaña Diseño). En Párrafo sí están el nivel de esquema, las sangrías y «Salto de página anterior».
+
+===========================================================
+101) [ID-AGE2.7]
+Pregunta: ¿Cuál de las siguientes respuestas es una opción que se puede modificar desde la barra de regla de Word?
+a) Alineación
+b) Sangría Francesa
+c) Sangría Derecha
+d) b y c son correctas
+Respuesta_correcta: d
+Explicación: Desde la regla se pueden mover las sangrías (primera línea, francesa, izquierda y derecha) y las tabulaciones; la alineación no se cambia desde la regla.
+
+===========================================================
+102) [ID-AGE2.8]
+Pregunta: ¿Cuál de las siguientes opciones NO es una propiedad de una tabulación?
+a) Formato
+b) Posición
+c) Alineación
+d) Relleno
+Respuesta_correcta: a
+Explicación: Las propiedades de una tabulación son su posición, su alineación y el carácter de relleno (puntos, guiones, línea). El «formato» no es una propiedad de la tabulación.
+
+===========================================================
+103) [ID-AGE2.9]
+Pregunta: Para crear un salto de página ¿Qué opción sería la correcta?
+a) May+Intro
+b) Ficha Vista
+c) Ficha Inicio
+d) Ninguna es correcta
+Respuesta_correcta: d
+Explicación: El salto de página se crea con Ctrl+Intro o desde Insertar > Salto de página. May+Intro (Mayús+Intro) inserta un salto de línea, y ni Vista ni Inicio contienen el comando.
+
+===========================================================
+104) [ID-AGE2.10]
+Pregunta: ¿Para qué se usa en Word la combinación de teclas May+F5?
+a) Corrector Gramatical
+b) Tabla de contenido
+c) Vuelve a la posición anterior del cursor
+d) Ir a
+Respuesta_correcta: c
+Explicación: Mayús+F5 devuelve el cursor a una posición de edición anterior (hasta las tres últimas). El cuadro «Ir a» es F5.
+
+===========================================================
+105) [ID-AGE2.11]
+Pregunta: La barra de estado de Word puede mostrar entre otras cosas el número de palabras del documento. ¿Qué ocurre si se hace clic en ese sitio?
+a) Muestra una estadística con el número de palabras, páginas, caracteres, líneas, párrafos,… que tiene el documento
+b) Abre el cuadro de diálogo “Ir a”
+c) Abre el cuadro de diálogos de Configurar página
+d) Abre el cuadro de diálogo de Ortografía y gramática
+Respuesta_correcta: a
+Explicación: Al hacer clic en el contador de palabras se abre el cuadro «Contar palabras» con palabras, caracteres, párrafos, líneas y páginas.
+
+===========================================================
+106) [ID-AGE2.12]
+Pregunta: ¿Cuántos clics habría que dar en el margen izquierdo de un documento para seleccionar una frase?
+a) 1
+b) 2
+c) 3
+d) No se puede seleccionar una frase haciendo clic en el margen izquierdo
+Respuesta_correcta: d
+Explicación: En el margen izquierdo un clic selecciona una línea, dos un párrafo y tres todo el documento; para seleccionar una frase se hace Ctrl+clic sobre ella.
+
+===========================================================
+107) [ID-AGE2.13]
+Pregunta: En el cuadro de diálogos “Configurar página” hay una característica llamada “Varias páginas”. ¿Qué opciones existen además de Normal?
+a) Márgenes simétricos, Catálogo y Libro plegado
+b) Márgenes reflejados, Dos páginas por hoja y Formato libro
+c) Márgenes simétricos, Dos páginas por hoja y Formato libro
+d) Márgenes simétricos, Dos páginas por hoja y Libro encolado
+Respuesta_correcta: c
+Explicación: Las opciones de «Varias páginas» son Normal, Márgenes simétricos, Dos páginas por hoja y Formato libro.
+
+===========================================================
+108) [ID-AGE2.14]
+Pregunta: ¿Qué acción puedes realizar con el ratón para acercar o alejar el documento en pantalla?
+a) Girar la rueda del ratón
+b) Dobleclic en la zona que desea ampliar o reducir mientras se mantiene pulsada Ctrl
+c) Girar la rueda del ratón mientras se mantiene pulsada la tecla Ctrl
+d) Enmarcar la zona a ampliar mientras se mantiene pulsada la tecla Ctrl
+Respuesta_correcta: c
+Explicación: Ctrl + rueda del ratón cambia el zoom. La rueda sola desplaza el documento.
+
+===========================================================
+109) [ID-AGE2.15]
+Pregunta: ¿En qué zonas de un documento de Word se puede numerar las páginas?
+a) Únicamente los márgenes superior, inferior, izquierdo y derecho
+b) Únicamente los márgenes superior e inferior
+c) Únicamente los márgenes superior, inferior y derecho
+d) En cualquier lugar del documento
+Respuesta_correcta: d
+Explicación: Insertar > Número de página ofrece Principio y final de página, Márgenes de página y Posición actual, es decir, en cualquier lugar del documento.
+
+===========================================================
+110) [ID-AGE2.16]
+Pregunta: En la galería de estilos de Word, el estilo llamado «Cita» aparece con el símbolo ¶a. ¿De qué tipo es?
+a) Párrafo
+b) Lista
+c) Vinculado
+d) Carácter
+Respuesta_correcta: c
+Explicación: El símbolo ¶a indica un estilo vinculado (de párrafo y de carácter a la vez). Solo ¶ es de párrafo y solo «a» es de carácter.
+
+===========================================================
+111) [ID-AGE2.17]
+Pregunta: Si se desea proteger un documento de Word para que no se pueda editar ¿A qué ficha o pestaña habrá que ir?
+a) Insertar
+b) Revisar
+c) Referencias
+d) Disposición
+Respuesta_correcta: b
+Explicación: El comando Restringir edición está en la ficha Revisar, grupo Proteger.
+
+===========================================================
+112) [ID-AGE2.18]
+Pregunta: Si tenemos en cuenta todas las alineaciones que Word ofrece para una celda de una tabla ¿Cuántas combinaciones posibles hay?
+a) 9
+b) 3
+c) 6
+d) 4
+Respuesta_correcta: a
+Explicación: Hay 3 alineaciones horizontales (izquierda, centro, derecha) por 3 verticales (superior, centro, inferior): 9 combinaciones.
+
+===========================================================
+113) [ID-AGE2.19]
+Pregunta: ¿Cuál de los siguientes tipos de documento NO se usa para combinar correspondencia?
+a) Directorio
+b) Mensaje de correo electrónico
+c) Plantilla
+d) Sobre
+Respuesta_correcta: c
+Explicación: Los tipos de documento de la combinación de correspondencia son Cartas, Mensajes de correo electrónico, Sobres, Etiquetas y Directorio. «Plantilla» no es uno de ellos.
+
+===========================================================
+114) [ID-AGE2.20]
+Pregunta: En un formulario de Word, el control de contenido que muestra el texto «Elija un elemento.» y despliega una lista con las opciones Mañana, Tarde y Noche, ¿qué nombre recibe?
+a) Listado para elegir
+b) Opciones para elegir
+c) Cuadro combinado
+d) Grupo de opciones
+Respuesta_correcta: c
+Explicación: Es el control de contenido de cuadro combinado (o lista desplegable), que muestra un texto indicador y despliega una lista de elementos entre los que elegir.
+
+===========================================================
+115) [ID-AGE2.21]
+Pregunta: ¿Qué nombre recibe en Word el elemento que muestra una lista alfabética de términos, agrupados bajo letras (A, C, D, E, I...), con el número de página donde aparece cada uno?
+a) Índice
+b) Lista de temas
+c) Tabla de contenido
+d) Glosario
+Respuesta_correcta: a
+Explicación: Es un índice alfabético (Referencias > Insertar índice). La tabla de contenido, en cambio, se basa en los títulos del documento y sigue su orden.
+
+===========================================================
+116) [ID-AGE2.22]
+Pregunta: Para seleccionar una frase u oración de un documento de Word se debe hacer...
+a) Triple clic en la frase
+b) Ctrl+clic en la frase
+c) Ctrl+doble clic en la frase
+d) Doble clic en la frase
+Respuesta_correcta: b
+Explicación: Ctrl+clic en cualquier punto de la frase la selecciona entera. Doble clic selecciona una palabra y triple clic un párrafo.
+
+===========================================================
+117) [ID-AGE2.23]
+Pregunta: ¿Cuál de las siguientes opciones NO es un tipo de sangría en Word?
+a) Primera línea
+b) Izquierda
+c) Francesa
+d) Centrada
+Respuesta_correcta: d
+Explicación: Los tipos de sangría son primera línea, francesa, izquierda y derecha. «Centrada» es una alineación, no una sangría.
+
+===========================================================
+118) [ID-AGE2.24]
+Pregunta: ¿Qué indica una L invertida en la barra de regla de Word?
+a) Tabulación de izquierda
+b) Sangría de derecha
+c) Tabulación de derecha
+d) Sangría de izquierda
+Respuesta_correcta: c
+Explicación: La L invertida es el marcador de la tabulación derecha; la L normal es la tabulación izquierda.
+
+===========================================================
+119) [ID-AGE2.25]
+Pregunta: Al usar márgenes simétricos ¿Cuál de las siguientes opciones NO existe?
+a) Margen derecho
+b) Margen exterior
+c) Margen superior
+d) Margen interior
+Respuesta_correcta: a
+Explicación: Con márgenes simétricos los márgenes izquierdo y derecho se sustituyen por interior y exterior; se mantienen el superior y el inferior.
+
+===========================================================
+120) [ID-AGE2.26]
+Pregunta: En un documento de Word, ¿qué habría que hacer para acceder a las opciones de la ficha contextual «Formato de imagen» (Quitar fondo, Correcciones, Color, Efectos artísticos, Estilos de imagen...)?
+a) Hay que habilitar la ficha en el menú Archivo, Opciones
+b) Hay que habilitar la ficha desde la pestaña Vista
+c) Basta con que haya una imagen en el documento
+d) Basta con que haya una imagen seleccionada en el documento
+Respuesta_correcta: d
+Explicación: Es una ficha contextual: solo aparece cuando hay una imagen seleccionada. No hace falta habilitarla en las opciones ni desde Vista.
+
+===========================================================
+121) [ID-AGE2.27]
+Pregunta: ¿Qué nombre recibe el grupo de opciones de formato (fuente, tamaño, negrita, cursiva, estilos, nuevo comentario) que aparece flotando junto al texto seleccionado?
+a) Herramientas habituales
+b) Barra de herramientas de acceso rápido
+c) Minibarra de herramientas
+d) Cinta de herramientas
+Respuesta_correcta: c
+Explicación: Es la minibarra de herramientas, que aparece de forma flotante junto al texto seleccionado con los comandos de formato más habituales.
+
+===========================================================
+122) [ID-AGE2.28]
+Pregunta: ¿Para qué se usa la combinación de teclas Ctrl+( ?
+a) Muestra u oculta los caracteres no imprimibles
+b) Salto de sección
+c) Cuadro de diálogo de fuente
+d) Cuadro de diálogo de configurar página
+Respuesta_correcta: a
+Explicación: Ctrl+( (Ctrl+Mayús+8 en teclado español) muestra u oculta los caracteres no imprimibles, como las marcas de párrafo.
+
+===========================================================
+123) [ID-AGE2.29]
+Pregunta: Con los caracteres no imprimibles visibles, un texto de Word muestra dos marcas de fin de párrafo (¶) y cuatro marcas de salto de línea (↵) repartidas dentro del texto. ¿Cuántos párrafos tiene?
+a) 1
+b) 2
+c) 3
+d) 4
+Respuesta_correcta: b
+Explicación: Un párrafo termina en la marca ¶ (Intro). El salto de línea (↵, Mayús+Intro) cambia de línea sin crear un párrafo nuevo, así que hay tantos párrafos como marcas ¶: 2.
+
+===========================================================
+124) [ID-AGE2.30]
+Pregunta: Un párrafo de Word pasa de estar alineado a la izquierda (o justificado) a quedar centrado. ¿Qué método abreviado se ha usado?
+a) Ctrl+m
+b) Ctrl+t
+c) Ctrl+q
+d) Ctrl+j
+Respuesta_correcta: b
+Explicación: En Word en español, Ctrl+T centra el párrafo. Ctrl+Q lo alinea a la izquierda, Ctrl+D a la derecha y Ctrl+J lo justifica.
+
+===========================================================
 NOTAS DE VERIFICACIÓN GENERALES
 - Contenido técnico (no normativo): la verificación se ha hecho sobre el comportamiento real de Word 365, no sobre citas legales.
 - Dos preguntas quedan señaladas como PENDIENTE DE VERIFICAR (no se ha corregido la clave, solo se advierte la duda):
@@ -953,3 +1254,6 @@ NOTAS DE VERIFICACIÓN GENERALES
 - Resto de las 50 preguntas verificadas sin discrepancias detectadas frente al comportamiento estándar de Word 365.
 - Preguntas 51-94 (IDs [ID-2.x.x]): añadidas a partir del documento nuevas-word-tema17.docx (33 capturas, 44 preguntas de práctica sobre Word 365). Las respuestas marcadas en rojo son intentos de la propia opositora, no una clave oficial; se verificaron una a una contra el comportamiento real de Word 365 y las 44 coinciden con el marcado, sin correcciones. Ninguna pregunta venía sin marcar ni duplicada con las 50 anteriores.
   · Pregunta 56 (ID-2.2.4): también «No dividir el párrafo» evitaría la línea sola, pero es más drástico; la clave correcta es el control de líneas viudas y huérfanas.
+- Preguntas 95-124 (IDs [ID-AGE2.x]): añadidas a partir del PDF «Cuestionario2 de Word» de age.josenrique.es (30 preguntas con clave de respuestas incluida). Las 30 claves se han contrastado con el comportamiento real de Word y coinciden con la del cuestionario; no hay duplicados con las preguntas anteriores. Las preguntas 16, 20, 21, 26, 27, 29 y 30 dependían de una imagen en el original y se han reescrito describiendo su contenido para que se entiendan sin ella.
+  · Pregunta 98 (ID-AGE2.4) y pregunta 106 (ID-AGE2.12): ambas tratan la selección con clics en el margen izquierdo (1 clic=línea, 2=párrafo, 3=documento) y se complementan.
+  · Los métodos abreviados de las preguntas 104 y 124 (Mayús+F5, Ctrl+T) corresponden a Word en español.
