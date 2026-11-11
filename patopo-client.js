@@ -45,7 +45,15 @@ const TEMAS_UPM = [
   { area: 'upm', slug: 'upm', nombre: 'Temario completo (sin psicotécnico)', sinBanco: true },
 ];
 
-const TEMAS_TODOS = [...TEMAS_LEYES, ...TEMAS_OFIMATICA, ...TEMAS_UPM];
+// Periodismo / Ciencias de la Información: banco con preguntas reales de
+// exámenes M3 de varios ministerios (con plantilla oficial de respuestas).
+// No tiene temario de contexto, así que soloBanco:true fuerza siempre el
+// modo "replicar" (sin generar preguntas nuevas con IA).
+const TEMAS_PERIODISMO = [
+  { area: 'periodismo', slug: 'periodismo', nombre: 'Periodismo (exámenes M3 Ciencias de la Información)', soloBanco: true },
+];
+
+const TEMAS_TODOS = [...TEMAS_LEYES, ...TEMAS_OFIMATICA, ...TEMAS_UPM, ...TEMAS_PERIODISMO];
 
 /** Llamada genérica al endpoint. Lanza Error con mensaje legible si falla. */
 async function llamarEndpoint(body) {
@@ -292,7 +300,7 @@ async function obtenerBloqueMezclado({ temasDisponibles, nTotal, distribucion, m
       // IA casi nunca para leyes/ofimática, y así se evita agotar el límite
       // de peticiones por minuto del nivel gratuito de Gemini. Los temas
       // marcados sinBanco (como UPM) van siempre directos a "generar_nueva".
-      const modo = item.sinBanco ? 'generar_nueva' : (Math.random() < 0.85 ? 'replicar' : 'generar_nueva');
+      const modo = item.sinBanco ? 'generar_nueva' : (item.soloBanco ? 'replicar' : (Math.random() < 0.85 ? 'replicar' : 'generar_nueva'));
       const modoAlt = modo === 'replicar' ? 'generar_nueva' : 'replicar';
       const evitar = calcularEvitar(item.slug);
 

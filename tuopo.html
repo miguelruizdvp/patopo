@@ -516,13 +516,14 @@
    e IA. Este array solo sirve para pintar los "pills" de selección de
    tema en la pantalla de configuración.
 ------------------------------------------------------------------ */
-const ETIQUETA_AREA = { leyes: 'Leyes', ofimatica: 'Ofimática', upm: 'UPM' };
+const ETIQUETA_AREA = { leyes: 'Leyes', ofimatica: 'Ofimática', upm: 'UPM', periodismo: 'Periodismo' };
 const TEMAS = PatopoClient.TEMAS_TODOS.map(t => ({
   id: t.slug,
   slug: t.slug,
   nombre: t.nombre,
   area: t.area,
   sinBanco: t.sinBanco,
+  soloBanco: t.soloBanco,
   label: (ETIQUETA_AREA[t.area] || t.area) + ' — ' + t.nombre,
 }));
 
