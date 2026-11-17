@@ -4876,5 +4876,1055 @@
     "referencia": "Ministerio de Defensa · M3 Ciencias de la Información · examen 08/02/2025 · pregunta 106 (reserva)",
     "explicacion": "Respuesta correcta según la plantilla del tribunal: a) Hipérbaton y elipsis.",
     "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-1",
+    "texto": "¿Qué ley regula las incompatibilidades del Personal al Servicio de las Administraciones Públicas?",
+    "opciones": [
+      "a) Ley 53/1984, de 26 de diciembre.",
+      "b) Ley 84/2003, de 5 de marzo.",
+      "c) Ley 34/2008, de 23 de septiembre.",
+      "d) Ley 55/1988, de 19 de octubre."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 1",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Ley 53/1984, de 26 de diciembre.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-2",
+    "texto": "El incumplimiento de las normas sobre incompatibilidades, cuando suponga el mantenimiento de una situación de incompatibilidad, tendrá la consideración de:",
+    "opciones": [
+      "a) Falta leve.",
+      "b) Falta grave.",
+      "c) Falta muy grave.",
+      "d) Falta media."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 2",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Falta muy grave.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-3",
+    "texto": "El incumplimiento de los plazos u otras disposiciones de procedimiento en materia de incompatibilidades, cuando no suponga el mantenimiento de una situación de incompatibilidad:",
+    "opciones": [
+      "a) Tendrá la consideración de falta leve.",
+      "b) Tendrá la consideración de falta grave.",
+      "c) Tendrá la consideración de falta muy grave.",
+      "d) No tendrá la consideración de falta."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 3",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Tendrá la consideración de falta grave.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-4",
+    "texto": "En relación a las incompatibilidades del personal estatutario, no es cierto que:",
+    "opciones": [
+      "a) Será incompatible el disfrute de becas y ayudas de ampliación de estudios concedidas en régimen de concurrencia competitiva al amparo de programas oficiales de formación y perfeccionamiento del personal, siempre que para participar en tales acciones se requiera la previa propuesta favorable del Servicio de Salud en el que se esté destinado y que las bases de la convocatoria no establezcan lo contrario.",
+      "b) La percepción de pensión de jubilación por un régimen público de Seguridad Social será incompatible con la situación del personal emérito.",
+      "c) Las retribuciones del personal emérito, sumadas a su pensión de jubilación, no podrán superar las retribuciones que el interesado percibía antes de su jubilación, consideradas, todas ellas, en cómputo anual.",
+      "d) La percepción de pensión de jubilación parcial será compatible con las retribuciones derivadas de una actividad a tiempo parcial."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 4",
+    "explicacion": "Respuesta correcta según la solución del libro: b) La percepción de pensión de jubilación por un régimen público de Seguridad Social será incompatible con la situación del personal emérito.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-5",
+    "texto": "Será requisito necesario para autorizar la compatibilidad de actividades públicas el que la cantidad total percibida por ambos puestos o actividades no supere la remuneración prevista en los Presupuestos Generales del Estado para:",
+    "opciones": [
+      "a) El cargo de Director General.",
+      "b) El nivel 30.",
+      "c) El cargo de Jefe de Servicio.",
+      "d) El cargo de Diputado o Senador."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 5",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El cargo de Director General.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-6",
+    "texto": "Será requisito necesario para autorizar la compatibilidad de actividades públicas a funcionarios del Grupo D, el que la cantidad total percibida por ambos puestos o actividades, no supere la correspondiente al principal, estimada en régimen de dedicación ordinaria, incrementada en:",
+    "opciones": [
+      "a) Un 30 %.",
+      "b) Un 40 %.",
+      "c) Un 45 %.",
+      "d) Un 50 %."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 6",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Un 45 %.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-7",
+    "texto": "Quienes accedan por cualquier título a un nuevo puesto del sector público que con arreglo a la Ley 53/1984 resulte incompatible con el que vinieran desempeñando habrán de optar por uno de ellos dentro del plazo:",
+    "opciones": [
+      "a) De 10 días tras la toma de posesión en el segundo puesto.",
+      "b) De 30 días tras la incorporación al segundo puesto.",
+      "c) De 3 días tras la incorporación al segundo puesto.",
+      "d) De toma de posesión."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 7",
+    "explicacion": "Respuesta correcta según la solución del libro: d) De toma de posesión.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-8",
+    "texto": "La resolución motivada reconociendo la compatibilidad o declarando la incompatibilidad, se dictará en el plazo de:",
+    "opciones": [
+      "a) 1 mes.",
+      "b) 2 meses.",
+      "c) 15 días.",
+      "d) 10 días."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 8",
+    "explicacion": "Respuesta correcta según la solución del libro: b) 2 meses.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-9",
+    "texto": "El personal comprendido en el ámbito de aplicación de la Ley 53/1984 no podrá ejercer la actividad siguiente:",
+    "opciones": [
+      "a) El desempeño de cargos de todo orden en Empresas o Sociedades privadas, siempre que la actividad de las mismas no esté directamente relacionada con las que gestione el Departamento, Organismo o Entidad en que preste sus servicios.",
+      "b) La participación en tribunales calificados de pruebas selectivas para ingreso en las Administraciones Públicas.",
+      "c) El ejercicio del cargo de Presidente, Vocal o miembro de Juntas rectoras de Mutualidades o Patronatos de Funcionarios, siempre que no sea retribuido.",
+      "d) La producción y creación literaria, siempre que no se origine como consecuencia de una relación de empleo o de prestación de servicios."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 9",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El desempeño de cargos de todo orden en Empresas o Sociedades privadas, siempre que la actividad de las mismas no esté directamente relacionada con las que gestione el Departamento, Organismo o Entidad en que preste sus servicios.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-10",
+    "texto": "No podrá reconocerse compatibilidad para la realización de actividades privadas a quien desempeñe dos actividades en el sector público, salvo en el caso de que la jornada semanal de ambas actividades en su conjunto sea inferior a:",
+    "opciones": [
+      "a) 35 horas.",
+      "b) 40 horas.",
+      "c) 44 horas.",
+      "d) 48 horas."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 10",
+    "explicacion": "Respuesta correcta según la solución del libro: b) 40 horas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-11",
+    "texto": "Según el artículo 79.1 del EBEP, el procedimiento normal de provisión de los puestos de trabajo del personal funcionario de carrera es:",
+    "opciones": [
+      "a) El concurso-oposición.",
+      "b) La libre designación.",
+      "c) La oposición.",
+      "d) El concurso."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 11",
+    "explicacion": "Respuesta correcta según la solución del libro: d) El concurso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-12",
+    "texto": "Cuando por motivos excepcionales los planes de ordenación de recursos impliquen cambio de lugar de residencia se dará prioridad a:",
+    "opciones": [
+      "a) La reagrupación familiar.",
+      "b) La voluntariedad de los traslados.",
+      "c) La antigüedad.",
+      "d) Las cargas familiares."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 12",
+    "explicacion": "Respuesta correcta según la solución del libro: b) La voluntariedad de los traslados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-13",
+    "texto": "La provisión de puestos de trabajo en cada Administración Pública se llevará a cabo por los procedimientos de:",
+    "opciones": [
+      "a) Oposición y concurso-oposición.",
+      "b) Concurso, oposición y concurso-oposición.",
+      "c) Concurso y de libre designación con convocatoria pública.",
+      "d) Traslado forzoso y movilidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 13",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Concurso y de libre designación con convocatoria pública.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-14",
+    "texto": "Las funcionarias víctimas de violencia de género que se vean obligadas a abandonar el puesto de trabajo en la localidad donde venían prestando sus servicios, para hacer efectiva su protección o el derecho a la asistencia social integral, tendrán derecho al traslado a otro puesto de trabajo propio de su cuerpo, escala o categoría profesional, de análogas características, sin necesidad de que sea vacante de necesaria cobertura. Este traslado tendrá la consideración de:",
+    "opciones": [
+      "a) Traslado voluntario.",
+      "b) Traslado forzoso.",
+      "c) Traslado definitivo.",
+      "d) Permuta."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 14",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Traslado forzoso.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L12-15",
+    "texto": "Según el artículo 56 del EBEP, ¿puede establecerse otra edad máxima, distinta de la edad de jubilación forzosa, para el acceso al empleo público?",
+    "opciones": [
+      "a) No, en ningún caso.",
+      "b) Sí, si así lo establece una ley.",
+      "c) Sólo para el acceso a empleos que requieran ciertas aptitudes físicas.",
+      "d) Sólo para el personal laboral."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 12 · pregunta 15",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Sí, si así lo establece una ley.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-1",
+    "texto": "¿A qué Grupo de Trabajo le corresponderá estudiar toda discrepancia de interpretación o matiz que surja de los artículos y cláusulas del IV Convenio Colectivo?",
+    "opciones": [
+      "a) Al Grupo de Trabajo de Adaptación del Convenio Único.",
+      "b) Al Grupo de Trabajo de Valoración del Convenio Único.",
+      "c) Al Grupo de Trabajo de Interpretación del Convenio Único.",
+      "d) Al Grupo de Trabajo de Adaptación del Convenio Único."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 1",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Al Grupo de Trabajo de Interpretación del Convenio Único.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-2",
+    "texto": "La organización del trabajo es facultad exclusiva de:",
+    "opciones": [
+      "a) Los representantes de los trabajadores.",
+      "b) Los Delegados Sindicales.",
+      "c) La Administración.",
+      "d) Los trabajadores."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 2",
+    "explicacion": "Respuesta correcta según la solución del libro: c) La Administración.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-3",
+    "texto": "Antes de qué fecha la Administración remitirá a quienes forman parte de la Comisión Paritaria las correspondientes relaciones de puestos de trabajo aprobadas, con expresión de los puestos que se encuentren vacantes el día primero del mes anterior a tal fecha:",
+    "opciones": [
+      "a) Antes del 31 de diciembre de cada año.",
+      "b) Antes del 31 de octubre de cada año.",
+      "c) Antes del 30 de septiembre de cada año.",
+      "d) Antes del 31 de mayo de cada año."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 3",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Antes del 31 de mayo de cada año.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-4",
+    "texto": "¿Qué Grupo de Trabajo tiene como función negociar las bases de la convocatoria del concurso abierto y permanente?",
+    "opciones": [
+      "a) El Grupo de Trabajo de Traslados.",
+      "b) El Grupo de Trabajo de Concursos.",
+      "c) El Grupo de Trabajo de Alegaciones.",
+      "d) El Grupo de Trabajo de Resoluciones."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 4",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El Grupo de Trabajo de Traslados.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-5",
+    "texto": "¿En qué plazo desde su constitución, la Subcomisión Paritaria elaborará un reglamento de funcionamiento que deberá contener al menos sus criterios básicos de actuación?",
+    "opciones": [
+      "a) En el plazo de un mes.",
+      "b) En el plazo de dos meses.",
+      "c) En el plazo de tres meses.",
+      "d) En el plazo de seis meses."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 5",
+    "explicacion": "Respuesta correcta según la solución del libro: b) En el plazo de dos meses.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-6",
+    "texto": "¿Qué Título del IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado regula la promoción de la igualdad de la conciliación de la vida personal, familiar y profesional?",
+    "opciones": [
+      "a) El Título I.",
+      "b) El Título II.",
+      "c) El Título III.",
+      "d) El Título V."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 6",
+    "explicacion": "Respuesta correcta según la solución del libro: b) El Título II.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-7",
+    "texto": "¿A quiénes de los siguientes no les será de aplicación el IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado?",
+    "opciones": [
+      "a) Al personal de Trabajo Penitenciario y Formación para el Empleo.",
+      "b) Al personal cuya relación de servicios se derive de un contrato regulado por la normativa de contratación administrativa.",
+      "c) Al personal del Museo Nacional Centro de Arte Reina Sofía.",
+      "d) Al personal laboral del Consejo de Seguridad Nuclear."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 7",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Al personal cuya relación de servicios se derive de un contrato regulado por la normativa de contratación administrativa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-8",
+    "texto": "¿Desde cuándo regirán sus efectos económicos, sin perjuicio de lo establecido en cada caso en el articulado, el IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado?",
+    "opciones": [
+      "a) Desde el 1 de enero de 2019.",
+      "b) Desde el 31 de enero de 2019.",
+      "c) Desde el 4 de marzo de 2019.",
+      "d) Desde el 15 de marzo de 2019."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 8",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Desde el 1 de enero de 2019.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-9",
+    "texto": "De no efectuarse denuncia expresa, el IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado se prorrogará automáticamente:",
+    "opciones": [
+      "a) Por períodos semestrales.",
+      "b) Por períodos anuales.",
+      "c) Por períodos de dos años.",
+      "d) Por períodos de cuatro años."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 9",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Por períodos anuales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-10",
+    "texto": "Actualmente está vigente, para el personal laboral de la Administración General del Estado:",
+    "opciones": [
+      "a) El IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado.",
+      "b) El V Convenio Colectivo Único para el personal laboral de la Administración General del Estado.",
+      "c) El VI Convenio Colectivo Único para el personal laboral de la Administración General del Estado.",
+      "d) El VII Convenio Colectivo Único para el personal laboral de la Administración General del Estado."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 10",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El IV Convenio Colectivo Único para el personal laboral de la Administración General del Estado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-11",
+    "texto": "En todo lo no previsto en el Convenio Colectivo Único para el personal laboral de la Administración General del Estado se estará:",
+    "opciones": [
+      "a) A lo dispuesto en el Estatuto de los Trabajadores y demás disposiciones legales o reglamentarias que resulten de aplicación.",
+      "b) A lo dispuesto en el EBEP.",
+      "c) A lo que determinen las partes.",
+      "d) A la Constitución."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 11",
+    "explicacion": "Respuesta correcta según la solución del libro: a) A lo dispuesto en el Estatuto de los Trabajadores y demás disposiciones legales o reglamentarias que resulten de aplicación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-12",
+    "texto": "La contratada laboral víctima de violencia de género:",
+    "opciones": [
+      "a) No tiene derecho al traslado a un puesto de trabajo.",
+      "b) Tendrá derecho al traslado a un puesto de trabajo de su grupo, familia profesional y/o especialidad en la misma localidad.",
+      "c) Tendrá derecho al traslado a un puesto de trabajo de su grupo, familia profesional y/o especialidad en otra localidad.",
+      "d) Son correctas las respuestas b) y c)."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 12",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Son correctas las respuestas b) y c).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-13",
+    "texto": "El personal laboral por razón de violencia terrorista:",
+    "opciones": [
+      "a) No tiene derecho al traslado a un puesto de trabajo.",
+      "b) Tendrá derecho al traslado a un puesto de trabajo de su grupo, familia profesional y/o especialidad en la misma localidad.",
+      "c) Tendrá derecho al traslado a un puesto de trabajo de su grupo, familia profesional y/o especialidad en otra localidad.",
+      "d) Son correctas las respuestas b) y c)."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 13",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Son correctas las respuestas b) y c).",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-14",
+    "texto": "El IV Convenio que este será de aplicación general es aplicable:",
+    "opciones": [
+      "a) Al personal laboral de la Administración General del Estado y de sus organismos autónomos.",
+      "b) Al personal que presta servicios en la Administración de Justicia no transferida.",
+      "c) Al personal laboral del Consejo de Seguridad Nuclear.",
+      "d) Todas las respuestas anteriores son correctas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 14",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Todas las respuestas anteriores son correctas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L13-15",
+    "texto": "Quedan excluidos del ámbito de aplicación del IV Convenio:",
+    "opciones": [
+      "a) El personal laboral que presta servicios en el exterior.",
+      "b) La Agencia Española de Protección de Datos.",
+      "c) El Museo Nacional Centro de Arte Reina Sofía.",
+      "d) Trabajo Penitenciario y Formación para el Empleo."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 13 · pregunta 15",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El personal laboral que presta servicios en el exterior.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-1",
+    "texto": "Tras la lectura del art. 14 ET:",
+    "opciones": [
+      "a) El convenio de aplicación nunca podrá establecer una duración superior del periodo de prueba.",
+      "b) Si el periodo de prueba está previsto en el convenio no es necesario que se establezca en el contrato de trabajo.",
+      "c) Los plazos máximos de duración establecidos en el convenio solo son aplicables en supuesto de que el convenio nada establezca.",
+      "d) Se puede convenir verbalmente."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 1",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Los plazos máximos de duración establecidos en el convenio solo son aplicables en supuesto de que el convenio nada establezca.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-2",
+    "texto": "A Luisa (empleada pública) le han dejado de abonar los salarios de los 6 últimos meses. ¿Qué podría hacer?",
+    "opciones": [
+      "a) Únicamente reclamar el salario adeudado con los intereses de demora.",
+      "b) Ha de aguantar, aunque siempre le queda la posibilidad de dimitir.",
+      "c) Puede solicitar la extinción del contrato con derecho a indemnización.",
+      "d) Puede solicitar que la Administración le despida y así tener derecho al desempleo."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 2",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Puede solicitar la extinción del contrato con derecho a indemnización.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-3",
+    "texto": "El trabajador reside y trabaja en Toledo. El empresario le cambia de puesto de trabajo a Barcelona durante 2 meses. Esto se denomina:",
+    "opciones": [
+      "a) Poder de dirección.",
+      "b) Traslado.",
+      "c) Desplazamiento.",
+      "d) Depende de que el trabajador cambie o no su residencia habitual."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 3",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Desplazamiento.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-4",
+    "texto": "Margarita tiene un contrato indefinido con la Administración. Durante el periodo de prueba la persona que ha de decidir sobre su superación o no, es conocedora de la amistad de esta persona con el colectivo LGTBI+. Pone fin a la relación laboral mientras está vigente la mencionada prueba. Esa extinción es:",
+    "opciones": [
+      "a) Nula. Transgresión de derechos fundamentales.",
+      "b) Improcedente. No es causa de extinción.",
+      "c) Perfectamente válida: durante el periodo de prueba no ha de alegarse causa alguna para extinguir.",
+      "d) Válido, siempre que ella no pertenezca a ese colectivo."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 4",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Nula. Transgresión de derechos fundamentales.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-5",
+    "texto": "El trabajador incumple con las obligaciones de su puesto de trabajo por desidia y falta de interés. ¿Qué opción/es tiene el empresario?",
+    "opciones": [
+      "a) Despido objetivo.",
+      "b) Despido disciplinario.",
+      "c) Cualquiera de los dos anteriores.",
+      "d) Que abone una indemnización a la Administración."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 5",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Despido disciplinario.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-6",
+    "texto": "El despido disciplinario:",
+    "opciones": [
+      "a) Puede ser verbal.",
+      "b) En la carta de despido ha de calificarse jurídicamente el incumplimiento.",
+      "c) Se debe preavisar al trabajador con 15 días de antelación, al menos.",
+      "d) No cabe la forma verbal. Carta de despido por escrito."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 6",
+    "explicacion": "Respuesta correcta según la solución del libro: d) No cabe la forma verbal. Carta de despido por escrito.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-7",
+    "texto": "A partir de junio de 2025 se exigirá una titulación concreta para ejercer el puesto de trabajo de XXX. ¿Qué ocurrirá con la situación de los empleados públicos laborales que a esa fecha continúen ejerciendo el puesto de trabajo de XXX sin la titulación requerida?",
+    "opciones": [
+      "a) Despido disciplinario. Deberían haber obtenido la titulación: transgresión de la buena fe contractual.",
+      "b) No puede hacer nada la Administración. Sí podrá que, para futuras convocatorias, se establezca como requisito de admisión el contar con ese título para ejercer el puesto de trabajo.",
+      "c) Despido objetivo por ineptitud sobrevenida.",
+      "d) Despido colectivo si afecta a un número determinado de trabajadores."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 7",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Despido objetivo por ineptitud sobrevenida.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-8",
+    "texto": "No es requisito exigible para confeccionar la carta de despido objetivo:",
+    "opciones": [
+      "a) La categoría profesional del trabajador afectado.",
+      "b) Hechos.",
+      "c) Indemnización.",
+      "d) Fecha efectos del despido."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 8",
+    "explicacion": "Respuesta correcta según la solución del libro: a) La categoría profesional del trabajador afectado.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-9",
+    "texto": "¿Cuál de las siguientes afirmaciones es falsa?",
+    "opciones": [
+      "a) Los representantes de los trabajadores y de los funcionarios públicos son los delegados de personal y el comité de empresa.",
+      "b) El comité intercentros solo existe si lo prevé el convenio colectivo de aplicación.",
+      "c) Las juntas de personal son exclusivas de representación de los funcionarios públicos.",
+      "d) La regulación de los representantes unitarios de los trabajadores al servicio de la Administración se regula en el Estatuto de los Trabajadores."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 9",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Los representantes de los trabajadores y de los funcionarios públicos son los delegados de personal y el comité de empresa.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-10",
+    "texto": "Se designan delegados de personal si:",
+    "opciones": [
+      "a) Siempre, sea cual fuere el tamaño de la empresa o centro de trabajo.",
+      "b) Siempre que por mayoría simple los trabajadores así lo decidan.",
+      "c) Siempre que por mayoría absoluta los trabajadores así lo decidan.",
+      "d) El centro de trabajo o empresa cuenta con, al menos, 11 trabajadores."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 10",
+    "explicacion": "Respuesta correcta según la solución del libro: d) El centro de trabajo o empresa cuenta con, al menos, 11 trabajadores.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-11",
+    "texto": "Una empresa cuenta con dos centros de trabajo en la provincia de Toledo: uno en Talavera de la Reina con 15 trabajadores y otro en Illescas con 12 trabajadores. ¿Qué representación unitaria procede elegir en estos centros según el Estatuto de los Trabajadores?",
+    "opciones": [
+      "a) Un comité de empresa conjunto entre ambos centros, al estar en la misma provincia.",
+      "b) Un comité intercentros de 5 miembros.",
+      "c) Delegados de personal de forma independiente en cada uno de los dos centros de trabajo.",
+      "d) No procede elegir a ningún representante por no alcanzar los 50 trabajadores en ninguno de los centros."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 11",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Delegados de personal de forma independiente en cada uno de los dos centros de trabajo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-12",
+    "texto": "Francisco es delegado de personal. Recientemente ha sido entrevistado por un diario de amplia difusión nacional en donde ha denunciado las irregularidades cometidas por su empresa. Esta le despide por transgresión de la buena fe contractual. ¿Está amparada la conducta del empresario?",
+    "opciones": [
+      "a) No. El despido es nulo.",
+      "b) No. El despido de un representante de los trabajadores, sea cual fuere la causa esgrimida por el empresario, será nulo.",
+      "c) Sí, siempre que la empresa demuestre el daño que ha hecho ese trabajador a su imagen corporativa.",
+      "d) No. Es un despido improcedente."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 12",
+    "explicacion": "Respuesta correcta según la solución del libro: a) No. El despido es nulo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-13",
+    "texto": "Los representantes de los trabajadores:",
+    "opciones": [
+      "a) No pueden ser trasladados.",
+      "b) No pueden ser despedidos.",
+      "c) Tienen prioridad de permanencia ante determinadas medidas suspensivas y extintivas.",
+      "d) Tienen inmunidad."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 13",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Tienen prioridad de permanencia ante determinadas medidas suspensivas y extintivas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-14",
+    "texto": "Se ha despedido a Anita. Ella está embarazada y entiende que la única razón por la que el empresario ha extinguido su contrato ha sido esa. El despido será:",
+    "opciones": [
+      "a) Nulo. Ha sido discriminada.",
+      "b) Improcedente.",
+      "c) Procedente, pues seguro que si está embarazada su rendimiento bajará.",
+      "d) Nulo. Razón autónoma de nulidad."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 14",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Nulo. Razón autónoma de nulidad.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L14-15",
+    "texto": "Si se declara la nulidad de un despido:",
+    "opciones": [
+      "a) El trabajador tiene derecho a optar entre la readmisión o la indemnización.",
+      "b) El empresario optaría entre la readmisión o la indemnización.",
+      "c) No hay derecho de opción. Reintegrar al puesto de trabajo.",
+      "d) La anterior y abono de los salarios de tramitación."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 14 · pregunta 15",
+    "explicacion": "Respuesta correcta según la solución del libro: d) La anterior y abono de los salarios de tramitación.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-1",
+    "texto": "Entre el elenco de huelgas ilegales no se encuentra:",
+    "opciones": [
+      "a) La que se promueve para protestar mientras se está negociando un convenio colectivo.",
+      "b) Las de solidaridad o apoyo.",
+      "c) Las políticas.",
+      "d) Todas las huelgas anteriormente indicadas son ilegales."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 1",
+    "explicacion": "Respuesta correcta según la solución del libro: a) La que se promueve para protestar mientras se está negociando un convenio colectivo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-2",
+    "texto": "Se presume que son huelgas abusivas:",
+    "opciones": [
+      "a) Todas las ilegales.",
+      "b) Las políticas.",
+      "c) Las rotatorias.",
+      "d) Las que reivindican intereses ajenos a los laborales."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 2",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Las rotatorias.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-3",
+    "texto": "Durante la huelga:",
+    "opciones": [
+      "a) El trabajador huelguista está en situación de alta especial.",
+      "b) El empresario no puede sustituir a los huelguistas a través de una ETT.",
+      "c) El trabajador huelguista no puede ser sancionado por el ejercicio del derecho de huelga.",
+      "d) Todas las anteriores son ciertas."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 3",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Todas las anteriores son ciertas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-4",
+    "texto": "El órgano que se designa durante la huelga para tratar de solucionar el conflicto se denomina:",
+    "opciones": [
+      "a) Comité huelguístico.",
+      "b) La designación viene reflejada en convenio colectivo.",
+      "c) Comité de huelga.",
+      "d) Ninguna de las anteriores es cierta."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 4",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Comité de huelga.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-5",
+    "texto": "Convocatoria de huelga en un hospital. Habrán de designarse:",
+    "opciones": [
+      "a) Servicios esenciales.",
+      "b) Servicios mínimos.",
+      "c) Servicios de mantenimiento.",
+      "d) Servicios mínimos y de mantenimiento."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 5",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Servicios mínimos.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-6",
+    "texto": "Habrán de regularse por ley orgánica:",
+    "opciones": [
+      "a) El derecho de huelga.",
+      "b) El derecho de negociación colectiva.",
+      "c) El derecho de los trabajadores y empresarios a adoptar medidas de conflicto colectivo.",
+      "d) Todos los anteriores."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 6",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El derecho de huelga.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-7",
+    "texto": "En la conciliación, el conciliador:",
+    "opciones": [
+      "a) Tratará de acercar a las partes para que lleguen a un acuerdo.",
+      "b) Decidirá sobre el conflicto.",
+      "c) Tendrá las funciones que las partes le encomienden.",
+      "d) Cita a las partes. No propone ni decide."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 7",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Cita a las partes. No propone ni decide.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-8",
+    "texto": "En la mediación, el mediador:",
+    "opciones": [
+      "a) Decide sobre el fondo del asunto.",
+      "b) Propone soluciones para finalizar el conflicto.",
+      "c) No propone. No decide.",
+      "d) Tiene las mismas funciones que un juez."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 8",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Propone soluciones para finalizar el conflicto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-9",
+    "texto": "En el arbitraje, el árbitro:",
+    "opciones": [
+      "a) Decide sobre el fondo del asunto.",
+      "b) Propone opciones para que sean examinadas por las partes del conflicto.",
+      "c) Decide a través de sentencia.",
+      "d) Lo designa una de las dos partes confrontadas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 9",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Decide sobre el fondo del asunto.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-10",
+    "texto": "La representación de los trabajadores se plantea interponer una demanda porque el empresario unilateralmente ha implantado un sistema de videovigilancia. El cauce adecuado será:",
+    "opciones": [
+      "a) Procedimiento de reclamación de cantidad.",
+      "b) Procedimiento de conflicto colectivo.",
+      "c) Procedimiento monitorio.",
+      "d) Interponer demandas individuales."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 10",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Procedimiento de conflicto colectivo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-11",
+    "texto": "El conflicto colectivo judicial afecta a los trabajadores de Castilla León. La competencia para conocer se atribuye a:",
+    "opciones": [
+      "a) Cualquier Juzgado de lo Social de Castilla León.",
+      "b) Tribunal Superior de Justicia de Castilla León.",
+      "c) Audiencia Nacional.",
+      "d) Tribunal Supremo."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 11",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Tribunal Superior de Justicia de Castilla León.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-12",
+    "texto": "La Sentencia dictada en un procedimiento de conflicto colectivo por el Juzgado de lo Social es recurrible:",
+    "opciones": [
+      "a) No.",
+      "b) En casación ante el Tribunal Supremo.",
+      "c) En suplicación ante el Tribunal Supremo.",
+      "d) En suplicación ante el Tribunal Superior de Justicia."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 12",
+    "explicacion": "Respuesta correcta según la solución del libro: d) En suplicación ante el Tribunal Superior de Justicia.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-13",
+    "texto": "El trabajador designado para formar parte de los servicios mínimos se niega, alegando que de lo contrario se vulneraría su derecho a la huelga:",
+    "opciones": [
+      "a) No puede ser obligado. Habrá que designar a otro trabajador que no quiera ejercer este derecho.",
+      "b) Podría ser despedido por incumplimiento de sus obligaciones.",
+      "c) Podría ser sancionado, pero no despedido.",
+      "d) Depende de si esa negativa está contemplada como comportamiento sancionable en el convenio de aplicación."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 13",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Podría ser despedido por incumplimiento de sus obligaciones.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-14",
+    "texto": "El proceso judicial sobre conflictos colectivos:",
+    "opciones": [
+      "a) Tendrá carácter urgente.",
+      "b) La parte demandada contestará por escrito la demanda presentada de contrario.",
+      "c) Será preferente a cualquier otro.",
+      "d) La sentencia firme no tiene efectos de cosa juzgada."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 14",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Tendrá carácter urgente.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L15-15",
+    "texto": "¿Cuál de las siguientes afirmaciones sobre el derecho de huelga es verdadera?",
+    "opciones": [
+      "a) El trabajador huelguista tiene derecho a percibir durante la huelga prestación de desempleo.",
+      "b) El despido del trabajador huelguista por haber ejercido el derecho a huelga será improcedente.",
+      "c) El pacto individual entre empresario y trabajador por medio del cual el empleado renuncia al ejercicio del derecho de huelga es nulo.",
+      "d) El empresario puede proceder al cierre patronal cuando la huelga tenga una duración excesiva."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 15 · pregunta 15",
+    "explicacion": "Respuesta correcta según la solución del libro: c) El pacto individual entre empresario y trabajador por medio del cual el empleado renuncia al ejercicio del derecho de huelga es nulo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-1",
+    "texto": "¿Cómo define la Ley 31/1995, de 8 de noviembre, a cualquier complemento o accesorio destinado a proteger al trabajador de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo?",
+    "opciones": [
+      "a) Equipo de protección ante riesgos.",
+      "b) Equipo de protección individual.",
+      "c) Equipo individual de seguridad.",
+      "d) Equipo de seguridad laboral."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 1",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Equipo de protección individual.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-2",
+    "texto": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, no será de aplicación:",
+    "opciones": [
+      "a) A las funciones públicas de policía, seguridad y resguardo aduanero.",
+      "b) A las relaciones laborales reguladas en el texto refundido de la Ley del Estatuto de los Trabajadores.",
+      "c) A las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas.",
+      "d) A las relaciones de carácter estatutario del personal al servicio de las Administraciones Públicas."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 2",
+    "explicacion": "Respuesta correcta según la solución del libro: a) A las funciones públicas de policía, seguridad y resguardo aduanero.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-3",
+    "texto": "¿Qué artículo del Capítulo I de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, regula la normativa sobre prevención de riesgos laborales?",
+    "opciones": [
+      "a) El artículo 1.",
+      "b) El artículo 2.",
+      "c) El artículo 3.",
+      "d) El artículo 4."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 3",
+    "explicacion": "Respuesta correcta según la solución del libro: a) El artículo 1.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-4",
+    "texto": "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo es definida por la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, como:",
+    "opciones": [
+      "a) Peligro laboral.",
+      "b) Exposición a accidentes.",
+      "c) Contingencia laboral.",
+      "d) Riesgo laboral."
+    ],
+    "respuesta_correcta": "d",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 4",
+    "explicacion": "Respuesta correcta según la solución del libro: d) Riesgo laboral.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-5",
+    "texto": "Según el artículo 4 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿qué es definido como la posibilidad de que un trabajador sufra un determinado daño derivado del trabajo?",
+    "opciones": [
+      "a) Riesgo laboral.",
+      "b) Prevención.",
+      "c) Daños derivados del trabajo.",
+      "d) Evaluación de riesgos."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 5",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Riesgo laboral.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-6",
+    "texto": "¿Cómo considera la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, a las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo?",
+    "opciones": [
+      "a) Daños derivados del trabajo.",
+      "b) Consecuencias derivadas del trabajo.",
+      "c) Daños colaterales laborales.",
+      "d) Riesgos derivados del trabajo."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 6",
+    "explicacion": "Respuesta correcta según la solución del libro: a) Daños derivados del trabajo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-7",
+    "texto": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, define a cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo, como:",
+    "opciones": [
+      "a) Útiles de trabajo.",
+      "b) Equipo de trabajo.",
+      "c) Herramientas de trabajo.",
+      "d) Maquinaria de trabajo."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 7",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Equipo de trabajo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-8",
+    "texto": "¿Cómo define la Ley 31/1995, de 8 de noviembre, a cualquier equipo destinado a ser llevado o sujetado por el trabajador para que le proteja de uno o varios riesgos que puedan amenazar su seguridad o su salud en el trabajo?",
+    "opciones": [
+      "a) Equipo de protección ante riesgos.",
+      "b) Equipo de protección individual.",
+      "c) Equipo individual de seguridad.",
+      "d) Equipo de seguridad laboral."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 8",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Equipo de protección individual.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-9",
+    "texto": "¿Cuál es el objeto de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales?",
+    "opciones": [
+      "a) Establecer los principios generales relativos a la prevención de los riesgos profesionales para la protección de la seguridad y de la salud.",
+      "b) Regular las actuaciones a desarrollar por las Administraciones Públicas, así como por los empresarios, los trabajadores y sus respectivas organizaciones representativas en materia preventiva.",
+      "c) Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+      "d) La eliminación o disminución de los riesgos derivados del trabajo, la información, la consulta, la participación equilibrada y la formación de los trabajadores en materia preventiva."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 9",
+    "explicacion": "Respuesta correcta según la solución del libro: c) Promover la seguridad y la salud de los trabajadores mediante la aplicación de medidas y el desarrollo de las actividades necesarias para la prevención de riesgos derivados del trabajo.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-10",
+    "texto": "¿Qué artículo del Capítulo I de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, regula el objeto y carácter de la norma?",
+    "opciones": [
+      "a) El artículo 1.",
+      "b) El artículo 2.",
+      "c) El artículo 3.",
+      "d) El artículo 4."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 10",
+    "explicacion": "Respuesta correcta según la solución del libro: b) El artículo 2.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-11",
+    "texto": "¿Cómo define la Ley 31/1995, de 8 de noviembre, al conjunto de actividades o medidas adoptadas o previstas en todas las fases de actividad de la empresa con el fin de evitar o disminuir los riesgos derivados del trabajo?",
+    "opciones": [
+      "a) Cautelas.",
+      "b) Prevención.",
+      "c) Precaución.",
+      "d) Previsión."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 11",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Prevención.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-12",
+    "texto": "Las disposiciones de carácter laboral contenidas en la Ley 31/1995, de 8 de noviembre, y en sus normas reglamentarias tendrán en todo caso el carácter de:",
+    "opciones": [
+      "a) Derecho necesario máximo disponible.",
+      "b) Derecho necesario mínimo indisponible.",
+      "c) Derecho necesario máximo indisponible.",
+      "d) Derecho necesario mínimo disponible."
+    ],
+    "respuesta_correcta": "b",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 12",
+    "explicacion": "Respuesta correcta según la solución del libro: b) Derecho necesario mínimo indisponible.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-13",
+    "texto": "Para calificar un riesgo desde el punto de vista de su gravedad, se valorarán conjuntamente:",
+    "opciones": [
+      "a) La severidad del daño y la probabilidad de que se produzca.",
+      "b) El tipo de riesgo y el número de posibles afectados.",
+      "c) La existencia de procesos, actividades, operaciones, equipos o productos «potencialmente peligrosos» y con las medidas preventivas adoptadas.",
+      "d) Las características del centro de trabajo y las condiciones personales del trabajador."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 13",
+    "explicacion": "Respuesta correcta según la solución del libro: a) La severidad del daño y la probabilidad de que se produzca.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-14",
+    "texto": "La Ley 31/1995, de 8 de noviembre y sus normas de desarrollo serán de aplicación:",
+    "opciones": [
+      "a) A los servicios operativos de protección civil y peritaje forense en los casos de grave riesgo, catástrofe y calamidad pública.",
+      "b) A las Fuerzas Armadas y actividades militares de la Guardia Civil.",
+      "c) A las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas.",
+      "d) A la Policía."
+    ],
+    "respuesta_correcta": "c",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 14",
+    "explicacion": "Respuesta correcta según la solución del libro: c) A las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas.",
+    "requiere_imagen": false
+  },
+  {
+    "id": "M3L17-15",
+    "texto": "La Ley de Prevención de Riesgos Laborales establece los principios generales relativos a la prevención de los riesgos profesionales para:",
+    "opciones": [
+      "a) La información, la consulta, la participación equilibrada y la formación de los trabajadores en materia preventiva.",
+      "b) La protección de la maternidad.",
+      "c) La eliminación absoluta de los peligros derivados del trabajo.",
+      "d) La información, la consulta, la participación equilibrada y la formación de los trabajadores en materia de seguridad."
+    ],
+    "respuesta_correcta": "a",
+    "referencia": "Libro de tests Personal laboral de Ministerios (Grupo M3) · Test n.º 17 · pregunta 15",
+    "explicacion": "Respuesta correcta según la solución del libro: a) La información, la consulta, la participación equilibrada y la formación de los trabajadores en materia preventiva.",
+    "requiere_imagen": false
   }
 ]
